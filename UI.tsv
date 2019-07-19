@@ -3884,7 +3884,7 @@ UI_20190611_003883	{ol}Tracking Quests	{ol}추적 퀘스트
 UI_20190611_003884	{@st66b}Quest Window Transparency{%s}{/}	{@st66b}지령창 배경 투명도 (%s){/}				
 UI_20190611_003885	{@st59}Display Quest to Party{/}	{@st59}파티원에게 노출{/}				
 UI_20190611_003886	{@st59}Check Quest Location{/}	{@st59}퀘스트 위치 확인{/}				
-UI_20190611_003887	Item Name	아이템 명				
+UI_20190611_003887	Название предмета			
 UI_20190611_003888	Enchant Item Name	인첸트 아이템 명				
 UI_20190611_003889	{@st43}{s16}Limit the use of certain skills.{/}	{@st43}{s16}특정 종류의 스킬 사용을 일정 부분 제한합니다.{/}				
 UI_20190612_003890	{s16}{b}{ol}{ds} All Levels	{s16}{b}{ol}{ds}모든 레벨				
