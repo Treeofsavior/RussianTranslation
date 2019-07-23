@@ -3240,7 +3240,7 @@ QUEST_20151224_003247	Rosia	라시아
 QUEST_20151224_003248	The Wings of Vaivora is collecting all information that exists in this world.{nl}Why don't you tell me a lovely life story of yours and we'll add it to our records.	저희 바이보라의 날개는 세상의 모든 정보를 모으고 있어요.{nl}당신의 소중한 경험담을 들려주시면 감사히 기록하도록 하겠습니다.				라시아
 QUEST_20151224_003249	Leticia	레티샤				
 QUEST_20151224_003250	The atmosphere here is... very different from where I used to live.{nl}Oh, I don't mind if you don't purchase anything. Don't worry, take your time to look around.	여긴.. 전에 머물던 곳과는 분위기가 많이 다른 것 같네요.{nl}아, 꼭 사지 않으셔도 괜찮으니까 천천히 구경하세요.				레티샤
-QUEST_20151224_003251	I'm selling very special items you won't see anywhere else.{nl}Where do I get them, you ask? That's a secret.	다른 곳에선 취급하지 않는 특별한 물건을 판매하고 있어요.{nl}어디서 구하는진 비밀이에요.				레티샤
+QUEST_20151224_003251	Я продаю особые предметы, которые вы больше нигде не увидите.{nl}Где я могу их получить, спросите вы? Это секрет.
 QUEST_20151224_003252	Did you say you found a place that looks like a demon base?	마족의 근거지 비슷한 장소를 발견하셨다고요?				행상인 로제
 QUEST_20151224_003253	I think a demon base could have documents about the giant bracken.	마족의 근거지 안에 거대 고사리와 관련된 문서가 있지 않을까 싶어요.				행상인 로제
 QUEST_20151224_003254	How did it go? Was the cauldron destroyed?	어떻게 됐어요? 솥은 파괴 됐나요?				약초꾼 탈라스
@@ -9955,8 +9955,8 @@ QUEST_20180629_010095	The times that you are permitted entry are as follows.{nl}
 QUEST_20180629_010096	You have been permitted to enter the Crystal Mine. Do you want to enter?{nl}- On entering, you will be assigned to a random camp and battle the other camp.{nl}{#FF0000}(You may not receive your reward if you have too many Mercenary Badges in your inventory.){/}	수정 광산 출입이 허가되었습니다. 입장하시겠습니까?{nl}- 입장시 특정 세력에 가입되며 타세력과 전투가 가능합니다.{nl}{#FF0000}(인벤토리에 용병단 증표가 많아 보상 지급이 안될 수도 있습니다.){/}				광산 무법지대
 QUEST_20180629_010097	You will no longer be able to participate after 5 minutes.	5분 이후에는 참가 신청을 받지 않습니다.	QUEST_20180517_009657	No participation requests are accepted after 10 minutes.	10분 이후에는 참가 신청을 받지 않습니다.	광산 무법지대
 QUEST_20180629_010098	Do you want to move to the Miner's Village?	샤울레이 광산 마을로 이동하시겠습니까?				광산 무법지대
-QUEST_20180629_010099	Enter the Beauty Shop	뷰티샵 입장				
-QUEST_20180629_010100	Do you want to move to the Beauty Shop where you can try out different hairstyles and costumes?	각종 헤어와 코스튬을 입어보고 구매할 수 있는 뷰티샵으로 이동하시겠습니까?				뷰티샵 입장
+QUEST_20180629_010099	Войти в Beauty Shop			
+QUEST_20180629_010100	Хотите перойти в Beauty Shop, где можно попробовать разные прически и костюмы?				
 QUEST_20180629_010101	Leave the Beauty Shop	뷰티샵 나가기				
 QUEST_20180629_010102	Do you want to move from Klaipeda to the Beauty Shop?	뷰티샵에서 클라페다로 이동하시겠습니까?				뷰티샵 나가기
 QUEST_20180629_010103	Henry Swyn	헨리 스윈				
@@ -9969,9 +9969,9 @@ QUEST_20180629_010109	Welcome! My name is Anabell Swyn and I'm in charge of wome
 QUEST_20180629_010110	What hairstyle would you like today?	오늘은 어떤 헤어스타일로 하시겠어요?				애너벨 스윈
 QUEST_20180629_010111	Change Female Hairstyle	여자 헤어스타일 변경				애너벨 스윈
 QUEST_20180629_010112	Purchase Female Wig	여자 가발 구매				애너벨 스윈
-QUEST_20180629_010113	Kastytis	카스티스				
-QUEST_20180629_010114	Hello, I am Kastytis. I am a fashion designer who tailors beautiful clothes.	안녕하십니까?{nl}저는 아름다운 옷을 제작하는 패션 디자이너 카스티스라고 합니다.				카스티스
-QUEST_20180629_010115	What kind of clothes are you looking for?	어떤 옷을 찾으시나요?				카스티스
+QUEST_20180629_010113	Kastytis					
+QUEST_20180629_010114	Привет, я Kastytis. Я модельер, который портит красивую одежду.
+QUEST_20180629_010115	Какую одежду вы ищете?
 QUEST_20180629_010116	Since Medzio Diena caused multiple dimensional gaps to appear around the world,{nl}monsters have entered these gaps to invade the remnants of Bernice Island.{nl}Will you enter the Other Dimension and defeat the monsters there?	신수의 날 이후, 세계 곳곳에 이공간의 틈이 생기면서{nl}베르니케 섬의 일부와 함께 빨려들어간 몬스터들이 그 공간을 확장하고 있습니다.{nl}그대가 이공간으로 들어가 그곳을 확장하는 몬스터를 처치해 주시겠습니까?				오라클 마스터
 QUEST_20180629_010117	I will summon you back in due time, as the Other Dimension can be dangerous if you stay too long.	이공간은 오래 머무를수록 위험하니 적당한 시기에 제가 다시 불러내겠습니다.				오라클 마스터
 QUEST_20180629_010118	You are not ready to enter the Other Dimension.	그대는 이공간에 들어가긴 아직 이릅니다.				오라클 마스터
