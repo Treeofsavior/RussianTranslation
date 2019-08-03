@@ -3607,7 +3607,7 @@ UI_20190104_003606	{@st42}{#FFCC66}INT	{@st42}{#FFCC66}지능
 UI_20190104_003607	{@st42}{#FFCC66}SPR	{@st42}{#FFCC66}정신				
 UI_20190104_003608	{@st42}{#FFCC66}DEX	{@st42}{#FFCC66}민첩				
 UI_20190104_003609	{@st43}Информация о класе{/}
-UI_20190104_003610	Close the class change mode.	클래스 변경 모드를 종료합니다.				
+UI_20190104_003610	Закрыть режим изменения класа.
 UI_20190104_003611	{@st43}Выберите клас и нажмите кнопку выбора.
 UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}	{@st66b18}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}				
 UI_20190104_003613	{@st59b}Колекция {nl}{@st59s}- Приобретите колоду колекций, чтобы добавить колекционные предметы в свою колекцию. {nl} - Горячая клавиша сбора будет включена при использовании элемента колоды. {nl} {/}	{@st59b}컬렉션{nl}{@st59s} - 게임내 컬렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 컬렉션 덱 아이템 사용했을 경우 컬렉션 단축키가 활성화{nl}{/}	UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}	
