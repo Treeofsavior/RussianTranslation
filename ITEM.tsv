@@ -1969,7 +1969,7 @@ ITEM_20150317_001968	Lv4 Card Collection	LV4 카드 콜렉션
 ITEM_20150317_001969	Practice Anvil	연습용 모루				
 ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Purchasable from Item Merchant.{nl}Right-click to use.	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 도구상인에게 구입할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ITEM_20150317_001971	Gaigalas Card	가이갈라스 카드				
-ITEM_20150317_001972	Card	카드				
+ITEM_20150317_001972	Карты			
 ITEM_20150317_001973	A card containing the power of a strong monster.	강력한 몬스터의 힘이 담긴 카드입니다.				
 ITEM_20150317_001974	Gazing Golem Card	게이징 골렘 카드				
 ITEM_20150317_001975	Gorgon Card	고르곤 카드				
@@ -2795,10 +2795,10 @@ ITEM_20150317_002794	Torn Diary (Part 4)	찢어진 일기의 일부 4
 ITEM_20150317_002795	Серебро	실버				
 ITEM_20150317_002796	Common Currency	일반 화폐				
 ITEM_20150317_002797	Royal Kingdom Common Currency	왕국 일반 화폐				
-ITEM_20150317_002798	Gold	골드				
+ITEM_20150317_002798	Золото				
 ITEM_20150317_002799	Premium Currency	고급 화폐				
 ITEM_20150317_002800	Royal Kingdom Upper Currency	왕국 상위 화폐				
-ITEM_20150317_002801	Recipe	제작서				
+ITEM_20150317_002801	Рецепт				
 ITEM_20150317_002802	Right-click to register the Recipe	마우스 우클릭으로 제작서 등록.				
 ITEM_20150317_002803	Contains instructions on how to craft an item. Access the recipe in the crafting menu in Rest Mode.	아이템을 만들 수 있는 제조법이 쓰여져 있습니다. 휴식모드의 제작 메뉴에서 제작할 수 있습니다.				
 ITEM_20150317_002804	Skill Scroll	스킬 주문서				
