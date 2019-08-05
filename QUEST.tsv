@@ -3689,7 +3689,7 @@ QUEST_20160224_003696	Blue Fortress Dungeon (Recommended Lv : 240){nl}Only you a
 QUEST_20160224_003697	Ancient Warp Magic Circle	고대의 워프 마법진				
 QUEST_20160224_003698	You cannot return once you enter.{nl}Do you wish to proceed?	한 번 이동 하시면 다시 돌아오지 못합니다.{nl}입장하시겠습니까?				고대의 워프 마법진
 QUEST_20160224_003699	It's all done!{nl}Now all we have to do is blow it up!	다 되었어요!{nl}이제 게이트를 폭파시키기만 하면 되겠네요!	QUEST_20150317_000928	Take the bombs from the chest. You must destroy the entrance of the Royal Mausoleum.	상자에 담겨있는 폭탄을 가져가십시오. 왕릉 입구를 꼭 파괴해야합니다.	폭파병 루이나
-QUEST_20160224_003701	Kupole Lhuta	큐폴 루타				
+QUEST_20160224_003701	Kupole Ruta	큐폴 루타				
 QUEST_20160224_003702	Revelator, I've been waiting for you.{nl}Goddess Zemyna is hiding somewhere in this Earth Tower.	계시자님을 기다리고 있었습니다.{nl}이 대지의 탑 어딘가에 제미나 여신께서 은거하시고 계십니다.				큐폴 루타
 QUEST_20160224_003703	After the day in which you humans call Medzio Diena...{nl}Goddess Zemyna has hidden herself from the human realm.{nl}	그대들이 신수의 날이라 말하는 그 날 이후..{nl}제미나 여신께서는 인간들의 세계에서 자취를 감추셨습니다.{nl}				큐폴 루타
 QUEST_20160224_003704	The life of humans and the fertility of vegetation...{nl}Medzio Diena must have been a great woe for the goddess of fertility.	인간의 생과 초목의 풍요..{nl}대지의 풍요를 관장하는 여신께서는 신수의 날이 크나큰 고민이셨겠지요.{nl}				큐폴 루타
@@ -4910,7 +4910,7 @@ QUEST_20161005_004918	You seem to be holding a seal from the demon leaders.{nl}I
 QUEST_20161005_004919	How dare you intrude the resting place of a Goddess.{nl}Who are you?	여신의 안식처까지 침범하다니.{nl}그대들은 누구입니까.				여신 제미나
 QUEST_20161005_004920	My most sincere apologies for leaving my place for so long.{nl}The demons that took over the Tower had been stopping me from returning.{nl}I would never have made it back if not for these people.	너무 오래 자리를 비워 송구하옵니다.{nl}탑을 점거한 마족들이 제가 여신께 이르는 길을 가로막았습니다.{nl}이들이 아니었다면 영원히 여신을 뵙지 못 하였을 것입니다.				큐폴 루타
 QUEST_20161005_004921	I beg of you, please do not cast them out...	그러니 여신이시여 이들을 내치지 마옵소서..				큐폴 루타
-QUEST_20161005_004922	Kupole Lhuta is talking about the world{nl}after Medzio Diena to Goddess Zemyna.	큐폴 루타가 여신 제미나에게{nl}신수의 날 이후의 세계를 설명하고 있다				큐폴 루타
+QUEST_20161005_004922	Kupole Ruta is talking about the world{nl}after Medzio Diena to Goddess Zemyna.	큐폴 루타가 여신 제미나에게{nl}신수의 날 이후의 세계를 설명하고 있다				큐폴 루타
 QUEST_20161005_004923	I was able to meet the Goddess thanks to you.	여신을 다시 뵙게된건 모두 여러분 덕분입니다.				큐폴 루타
 QUEST_20161005_004924	I would have perished if I had not met you.	여러분이 없었다면 저는 그곳에서 소멸해버리고 말았겠지요..				큐폴 루타
 QUEST_20161005_004925	I am planning on staying here with her.{nl}She needs me.	저는 여기서 여신과 함께 머무를 예정입니다.{nl}제미나님껜 제가 필요하니까요.				큐폴 루타
@@ -4922,9 +4922,9 @@ QUEST_20161005_004930	All that grows on the earth is like a child to me.	제겐 
 QUEST_20161005_004931	The day called Medzio Diena was a shock to me as well.	신수의 날이라 불리는 그 날의 일은 저에게도 충격이었습니다.				여신 제미나
 QUEST_20161005_004932	All my sisters and my priests had prayed to me to help the humans.{nl}However, the plants are as precious to me as the lives of humans are.	다른 여신들과 신도들이 모두 제게 인간을 도와달라고 간절히 기도하는 것을 들었습니다..{nl}하지만 여러분의 생명과 행복이 중요하듯 땅 속에 뿌리 내린 그들의 생명 또한 제겐 소중합니다.				여신 제미나
 QUEST_20161005_004933	That's why I had gone into the Earth Tower without making a decision.{nl}I had decided to close my eyes and ears.	그래서 저는 그 어떤 결정도 내리지 못한 채 대지의 탑으로 들어왔습니다. {nl}그리고 눈과 귀를 닫은 나날들을 보내고 있었습니다.				여신 제미나
-QUEST_20161005_004934	However...{nl}After listening to Lhuta, it seems as if there is reason to rethink about your world.	그러나..{nl}루타의 이야기를 들어보니, 여러분 세계에 대한 제 생각을 재고할 이유가 생긴 듯 합니다.				여신 제미나
-QUEST_20161005_004935	Revelator...{nl}Thank you for helping Lhuta.	계시자여..{nl}루타를 도와줘서 고맙습니다.				여신 제미나
-QUEST_20161005_004936	Please go back for the moment.{nl}Lhuta will send you back to the entrance.	일단은 돌아가주세요.{nl}루타가 그대를 탑의 입구로 돌려보내줄 것입니다.				여신 제미나
+QUEST_20161005_004934	However...{nl}After listening to Ruta, it seems as if there is reason to rethink about your world.	그러나..{nl}루타의 이야기를 들어보니, 여러분 세계에 대한 제 생각을 재고할 이유가 생긴 듯 합니다.				여신 제미나
+QUEST_20161005_004935	Revelator...{nl}Thank you for helping Ruta.	계시자여..{nl}루타를 도와줘서 고맙습니다.				여신 제미나
+QUEST_20161005_004936	Please go back for the moment.{nl}Ruta will send you back to the entrance.	일단은 돌아가주세요.{nl}루타가 그대를 탑의 입구로 돌려보내줄 것입니다.				여신 제미나
 QUEST_20161005_004937	I do not want to do this.{nl}Sister... Can you not understand me?{nl}Please rethink this...	이렇게까지 하고 싶지 않습니다.{nl}자매여.. 제 말뜻을 못 알아 들으시겠습니까?{nl}다시 한 번 생각해보세요.				마신 길티네
 QUEST_20161005_004938	Goddess Vaivora	여신 바이보라				
 QUEST_20161005_004939	You have harmed my Kupoles, destroyed my library and are now threatening me.	제 큐폴들을 해치고 도서관을 파괴하고 이젠 자매인 저를 협박하고 있군요.				여신 바이보라

@@ -11099,13 +11099,13 @@ ITEM_20160811_011098	Organ Essence	오르칸의 정수
 ITEM_20160811_011099	Plokste Essence	플록스케의 정수				
 ITEM_20160811_011100	Grim Reaper Essence	그림리퍼의 정수				
 ITEM_20160811_011101	Symbol of Pyroego	파이로에고의 징표				
-ITEM_20160811_011102	You can start the Earth Tower Challenge from the 6th floor of the Lolopanther Area if you give it to Kupole Lhuta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 롤로팬서 구간 6층부터 도전을 시작할 수 있습니다.				
+ITEM_20160811_011102	You can start the Earth Tower Challenge from the 6th floor of the Lolopanther Area if you give it to Kupole Ruta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 롤로팬서 구간 6층부터 도전을 시작할 수 있습니다.				
 ITEM_20160811_011103	Symbol of Gosarius	고사리우스의 징표				
-ITEM_20160811_011104	You can start the Earth Tower Challenge from the 11th floor of the Lolopanther Area if you give it to Kupole Lhuta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 롤로팬서 구간 11층부터 도전을 시작할 수 있습니다.				
+ITEM_20160811_011104	You can start the Earth Tower Challenge from the 11th floor of the Lolopanther Area if you give it to Kupole Ruta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 롤로팬서 구간 11층부터 도전을 시작할 수 있습니다.				
 ITEM_20160811_011105	Symbol of Turtai	투르타이의 징표				
-ITEM_20160811_011106	You can start the Earth Tower Challenge from the 16th floor of the Lolopanther Area if you give it to Kupole Lhuta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 롤로팬서 구간 16층부터 도전을 시작할 수 있습니다.				
+ITEM_20160811_011106	You can start the Earth Tower Challenge from the 16th floor of the Lolopanther Area if you give it to Kupole Ruta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 롤로팬서 구간 16층부터 도전을 시작할 수 있습니다.				
 ITEM_20160811_011107	Symbol of G'bb	급의 징표				
-ITEM_20160811_011108	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you give it to Kupole Lhuta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 솔미키 구간 1층부터 도전을 시작할 수 있습니다.				
+ITEM_20160811_011108	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you give it to Kupole Ruta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 솔미키 구간 1층부터 도전을 시작할 수 있습니다.				
 ITEM_20160811_011109	Goddesses' Blessed Gem: Weapon	여신의 축복석:무기				
 ITEM_20160811_011110	A gem with the blessing of the goddesses.{nl}Can be used to enhance a weapon.	여신의 축복이 담긴 돌입니다. 무기 아이템의 효능을 더 좋게 만드는데 쓰입니다.				
 ITEM_20160811_011111	Goddesses' Blessed Gem: Armor	여신의 축복석:방어구				
@@ -12566,7 +12566,7 @@ ITEM_20161005_012565	Silver Anvil (14 Days)	은빛 모루(14일)
 ITEM_20161005_012566	Light Anvil (14 Days)	가벼운 모루(14일)				
 ITEM_20161005_012567	Golden Anvil (14 Days)	황금 모루(14일)				
 ITEM_20161005_012568	Shining Golden Anvil	빛나는 황금 모루				
-ITEM_20161005_012569	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you carry this symbol with you.	이 징표를 지니고 있으면 대지의 탑 솔미키 구간 1층부터 도전을 시작할 수 있습니다.	ITEM_20160811_011108	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you give it to Kupole Lhuta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 솔미키 구간 1층부터 도전을 시작할 수 있습니다.	
+ITEM_20161005_012569	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you carry this symbol with you.	이 징표를 지니고 있으면 대지의 탑 솔미키 구간 1층부터 도전을 시작할 수 있습니다.	ITEM_20160811_011108	You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you give it to Kupole Ruta.	대지의 탑 내부의 큐폴 루타에게 전달하면 대지의 탑 솔미키 구간 1층부터 도전을 시작할 수 있습니다.	
 ITEM_20161005_012570	Black Cube	블랙 큐브				
 ITEM_20161005_012571	Silver Cube	실버 큐브				
 ITEM_20161005_012572	Gold Cube	골드 큐브				
