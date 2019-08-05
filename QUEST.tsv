@@ -8408,7 +8408,7 @@ QUEST_20180320_008533	Please select a Guild Quest.	길드 퀘스트를 선택하
 QUEST_20180320_008534	Select Quest	사용할 퀘스트를 선택	QUEST_20151224_003586	Select the event you want to use	사용할 이벤트를 선택	퀘스트 선택
 QUEST_20180320_008535	Do you want to enter this Guild Quest dungeon?	길드 퀘스트 던전에 입장 하시겠습니까?	QUEST_20151224_003587	Do you want to enter this Guild Event dungeon?	길드 이벤트 던전에 입장 하시겠습니까?	퀘스트 선택
 QUEST_20180320_008536	There is an ongoing Guild Quest. Do you wish to abandon it?	현재 진행중인 길드 퀘스트가 있습니다. 포기하시겠습니까?	QUEST_20151224_003589	There is an ongoing Guild Event. Do you wish to abandon it?	현재 진행중인 길드 이벤트가 있습니다. 포기하시겠습니까?	퀘스트 포기
-QUEST_20180320_008537	Гильд. квест	길드 퀘스트				
+QUEST_20180320_008537	Квесты гильдии				
 QUEST_20180320_008538	Will you enter the Guild Quest?	길드 퀘스트에 입장하시겠습니까?				길드 퀘스트
 QUEST_20180320_008539	You have found a suspicious looking device.{nl}Do you wish to check the device?	수상해 보이는 장치를 발견하였습니다.{nl}해당 장치를 탐색하시겠습니까?				수상한 장치
 QUEST_20180320_008540	Zongzi Chef	쫑쯔 요리사				
@@ -10958,5 +10958,3 @@ QUEST_20190715_011102	Chupacabra Adoption Agent	츄파카브라 분양 도우미
 QUEST_20190715_011103	Adopt a Chupacabra during the event period to take along in your adventures. Grow them to receive a special reward.	이벤트 기간 츄파카브라를 분양받아 함께 모험하고 성장 시키며 다양한 보상을 획득하세요.
 QUEST_20190715_011104	Have a lovely time with your pet Chupacabra.	츄파카브라와 함께 소중한 추억을 만들어보세요.
 QUEST_20190715_011105	I will take care of your Chupacabra for now.{nl}Farewell.	츄파카브라는 제가 돌보고 있겠습니다.{nl}조심히 다녀오세요~
-QUEST_20190723_011106	 The three rulers of Nicopolis are now more powerful than ever. Their greed knows no limits. Not satisfied with holding a grasp over Nicopolis, they are trying to influence life in the Kingdom beyond the city.{nl}The Kingdom and its laws are all that stands between them and ultimate power. The citizens of Nicopolis will grow more shackled if they are freed from the boundaries of the Kingdom's laws. By all means necessary, they will tighten their grip on Nicopolis. 	 니코폴리스를 지배하는 세 마법 통치자의 권력은 이제 정점에 도달했다. 그러나 그들의 욕심은 끝이 없다. 그들은 니코폴리스를 더 단단히 움켜잡기를 원하고 도시 밖 왕국의 삶에도 개입하고 싶어한다.{nl} 이런 그들의 욕심을 방해하는 유일한 요소는 왕국과 그 법률이다. 그들이 왕국 법률에서 더 자유로울 수 있다면, 반대로 니코폴리스의 시민은 더 부자유스러워 질 것이다. 그들은 니코폴리스를 더욱 자신들의 입맛대로 하기 위해서라도 뭔가 일을 저지르고 말 것이다. 
-QUEST_20190723_011107	If you want to have a go, make sure to use my special bait during the event period.{nl}Just get some from the bucket over here!	7/23(화) 점검 후부터 8/20(화) 점검 전까지!{nl}이벤트 기간 동안 제가 열심히 키워놓은 특별 미끼를 애용해주세요.{nl}미끼는 옆에 놓인 요하의 미꾸라지통에서 팔고 있어요!	QUEST_20190322_010772	If you want to have a go, make sure to use my special bait during the event period.{nl}Just get some from the bucket over here!	2/21(목) 점검 후부터 3/28(목) 점검 전까지!{nl}이벤트 기간 동안 제가 열심히 키워놓은 특별 미끼를 애용해주세요.{nl}미끼는 옆에 놓인 요하의 미꾸라지통에서 팔고 있어요!	낚시터 관리인 요하
