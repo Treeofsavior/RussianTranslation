@@ -2798,7 +2798,7 @@ ITEM_20150317_002797	Royal Kingdom Common Currency	왕국 일반 화폐
 ITEM_20150317_002798	Золото				
 ITEM_20150317_002799	Premium Currency	고급 화폐				
 ITEM_20150317_002800	Royal Kingdom Upper Currency	왕국 상위 화폐				
-ITEM_20150317_002801	Рецепт				
+ITEM_20150317_002801	Рецепты				
 ITEM_20150317_002802	Right-click to register the Recipe	마우스 우클릭으로 제작서 등록.				
 ITEM_20150317_002803	Contains instructions on how to craft an item. Access the recipe in the crafting menu in Rest Mode.	아이템을 만들 수 있는 제조법이 쓰여져 있습니다. 휴식모드의 제작 메뉴에서 제작할 수 있습니다.				
 ITEM_20150317_002804	Skill Scroll	스킬 주문서				
@@ -3037,7 +3037,7 @@ ITEM_20150317_003036	Treasure that belonged to human victims and was hoarded by 
 ITEM_20150317_003037	Loose Package	엉성한 꾸러미				
 ITEM_20150317_003038	Broken Necklace from Thorn Forest	가시숲의 망가진 목걸이				
 ITEM_20150317_003039	Bushobell's Bundle	부쇼벨의 봇짐				
-ITEM_20150317_003040	Soldier's Belongings	짐 꾸러미				
+ITEM_20150317_003040	Солдатские вещи			
 ITEM_20150317_003041	Belongings from a soldier, stolen by a Leafbug. Looks like it's been stolen many times since then.	잎방개가 훔쳐간 정찰병의 짐. 한 두번 훔쳐간 게 아닌 것 같다.				
 ITEM_20150317_003042	Piece of Vubbe Cloth	부베 옷 조각				
 ITEM_20150317_003043	A ripped cloth piece from Vubbe. It's from the dirty waist area.	찢겨진 부베의 옷 조각. 허리춤의 지저분한 부분이다.				
@@ -20871,9 +20871,9 @@ ITEM_20190104_020870	Lv14 Magic Critical Attack Potion	마법 치명타 공격�
 ITEM_20190104_020871	Increases your magic critical attack by +62 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 치명타 공격력을 +62 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005268	Increases your magic amplification by 62 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 증폭을 +62 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
 ITEM_20190104_020872	Lv15 Magic Critical Attack Potion	마법 치명타 공격력 증가 포션 LV15	ITEM_20150714_005269	Lv15 Magic Amplification Potion	마법 증폭 증가 포션 LV15	
 ITEM_20190104_020873	Increases your magic critical attack by +66 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 치명타 공격력을 +66 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005270	Increases your magic amplification by 66 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 증폭을 +66 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
-ITEM_20190104_020874	Ore Collection	HP를 5614 즉시 회복시키고 2초 간격으로 15초 동안 HP를 5614회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				
-ITEM_20190104_020875		SP를 1288 즉시 회복시키고 2초 간격으로 15초 동안 SP를 1288 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				
-ITEM_20190104_020876		광석 컬렉션				
+ITEM_20190104_020874	Instantly recovers 5614 HP and gradually recovers 5614 HP over 15 seconds. Right-click to use. Cooldown 45 seconds.	HP를 5614 즉시 회복시키고 2초 간격으로 15초 동안 HP를 5614회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				      
+ITEM_20190104_020875	Instantly recovers 1288 SP and gradually recovers 1288 SP over 15 seconds. Right-click to use. Cooldown 45 seconds.	SP를 1288 즉시 회복시키고 2초 간격으로 15초 동안 SP를 1288 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				      
+ITEM_20190104_020876	Ore Collection	광석 컬렉션			
 ITEM_20190104_020877	A collection where you can register your items.{nl}You can register an item by right-clicking it.	아이템을 수집할 수 있는 컬렉션입니다. 마법협회 NPC의 컬렉션창에서 마우스 오른쪽 버튼 클릭으로 등록할 수 있습니다.				
 ITEM_20190104_020878	Flower Collection	꽃 컬렉션				
 ITEM_20190104_020879	Bone Collection	뼈 컬렉션				
