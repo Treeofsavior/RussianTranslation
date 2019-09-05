@@ -36864,7 +36864,8 @@ ETC_20190104_036865	Increases class change points by +1,000.{nl}Class points can
 ETC_20190104_036866	Skill+Attribute Reset Package
 ETC_20190104_036867	Contains the following items.{nl} - Attribute Reset Potion x1{nl} - Skill Reset Potion x1
 ETC_20190104_036868	[Re:Build] Artisan Magnifier
-TC_20190104_036869	Randomly changes the number, groups, values and types of stats contained in a random stat item. You can choose to keep the new stats or revert them back to their original state.{nl} The item is issued as a part of the [Re:Build] update. This item will be removed after the event period.
+ETC_20190104_036869	Randomly changes the number, groups, values and types of stats contained in a random stat item. You can choose to keep the new stats or revert them back to their original state.{nl} The item is issued as a part of the [Re:Build] update. This item will be removed after the event period.
+ETC_20190104_036870	[Reward] Miko Unlock Voucher
 ETC_20190104_036871	[Reward] Appraiser Unlock Voucher
 ETC_20190104_036872	[Reward] Rune Caster Unlock Voucher
 ETC_20190104_036873	[Reward] Shinobi Unlock Voucher
@@ -40683,172 +40684,172 @@ ETC_20190108_040685	Lucky Golden Pig
 ETC_20190108_040686	Lucky Golden Pig Helmet
 ETC_20190112_040687	Со времен Agailla Flurry некромантия связанная с использованием человеческих тел и духов была отменена навсегда. С тех пор некроманты реорганизовали себя в группу магов которые проводят исследования на монстрах, а не на людях. Некроманты - это клас, который возвращает фрагменты мертвых монстров к жизни. Они могут вдохнуть жизнь в мертвых монстров, чтобы атаковать их или подчинить.
 ETC_20190112_040688	Time of forced deletion for zombie status client in barrack server (unit: sec)
-ETC_20190112_040688	Time of forced deletion for zombie status client in barrack server (unit: sec)
-ETC_20190112_040689	Time of forced deletion for zombie status commander in zone server (unit: sec)
-ETC_20190116_040690	Are you sure you want to delete?
-ETC_20190122_040691	Zone instance individual FPS
-ETC_20190126_040692	Standby
-ETC_20190126_040693	This item cannot be installed in the current area.
-ETC_20190129_040694	Successful enhancements will {#8e0000}consume{/} material seals, while failed ones will {#8e0000}consume{/} the main stat seal.
-ETC_20190129_040695	There are too many [{itemName}] items. Please remove some.
-ETC_20190201_040696	Scout (M)
-ETC_20190201_040697	Scout (F)
-ETC_20190201_040698	Manage Tariff Rates
-ETC_20190201_040699	: Guilds in this status cannot participate in GTW.{nl}- Only Guild Masters can set their guild's participation status.{nl}- These settings 
-ETC_20190201_040700	.{nl}- Guilds participating in GTW cannot add new members, expel members or disband while the session is undergoing.{nl}- Guild members who abandoned their previous guild less than 14 days in the past cannot participate in GTW.
-ETC_20190201_040701	are fields in which Territory Wars can take place and the location of these areas can be checked via the World Map.{nl}(From left to right: Warring area, free Spot area and seized Spot area)
-ETC_20190201_040702	{nl} {nl}When the Territory Wars begin, guilds with the option set to   
-ETC_20190201_040703	The guild of the player who deals the last blow to an Amplifier earns 5 seize points the following beneficial buffs.{nl} {nl}[Damage and move speed increase]{nl} - Damage +30% increase{nl} - Move speed +5{nl} {nl} {nl}The buff will be removed upon leaving the Spot area where the amplifiers are located.
-ETC_20190201_040704	The last guild to attack the monster receives a buff which includes the following.{nl} {nl}[Thick Skin]{nl} - Damage received reduced by 30%{nl} - Immunity to knockback and knockdown{nl} {nl}The buff will be removed once you leave the spot area in which the monster was killed.{nl} {nl}The last guild to attack the Tree Root Crystal receives various buffs depending on the type of Crystal destroyed.
-ETC_20190201_040705	You can use various GTW items to take advantage in battle.
-ETC_20190201_040706	GTW items can be purchased through the Expedition Merchant found in your Guild Hangout.{nl} {nl}You can check each Spot areas and their seize status{nl}through the World Map after GTW has ended.{nl} {nl}For more information on schedules and benefits, please check our official website at treeofsavior.com.
-ETC_20190201_040707	Cбор тарифных денег
-ETC_20190201_040708	Гильдия которая захватит спот в конце каждой {nl}сессии GTW, может регулировать тарифные {nl}ставки города и получить средства, накопленные на рынке.
-ETC_20190201_040709	[City Tariffs]{nl}Each Spot Area seized corresponds to one city where the winning guild can temporarily adjust the tariff rates and collect the accumulated amount.
-ETC_20190201_040710	Genar Field: Klaipeda{nl}Baron Allerno: Orsha{nl}Aqueduct Bridge Area: Fedimian{nl}(Spot Area: City)
-ETC_20190201_040711	{nl} {nl}[Adjusting Tariffs]{nl}Click the Victory benefits button under the combat category of your Guild window to adjust your city's tariff rates.
-ETC_20190201_040712	[Important]{nl}- City tariff rates are set to a default of 10%, and you can adjust them to any value between 0% and 20%.{nl}- The rates can be adjusted only by the guild master or a member with the corresponding authority.{nl}- After changing a city's rates, they can changed again only after 1 hour.{nl}- The rates cannot be changed 1 hour or less before a GTW session, nor until 5 minutes after.{nl}- After each session, if the winning guild is different from the previous week's, tariff rates are reset to 10%.{nl}- No tariffs (0%) apply to members of the winning guild in the corresponding city.
-ETC_20190201_040713	{nl} {nl}[Retrieving Tariff Funds]{nl}Whenever Silver is spent on eligible items within the city, the corresponding tariffs accumulate accordingly.{nl}(Tariff funds accumulate starting 5 minutes after a GTW session, and until the end of the next session.)
-ETC_20190201_040714	[Eligible Items]{nl}- Various items, weapons, armor, accessories and recipes{nl}- Companion adoption, training and companion food{nl}- Magic Association supplies{nl}- Fishing supplies{nl}- Repair, identification, item dismantling, socket addition and gem extraction{nl}- Changing weapon appearance with the potential loss option unchecked{nl}- Expanding Team Storage slots{nl}- Geraldas family gems{nl}- Blacksmith Teliavelis supplies{nl}- Seal enhancement{nl} {nl}- When tariff rates are set to 10%, the amount of Silver spent is the same as before. If they're set to higher or lower than that, the amount changes accordingly.{nl}- No tariffs (0%) apply to members of the winning guild in the corresponding city.
-ETC_20190201_040715	{nl} {nl}[Market Tariffs]{nl}According to your seized Spot Area, a percentage of the Market fees generated will accumulate as tariffs and can be retrieved.
-ETC_20190201_040716	Genar Field: 4% of Market fees generated per week{nl}Baron Allerno: 3% of Market fees generated per week{nl}Aqueduct Bridge Area: 3% of Market fees generated per week{nl}(Spot Area: percentage of Market fees){nl}(Market fees = registration fees + sale fees)
-ETC_20190201_040717	{nl} {nl}[Tariff Fund Distribution]{nl}After the collecting period is over, you can share the funds with your team in the [Fund Distribution] tab.
-ETC_20190201_040718	[Important]{nl}- Fund distribution details are updated 1 hour after the collecting period ends.{nl}- The total funds available for collecting include both city tariffs and Market tariffs.{nl}- You can distribute the funds collected until 7 days after they become available.{nl}- Funds not distributed within this 7-day period will be eliminated.{nl}- If the guild is disbanded, non-distributed funds will be eliminated.{nl}- Tariff funds can be distributed only by the guild master or members with the corresponding authority.{nl}- Guild members who receive distributed funds can retrieve them through the alert message on the bottom left side of their screen.{nl}- Members to whom the funds have been distributed have 14 days to retrieve them (the funds will be eliminated after that).{nl}- All records of tariff fund distribution are kept in the Fund Records tab.
-ETC_20190201_040719	{nl} {nl}[Retrieving Funds]{nl}After tariff funds are distributed through the guild, each member can then retrieve their own allocated amount.
-ETC_20190201_040720	If you have funds to receive, an alert will pop up on the bottom left side of your screen, from where you can retrieve them.{nl}[Important]{nl}- The alert message will pop up for all your characters.{nl}- The alert will continue to display as long as you have funds left to retrieve.{nl}- Members have 14 days to retrieve the funds after they are distributed.{nl}- Retrieved funds will be sent to the inventory of the character that receives them.{nl}- Funds not retrieved within 14 days will be permanently eliminated.{nl}- If you abandon the guild, you will no longer be able to retrieve any funds you may have been allotted.
-ETC_20190201_040721	Genar Field: [{partyName}]
-ETC_20190201_040722	Aqueduct Bridge Area: [{partyName}]
-ETC_20190201_040723	Baron Allerno: [{partyName}]
-ETC_20190201_040724	Genar Field: Not Seized
-ETC_20190201_040725	Aqueduct Bridge Area: Not Seized
-ETC_20190201_040726	Baron Allerno: Not Seized
-ETC_20190201_040727	This week's GTW session is now complete. Here are the winning guilds.
-ETC_20190201_040728	GTW will be back next week at the same time. Make sure to come back!
-ETC_20190201_040729	- Guilds that seize a Spot can adjust tariff rates in cities ({Min}% to {Max}%). {nl}- The default rate applied is {Default}%.{nl}- City tariff rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tariff rates c
-ETC_20190201_040730	- Tariff fund distribution details are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Fund distribution is available for {TaxDistributeTime} days after being received.{nl}- Important: Funds not distributed during the aforementioned period disappe
-ETC_20190201_040731	Tariffs apply for different cities depending on the Spot seized.{nl}({Cities})
-ETC_20190201_040732	Данные городского тарифного фонда обновляются каждый час.
-ETC_20190201_040733	Market tariff funds are collected depending on the fees generated on a weekly basis{nl}and the rate is dependent on the seized Spot area.{nl}({Cities})
-ETC_20190201_040734	Fund Retrieval Logs for M {Month}. D {Day}. Y {Year}
-ETC_20190201_040735	Retrieved Market Tariffs: {img silver 20 20/} {Amount}
-ETC_20190201_040736	Retrieved City Tariffs: {img silver 20 20/} {Amount}
-ETC_20190201_040737	Total Tariff Funds: {img silver 20 20/} {Amount}
-ETC_20190201_040738	{City} Tariff Rate: {Rate}%{nl}Managing Guild: {GuildName}
-ETC_20190201_040739	- Guild members can retrieve their distributed tariff funds for {TaxReceiveTime} days.{nl}- Upon retrieving them, the Silver is deposited directly into the current character's inventory.{nl}- Take note that all funds not retrieved during the time limit wi
-ETC_20190201_040740	City tariff rate adjustments available in {min} minute(s).
-ETC_20190201_040741	You cannot adjust city tariff rates now.
-ETC_20190201_040742	All tariff funds have been distributed.
-ETC_20190201_040743	You will not be able to receive distributed funds after leaving the guild.{nl}Are you sure you want to leave?{nl}{#8e0000}(Total amount: {Tax} Silver){/}
-ETC_20190201_040744	You will lose all undistributed and distributed funds, and all items in the guild storage after disbanding the guild. Are you sure you want to disband?
-ETC_20190201_040745	Tariff funds distributed.
-ETC_20190201_040746	You have been distributed {Tax} Silver from collected tariff funds.
-ETC_20190201_040747	[{city}]'s tariff rate has been set to {rate}%.
-ETC_20190201_040748	There aren't enough tariff funds to distribute.
-ETC_20190201_040749	Тариф города{img tip_questionmark 20 20}
-ETC_20190201_040750	{#ff0000}ⓘ The tariff rate system is currently unavailable. Check our official website at treeofsavior.com for more information.
-ETC_20190201_040751	ⓘ Гильдии с изъятыми спотами могут использовать кнопку льготы, чтобы установить тарифные ставки в соответствующих городах{nl}ⓘ См. treeofsavior.com подробнее о преимуществах захвата спотов.
-ETC_20190201_040752	Guild:  
-ETC_20190201_040753	City:  
-ETC_20190201_040754	Tariff Rate:  
-ETC_20190209_040755	2019 Leticia's Treasure Chest (Season 3)
-ETC_20190209_040756	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Lv 10 Enhancement Card Book x9{nl} - Ripped Legend Enhancement Card x7{nl} - Old Legend Enhancement Card x5{nl} - Legend Enhancement Card x3{nl} - Shining Legend Enhancement Card x1
-ETC_20190209_040757	Event Orsha Resident F1
-ETC_20190209_040758	GTW Open Event NPC
-ETC_20190209_040759	Event Girl NPC
-ETC_20190216_040760	Hanbok Costume Selection Box
-ETC_20190216_040761	Use to select one of the following items.{nl} - King Hanbok Costume x1{nl} - Striped Hanbok Costume x1{nl}
-ETC_20190216_040762	Spring Shade Hanbok Costume Selection Box
-ETC_20190216_040763	Use to select one of the following items.{nl} - Spring Shade Hanbok Costume (Male) x1{nl} - Spring Shade Hanbok Costume (Female) x1
-ETC_20190216_040764	Autumn Shade Hanbok Costume Selection Box
-ETC_20190216_040765	Use to select one of the following items.{nl} - Autumn Shade Hanbok Costume (Male) x1{nl} - Autumn Shade Hanbok Costume (Female) x1
-ETC_20190216_040766	Shining Golden Ichor Box (x10)
-ETC_20190216_040767	Box containing Shining Golden Ichor Extraction Kit x10.{nl}Use to receive the items.
-ETC_20190216_040768	2019 Leticia's Treasure Chest (Season 3)
-ETC_20190216_040769	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x3{nl} - Shining Golden Socket Box x1{nl} - Goddesses' Blessed Gem x100{nl} - Shining 8-Star Gem Abrasive x3
-ETC_20190216_040770	A special premium package. Right-click to use and obtain the following items.{nl}- Unique Support Weapon Box x1{nl}- Unique Support Weapon +11 Enhancement Voucher x1{nl}- Unique Support Weapon +5 Transcendence Voucher x1{nl}- Settlement Support Potion Lv2 x30{nl}- Lv15 Basic Condensed HP Potion x200{nl}- Lv15 Basic Condensed SP Potion x200{nl}- Attribute Points 10,000 x5{nl}- Token x1{nl}- Recipe - HP Potion (1 Day) x3{nl}- Recipe - SP Potion (1 Day) x3
-ETC_20190216_040771	Wake Up Card and Gem Package
-ETC_20190216_040772	A special premium package. Right-click to use and obtain the following items.{nl}- Monster Card Album: Black x9{nl}- Lv10 Enhancement Card x3{nl}- Shining 8-Star Gem Abrasive x3{nl}- Old Golden Coins x50{nl}- Ancient Golden Socket x3
-ETC_20190216_040773	Wake Up Enhancement Package
-ETC_20190216_040774	A special premium package. Right-click to use and obtain the following items.{nl}- Silver Anvil x10{nl}- Golden Anvil x5{nl}- [Lv. 390] Unique Enchant Jewel x5{nl}- [Lv. 380] +8 Transcendence Voucher x1{nl}- Recipe - HP Potion (1 Day) x3{nl}- Recipe - SP Potion (1 Day) x3
-ETC_20190216_040775	Wake Up All-in-One Package
-ETC_20190216_040776	A special premium package. Right-click to use and obtain the following items.{nl}- Wake Up Growth Package x1{nl}- Wake Up Enhancement Package x1{nl}- Widnium Fragment x3{nl}- Recipe - HP Potion (7 Days) x1{nl}- Recipe - SP Potion (7 Days) x1{nl}Widnium Fragments will be automatically removed at the end of the sale period.
-ETC_20190216_040777	Deliver Widnium Fragments
-ETC_20190216_040778	You already have a [Wake Up] weapon that has reached stage 5 transcendence.
-ETC_20190216_040779	You already have a [Wake Up] weapon that has reached +11 enhancement.
-ETC_20190216_040780	You must have only one [Wake Up] weapon in your inventory.
-ETC_20190216_040781	You do not have a [Wake Up] weapon in your inventory.
-ETC_20190216_040782	Give
-ETC_20190216_040783	Days remaining until Widnium Fragment exchange
-ETC_20190223_040784	Gazer
-ETC_20190223_040785	Gazers are monsters that are used by Demon King Baiga as his eyes and ears around the world.
-ETC_20190223_040786	Greedy Prisoner
-ETC_20190223_040787	An imprisoned demon that has been set loose in our world for the sole purpose of wreaking havoc.
-ETC_20190223_040788	Puppet M
-ETC_20190223_040789	A monster that mimics Plague Doctors. They execute people instead of curing them.
-ETC_20190223_040790	Masked Executor
-ETC_20190223_040791	We do not know the origins of this monster, but it is certain that they are just as cruel and merciless as demons themselves. 
-ETC_20190223_040792	[Event] Klaipeda
-ETC_20190223_040793	[Event] Orsha
-ETC_20190223_040794	[TOS 4-Time Researcher]
-ETC_20190223_040795	A title given to those who participate as a TOS 4-Time Researcher.
-ETC_20190223_040796	Return to your previous location.
-ETC_20190223_040797	Play Guild Hangout Raid
-ETC_20190223_040798	You are currently participating in a Guild Hangout Raid.
-ETC_20190223_040799	Unable to Join Hangout Raid
-ETC_20190223_040800	You cannot participate in the Guild Hangout Raid due to being incapable of combat.
-ETC_20190223_040801	Manage Hangout Raid
-ETC_20190223_040802	{nl} {nl}Displays the current number of summons and their HP.{nl} {nl}The HP of summons from Summoning, Salamion, Shoggoth and{nl}Corpse Tower will be displayed.
-ETC_20190223_040803	The HP of summons are displayed in green to differentiate from that of monsters.
-ETC_20190223_040804	Only Animal, Plant and Mutant-type cards can be registered onto the Necronomicon, with a maximum of four cards.{nl}At the bottom of the Necronomicon, you can view the number of corpse parts you collected so far.
-ETC_20190223_040805	{nl} {nl}Displays the current number of summons and their HP.{nl} {nl}You can check your summon info in the summons tab{nl}in your party info UI. You can switch between party and summon info{nl}by pressing the ({img key~ 40 40}) key or clicking on the {img button_view_info 40 40} button.
-ETC_20190223_040806	Displays your remaining number of Necromancer skeleton and Bokor zombie summons.
-ETC_20190223_040807	{nl} {nl}Displays the remaining HP of Sorcerer's Summoning summon,{nl}Salamion, Necromancer's Shoggoth and Corpse Tower.
-ETC_20190223_040808	Guild Hangout Raid
-ETC_20190223_040809	You can partake in a Guild Hangout Raid when your Guild Level reaches level 5.
-ETC_20190223_040810	The Guild Hangout Raid is a raid that takes place in your Guild Hangout.{nl}Guild Level 5 is required for players to initiate a Guild Hangout Raid.{nl}Interact with the Sage Envoy in your Guild Hangout to begin the Guild Hangout Raid.
-ETC_20190223_040811	{nl} {nl}To begin a Guild Hangout Raid you must either be a Guild Master or have been given the authority to [Manage Guild Hangout Raid] by the Guild Master.{nl}Users who have the authority to manage Guild Hangout Raids can initiate the raid. The difficulty of the raid will be adjustable once your Guild Level reaches level 6.
-ETC_20190223_040812	The higher levels of difficulty will be unlocked as the Guild Level rises, with the maximum difficulty level of 11 unlocked when your Guild Level reaches 15.
-ETC_20190223_040813	{nl} {nl}Guild Hangout Raids can only be joined by Guild members and the raid can be continued by defeating the raid boss.
-ETC_20190223_040814	You can summon a new boss after defeating the raid boss. If the raid is put to a halt due to various reasons, you can restart the raid from where you left off with the raid boss HP remaining as it was before the raid was halted.{nl} {nl}Members of the Guild who have rejoined the Guild after leaving will not be able to partake in the raid for a 14-day duration.{nl}Members of other guilds will not be able to participate in the raid.
-ETC_20190223_040815	{nl} {nl}Participants earn 1 Guild Hangout Raid contribution point per 10,000 damage dealt to the boss.{nl}Contribution points will be summed up and paid as Silver every Monday at 6 AM by the Sage Envoy.
-ETC_20190223_040816	The amount of Silver earned will depend on the Guild Level and the contribution points earned by each member.{nl}When the raid is failed and the boss is not defeated, the contribution points earned in the session will not be saved.
-ETC_20190223_040817	{nl} {nl}The accumulated contribution points can be checked by interacting with the Sage Envoy.
-ETC_20190223_040818	Summons Info
-ETC_20190223_040819	Displays the number and the HP of your summons.
-ETC_20190223_040820	{nl} {nl}Summon info can be checked in another tab of the party info UI.{nl}Pressing the ({img key~ 40 40}) key or clicking on the {img button_view_info 40 40) button will switch between party and summon info.
-ETC_20190223_040821	pvp_mine information log
-ETC_20190223_040822	SOLO RAID information log
-ETC_20190223_040823	Event user information warning.
-ETC_20190223_040824	The Ultimate Monster Tamer
-ETC_20190223_040825	Event: Monster Tamer
-ETC_20190223_040826	Chase the Golden Pig
-ETC_20190223_040827	Event: Chase the Golden Pig
-ETC_20190223_040828	Assault on Klaipeda
-ETC_20190223_040829	Item Appearance Eraser
-ETC_20190223_040830	You can reset the appearance of an item that had its appearance changed.{nl}The material used to change the item's appearance will be destroyed.
-ETC_20190223_040831	Randomly changes the number, groups, values and types of stats contained in a random stat item. You can choose to keep the new stats or revert them back to their original state.{nl} The item is issued as a part of the [Re:Build] update. This item will be removed at the end of the event period.
-ETC_20190223_040832	[Event] Mysterious Magnifier
-ETC_20190223_040833	[Event] Artisan Magnifier
-ETC_20190223_040834	[Event] Combat Support Box
-ETC_20190223_040835	A box containing items useful for combat. Right-click to use and obtain the items.{nl}- [Event] Small Elixir of HP Recovery x30{nl}- [Event] Small Elixir of SP Recovery x30{nl}
-ETC_20190223_040836	Разбойники были разыскиваемыми преступниками в королевстве, которые получили прощение после того как они помогли многим великим авантюристам в их поисках.{nl}Около 300 лет назад, во времена правления Nachel I's они получили прощение, что дает им иммунитет от наказания если их преступления не очень серьезные, как убийство или предательство.{nl}Разбойники сделают все чтобы победить в бою.{nl}Они класc специализирующийся на тайной засаде и нанесения урона в спину.
-ETC_20190223_040837	Guardian's Antechamber
-ETC_20190223_040838	Checkpoint
-ETC_20190223_040839	Refugee Station
-ETC_20190223_040840	Construction Quarters
-ETC_20190223_040841	Segregated Quarters
-ETC_20190223_040842	Crystal Workshop
-ETC_20190223_040843	Crystal Smelting Site
-ETC_20190223_040844	Golden Pig
-ETC_20190223_040845	Sage Female 1
-ETC_20190223_040846	Использовать Wings of Vaivora Coin магазин
-ETC_20190223_040847	[PP] Red Vampire Costume
-ETC_20190223_040848	[PP] Red Winter Night Costume
-ETC_20190223_040849	Новым/Вернувшимся
-ETC_20190223_040850	February Attendance Check Rewards
-ETC_20190223_040851	March Attendance Check Rewards
-ETC_20190223_040852	Irredian Shelter PC Session
-ETC_20190223_040853	Increases property attack in value equivalent to property resistance{nl}- Affected properties: Fire, Ice, Lightning, Poison, Dark, Holy, Earth, Psychokinesis{nl}- Max. 300 per property
+ETC_20190112_040689	Time of forced deletion for zombie status client in barrack server (unit: sec)
+ETC_20190116_040690	Time of forced deletion for zombie status commander in zone server (unit: sec)
+ETC_20190122_040691	Are you sure you want to delete?
+ETC_20190126_040692	Zone instance individual FPS
+ETC_20190126_040693	Standby
+ETC_20190129_040694	This item cannot be installed in the current area.
+ETC_20190129_040695	Successful enhancements will {#8e0000}consume{/} material seals, while failed ones will {#8e0000}consume{/} the main stat seal.
+ETC_20190201_040696	There are too many [{itemName}] items. Please remove some.
+ETC_20190201_040697	Scout (M)
+ETC_20190201_040698	Scout (F)
+ETC_20190201_040699	Manage Tariff Rates
+ETC_20190201_040700	: Guilds in this status cannot participate in GTW.{nl}- Only Guild Masters can set their guild's participation status.{nl}- These settings 
+ETC_20190201_040701	.{nl}- Guilds participating in GTW cannot add new members, expel members or disband while the session is undergoing.{nl}- Guild members who abandoned their previous guild less than 14 days in the past cannot participate in GTW.
+ETC_20190201_040702	are fields in which Territory Wars can take place and the location of these areas can be checked via the World Map.{nl}(From left to right: Warring area, free Spot area and seized Spot area)
+ETC_20190201_040703	{nl} {nl}When the Territory Wars begin, guilds with the option set to   
+ETC_20190201_040704	The guild of the player who deals the last blow to an Amplifier earns 5 seize points the following beneficial buffs.{nl} {nl}[Damage and move speed increase]{nl} - Damage +30% increase{nl} - Move speed +5{nl} {nl} {nl}The buff will be removed upon leaving the Spot area where the amplifiers are located.
+ETC_20190201_040705	The last guild to attack the monster receives a buff which includes the following.{nl} {nl}[Thick Skin]{nl} - Damage received reduced by 30%{nl} - Immunity to knockback and knockdown{nl} {nl}The buff will be removed once you leave the spot area in which the monster was killed.{nl} {nl}The last guild to attack the Tree Root Crystal receives various buffs depending on the type of Crystal destroyed.
+ETC_20190201_040706	You can use various GTW items to take advantage in battle.
+ETC_20190201_040707	GTW items can be purchased through the Expedition Merchant found in your Guild Hangout.{nl} {nl}You can check each Spot areas and their seize status{nl}through the World Map after GTW has ended.{nl} {nl}For more information on schedules and benefits, please check our official website at treeofsavior.com.
+ETC_20190201_040708	Cбор тарифных денег
+ETC_20190201_040709	Гильдия которая захватит спот в конце каждой {nl}сессии GTW, может регулировать тарифные {nl}ставки города и получить средства, накопленные на рынке.
+ETC_20190201_040710	[City Tariffs]{nl}Each Spot Area seized corresponds to one city where the winning guild can temporarily adjust the tariff rates and collect the accumulated amount.
+ETC_20190201_040711	Genar Field: Klaipeda{nl}Baron Allerno: Orsha{nl}Aqueduct Bridge Area: Fedimian{nl}(Spot Area: City)
+ETC_20190201_040712	{nl} {nl}[Adjusting Tariffs]{nl}Click the Victory benefits button under the combat category of your Guild window to adjust your city's tariff rates.
+ETC_20190201_040713	[Important]{nl}- City tariff rates are set to a default of 10%, and you can adjust them to any value between 0% and 20%.{nl}- The rates can be adjusted only by the guild master or a member with the corresponding authority.{nl}- After changing a city's rates, they can changed again only after 1 hour.{nl}- The rates cannot be changed 1 hour or less before a GTW session, nor until 5 minutes after.{nl}- After each session, if the winning guild is different from the previous week's, tariff rates are reset to 10%.{nl}- No tariffs (0%) apply to members of the winning guild in the corresponding city.
+ETC_20190201_040714	{nl} {nl}[Retrieving Tariff Funds]{nl}Whenever Silver is spent on eligible items within the city, the corresponding tariffs accumulate accordingly.{nl}(Tariff funds accumulate starting 5 minutes after a GTW session, and until the end of the next session.)
+ETC_20190201_040715	[Eligible Items]{nl}- Various items, weapons, armor, accessories and recipes{nl}- Companion adoption, training and companion food{nl}- Magic Association supplies{nl}- Fishing supplies{nl}- Repair, identification, item dismantling, socket addition and gem extraction{nl}- Changing weapon appearance with the potential loss option unchecked{nl}- Expanding Team Storage slots{nl}- Geraldas family gems{nl}- Blacksmith Teliavelis supplies{nl}- Seal enhancement{nl} {nl}- When tariff rates are set to 10%, the amount of Silver spent is the same as before. If they're set to higher or lower than that, the amount changes accordingly.{nl}- No tariffs (0%) apply to members of the winning guild in the corresponding city.
+ETC_20190201_040716	{nl} {nl}[Market Tariffs]{nl}According to your seized Spot Area, a percentage of the Market fees generated will accumulate as tariffs and can be retrieved.
+ETC_20190201_040717	Genar Field: 4% of Market fees generated per week{nl}Baron Allerno: 3% of Market fees generated per week{nl}Aqueduct Bridge Area: 3% of Market fees generated per week{nl}(Spot Area: percentage of Market fees){nl}(Market fees = registration fees + sale fees)
+ETC_20190201_040718	{nl} {nl}[Tariff Fund Distribution]{nl}After the collecting period is over, you can share the funds with your team in the [Fund Distribution] tab.
+ETC_20190201_040719	[Important]{nl}- Fund distribution details are updated 1 hour after the collecting period ends.{nl}- The total funds available for collecting include both city tariffs and Market tariffs.{nl}- You can distribute the funds collected until 7 days after they become available.{nl}- Funds not distributed within this 7-day period will be eliminated.{nl}- If the guild is disbanded, non-distributed funds will be eliminated.{nl}- Tariff funds can be distributed only by the guild master or members with the corresponding authority.{nl}- Guild members who receive distributed funds can retrieve them through the alert message on the bottom left side of their screen.{nl}- Members to whom the funds have been distributed have 14 days to retrieve them (the funds will be eliminated after that).{nl}- All records of tariff fund distribution are kept in the Fund Records tab.
+ETC_20190201_040720	{nl} {nl}[Retrieving Funds]{nl}After tariff funds are distributed through the guild, each member can then retrieve their own allocated amount.
+ETC_20190201_040721	If you have funds to receive, an alert will pop up on the bottom left side of your screen, from where you can retrieve them.{nl}[Important]{nl}- The alert message will pop up for all your characters.{nl}- The alert will continue to display as long as you have funds left to retrieve.{nl}- Members have 14 days to retrieve the funds after they are distributed.{nl}- Retrieved funds will be sent to the inventory of the character that receives them.{nl}- Funds not retrieved within 14 days will be permanently eliminated.{nl}- If you abandon the guild, you will no longer be able to retrieve any funds you may have been allotted.
+ETC_20190201_040722	Genar Field: [{partyName}]
+ETC_20190201_040723	Aqueduct Bridge Area: [{partyName}]
+ETC_20190201_040724	Baron Allerno: [{partyName}]
+ETC_20190201_040725	Genar Field: Not Seized
+ETC_20190201_040726	Aqueduct Bridge Area: Not Seized
+ETC_20190201_040727	Baron Allerno: Not Seized
+ETC_20190201_040728	This week's GTW session is now complete. Here are the winning guilds.
+ETC_20190201_040729	GTW will be back next week at the same time. Make sure to come back!
+ETC_20190201_040730	- Guilds that seize a Spot can adjust tariff rates in cities ({Min}% to {Max}%). {nl}- The default rate applied is {Default}%.{nl}- City tariff rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tariff rates c
+ETC_20190201_040731	- Tariff fund distribution details are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Fund distribution is available for {TaxDistributeTime} days after being received.{nl}- Important: Funds not distributed during the aforementioned period disappe
+ETC_20190201_040732	Tariffs apply for different cities depending on the Spot seized.{nl}({Cities})
+ETC_20190201_040733	Данные городского тарифного фонда обновляются каждый час.
+ETC_20190201_040734	Market tariff funds are collected depending on the fees generated on a weekly basis{nl}and the rate is dependent on the seized Spot area.{nl}({Cities})
+ETC_20190201_040735	Fund Retrieval Logs for M {Month}. D {Day}. Y {Year}
+ETC_20190201_040736	Retrieved Market Tariffs: {img silver 20 20/} {Amount}
+ETC_20190201_040737	Retrieved City Tariffs: {img silver 20 20/} {Amount}
+ETC_20190201_040738	Total Tariff Funds: {img silver 20 20/} {Amount}
+ETC_20190201_040739	{City} Tariff Rate: {Rate}%{nl}Managing Guild: {GuildName}
+ETC_20190201_040740	- Guild members can retrieve their distributed tariff funds for {TaxReceiveTime} days.{nl}- Upon retrieving them, the Silver is deposited directly into the current character's inventory.{nl}- Take note that all funds not retrieved during the time limit wi
+ETC_20190201_040741	City tariff rate adjustments available in {min} minute(s).
+ETC_20190201_040742	You cannot adjust city tariff rates now.
+ETC_20190201_040743	All tariff funds have been distributed.
+ETC_20190201_040744	You will not be able to receive distributed funds after leaving the guild.{nl}Are you sure you want to leave?{nl}{#8e0000}(Total amount: {Tax} Silver){/}
+ETC_20190201_040745	You will lose all undistributed and distributed funds, and all items in the guild storage after disbanding the guild. Are you sure you want to disband?
+ETC_20190201_040746	Tariff funds distributed.
+ETC_20190201_040747	You have been distributed {Tax} Silver from collected tariff funds.
+ETC_20190201_040748	[{city}]'s tariff rate has been set to {rate}%.
+ETC_20190201_040749	There aren't enough tariff funds to distribute.
+ETC_20190201_040750	Тариф города{img tip_questionmark 20 20}
+ETC_20190201_040751	{#ff0000}ⓘ The tariff rate system is currently unavailable. Check our official website at treeofsavior.com for more information.
+ETC_20190201_040752	ⓘ Гильдии с изъятыми спотами могут использовать кнопку льготы, чтобы установить тарифные ставки в соответствующих городах{nl}ⓘ См. treeofsavior.com подробнее о преимуществах захвата спотов.
+ETC_20190201_040753	Guild:  
+ETC_20190201_040754	City:  
+ETC_20190209_040755	Tariff Rate:  
+ETC_20190209_040756	2019 Leticia's Treasure Chest (Season 3)
+ETC_20190209_040757	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Lv 10 Enhancement Card Book x9{nl} - Ripped Legend Enhancement Card x7{nl} - Old Legend Enhancement Card x5{nl} - Legend Enhancement Card x3{nl} - Shining Legend Enhancement Card x1
+ETC_20190209_040758	Event Orsha Resident F1
+ETC_20190209_040759	GTW Open Event NPC
+ETC_20190216_040760	Event Girl NPC
+ETC_20190216_040761	Hanbok Costume Selection Box
+ETC_20190216_040762	Use to select one of the following items.{nl} - King Hanbok Costume x1{nl} - Striped Hanbok Costume x1{nl}
+ETC_20190216_040763	Spring Shade Hanbok Costume Selection Box
+ETC_20190216_040764	Use to select one of the following items.{nl} - Spring Shade Hanbok Costume (Male) x1{nl} - Spring Shade Hanbok Costume (Female) x1
+ETC_20190216_040765	Autumn Shade Hanbok Costume Selection Box
+ETC_20190216_040766	Use to select one of the following items.{nl} - Autumn Shade Hanbok Costume (Male) x1{nl} - Autumn Shade Hanbok Costume (Female) x1
+ETC_20190216_040767	Shining Golden Ichor Box (x10)
+ETC_20190216_040768	Box containing Shining Golden Ichor Extraction Kit x10.{nl}Use to receive the items.
+ETC_20190216_040769	2019 Leticia's Treasure Chest (Season 3)
+ETC_20190216_040770	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x3{nl} - Shining Golden Socket Box x1{nl} - Goddesses' Blessed Gem x100{nl} - Shining 8-Star Gem Abrasive x3
+ETC_20190216_040771	A special premium package. Right-click to use and obtain the following items.{nl}- Unique Support Weapon Box x1{nl}- Unique Support Weapon +11 Enhancement Voucher x1{nl}- Unique Support Weapon +5 Transcendence Voucher x1{nl}- Settlement Support Potion Lv2 x30{nl}- Lv15 Basic Condensed HP Potion x200{nl}- Lv15 Basic Condensed SP Potion x200{nl}- Attribute Points 10,000 x5{nl}- Token x1{nl}- Recipe - HP Potion (1 Day) x3{nl}- Recipe - SP Potion (1 Day) x3
+ETC_20190216_040772	Wake Up Card and Gem Package
+ETC_20190216_040773	A special premium package. Right-click to use and obtain the following items.{nl}- Monster Card Album: Black x9{nl}- Lv10 Enhancement Card x3{nl}- Shining 8-Star Gem Abrasive x3{nl}- Old Golden Coins x50{nl}- Ancient Golden Socket x3
+ETC_20190216_040774	Wake Up Enhancement Package
+ETC_20190216_040775	A special premium package. Right-click to use and obtain the following items.{nl}- Silver Anvil x10{nl}- Golden Anvil x5{nl}- [Lv. 390] Unique Enchant Jewel x5{nl}- [Lv. 380] +8 Transcendence Voucher x1{nl}- Recipe - HP Potion (1 Day) x3{nl}- Recipe - SP Potion (1 Day) x3
+ETC_20190216_040776	Wake Up All-in-One Package
+ETC_20190216_040777	A special premium package. Right-click to use and obtain the following items.{nl}- Wake Up Growth Package x1{nl}- Wake Up Enhancement Package x1{nl}- Widnium Fragment x3{nl}- Recipe - HP Potion (7 Days) x1{nl}- Recipe - SP Potion (7 Days) x1{nl}Widnium Fragments will be automatically removed at the end of the sale period.
+ETC_20190216_040778	Deliver Widnium Fragments
+ETC_20190216_040779	You already have a [Wake Up] weapon that has reached stage 5 transcendence.
+ETC_20190216_040780	You already have a [Wake Up] weapon that has reached +11 enhancement.
+ETC_20190216_040781	You must have only one [Wake Up] weapon in your inventory.
+ETC_20190216_040782	You do not have a [Wake Up] weapon in your inventory.
+ETC_20190216_040783	Give
+ETC_20190223_040784	Days remaining until Widnium Fragment exchange
+ETC_20190223_040785	Gazer
+ETC_20190223_040786	Gazers are monsters that are used by Demon King Baiga as his eyes and ears around the world.
+ETC_20190223_040787	Greedy Prisoner
+ETC_20190223_040788	An imprisoned demon that has been set loose in our world for the sole purpose of wreaking havoc.
+ETC_20190223_040789	Puppet M
+ETC_20190223_040790	A monster that mimics Plague Doctors. They execute people instead of curing them.
+ETC_20190223_040791	Masked Executor
+ETC_20190223_040792	We do not know the origins of this monster, but it is certain that they are just as cruel and merciless as demons themselves. 
+ETC_20190223_040793	[Event] Klaipeda
+ETC_20190223_040794	[Event] Orsha
+ETC_20190223_040795	[TOS 4-Time Researcher]
+ETC_20190223_040796	A title given to those who participate as a TOS 4-Time Researcher.
+ETC_20190223_040797	Return to your previous location.
+ETC_20190223_040798	Play Guild Hangout Raid
+ETC_20190223_040799	You are currently participating in a Guild Hangout Raid.
+ETC_20190223_040800	Unable to Join Hangout Raid
+ETC_20190223_040801	You cannot participate in the Guild Hangout Raid due to being incapable of combat.
+ETC_20190223_040802	Manage Hangout Raid
+ETC_20190223_040803	{nl} {nl}Displays the current number of summons and their HP.{nl} {nl}The HP of summons from Summoning, Salamion, Shoggoth and{nl}Corpse Tower will be displayed.
+ETC_20190223_040804	The HP of summons are displayed in green to differentiate from that of monsters.
+ETC_20190223_040805	Only Animal, Plant and Mutant-type cards can be registered onto the Necronomicon, with a maximum of four cards.{nl}At the bottom of the Necronomicon, you can view the number of corpse parts you collected so far.
+ETC_20190223_040806	{nl} {nl}Displays the current number of summons and their HP.{nl} {nl}You can check your summon info in the summons tab{nl}in your party info UI. You can switch between party and summon info{nl}by pressing the ({img key~ 40 40}) key or clicking on the {img button_view_info 40 40} button.
+ETC_20190223_040807	Displays your remaining number of Necromancer skeleton and Bokor zombie summons.
+ETC_20190223_040808	{nl} {nl}Displays the remaining HP of Sorcerer's Summoning summon,{nl}Salamion, Necromancer's Shoggoth and Corpse Tower.
+ETC_20190223_040809	Guild Hangout Raid
+ETC_20190223_040810	You can partake in a Guild Hangout Raid when your Guild Level reaches level 5.
+ETC_20190223_040811	The Guild Hangout Raid is a raid that takes place in your Guild Hangout.{nl}Guild Level 5 is required for players to initiate a Guild Hangout Raid.{nl}Interact with the Sage Envoy in your Guild Hangout to begin the Guild Hangout Raid.
+ETC_20190223_040812	{nl} {nl}To begin a Guild Hangout Raid you must either be a Guild Master or have been given the authority to [Manage Guild Hangout Raid] by the Guild Master.{nl}Users who have the authority to manage Guild Hangout Raids can initiate the raid. The difficulty of the raid will be adjustable once your Guild Level reaches level 6.
+ETC_20190223_040813	The higher levels of difficulty will be unlocked as the Guild Level rises, with the maximum difficulty level of 11 unlocked when your Guild Level reaches 15.
+ETC_20190223_040814	{nl} {nl}Guild Hangout Raids can only be joined by Guild members and the raid can be continued by defeating the raid boss.
+ETC_20190223_040815	You can summon a new boss after defeating the raid boss. If the raid is put to a halt due to various reasons, you can restart the raid from where you left off with the raid boss HP remaining as it was before the raid was halted.{nl} {nl}Members of the Guild who have rejoined the Guild after leaving will not be able to partake in the raid for a 14-day duration.{nl}Members of other guilds will not be able to participate in the raid.
+ETC_20190223_040816	{nl} {nl}Participants earn 1 Guild Hangout Raid contribution point per 10,000 damage dealt to the boss.{nl}Contribution points will be summed up and paid as Silver every Monday at 6 AM by the Sage Envoy.
+ETC_20190223_040817	The amount of Silver earned will depend on the Guild Level and the contribution points earned by each member.{nl}When the raid is failed and the boss is not defeated, the contribution points earned in the session will not be saved.
+ETC_20190223_040818	{nl} {nl}The accumulated contribution points can be checked by interacting with the Sage Envoy.
+ETC_20190223_040819	Summons Info
+ETC_20190223_040820	Displays the number and the HP of your summons.
+ETC_20190223_040821	{nl} {nl}Summon info can be checked in another tab of the party info UI.{nl}Pressing the ({img key~ 40 40}) key or clicking on the {img button_view_info 40 40) button will switch between party and summon info.
+ETC_20190223_040822	pvp_mine information log
+ETC_20190223_040823	SOLO RAID information log
+ETC_20190223_040824	Event user information warning.
+ETC_20190223_040825	The Ultimate Monster Tamer
+ETC_20190223_040826	Event: Monster Tamer
+ETC_20190223_040827	Chase the Golden Pig
+ETC_20190223_040828	Event: Chase the Golden Pig
+ETC_20190223_040829	Assault on Klaipeda
+ETC_20190223_040830	Item Appearance Eraser
+ETC_20190223_040831	You can reset the appearance of an item that had its appearance changed.{nl}The material used to change the item's appearance will be destroyed.
+ETC_20190223_040832	Randomly changes the number, groups, values and types of stats contained in a random stat item. You can choose to keep the new stats or revert them back to their original state.{nl} The item is issued as a part of the [Re:Build] update. This item will be removed at the end of the event period.
+ETC_20190223_040833	[Event] Mysterious Magnifier
+ETC_20190223_040834	[Event] Artisan Magnifier
+ETC_20190223_040835	[Event] Combat Support Box
+ETC_20190223_040836	A box containing items useful for combat. Right-click to use and obtain the items.{nl}- [Event] Small Elixir of HP Recovery x30{nl}- [Event] Small Elixir of SP Recovery x30{nl}
+ETC_20190223_040837	Разбойники были разыскиваемыми преступниками в королевстве, которые получили прощение после того как они помогли многим великим авантюристам в их поисках.{nl}Около 300 лет назад, во времена правления Nachel I's они получили прощение, что дает им иммунитет от наказания если их преступления не очень серьезные, как убийство или предательство.{nl}Разбойники сделают все чтобы победить в бою.{nl}Они класc специализирующийся на тайной засаде и нанесения урона в спину.
+ETC_20190223_040838	Guardian's Antechamber
+ETC_20190223_040839	Checkpoint
+ETC_20190223_040840	Refugee Station
+ETC_20190223_040841	Construction Quarters
+ETC_20190223_040842	Segregated Quarters
+ETC_20190223_040843	Crystal Workshop
+ETC_20190223_040844	Crystal Smelting Site
+ETC_20190223_040845	Golden Pig
+ETC_20190223_040846	Sage Female 1
+ETC_20190223_040847	Использовать Wings of Vaivora Coin магазин
+ETC_20190223_040848	[PP] Red Vampire Costume
+ETC_20190223_040849	[PP] Red Winter Night Costume
+ETC_20190223_040850	Новым/Вернувшимся
+ETC_20190223_040851	February Attendance Check Rewards
+ETC_20190223_040852	March Attendance Check Rewards
+ETC_20190223_040853	Irredian Shelter PC Session
+ETC_20190223_040854	Increases property attack in value equivalent to property resistance{nl}- Affected properties: Fire, Ice, Lightning, Poison, Dark, Holy, Earth, Psychokinesis{nl}- Max. 300 per property
 ETC_20190223_040855	Increases the additional Holy-property damage on every attack by a value equal to your property resistance.{nl}- Properties: Fire, Ice, Electricity, Poison, Dark, Holy, Earth, Psychokinesis (max. 1,500 increase){nl} {nl}Dragon Strength Lv 2 Effects{nl}Additional Holy-property damage increased by a value equal to 8% of your magic defense (max. 4,000 increase).
 ETC_20190223_040856	Abyss Irredian Set
 ETC_20190223_040857	5% chance to activate Berserk on attack.{nl} {nl}Berserk{nl}Increases Critical Rate by 10% for 5 seconds (maximum increase of 200).
