@@ -3890,7 +3890,7 @@ UI_20190611_003889	{@st43}{s16}Limit the use of certain skills.{/}
 UI_20190612_003890	{s16}{b}{ol}{ds} All Levels
 UI_20190612_003891	{s16}{b}{ol}{ds}Recommended
 UI_20190612_003892	{s16}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}
-UI_20190612_003893	{s16}{ol} All Quests
+UI_20190612_003893	{s16}{ol} Все квесты
 UI_20190612_003894	{s16}{ol} Main Quests
 UI_20190612_003895	{s16}{ol} Sub Quests
 UI_20190612_003896	{s16}{ol} Repeatable Quests
