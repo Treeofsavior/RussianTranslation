@@ -4701,7 +4701,7 @@ ETC_20150317_004700	Individual tradable
 ETC_20150317_004701	Individual transaction impossible
 ETC_20150317_004702	And when attached to the card socket,
 ETC_20150317_004703	This anvil does not match this type of equipment
-ETC_20150317_004704	Событие
+ETC_20150317_004704	Ивенты
 ETC_20150317_004705	Demon
 ETC_20150317_004706	Where are you???
 ETC_20150317_004707	Unconfirmed
@@ -20560,7 +20560,7 @@ ETC_20160224_020561	{nl}Register this to the Adventure Journal?
 ETC_20160224_020562	No Options
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
 ETC_20160224_020564	You cannot carry more than {MAX} silver.
-ETC_20160224_020565	Возможность взять [{Time}]
+ETC_20160224_020565	Возможно взять до [{Time}]
 ETC_20160224_020566	Безссрочный
 ETC_20160224_020567	Скрыть
 ETC_20160224_020568	Показать
@@ -41993,7 +41993,7 @@ ETC_20190611_041994	Select Recipe
 ETC_20190611_041995	You have exceeded the maximum number of [Mercenary Badges]. {Count} badges will be issued and {Extra} badges will be discarded. 
 ETC_20190611_041996	Requires a specific skill to use.
 ETC_20190611_041997	Cannot perform that action right now.
-ETC_20190611_041998	Ranks will be displayed after they are reset.
+ETC_20190611_041998	Ранги будут отображаться после их сброса.
 ETC_20190611_041999	You've been poisoned by the evil energy from the Thorny Bushes!
 ETC_20190611_042000	[Magic Circle]
 ETC_20190611_042001	[Continous Area Effect]
@@ -42605,7 +42605,7 @@ ETC_20190820_042606	Nuaele? That little thing grew larger?
 ETC_20190820_042607	Can only be used while in towns.{nl}Check the tooltip for the specific areas where the item can be used.
 ETC_20190820_042608	Daily purchase limit of {Count} 
 ETC_20190820_042609	We are supporting Saviors who have advanced into classes affected by balance changes.{nl}Please check the list of eligible classes.
-ETC_20190828_042610	September Attendance Rewards
+ETC_20190828_042610	Награды за посещение сентября
 ETC_20190830_042611	Vakarine Package
 ETC_20190830_042612	Right-click to use and acquire the contents of the box. Will receive 1 item per day when you login for up to 25 days. 
 ETC_20190830_042613	Vakarine First Time Package

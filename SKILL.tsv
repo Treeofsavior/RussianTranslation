@@ -1401,7 +1401,7 @@ SKILL_20150317_001400	Crossfire
 SKILL_20150317_001401	Shoot an arrow that explodes in a cross if it kills the monster.
 SKILL_20150317_001402	{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
 SKILL_20150317_001403	Playing Flute
-SKILL_20150317_001404	Identify
+SKILL_20150317_001404	Идентификация предмета
 SKILL_20150317_001405	Move away from current area by jumping and rotating backwards. Successfully evading enemy attack results in drastic increase of critical strike chance on the next attack.
 SKILL_20150317_001406	Leg Shot
 SKILL_20150317_001407	Shoot feet of target to slow it down.
@@ -15195,7 +15195,7 @@ SKILL_20190419_015194	Basic Attack Speed: +#{CaptionRatio}#{nl}Cooldowns reduced
 SKILL_20190419_015195	Continuously cut down enemies in front of you with a one-handed sword. The skill's AoE attack ratio increases by 10 while the Cavalry Charge buff is active.{nl}Additonal damage against enemies under [Bleeding] debuff.
 SKILL_20190419_015196	Skill Factor: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +25% damage on enemies under [Bleeding] debuff
 SKILL_20190419_015197	Rush to attack an enemy and return to your position. Your movement speed increases momentarily after using Infinite Assault.{nl}{#00113F}Increases the additional damage against enemies under [Warcry] debuff by [Skill Lv]x10%.{nl}
-SKILL_20190419_015198	Gather powerful magical energy and launch it towards an enemy. Damage dealt is proportional to the time spent charging the skill.
+SKILL_20190419_015198	Соберите мощную магическую энергию и направьте ее навстречу врагу. Наносимый урон пропорционален времени, затраченному на зарядку умения.
 SKILL_20190419_015199	Skill Factor: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}Casting time: 0.5 seconds{nl}Damage increased by +25% on full charge
 SKILL_20190419_015200	Damage Taken -#{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# minutes
 SKILL_20190419_015201	Attack continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
