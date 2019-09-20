@@ -42663,3 +42663,7 @@ ETC_20190910_042664	{NAME} has defeated a {ol}{img mine_pvp_teamicon_goldencroon
 ETC_20190910_042665	{NAME} has defeated a {ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary Member{/}.{nl}{POINT} points have been plundered from the {ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary{/}.	{ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#ff6d00} 칼날서약 용병단원{/}을 {NAME}이(가) 처치하였습니다.{nl}{ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#ff6d00} 칼날서약 용병단원{/}의 포인트 {POINT}이 약탈되었습니다.
 ETC_20190910_042666	{ol}{img mine_pvp_teamicon_goldencroon 40 40}{/}{#5ae2e7} Golden Note Mercenary{/} is under attack.	{ol}{img mine_pvp_teamicon_goldencroon 40 40}{/}{#5ae2e7} 황금노래 용병단원{/}이 피해를 입고 있습니다.
 ETC_20190910_042667	{ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary{/} is under attack.	{ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#ff6d00} 칼날서약 용병단원{/}이 피해를 받고 있습니다.
+ETC_20190918_042668	Legend Enchant Jewel Box	레전드 인챈트 쥬얼 상자				
+ETC_20190918_042669	Right-click to obtain the following item.{nl} - [Lv. 400] Legend Enchant Jewel x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [LV. 400] 레전드 인챈트 쥬얼 x1				
+ETC_20190918_042670	Unique Enchant Jewel Box	유니크 인챈트 쥬얼 상자				
+ETC_20190918_042671	Right-click to obtain the following item.{nl} - [Lv. 400] Unique Enchant Jewel x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [LV. 400] 유니크 인챈트 쥬얼 x1		
