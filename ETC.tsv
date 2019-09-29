@@ -5,7 +5,7 @@ ETC_20150317_000004	There are people who try to eat the Large Kepa sometimes. Do
 ETC_20150317_000005	Red Kepa
 ETC_20150317_000006	Contrary to popular belief, it's the Red Kepas that are most similar to the original Kepa.
 ETC_20150317_000007	Poisoned Kepa
-ETC_20150317_000008	Монстр
+ETC_20150317_000008	Монстры
 ETC_20150317_000009	Hamming
 ETC_20150317_000010	Despite its tough skin, the Hamming is a fairly feeble monster.
 ETC_20150317_000011	Chinency
@@ -1890,7 +1890,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
-ETC_20150317_001893	Вещи
+ETC_20150317_001893	Предметы
 ETC_20150317_001894	Карта
 ETC_20150317_001895	Достижения
 ETC_20150317_001896	Mike
@@ -1926,7 +1926,7 @@ ETC_20150317_001925	Wizard
 ETC_20150317_001926	Archer
 ETC_20150317_001927	Cleric
 ETC_20150317_001928	View Information
-ETC_20150317_001929	Канал
+ETC_20150317_001929	 Канал
 ETC_20150317_001930	Вы хотите перейти на канал {Channel}?
 ETC_20150317_001931	Цена
 ETC_20150317_001932	's Дом
@@ -6163,8 +6163,8 @@ ETC_20150317_006163	The Companion Trader offers.
 ETC_20150317_006164	Attributes of your companion can be increased by using this function{nl}{nl}
 ETC_20150317_006165	Special food can be given to your companion when it runs out of stamina.
 ETC_20150317_006166	Special food for your companion can be bought from a Companion Trader.
-ETC_20150317_006167	Данж
-ETC_20150317_006168	Подземелья очень опасны,{nl}но вас ждут особые награды.
+ETC_20150317_006167	Данжи
+ETC_20150317_006168	Данжи очень опасны,{nl}но вас ждут особые награды.
 ETC_20150317_006169	Monsters found in dungeons will attack characters on sight.{nl}Gather more players to form a party and face the challenge!
 ETC_20150317_006170	When a character dies in the dungeon, select
 ETC_20150317_006171	Resurrect at the nearest area
@@ -6183,7 +6183,7 @@ ETC_20150317_006183	Spray - Orange
 ETC_20150317_006184	Spray - Yellow
 ETC_20150317_006185	Spray - Green
 ETC_20150317_006186	Red Gem
-ETC_20150317_006187	A gem that can be found in a dungeon. {nl}It is able to enhance equipment by equipping it in a socket. {nl}When charged it exerts a stronger power. Right-click to equip it to an equipment.
+ETC_20150317_006187	Драгоценный камень, который можно найти в данже. {nl} Он может усиливать предметы находясь в гнезде. {nl} Находясь в гнезде, оно оказывает более сильную силу. Щелкните правой кнопкой мыши, чтобы поместить его в предмет.
 ETC_20150317_006188	Blue Gem
 ETC_20150317_006189	Green Gem
 ETC_20150317_006190	Yellow Gem
@@ -20386,7 +20386,7 @@ ETC_20160224_020387	Convent Auto Matching
 ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Right-click to use.
 ETC_20160224_020390	Enchant Scroll
-ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.
+ETC_20160224_020391	Добавляет случайную опцию к прическе. {Nl} Можно добавить до 3 опций. {Nl} Этот свиток нельзя использовать для экипированного предмета. {Nl} Щелкните правой кнопкой мыши, чтобы использовать.
 ETC_20160224_020392	100 TP [Event]
 ETC_20160224_020393	Use to obtain 100 TP.
 ETC_20160224_020394	Enchant Scroll 20x Box
@@ -20656,7 +20656,7 @@ ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of ite
 ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Strike-type
 ETC_20160224_020660	Strike Defense
-ETC_20160224_020661	Enchant
+ETC_20160224_020661	Зачарованно
 ETC_20160224_020662	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?
 ETC_20160224_020663	You have already registered this recipe.
 ETC_20160224_020664	The recipe has been registered.
@@ -23298,8 +23298,8 @@ ETC_20160811_023299	FAQ : Character HP, SP, STA {nl}1) You can check your charac
 ETC_20160811_023300	Check account or session property
 ETC_20160811_023301	Modify account or session property
 ETC_20160811_023302	/AccumulatedAttendance
-ETC_20160811_023303	[{TYPE}]{WHO} has logged in.
-ETC_20160811_023304	[{TYPE}]{WHO} has logged out.
+ETC_20160811_023303	[{TYPE}]{WHO} вошел в систему.
+ETC_20160811_023304	[{TYPE}]{WHO} вышел из системы.
 ETC_20160811_023305	Item not eligible for Blessed Gem extraction.
 ETC_20160811_023306	Item not eligible for item extraction.
 ETC_20160811_023307	To extract Blessed Gems, place the item in the circle above. Extracting the gems out of a transcended item will return the gems and eliminate the item.
@@ -37401,13 +37401,13 @@ ETC_20190104_037402	Используйте {Silver} серебра для изв
 ETC_20190104_037403	Successfully added [{count}] slot(s).
 ETC_20190104_037404	You cannot add more character slots.
 ETC_20190104_037405	All skills
-ETC_20190104_037406	Maximum level has been reached.
+ETC_20190104_037406	Максимальный уровень достигнут.
 ETC_20190104_037407	Status Points Spent
 ETC_20190104_037408	You must make at least one class advancement before being permitted entry.
-ETC_20190104_037409	{nl} minutes
-ETC_20190104_037410	{nl} seconds
-ETC_20190104_037411	{value} times
-ETC_20190104_037412	{value} seconds
+ETC_20190104_037409	{nl} минут
+ETC_20190104_037410	{nl} секунд
+ETC_20190104_037411	{value} раз
+ETC_20190104_037412	{value} секунд
 ETC_20190104_037413	Use to reset {value} status points.
 ETC_20190104_037414	You have no stat points to reset.
 ETC_20190104_037415	You do not have enough vouchers.
