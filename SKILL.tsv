@@ -799,7 +799,7 @@ SKILL_20150317_000798	Item skill
 SKILL_20150317_000799	Dash Атака
 SKILL_20150317_000800	This is the dash version of the base attack
 SKILL_20150317_000801	Zaibas
-SKILL_20150317_000802	Lv.1 Атака Ratio #{SkillFactor}#, Splash #{SkillSR}#
+SKILL_20150317_000802	Ур.1 Атака Ratio #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_000803	Обычная
 SKILL_20150317_000804	Обычная Атака 2
 SKILL_20150317_000805	Bow Left hand
@@ -1049,7 +1049,7 @@ SKILL_20150317_001048	Three times of hit damage
 SKILL_20150317_001049	Punish
 SKILL_20150317_001050	Cyclone
 SKILL_20150317_001051	Inflicts damage by releasing a powerful spinning attack to nearby enemies.
-SKILL_20150317_001052	Lv.1 Attack Rate #{SkillFactor}#, Splash 3Lv.2 Attack Rate #{SkillFactor}#, Splash 6Lv.3 Attack Rate #{SkillFactor}#, Splash 9Lv.4 Attack Rate #{SkillFactor}#, Splash 12Lv.5 Attack Rate #{SkillFactor}#, Splash 15
+SKILL_20150317_001052	Ур.1 Attack Rate #{SkillFactor}#, Splash 3Ур.2 Attack Rate #{SkillFactor}#, Splash 6Ур.3 Attack Rate #{SkillFactor}#, Splash 9Ур.4 Attack Rate #{SkillFactor}#, Splash 12Ур.5 Attack Rate #{SkillFactor}#, Splash 15
 SKILL_20150317_001053	Selfdestruct
 SKILL_20150317_001054	Shadow Clone
 SKILL_20150317_001055	Prepare for Attack
@@ -3672,7 +3672,7 @@ SKILL_20150414_003671	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hold your swor
 SKILL_20150414_003672	Doubles your EXP and loot dropped when you defeat an enemy within a certain number of attacks. You take 3x damage while the effect is active, and lose more durability when you become incapable of combat.
 SKILL_20150414_003673	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force to continuously attack enemies.
 SKILL_20150414_003674	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy and launch it{nl}towards an enemy.
-SKILL_20150414_003675	Makes an enemy lethargic.
+SKILL_20150414_003675	Враг впадает в летаргический сон.
 SKILL_20150414_003676	Makes an enemy fall asleep. The enemy awakens once you've reached your limit of attacks.
 SKILL_20150414_003677	Creates a protective shield that reflects the amplified damage back to an enemy.
 SKILL_20150414_003678	{#993399}{ol}[Magic]{/}{/}{nl}Continuously attack enemies with magic bullets.
@@ -12272,7 +12272,7 @@ SKILL_20180827_012271	Damage to Beast type monsters increased by 120.
 SKILL_20180827_012272	[For 10] EXP Burning
 SKILL_20180827_012273	EXP +100% for levels 360 and below
 SKILL_20180827_012274	[For 10] Movement Speed
-SKILL_20180827_012275	Movement Speed +1
+SKILL_20180827_012275	Скорость передвижения +1
 SKILL_20180827_012276	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Ability to list up to 10 items on the Market{nl} - Ability to retrieve Market silver instantaneously{nl} - Able to register items in
 SKILL_20180827_012277	Eligible for rewards
 SKILL_20180827_012278	Special party EXP
@@ -14048,7 +14048,7 @@ SKILL_20190104_014047	Pull Rete: Enhance
 SKILL_20190104_014048	* Increases [Pull Rete]'s one-handed spear Pierce damage increasing effects by 0.5% per attribute level{nl}* +10% added increase at maximum level
 SKILL_20190104_014049	Throw Rete: Enhance
 SKILL_20190104_014050	* Increases [Throw Rete]'s one-handed spear Pierce damage increasing effects by 0.5% per attribute level{nl}* +10% added increase at maximum level
-SKILL_20190104_014051	* Increases the skill factor of [Energy Bolt] by 0.5% per attribute level{nl}* +10% added increase at maximum level
+SKILL_20190104_014051	* Увеличивает коэффициент скилла [Energy Bolt] на 0,5% за каждый уровень атрибута {nl} * Добавляет + 10% на максимальном уровне
 SKILL_20190104_014052	* Increases the skill factor of [Earthquake] by 0.5% per attribute level{nl}* +10% added increase at maximum level
 SKILL_20190104_014053	* Increases the skill factor of [Magic Missile] by 0.5% per attribute level{nl}* +10% added increase at maximum level
 SKILL_20190104_014054	Magic Shield: Enhance
@@ -15195,8 +15195,8 @@ SKILL_20190419_015194	Basic Attack Speed: +#{CaptionRatio}#{nl}Cooldowns reduced
 SKILL_20190419_015195	Continuously cut down enemies in front of you with a one-handed sword. The skill's AoE attack ratio increases by 10 while the Cavalry Charge buff is active.{nl}Additonal damage against enemies under [Bleeding] debuff.
 SKILL_20190419_015196	Skill Factor: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +25% damage on enemies under [Bleeding] debuff
 SKILL_20190419_015197	Rush to attack an enemy and return to your position. Your movement speed increases momentarily after using Infinite Assault.{nl}{#00113F}Increases the additional damage against enemies under [Warcry] debuff by [Skill Lv]x10%.{nl}
-SKILL_20190419_015198	Соберите мощную магическую энергию и направьте ее навстречу врагу. Наносимый урон пропорционален времени, затраченному на зарядку умения.
-SKILL_20190419_015199	Skill Factor: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}Casting time: 0.5 seconds{nl}Damage increased by +25% on full charge
+SKILL_20190419_015198	Соберите мощную магическую энергию и {nl}направьте ее навстречу врагу. {nl}Наносимый урон пропорционален {nl}времени, затраченному на зарядку {nl}3675умения.
+SKILL_20190419_015199	Коэффициент Скилла: #{SkillFactor}#% x2{nl}Коэффициент АоЕ атаки: #{SkillSR}#{nl}Время кастования: 0.5 секунд{nl}Урон увеличен на + 25% при полном {nl}заряде
 SKILL_20190419_015200	Damage Taken -#{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# minutes
 SKILL_20190419_015201	Attack continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
 SKILL_20190419_015202	Teleport to a random location. Use the arrow keys to choose the direction of the teleportation and the threat level from some monsters that the player was targeted by is reset after the skill is used.

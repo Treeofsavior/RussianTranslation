@@ -13826,7 +13826,7 @@ ITEM_20170313_013825	A cube obtained from Gatre. It contains an item from one of
 ITEM_20170313_013826	Ninth Collexia Cube
 ITEM_20170313_013827	A cube obtained from Soldier Heulen. It contains an item from the following Колекция: Ibre Plateau. Right-click to open.
 ITEM_20170313_013828	Enhancement Card:500
-ITEM_20170313_013829	A card used to enhance a card. Increases a card's EXP by 500.
+ITEM_20170313_013829	Карта, используемая для улучшения карты. Увеличивает опыт карты на 500.
 ITEM_20170313_013830	Magnifying Glass
 ITEM_20170313_013831	The less-advanced techniques used to produce magnifying glasses mean that they often have low durability. Multiple magnifying glasses may be required to identify a single item.
 ITEM_20170313_013832	Chromite
@@ -14641,27 +14641,27 @@ ITEM_20170420_014640	[Kupole] Dirk Dagger
 ITEM_20170420_014641	[Kupole] Superior Cannon
 ITEM_20170420_014642	[Kupole] Long Pistol
 ITEM_20170420_014643	[Kupole] Superior Musket
-ITEM_20170420_014644	Instantly restores 273 HP. {nl}Additionally restores HP every 2 seconds. {nl}273 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014645	Instantly restores 461 HP. {nl}Additionally restores HP every 2 seconds. {nl}461 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014646	Instantly restores 921 HP. {nl}Additionally restores HP every 2 seconds. {nl}921 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014647	Instantly restores 84 SP. {nl}Additionally restores SP every 2 seconds. {nl}84 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014648	Instantly restores 144 SP. {nl}Additionally restores SP every 2 seconds. {nl}144 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014649	Instantly restores 288 SP. {nl}Additionally restores SP every 2 seconds. {nl}288 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014650	Restores your HP and SP by 28 every 2 seconds for 15 seconds. Right-click to use. Cooldown of 100 seconds.
-ITEM_20170420_014651	Restores your HP and SP by 46 every 2 seconds for 15 seconds. Right-click to use. Cooldown of 100 seconds.
-ITEM_20170420_014652	Restores your HP and SP by 93 every 2 seconds for 15 seconds. Right-click to use. Cooldown of 100 seconds.
-ITEM_20170420_014653	Restores 32~35 SP. Easy to acquire.{nl}Right-click to use. Cooldown of 45 seconds.
+ITEM_20170420_014644	Мгновенно восстанавливает 273 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 273 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014645	Мгновенно восстанавливает 461 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 461 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014646	Мгновенно восстанавливает 921 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 921 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014647	Мгновенно восстанавливает 84 SP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 84 SP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014648	Мгновенно восстанавливает 144 SP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 144 SP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014649	Мгновенно восстанавливает 288 SP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 288 SP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014650	Восстанавливает 28 HP и SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 100 секунд.
+ITEM_20170420_014651	Восстанавливает 46 HP и SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 100 секунд.
+ITEM_20170420_014652	Восстанавливает 93 HP и SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 100 секунд.
+ITEM_20170420_014653	Восстанавливает 32 ~ 35 SP. Легко приобрести. {Nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
 ITEM_20170420_014654	Sweet-tasting herb. It is sometimes used for treatment of wounds. Restores 50 to 60 HP. Cooldown of 45 seconds.
 ITEM_20170420_014655	It tastes bad but restores your SP. Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014656	Restores 350~400 SP. A well-known delicacy among food connoisseurs. {nl}Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014657	A mushroom with a hint of a woody scent. Right-click to use. Cooldown of 100 seconds.
 ITEM_20170420_014658	This fruit has a sweet and sour flavor. {nl}Restores HP every 2 seconds. 180 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014659	Restores 80~100 HP. The meat is readily available and safe to eat raw. Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014660	Instantly restores 172 HP. {nl}Additionally restores HP every 2 seconds. {nl}172 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014661	Instantly restores 288 HP. {nl}Additionally restores SP every 2 seconds. {nl}288 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014662	Instantly restores 576 HP. {nl}Additionally restores HP every 2 seconds. {nl}576 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014663	Instantly restores 108 SP. {nl}Additionally restores SP every 2 seconds. {nl}108 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20170420_014664	Instantly restores 180 SP. {nl}Additionally restores SP every 2 seconds. {nl}180 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
+ITEM_20170420_014660	Мгновенно восстанавливает 172 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 172 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014661	Мгновенно восстанавливает 288 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 288 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014662	Мгновенно восстанавливает 576 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 576 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014663	Мгновенно восстанавливает 108 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 108 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014664	Мгновенно восстанавливает 180 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 180 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
 ITEM_20170420_014665	Instantly restores 360 SP. {nl}Additionally restores SP every 2 seconds. {nl}360 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014666	Restores 224 HP and SP every 2 seconds. {nl}224 HP and SP are restored over 15 seconds. {nl}Right-click to use. Cooldown of 50 seconds.
 ITEM_20170420_014667	Restores HP and SP every 2 seconds. {nl}373 HP and SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 100 seconds.
@@ -17763,7 +17763,7 @@ ITEM_20180320_017762	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem E
 ITEM_20180320_017763	4-Star Gem Abrasive: 14 Days
 ITEM_20180320_017764	Used to enhance gems. It drastically increases a gem's EXP. Upon pick-up, use within 14 days.{nl}- Gem EXP Gain: 3900
 ITEM_20180320_017765	5-Star Gem Abrasive: 14 Days
-ITEM_20180320_017766	Used to enhance gems. It drastically increases a gem's EXP. Upon pick-up, use within 14 days.{nl}- Gem EXP Gain: 
+ITEM_20180320_017766	Используется для улучшения драгоценных камней. Это резко увеличивает опыт драгоценного камня. При получении используйте в течение 14 дней.{nl}- Gem EXP Gain: 14700
 ITEM_20180320_017767	Shining 7-Star Gem Abrasive
 ITEM_20180320_017768	Shining 8-Star Gem Abrasive
 ITEM_20180320_017769	Shining Gem Abrasive: 145340
