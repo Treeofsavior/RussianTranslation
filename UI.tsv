@@ -3901,8 +3901,8 @@ UI_20190621_003900	{@st66b}Item trade counts and entry limits will be reset duri
 UI_20190621_003901	{@st43}{s22}Victory Cube{/}
 UI_20190802_003902	{@st42}{s20}Challenger's League
 UI_20190802_003903	{@st42}{s20}Champion's League
-UI_20190802_003904	{@st41b}{s16}{b}Champion's League
-UI_20190802_003905	{@st41b}{s16}{b}Challenger's League
+UI_20190802_003904	{@st41b}{s16}{b}Champions
+UI_20190802_003905	{@st41b}{s16}{b}Challengers
 UI_20190802_003906	Regional League
 UI_20190802_003907	Unequip Ichor (Fixed)
 UI_20190802_003908	{@st43b}{s18}Ichor Stats (Fixed)
