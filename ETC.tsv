@@ -3770,7 +3770,7 @@ ETC_20150317_003769	wearing at least {/} armor will be of help
 ETC_20150317_003770	Open your inventory and right-click an item to equip
 ETC_20150317_003771	Wear the {@st54}Thick clothes{/} that you have.
 ETC_20150317_003772	There is {@st54} Think clothes {/}in the inventory so wear that
-ETC_20150317_003773	Your character level has increased
+ETC_20150317_003773	Уровень вашего персонажа увеличился
 ETC_20150317_003774	Level up tx failure. Request levelup tx until successful
 ETC_20150317_003775	Keyboard
 ETC_20150317_003776	to increase stats
@@ -4294,7 +4294,7 @@ ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
 ETC_20150317_004296	{@st43}Mission
-ETC_20150317_004297	{@st41}Reward
+ETC_20150317_004297	{@st41}Н
 ETC_20150317_004298	{@st41b}EXP:
 ETC_20150317_004299	{@st41}Required Item
 ETC_20150317_004300	{@st45tw} Forfeit
@@ -14135,7 +14135,7 @@ ETC_20150803_014136	Thank you
 ETC_20150803_014137	Nothing appeared
 ETC_20150803_014138	Tell Amanda that you couldn't find anything
 ETC_20150803_014139	The item is already sold
-ETC_20150803_014140	Team Battle League has started.{nl}Participate using the left icon at the minimap.
+ETC_20150803_014140	Team Battle League началась. {Nl} Участвуйте, используя левый значок на миникарте.
 ETC_20150803_014141	You can't participate the game since you've rejected the game a lot recently.
 ETC_20150803_014142	You do not have a fragment with you!
 ETC_20150803_014143	Magic Device
@@ -16476,7 +16476,7 @@ ETC_20151022_016477	Shelter Bonfire
 ETC_20151022_016478	Shelter Pyre
 ETC_20151022_016479	Leftover Goods
 ETC_20151022_016480	Lost Settler
-ETC_20151022_016481	Mission Failed: Returning to starting zone in 30 seconds.
+ETC_20151022_016481	Миссия не выполнена: возвращение в стартовую зону через 30 секунд.
 ETC_20151022_016482	The mission will start in 60 seconds.
 ETC_20151022_016483	The 5th room has been opened. {nl} Defeat all of the bosses within the time limit.
 ETC_20151022_016484	Defeat all of the monsters!
@@ -28791,7 +28791,7 @@ ETC_20170912_028792	Stage {STEP} complete.{nl} Acquired {POINT} Uphill Points!
 ETC_20170912_028793	Saalus Mission Entry Voucher applied.
 ETC_20170912_028794	Saalus Convent Missions Completed: 0{nl}Cannot use an entry voucher.
 ETC_20170912_028795	[Coupon: {VALUE}]
-ETC_20170912_028796	Use Coupon
+ETC_20170912_028796	Использовать купон
 ETC_20170912_028797	Total Count {COUNT} Reward: 
 ETC_20170912_028798	Buff (+50% EXP for 30 min)
 ETC_20170912_028799	Weekend participation count +1
@@ -43559,7 +43559,7 @@ ETC_20191024_043560	Warp to Goddess Statue	여신상으로 이동
 ETC_20191024_043561	Warp to Market NPC	마켓 NPC로 이동
 ETC_20191024_043562	Revelation of Crystal Mine	수정 광산의 계시
 ETC_20191024_043563	Cannot warp due to level restriction or an incomplete quest.{nl}Please try again after increasing your level or completing more quests.	레벨 제한 또는 퀘스트 미 완료로 인해 이동하실 수 없습니다.{nl}레벨을 더 올려주시거나 일부 퀘스트를 클리어하고 다시 시도해주세요.
-ETC_20191024_043564	You've accomplished the hidden mission!{nl}Talk to the Magic Association NPC in Klaipeda or Orsha to claim your reward!	히든 미션의 목표를 달성했습니다!{nl}클라페다나 오르샤에 있는 마법협회 NPC와 대화해 보상을 받아 가세요!
+ETC_20191024_043564	Вы выполнили скрытую миссию! {Nl} Поговорите с NPC Magic Association в Klaipeda или Orsha, чтобы получить свою награду!
 ETC_20191024_043565	The smll of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}님의 피자 냄새가 느껴집니다.{/}
 ETC_20191024_043566	Pizza Buff (1 hr)	피자 버프 적용 (1시간)
 ETC_20191024_043567	Delivery Buff (24 hr)	배달원 버프 적용 (24시간)
