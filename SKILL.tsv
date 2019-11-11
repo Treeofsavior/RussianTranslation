@@ -13016,7 +13016,7 @@ SKILL_20190104_013015	Skill Factor: #{SkillFactor}#%{nl}Targets: 5
 SKILL_20190104_013016	Concentrate magic energy and fire it at enemies.
 SKILL_20190104_013017	Sprinkle HP Potion
 SKILL_20190104_013018	Sprinkle an HP Potion registered in the Alchemy Workshop around to restore your HP and that of your party members. You can only register Alchemist-made potions.
-SKILL_20190104_013019	Recovery: #{CaptionRatio}#
+SKILL_20190104_013019	Восстановление: #{CaptionRatio}#
 SKILL_20190104_013020	Sprinkle SP Potion
 SKILL_20190104_013021	Sprinkle an SP Potion registered in the Alchemy Workshop around to restore your SP and that of your party members. You can only register Alchemist-made potions.
 SKILL_20190104_013022	Stab the enemy with a bone knife. If the enemy is a Beast-, Devil- or Insect-type, or affected by the Enervation debuff, blood will spew out that recovers some of your HP.
