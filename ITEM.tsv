@@ -23226,7 +23226,7 @@ ITEM_20191024_023225	A helmet replicating the head of the Kaiju that TOS Rangers
 ITEM_20191024_023226	Haunted Hospital Nurse Helmet Costume (Male)
 ITEM_20191024_023227	A costume of a spooky nurse guarding the haunted hospital.{nl}Can be exchanged for medals at the Exchange Shop.
 ITEM_20191024_023228	Haunted Hospital Nurse Helmet Costume (Female)
-ITEM_20191024_023229	 - 10% chance to apply Berserk buff on self for a 5-second duration{nl} {nl}Berserk{nl} - Critical rate 2x (cannot be stacked)
+ITEM_20191024_023229	 - 10% chance to apply Berserk buff on self for a 5-second duration with Strike attacks{nl} {nl}Berserk{nl} - Critical rate 2x (cannot be stacked)
 ITEM_20191024_023230	Moringponia Sword
 ITEM_20191024_023231	{nl} {nl}Lightning Rod{nl} - Deals additional attack by casting Thunder Strike when performing Slash attacks{nl}on targets under Storm Bolt debuff{nl}(Cooldown 0.1 sec){nl} {nl}Thunder Strike Skill Factor: (Storm Bolt skill level x 12)%
 ITEM_20191024_023232	This weapon is high risk, high reward. It makes of demonic powers that puts its wielder at risk in order to amplify the output of damage.
@@ -24106,7 +24106,7 @@ ITEM_20191024_024105	Learn the art [Bounce Shot: Insta-Freeze Arrow] upon use.{n
 ITEM_20191024_024106	Mystic Tome (Barrage: Perfect Angle)
 ITEM_20191024_024107	Learn the art [Barrage: Perfect Angle] upon use.{nl} - Learn Condition: Ranger Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* The attack range of the skill is reduced by half, and the damage is increased if only one target is hit{nl}* Attack Range: Half of the original arc{nl}* Damage Increase: 100%
 ITEM_20191024_024108	Mystic Tome (Crouching Strike: Lightning)
-ITEM_20191024_024109	Learn the art [Crouching Strike: Lightning] upon use.{nl} - Learn Condition: Matross Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Adds the [Lightning] property to Crouching Strike{nl}* In addition, after using the skill, the [Swiftness] buff is applied to you for 10 seconds, causing all cannon skill attacks to multi-hit 1-2 times
+ITEM_20191024_024109	Learn the art [Crouching Strike: Lightning] upon use.{nl} - Learn Condition: Matross Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Adds the [Lightning] property to Crouching Strike{nl}* In addition, after using the skill, the [Swiftness] buff is applied to you for 10 seconds, causing all Matross skill attacks to multi-hit 1-2 times
 ITEM_20191024_024110	Mystic Tome (Arrow Sprinkle: Barrage)
 ITEM_20191024_024111	Learn the art [Arrow Sprinkle: Barrage] upon use.{nl} - Learn Condition: Mergen Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Causes [Arrow Sprinkle] to deal equal damage to all enemies in range{nl}The number of hits is changed and damage per hit is increased by 30%{nl}* The [Arrow Sprinkle - Expand] effect of the Skiaclipse Bow is disabled
 ITEM_20191024_024112	Mystic Tome (Tiger Hunter: Bounty Hunter)
@@ -24899,3 +24899,5 @@ ITEM_20191104_024897	Pumpkin Candy	호박맛 할로윈 사탕
 ITEM_20191104_024898	Event item.{nl}Increases the amount of Sweet Treats by 2x for 24 hours when used. Effect does not apply to amount of Treats acquired in the [Halloween Midnight Rumble] dungeon and log-in rewards.{nl}Will be removed automatically at the end of the event period.	이벤트 아이템입니다. {nl}사용하면 24시간 동안 달콤한 할로윈 사탕의 획득량이 2배가 됩니다. 단, [할로윈 밤의 소동] 이벤트 던전과 접속 보상에는 효과가 적용되지 않습니다.{nl}11월 28일 점검 시, 삭제됩니다.
 ITEM_20191104_024899	Spoiled Candy	맛이 이상한 할로윈 사탕
 ITEM_20191104_024900	Can be used on Scarecrows to make the Wicked Witch vulnerable to attacks.{nl}Removed when the event dungeon has been exited.	할로윈 허수아비에 사용하여 할로윈 마녀를 무력화 시킬 수 있습니다.{nl}던전 종료 시, 일괄 삭제됩니다.
+ITEM_20191111_024901	Level Up Chest	레벨업 상자
+ITEM_20191114_024902	Lv.400 Stage 10 Transcendence Scroll	Lv.400 10초월 스크롤				

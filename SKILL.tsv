@@ -15750,7 +15750,7 @@ SKILL_20190611_015749	Duration: #{CaptionTime}# seconds{nl}Damage received: -#{C
 SKILL_20190611_015750	Use the power of Kabbalah to summon serpents that attack your enemies and remove debuffs from allies periodically.
 SKILL_20190611_015751	Skill Factor: #{SkillFactor}#% per 2  seconds{nl}Removes 1 ally debuff every 2 seconds{nl}Duration: 10 seconds{nl}Target: 10
 SKILL_20190611_015752	Duration: #{CaptionTime}# seconds{nl}Maximum HP: +#{CaptionRatio}#%
-SKILL_20190611_015753	Heal Factor: #{CaptionRatio}#% per 0.5 seconds{nl}Duration: #{CaptionTime}# seconds{nl}Consumes Holy Water x1
+SKILL_20190611_015753	Heal Factor: #{CaptionRatio}#% per 0.5 seconds{nl}Duration: #{CaptionTime}# seconds{nl}Consumes Holy Water x10
 SKILL_20190611_015754	Changes the type of enemies within range to Demon. Changed targets take 10% additional damage from Holy-property attacks.{nl}The duration of the effect on bosses vary depending on the grade of the boss.{nl}* Unique Raid Boss: 50%{nl}* Legend Raid Boss: 25%{nl}* Boruta: 12.5%
 SKILL_20190611_015755	Clap your hands twice. Increases the duration of ally installations in the proximity (Ice Wall and Spike Shooter not included).{nl}Skill effects do not stack.
 SKILL_20190611_015756	Temporarily increases the player's critical chance and reduces the enemy's block when attacking enemies from behind.
@@ -17178,7 +17178,7 @@ SKILL_20191024_017177	* [Stegreifspiel] will always trigger [Dissonanz] upon use
 SKILL_20191024_017178	[Arts] Hameln Nagetier: Enhanced Upgrade	[아츠] 하멜른 나게티어: 상급 강화
 SKILL_20191024_017179	* Increases the skill factor of [Hameln Nagetier] by 1.25% per attribute level	* [하멜른 나게티어]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017180	[Arts] Crouching Strike: Lightning	[아츠] 크라우칭 스트라이크: 라이트닝
-SKILL_20191024_017181	* Adds the [Lightning] property to Crouching Strike{nl}* In addition, after using the skill, the [Swiftness] buff is applied to you for 10 seconds, causing all cannon skill attacks to multi-hit 1-2 times	* 크라우칭 스트라이크에 [전기] 속성이 추가 적용{nl}* 또한 스킬을 사용 후 자신에게 [신속] 버프가 10초 동안 부여되어, 캐논 스킬 공격이 연타로 적용됨. 연타는 1회 ~ 2회 추가됨
+SKILL_20191024_017181	* Adds the [Lightning] property to Crouching Strike{nl}* In addition, after using the skill, the [Swiftness] buff is applied to you for 10 seconds, causing all Matross skill attacks to multi-hit 1-2 times	* 크라우칭 스트라이크에 [전기] 속성이 추가 적용{nl}* 또한 스킬을 사용 후 자신에게 [신속] 버프가 10초 동안 부여되어, 캐논 스킬 공격이 연타로 적용됨. 연타는 1회 ~ 2회 추가됨
 SKILL_20191024_017182	[Arts] Fire and Run: Enhanced Upgrade	[아츠] 파이어 앤드 런: 상급 강화
 SKILL_20191024_017183	* Increases the Skill Factor of [Fire and Run] by 1.25% per attribute level	* [파이어 앤드 런]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017184	[Arts] Explosion: Enhanced Upgrade	[아츠] 익스플로전: 상급 강화
@@ -17829,7 +17829,7 @@ SKILL_20191024_017828	Zealot Class Lv. 45	질럿 클래스 45레벨 달성
 SKILL_20191024_017829	[Immolation: Enhance] attribute Lv. 65	[이몰레이션: 강화] 특성 65 레벨 달성
 SKILL_20191024_017830	[Fanatic Illusion: Enhance] attribute Lv. 65	[파나틱 일루젼: 강화] 특성 65 레벨 달성
 SKILL_20191024_017831	[Emphatic Thrust: Enhance] attribute Lv. 65	[엠퍼시스 트러스트: 강화] 특성 65 레벨 달성
-SKILL_20191026_017832	Duration: #CaptionTime}# seconds{nl}Max. Level 1	지속시간 #{CaptionTime}#초{nl}1레벨 마스터
+SKILL_20191026_017832	Duration: #{CaptionTime}# seconds{nl}Max. Level 1	지속시간 #{CaptionTime}#초{nl}1레벨 마스터
 SKILL_20191026_017833	Bloody Battle	혈전
 SKILL_20191026_017834	Healing received is reduced by -10% per stack.	받는 힐량이 중첩당 10%씩 감소합니다.
 SKILL_20191026_017835	Skirmish	투쟁
