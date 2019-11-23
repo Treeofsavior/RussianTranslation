@@ -15195,7 +15195,7 @@ SKILL_20190419_015194	Basic Attack Speed: +#{CaptionRatio}#{nl}Cooldowns reduced
 SKILL_20190419_015195	Continuously cut down enemies in front of you with a one-handed sword. The skill's AoE attack ratio increases by 10 while the Cavalry Charge buff is active.{nl}Additonal damage against enemies under [Bleeding] debuff.
 SKILL_20190419_015196	Skill Factor: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +25% damage on enemies under [Bleeding] debuff
 SKILL_20190419_015197	Rush to attack an enemy and return to your position. Your movement speed increases momentarily after using Infinite Assault.{nl}{#00113F}Increases the additional damage against enemies under [Warcry] debuff by [Skill Lv]x10%.{nl}
-SKILL_20190419_015198	Соберите мощную магическую энергию и {nl}направьте ее навстречу врагу. {nl}Наносимый урон пропорционален {nl}времени, затраченному на зарядку {nl}3675умения.
+SKILL_20190419_015198	Соберите мощную магическую энергию и {nl}направьте ее навстречу врагу. {nl}Наносимый урон пропорционален {nl}времени, затраченному на зарядку {nl}умения.
 SKILL_20190419_015199	Коэффициент Скилла: #{SkillFactor}#% x2{nl}Коэффициент АоЕ атаки: #{SkillSR}#{nl}Время кастования: 0.5 секунд{nl}Урон увеличен на + 25% при полном {nl}заряде
 SKILL_20190419_015200	Damage Taken -#{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# minutes
 SKILL_20190419_015201	Attack continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
@@ -15678,47 +15678,47 @@ SKILL_20190611_015677	Skill Factor: #{SkillFactor}#%{nl}AoE Attack Ratio: #{Skil
 SKILL_20190611_015678	Use your two-handed sword to adopt a defensive stance with chances of blocking attacks. Blocked enemies become vulnerable to Slash-type attacks from the user.
 SKILL_20190611_015679	Block Chance: +#{CaptionRatio2}#%{nl}Maximum Holding Time: 5 seconds{nl}Deals +{CaptionRatio3}#% damage on staggered enemies
 SKILL_20190611_015680	Inflict damage on enemies by swinging your sword around and creating continuous attacks. Deals increased damage to shocked enemies and deals further damage when the enemy is mounted.
-SKILL_20190611_015681	Skill Factor: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +#{CaptionRatio}#% damage on shocked enemies
+SKILL_20190611_015681	Коэффициент Скилла: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +#{CaptionRatio}#% damage on shocked enemies
 SKILL_20190611_015682	Assume an active Ram Muay attack stance. Unlocks Nak Muay skills and converts basic attacks. Basic attack speed increases with skill level.{nl}Enemies hit by the basic attacks under Ram Muay stance become shocked for 5 seconds. Nak Muay skills have 50% chance to hit additionally against shocked enemies.
 SKILL_20190611_015683	Strikes the lower half of the enemy. The targeted enemy becomes immobile for 1.5 seconds. Additional damage to Small-sized enemies and bosses. Can be used only when the Ram Muay buff is active.
-SKILL_20190611_015684	Skill Factor: #{SkillFactor}#% x 2{nl}+50% damage to Small-sized enemies and bosses{nl}Can be used after adopting the Ram Muay stance
+SKILL_20190611_015684	Коэффициент Скилла: #{SkillFactor}#% x 2{nl}+50% damage to Small-sized enemies and bosses{nl}Can be used after adopting the Ram Muay stance
 SKILL_20190611_015685	Slash the enemy with your elbow to inflict [Bleeding] debuff on the enemy. Deals additional damage against knocked down enemies. Can be used only when the Ram Muay buff is active.
-SKILL_20190611_015686	Skill Factor: #{SkillFactor}#% x2{nl}[Bleeding] duration: #{CaptionTime}# seconds{nl}* Duration limited to 3 seconds against bosses{nl}Deals +50% additional damage against knocked down enemies{nl}Can be used after adopting the Ram Muay stance
+SKILL_20190611_015686	Коэффициент Скилла: #{SkillFactor}#% x2{nl}[Bleeding] duration: #{CaptionTime}# seconds{nl}* Duration limited to 3 seconds against bosses{nl}Deals +50% additional damage against knocked down enemies{nl}Can be used after adopting the Ram Muay stance
 SKILL_20190611_015687	Attack the enemy with a powerful kick. The kicked enemy spins and gets knocked down. Deals additional damage against immobile enemies. Can be used only when the Ram Muay buff is active.
-SKILL_20190611_015688	Skill Factor: #{SkillFactor}#%{nl}Deals +50% additional damage against immobile enemies{nl}Can be used after adopting the Ram Muay stance
+SKILL_20190611_015688	Коэффициент Скилла: #{SkillFactor}#%{nl}Deals +50% additional damage against immobile enemies{nl}Can be used after adopting the Ram Muay stance
 SKILL_20190611_015689	Hit the enemy with a flying knee kick. Deals additional damage against enemies under [Te Trong] debuff. Can be used only when the Ram Muay buff is active.
 SKILL_20190611_015690	Skill Factor: #{SkillFactor}#%{nl}Deals +100% additional damage against enemies under [Te Trong] debuff{nl}Can be used after adopting the Ram Muay stance
 SKILL_20190611_015691	Applies a buff that changes the cooldown of Te Kha, Sok Chiang, Te Trong and Khao Loi to 0.5 seconds and increases the chance of [Ram Muay] buff to cause additional hits. After the buff expires, the cooldown of Te Kha, Sok Chiang, Te Trong and Khao Loi applies as 30 seconds.
 SKILL_20190611_015692	Duration: #{CaptionRatio}# seconds{nl}Chacne to hit additionally increases by +#{CaptionRatio2}#%
 SKILL_20190611_015693	Aim at the upper part of the enemy and slash.{nl}Deals additional damage to targets under [Shock] debuff.
-SKILL_20190611_015694	Skill Factor: #{SkillFactor}#% x 4{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +50% damage on enemies under [Shock] debuff
+SKILL_20190611_015694	Коэффициент Скилла: #{SkillFactor}#% x 4{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +50% damage on enemies under [Shock] debuff
 SKILL_20190611_015695	Charge forward and deal damage and applies the [Shock] debuff to enemies you come in contact with. Your physical and magic defense increase momentarily after using Cavalry Charge.
-SKILL_20190611_015696	Skill Factor: #{SkillFactor}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Increases Physical and Magic DEF by +100%{nl}[Cavalry Charge] buff duration: 5 seconds{nl}[Shock] duration: 10 seconds
-SKILL_20190611_015697	Skill Factor: #{SkillFactor}#% x 5{nl}Debuff Duration: 10 seconds{nl}Slash Attack Damage: +50%{nl}Damage +100% to frozen and Ice-property enemies
+SKILL_20190611_015696	Коэффициент Скилла: #{SkillFactor}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Increases Physical and Magic DEF by +100%{nl}[Cavalry Charge] buff duration: 5 seconds{nl}[Shock] duration: 10 seconds
+SKILL_20190611_015697	Коэффициент Скилла: #{SkillFactor}#% x 5{nl}Debuff Duration: 10 seconds{nl}Slash Attack Damage: +50%{nl}Damage +100% to frozen and Ice-property enemies
 SKILL_20190611_015698	Continuously cut down enemies in front of you with a one-handed sword. The skill's AoE attack ratio increases by 10 while the Cavalry Charge buff is active.{nl}Additonal damage against enemies under [Bleeding] or [Shock] debuff.
-SKILL_20190611_015699	Skill Factor: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +25% damage on enemies under [Bleeding] and [Shock] debuff
+SKILL_20190611_015699	Коэффициент Скилла: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +25% damage on enemies under [Bleeding] and [Shock] debuff
 SKILL_20190611_015700	Rush to attack an enemy and return to your position. Your movement speed increases momentarily after using Infinite Assault.{nl}When the skill is used while the user is under [Cavalry Charge] buff, the duration of [Cavalry Charge] buff is increased by 1.5 seconds.{nl}{#00113F}Increases the additional damage against enemies under [Warcry] debuff by [Skill Lv]x10%.{nl}
 SKILL_20190611_015701	Strike the enemy's head for a chance to afflict the enemy with [Stun] and [Slow] debuffs.{nl}{#00113F}If the Frenzy buff is active, the attack range of Helm Chopper increases and Stun duration changes to 4 seconds.{/}
-SKILL_20190611_015702	Skill Factor: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}[Stun] duration: #{CaptionRatio}# seconds{nl}[Slow] duration: 5 seconds
-SKILL_20190611_015703	Physical Attack: -#{CaptionRatio}#%{nl}Magic Attack: -#{CaptionRatio}#%{nl}Evasion: -#{CaptionRatio2}#%{nl}Damage from Magic Circles and Continuous Area Effect attacks: +#{CaptionRatio3}#%{nl}{#339999}{ol}[Lethargy]{/}{/} duration: #{CaptionTime}# seconds
-SKILL_20190611_015704	Skill Factor: #{SkillFactor}#% x 2{nl}{#339999}{ol}[Freeze]{/}{/} duration: #{CaptionTime}# seconds
-SKILL_20190611_015705	Skill Factor: #{SkillFactor}#%{nl}{#339999}{ol}[Freeze]{/}{/} duration: #{CaptionTime}# seconds
-SKILL_20190611_015706	Skill Factor: #{SkillFactor}#%{nl}Ice Wall Tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} duration: #{CaptionRatio2}# seconds{nl}Ice Wall Duration: #{CaptionTime}# seconds
+SKILL_20190611_015702	Коэффициент Скилла: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}[Stun] duration: #{CaptionRatio}# seconds{nl}[Slow] duration: 5 seconds
+SKILL_20190611_015703	Физическая атака: -#{CaptionRatio}#%{nl}Магическая атака: -#{CaptionRatio}#%{nl}Уклонение: -#{CaptionRatio2}#%{nl}Урон от Magic Circle и атак с непрерывным эффектом: +#{CaptionRatio3}#%{nl}{#339999}{ol}[Lethargy]{/}{/} продолжительность: #{CaptionTime}# секунд
+SKILL_20190611_015704	Коэффициент Скилла: #{SkillFactor}#% x 2{nl}{#339999}{ol}[Freeze]{/}{/} duration: #{CaptionTime}# seconds
+SKILL_20190611_015705	Коэффициент Скилла: #{SkillFactor}#%{nl}{#339999}{ol}[Freeze]{/}{/} duration: #{CaptionTime}# seconds
+SKILL_20190611_015706	Коэффициент Скилла: #{SkillFactor}#%{nl}Ice Wall Tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} duration: #{CaptionRatio2}# seconds{nl}Ice Wall Duration: #{CaptionTime}# seconds
 SKILL_20190611_015707	Create a curtain of ice for defence to block enemy attacks. Successfully blocking the enemy's attack reduces the damage received by half and freezes the attacking enemy.
 SKILL_20190611_015708	Duration 25 seconds{nl}Chance of inflicting {#339999}{ol}[Freeze]{/}{/} #{CaptionRatio2}#%{nl}{#339999}{ol}[Freeze]{/}{/} duration #{CaptionRatio}# sec{nl}Defense range: 50
-SKILL_20190611_015709	Skill Factor: #{SkillFactor}#%{nl}Magic DEF: -#{CaptionRatio}#%{nl}Casting time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
+SKILL_20190611_015709	Коэффициент Скилла: #{SkillFactor}#%{nl}Magic DEF: -#{CaptionRatio}#%{nl}Casting time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
 SKILL_20190611_015710	Throw an ice sphere to deal damage.{nl}Maximum Critical Chance is applied when the enemy  {#00113F}Debuffed enemies attacked with Rune of Ice become frozen for 3 seconds.{/}
-SKILL_20190611_015711	Skill Factor: #{SkillFactor}#% x2{nl}Casting time: #{CaptionTime}# seconds{nl} Consumes Rune Stone x1
+SKILL_20190611_015711	Коэффициент Скилла: #{SkillFactor}#% x2{nl}Casting time: #{CaptionTime}# seconds{nl} Consumes Rune Stone x1
 SKILL_20190611_015712	Turn you or an ally into a giant. Giant players are considered Large-type and have their HP and defense increased. Limited usage of skills.{nl}{#00113F}If there is a Shoggoth among your summons when using this skill, the Shoggoth will also receive the effects of Rune of Giants for 30 seconds.{nl}Appiles a chance to cast Earthquake when performing jumping attacks while turned into a giant (Basic attack damage is applied when the caster has not learned the Earthquake skill).
 SKILL_20190611_015713	Giant Size Duration: #{CaptionTime}# seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes Rune Stone x1
-SKILL_20190611_015714	Skill Factor: #{SkillFactor}#% x5{nl}Casting time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
+SKILL_20190611_015714	Коэффициент Скилла: #{SkillFactor}#% x5{nl}Casting time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
 SKILL_20190611_015715	Damage received while casting: -#{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# minutes{nl}Casting time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
-SKILL_20190611_015716	Skill Factor: #{SkillFactor}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
+SKILL_20190611_015716	Коэффициент Скилла: #{SkillFactor}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}Consumes Rune Stone x1
 SKILL_20190611_015717	Sharp thorns rise from within the shadow of an enemy, dealing damage. Applies [Blind] debuff to enemies for 3 seconds when hit. Shadow Thorn cannot be blocked or evaded.
-SKILL_20190611_015718	Skill Factor: #{SkillFactor}#%{nl}Ignores 25% defense of enemies under [Blind] debuff
-SKILL_20190611_015719	Skill Factor: #{SkillFactor}#% x 5 maximum{nl}[Blind] duration: 10 seconds
+SKILL_20190611_015718	Коэффициент Скилла: #{SkillFactor}#%{nl}Ignores 25% defense of enemies under [Blind] debuff
+SKILL_20190611_015719	Коэффициент Скилла: #{SkillFactor}#% x 5 maximum{nl}[Blind] duration: 10 seconds
 SKILL_20190611_015720	Deals damage to cursed enemies from afar. Deals additional damage on every third cast when used in succession.{nl}Damage increased against enemies under [Blind] debuff.
-SKILL_20190611_015721	Skill Factor: #{SkillFactor}#%{nl}Attack bonus on 3rd hit: #{CaptionRatio}# to #{CaptionRatio2}#x{nl}Damage against enemies under [Blind] debuff increased by +25%
+SKILL_20190611_015721	Коэффициент Скилла: #{SkillFactor}#%{nl}Attack bonus on 3rd hit: #{CaptionRatio}# to #{CaptionRatio2}#x{nl}Damage against enemies under [Blind] debuff increased by +25%
 SKILL_20190611_015722	Instruct your summoned zombies to celebrate. The zombies will deal damage to anything they touch and become immune to knockback and knockdowns. The average STR stat of the zombies are applied as additional damage.{nl}Deals increased damage against enemies under [Blind] debuff.
 SKILL_20190611_015723	Summon Skill Factor: #{SkillFactor}#%{nl}Maximum duration: 10 seconds{nl}Damage increased against enemies under [Blind] debuff increased by 24%{nl}Requires summoned zombies
 SKILL_20190611_015724	Detonates zombies near the targeted area and deals damage to nearby enemies.{nl}Deals increased damage against enemies under [Blind] debuff.
@@ -16023,7 +16023,7 @@ SKILL_20191024_016022	Strike the enemy's head, causing them to become afflicted 
 SKILL_20191024_016023	Skill Factor: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}[Stun] duration: #{CaptionRatio}# seconds	스킬 계수 #{SkillFactor}#% x 2회{nl}광역 공격 비율 #{SkillSR}#{nl}[스턴] 지속시간 #{CaptionRatio}#초
 SKILL_20191024_016024	Storm Bolt item	스톰 볼트 item
 SKILL_20191024_016025	Storm Boltitem	스톰 볼트item
-SKILL_20191024_016026	Create a protective shield around you that absorbs enemy attacks. 	자신에게 적 공격의 일정량을 흡수하는 방어막을 생성합니다. 
+SKILL_20191024_016026	Создаёт вокруг себя защитный щит, который поглощает атаки противника.	
 SKILL_20191024_016027	Reduces #{CaptionRatio}#% of the incoming damage{nl}Duration: #{CaptionRatio2}# minutes{nl}Consumes #{CaptionRatio3}#% of the maximum SP for every attack defended against.	받는 피해 #{CaptionRatio}#% 감소{nl}지속시간 #{CaptionRatio2}#분{nl}방어할 때 마다 최대 SP의 #{CaptionRatio3}#% 소모
 SKILL_20191024_016028	Gather powerful fire magic to launch it towards an enemy.{nl}An explosion occurs when the enemy is hit to damage nearby enemies with fire damage.{/}	강력한 화염 에너지를 모아 적에게 발사 합니다.{nl}적에게 적중하면 폭발하여 주변 적에게 화염 대미지를 입힙니다.{/}
 SKILL_20191024_016029	Skill Factor: #{SkillFactor}#% x #{CaptionRatio}#{nl}Fire Walls: 8{nl}Duration: 15 seconds	스킬 계수 #{SkillFactor}#% x #{CaptionRatio}#회{nl}파이어 월 8개{nl}지속시간 15초

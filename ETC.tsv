@@ -1477,7 +1477,7 @@ ETC_20150317_001476	Team does not exist
 ETC_20150317_001477	{S18}{ol}{#ffffcc}This character does not exist.
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
-ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
+ETC_20150317_001480	Вы превысили свой максимальный вес.{nl}Продавайте или выбросьте предметы из своего инвентаря, чтобы уменьшить вес.
 ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
 ETC_20150317_001482	Your inventory is full
 ETC_20150317_001483	This server is closed
@@ -4294,7 +4294,7 @@ ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
 ETC_20150317_004296	{@st43}Mission
-ETC_20150317_004297	{@st41}Н
+ETC_20150317_004297	{@st41}Награда
 ETC_20150317_004298	{@st41b}EXP:
 ETC_20150317_004299	{@st41}Required Item
 ETC_20150317_004300	{@st45tw} Forfeit
@@ -14135,7 +14135,7 @@ ETC_20150803_014136	Thank you
 ETC_20150803_014137	Nothing appeared
 ETC_20150803_014138	Tell Amanda that you couldn't find anything
 ETC_20150803_014139	The item is already sold
-ETC_20150803_014140	Team Battle League началась. {Nl} Участвуйте, используя левый значок на миникарте.
+ETC_20150803_014140	Начался Team Battle League. {Nl} Участвуйте, используя левый значок на миникарте.
 ETC_20150803_014141	You can't participate the game since you've rejected the game a lot recently.
 ETC_20150803_014142	You do not have a fragment with you!
 ETC_20150803_014143	Magic Device
