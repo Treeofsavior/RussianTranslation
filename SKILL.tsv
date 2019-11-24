@@ -3243,9 +3243,9 @@ SKILL_20150401_003242	Decreases the Gem's penalty depending on the skill level
 SKILL_20150401_003243	Synthesize weapons to change stats. Potential is consumed.
 SKILL_20150401_003244	Each Min, Max Attack {nl}-#{CaptionRatio}#%~#{CaptionRatio}#% change
 SKILL_20150401_003245	Duct item to make useful potion for combat.
-SKILL_20150401_003246	Create a potion through a recipe
+SKILL_20150401_003246	Создавайте зелья по рецепту
 SKILL_20150401_003247	Synthesize items to create new item.
-SKILL_20150401_003248	Possible Combination: #{CaptionRatio}#X#{CaptionRatio}#
+SKILL_20150401_003248	Возможная комбинация: #{CaptionRatio}#X#{CaptionRatio}#
 SKILL_20150401_003249	Decrease weapon potential to open item dungeon. Weapon's potential abilities show up when dungeon is cleared.
 SKILL_20150401_003250	Each weapon has different dungeons{nl}and potential effects
 SKILL_20150401_003251	Attack: #{SkillAtkAdd}#{nl}Bounced Arrow Attack: #{CaptionRatio}#%
@@ -3745,8 +3745,8 @@ SKILL_20150414_003744	{#993399}{ol}[Magic]{/}{/}{nl}Explodes an item of yours on
 SKILL_20150414_003745	Dig the ground and get ores for alchemy.
 SKILL_20150414_003746	Opens a shop to roast and enhance gems. Reduces the penalty of an enhanced gem.
 SKILL_20150414_003747	Combine two items to change abilities of an item. The combined item will have its Potential reduced and the abilities may become better or worse.
-SKILL_20150414_003748	Extract fluid from herbs to create different potions.
-SKILL_20150414_003749	Use pluvial of alchemy to create a new item.
+SKILL_20150414_003748	Извлекайте жидкость из трав, чтобы создавать различные зелья.
+SKILL_20150414_003749	Используйте для создания нового предмета.
 SKILL_20150414_003750	Battle in another dimension to awaken an item's Potential. You can use the item's hidden option when you win the battle, but its Potential will be reduced.
 SKILL_20150414_003751	Each weapon has a different dungeon{nl}and Potential effects{nl}Maximum Level: 1
 SKILL_20150414_003752	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly shoot multiple arrows.
@@ -4940,7 +4940,7 @@ SKILL_20150729_004939	Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionTi
 SKILL_20150729_004940	Backmasking Range: #{CaptionRatio}#{nl}Unable to use Backmasking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
 SKILL_20150729_004941	Flesh Cannon
 SKILL_20150729_004942	Flesh Hoop
-SKILL_20150729_004943	Dig up the ground to collect materials required for alchemy.
+SKILL_20150729_004943	Копайте землю, чтобы собрать материалы, необходимые для алхимии.
 SKILL_20150729_004944	Receive different materials depending on the terrain.
 SKILL_20150729_004945	Each weapon has a different{nl}dungeon and Potential effects{nl}Available Member Entries: #{CaptionRatio}#
 SKILL_20150729_004946	Increases skill damage while decreasing attack speed.
@@ -5796,7 +5796,7 @@ SKILL_20151224_005795	Pass
 SKILL_20151224_005796	{#993399}{ol}[Magic]{/}{/}{nl}Reduces the cooldown of skills of you and your party members.
 SKILL_20151224_005797	Cooldown Reduction: #{CaptionTime}# seconds
 SKILL_20151224_005798	Attack: #{SkillAtkAdd}#{nl}Dirty Pole Duration: #{CaptionRatio}# seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio2}# Corpses
-SKILL_20151224_005799	Acquire #{CaptionRatio}# material(s){nl}The types of material obtained depends upon where [Dig] was used.
+SKILL_20151224_005799	Получаете #{CaptionRatio}# материал(ов){nl}Типы получаемого материала зависят от того, где использовался[Dig].
 SKILL_20151224_005800	Gem Penalty Level Reduction: #{CaptionRatio}#
 SKILL_20151224_005801	{#993399}{ol}[Magic]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP.
 SKILL_20151224_005802	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}HP Recovery: #{CaptionRatio2}#
@@ -13015,10 +13015,10 @@ SKILL_20190104_013014	Explodes an item registered in the Alchemy Workshop to dam
 SKILL_20190104_013015	Skill Factor: #{SkillFactor}#%{nl}Targets: 5
 SKILL_20190104_013016	Concentrate magic energy and fire it at enemies.
 SKILL_20190104_013017	Sprinkle HP Potion
-SKILL_20190104_013018	Sprinkle an HP Potion registered in the Alchemy Workshop around to restore your HP and that of your party members. You can only register Alchemist-made potions.
+SKILL_20190104_013018	Опрысните зелье HP, зарегистрированное в Мастерской Алхимии, чтобы восстановить ваше HP и здоровье членов вашей группы. Вы можете зарегистрировать только зелья, сделанные Алхимиком.
 SKILL_20190104_013019	Восстановление: #{CaptionRatio}#
 SKILL_20190104_013020	Sprinkle SP Potion
-SKILL_20190104_013021	Sprinkle an SP Potion registered in the Alchemy Workshop around to restore your SP and that of your party members. You can only register Alchemist-made potions.
+SKILL_20190104_013021	Опрысните зелье SP, зарегистрированное в Мастерской Алхимии, чтобы восстановить ваш SP и членов вашей группы. Вы можете зарегистрировать только зелья, сделанные Алхимиком.
 SKILL_20190104_013022	Stab the enemy with a bone knife. If the enemy is a Beast-, Devil- or Insect-type, or affected by the Enervation debuff, blood will spew out that recovers some of your HP.
 SKILL_20190104_013023	Skill Factor: #{SkillFactor}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}Recovers #{CaptionRatio2}#% of damage
 SKILL_20190104_013024	Attack and absorb the life force from a Beast-, Devil- or Insect-type enemy, or an enemy affected by the Enervation debuff, while recovering part of your HP.{nl}{#00113F}Blood Sucking affects cursed enemies of all types. To cursed enemies of the already-susceptible types, the effects increase by 20%.{/}

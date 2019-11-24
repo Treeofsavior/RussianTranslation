@@ -2725,9 +2725,9 @@ UI_20170912_002724	{@st59}Развитие{/}
 UI_20170912_002725	{@st59}Исследование{/}
 UI_20170912_002726	Фамилия
 UI_20170912_002727	Персонаж
-UI_20170912_002728	{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}
+UI_20170912_002728	{img test_cooltime 24 24}Очки сбрасываются 1-го числа (каждый месяц).{/}
 UI_20170912_002729	{@st41b}Top Ranks
-UI_20170912_002730	{@st41b}My Nearest Ranks
+UI_20170912_002730	{@st41b}Мой ближайший ранг
 UI_20170912_002731	{@st43b}Всего %s Очков
 UI_20170912_002732	{@st66b}More Monsters
 UI_20170912_002733	{@st66d_y}%s Очков / {/}{@st42}%s Очков{/}
@@ -2757,8 +2757,8 @@ UI_20170912_002756	Acquisition Points %s
 UI_20170912_002757	Статус
 UI_20170912_002758	SPR +6
 UI_20170912_002759	Adventure Journal Ranking
-UI_20170912_002760	{@st66d_y}%s{/} Battles {@st66d_y}%s{/} Wins {@st66d_y}%s{/} Defeats
-UI_20170912_002761	%s Points
+UI_20170912_002760	{@st66d_y}%s{/} Сражений {@st66d_y}%s{/} Побед {@st66d_y}%s{/} Поражений
+UI_20170912_002761	%s Очков
 UI_20170912_002762	{@st59}Participation{/}
 UI_20170912_002763	Uphill Defense Ranking
 UI_20170912_002764	Total Points
@@ -2822,7 +2822,7 @@ UI_20170912_002821	{@st66b}{s18}Authorities{/}
 UI_20170912_002822	%s online      %s offline
 UI_20170912_002823	Кто онлайн
 UI_20170912_002824	{@st41b}Пригласить
-UI_20170912_002825	{@st66d_y}{s18}Уровень гильдии{/}
+UI_20170912_002825	{@st66d_y}{s18}Ур. гильдии{/}
 UI_20170912_002826	{@st43b}{s18}Гильд. башня(%s/1){/}
 UI_20170912_002827	Выгода
 UI_20170912_002828	Guild benefits updated to current Templar's Guild Tower level.
@@ -2850,7 +2850,7 @@ UI_20170912_002849	Grade
 UI_20170912_002850	Silver Reward (%)
 UI_20170912_002851	Spot Rewards
 UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  
-UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.
+UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Пожалуйста, проверьте наш официальный сайт для получения дополнительной информации.
 UI_20170912_002854	Tuesday 06:00
 UI_20170912_002855	{@st43b}{s18}Guild Emblem{/}
 UI_20170912_002856	{@st41b}{nl}Image %s{/}
@@ -2896,13 +2896,13 @@ UI_20170912_002895	{@st66b}Your Team name represents all your characters and is 
 UI_20170912_002896	{@st41}%s Points
 UI_20170912_002897	Текст
 UI_20170912_002898	Qtt.
-UI_20170912_002899	{@st66b}Rank %s
-UI_20170912_002900	{@st66b}%s Points
+UI_20170912_002899	{@st66b}Ранг %s
+UI_20170912_002900	{@st66b}%s Очков
 UI_20170912_002901	Maps
 UI_20170912_002902	Type
 UI_20170912_002903	Item Type
 UI_20170912_002904	Latest Acquisition
-UI_20170912_002905	Location
+UI_20170912_002905	Локация
 UI_20170912_002906	N/A
 UI_20170912_002907	Shop Name
 UI_20170912_002908	Sales
@@ -3461,12 +3461,12 @@ UI_20180827_003460	{@st66b}   Регулярные{/}
 UI_20180827_003461	{@st66b}   Rotational{/}
 UI_20180827_003462	{@st66b}   Ивентовые{/}
 UI_20180827_003463	Items Available
-UI_20180827_003464	※ Products updated every 3 months (1st day of Jan, Apr, Jul and Oct).
+UI_20180827_003464	※ Продукты обновляются каждые 3 месяца (1 января, апрелья, июлья и октябрья).
 UI_20180827_003465	{@st66b}   Weapons{/}
 UI_20180827_003466	{@st66b}   Armor{/}
 UI_20180827_003467	Items for Rental
 UI_20180827_003468	Terms and Conditions
-UI_20180827_003469	{s18}See main screen timer
+UI_20180827_003469	{s18}Скрыть/Показывать таймер
 UI_20180827_003470	{@st66b}Reverb ON/OFF{/}
 UI_20180827_003471	{@st59}Check to apply reverb.{/}
 UI_20180827_003472	{@st66b}Enable Animated Illustrations
