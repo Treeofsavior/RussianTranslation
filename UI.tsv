@@ -2931,17 +2931,17 @@ UI_20171128_002930	{@st42b}Confirm
 UI_20171128_002931	Обновить гилд. хранилище.
 UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  
 UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.
-UI_20171128_002934	Auto Match%s
+UI_20171128_002934	Автоподбор%s
 UI_20171128_002935	{@st41b}Зайти%s
-UI_20171128_002936	{@st43}{#ffcc33}{s24}Clear
+UI_20171128_002936	{@st43}{#ffcc33}{s24}Зачищено
 UI_20171128_002937	{@ST43}Cleared : 
-UI_20171128_002938	{@st43b}{s18}Received rewards
+UI_20171128_002938	{@st43b}{s18}Полученные награды
 UI_20171128_002939	{@st66d_y}Multiply Effect Reward x
-UI_20171128_002940	{img icon_item_silver 24 24} Silver
-UI_20171128_002941	{img icon_item_cube3 25 25} Cube
+UI_20171128_002940	{img icon_item_silver 24 24} Серебро
+UI_20171128_002941	{img icon_item_cube3 25 25} Куб
 UI_20171128_002942	{img test_indun_exp 30 15} EXP
-UI_20171128_002943	{img test_indun_exp 30 15} Class EXP
-UI_20171128_002944	{@st41b}Return
+UI_20171128_002943	{img test_indun_exp 30 15} Класс EXP
+UI_20171128_002944	{@st41b}Вернуться
 UI_20171128_002945	Return to the entrance map.
 UI_20171128_002946	Achievement Rate
 UI_20171128_002947	{@st59}Специальный костюм{/}
