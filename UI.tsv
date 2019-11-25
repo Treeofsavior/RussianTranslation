@@ -2725,9 +2725,9 @@ UI_20170912_002724	{@st59}Развитие{/}
 UI_20170912_002725	{@st59}Исследование{/}
 UI_20170912_002726	Фамилия
 UI_20170912_002727	Персонаж
-UI_20170912_002728	{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}
+UI_20170912_002728	{img test_cooltime 24 24}Очки сбрасываются 1-го числа (каждый месяц).{/}
 UI_20170912_002729	{@st41b}Top Ranks
-UI_20170912_002730	{@st41b}My Nearest Ranks
+UI_20170912_002730	{@st41b}Мой ближайший ранг
 UI_20170912_002731	{@st43b}Всего %s Очков
 UI_20170912_002732	{@st66b}More Monsters
 UI_20170912_002733	{@st66d_y}%s Очков / {/}{@st42}%s Очков{/}
@@ -2757,8 +2757,8 @@ UI_20170912_002756	Acquisition Points %s
 UI_20170912_002757	Статус
 UI_20170912_002758	SPR +6
 UI_20170912_002759	Adventure Journal Ranking
-UI_20170912_002760	{@st66d_y}%s{/} Battles {@st66d_y}%s{/} Wins {@st66d_y}%s{/} Defeats
-UI_20170912_002761	%s Points
+UI_20170912_002760	{@st66d_y}%s{/} Сражений {@st66d_y}%s{/} Побед {@st66d_y}%s{/} Поражений
+UI_20170912_002761	%s Очков
 UI_20170912_002762	{@st59}Participation{/}
 UI_20170912_002763	Uphill Defense Ranking
 UI_20170912_002764	Total Points
@@ -2822,7 +2822,7 @@ UI_20170912_002821	{@st66b}{s18}Authorities{/}
 UI_20170912_002822	%s online      %s offline
 UI_20170912_002823	Кто онлайн
 UI_20170912_002824	{@st41b}Пригласить
-UI_20170912_002825	{@st66d_y}{s18}Уровень гильдии{/}
+UI_20170912_002825	{@st66d_y}{s18}Ур. гильдии{/}
 UI_20170912_002826	{@st43b}{s18}Гильд. башня(%s/1){/}
 UI_20170912_002827	Выгода
 UI_20170912_002828	Guild benefits updated to current Templar's Guild Tower level.
@@ -2850,7 +2850,7 @@ UI_20170912_002849	Grade
 UI_20170912_002850	Silver Reward (%)
 UI_20170912_002851	Spot Rewards
 UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  
-UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.
+UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Пожалуйста, проверьте наш официальный сайт для получения дополнительной информации.
 UI_20170912_002854	Tuesday 06:00
 UI_20170912_002855	{@st43b}{s18}Guild Emblem{/}
 UI_20170912_002856	{@st41b}{nl}Image %s{/}
@@ -2896,13 +2896,13 @@ UI_20170912_002895	{@st66b}Your Team name represents all your characters and is 
 UI_20170912_002896	{@st41}%s Points
 UI_20170912_002897	Текст
 UI_20170912_002898	Qtt.
-UI_20170912_002899	{@st66b}Rank %s
-UI_20170912_002900	{@st66b}%s Points
+UI_20170912_002899	{@st66b}Ранг %s
+UI_20170912_002900	{@st66b}%s Очков
 UI_20170912_002901	Maps
 UI_20170912_002902	Type
 UI_20170912_002903	Item Type
 UI_20170912_002904	Latest Acquisition
-UI_20170912_002905	Location
+UI_20170912_002905	Локация
 UI_20170912_002906	N/A
 UI_20170912_002907	Shop Name
 UI_20170912_002908	Sales
@@ -2931,17 +2931,17 @@ UI_20171128_002930	{@st42b}Confirm
 UI_20171128_002931	Обновить гилд. хранилище.
 UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  
 UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.
-UI_20171128_002934	Auto Match%s
+UI_20171128_002934	Автоподбор%s
 UI_20171128_002935	{@st41b}Зайти%s
-UI_20171128_002936	{@st43}{#ffcc33}{s24}Clear
+UI_20171128_002936	{@st43}{#ffcc33}{s24}Зачищено
 UI_20171128_002937	{@ST43}Cleared : 
-UI_20171128_002938	{@st43b}{s18}Received rewards
+UI_20171128_002938	{@st43b}{s18}Полученные награды
 UI_20171128_002939	{@st66d_y}Multiply Effect Reward x
-UI_20171128_002940	{img icon_item_silver 24 24} Silver
-UI_20171128_002941	{img icon_item_cube3 25 25} Cube
+UI_20171128_002940	{img icon_item_silver 24 24} Серебро
+UI_20171128_002941	{img icon_item_cube3 25 25} Куб
 UI_20171128_002942	{img test_indun_exp 30 15} EXP
-UI_20171128_002943	{img test_indun_exp 30 15} Class EXP
-UI_20171128_002944	{@st41b}Return
+UI_20171128_002943	{img test_indun_exp 30 15} Класс EXP
+UI_20171128_002944	{@st41b}Вернуться
 UI_20171128_002945	Return to the entrance map.
 UI_20171128_002946	Achievement Rate
 UI_20171128_002947	{@st59}Специальный костюм{/}
@@ -3461,12 +3461,12 @@ UI_20180827_003460	{@st66b}   Регулярные{/}
 UI_20180827_003461	{@st66b}   Rotational{/}
 UI_20180827_003462	{@st66b}   Ивентовые{/}
 UI_20180827_003463	Items Available
-UI_20180827_003464	※ Products updated every 3 months (1st day of Jan, Apr, Jul and Oct).
+UI_20180827_003464	※ Продукты обновляются каждые 3 месяца (1 января, апрелья, июлья и октябрья).
 UI_20180827_003465	{@st66b}   Weapons{/}
 UI_20180827_003466	{@st66b}   Armor{/}
 UI_20180827_003467	Items for Rental
 UI_20180827_003468	Terms and Conditions
-UI_20180827_003469	{s18}See main screen timer
+UI_20180827_003469	{s18}Скрыть/Показывать таймер
 UI_20180827_003470	{@st66b}Reverb ON/OFF{/}
 UI_20180827_003471	{@st59}Check to apply reverb.{/}
 UI_20180827_003472	{@st66b}Enable Animated Illustrations
@@ -3705,7 +3705,7 @@ UI_20190104_003704	{@st66b}* Re-identifying an item maintains the number of stat
 UI_20190104_003705	{@st43}Enhance Seal
 UI_20190104_003706	{@st66d_y}{b}Main Seal
 UI_20190104_003707	{@st43b}{s18}{b}Material
-UI_20190104_003708	Item Name
+UI_20190104_003708	Название Предмета
 UI_20190104_003709	{@st68b}{b}Base Chance: %s%
 UI_20190104_003710	{@st66d_y}Magic Stone Amplification + %s%
 UI_20190104_003711	{@st43}{s20}%s% Success Chance
@@ -3731,7 +3731,7 @@ UI_20190104_003730	* You will return to your Lodge after confirming.
 UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.
 UI_20190104_003732	{@st41b}Repair Cost{/} %s
 UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}
-UI_20190104_003734	{@st42}{s20}Умения и атрибуты
+UI_20190104_003734	{@st42}{s20}Скиллы и атрибуты
 UI_20190104_003735	{@st43}Craft Scroll
 UI_20190104_003736	{s18}Are you sure you want to use %s?{/}
 UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}
@@ -3784,7 +3784,7 @@ UI_20190104_003783	Party Member Name
 UI_20190104_003784	{@st43b}{s18}Скиллы
 UI_20190104_003785	Skill Points:        %s/%s
 UI_20190104_003786	Related Attributes
-UI_20190104_003787	{@st43b}{s18}Attributes
+UI_20190104_003787	{@st43b}{s18}Атрибуты
 UI_20190104_003788	{@st41d}Отмена
 UI_20190104_003789	Attribute Points
 UI_20190104_003790	Extract Attribute Points
@@ -3933,17 +3933,17 @@ UI_20191024_003932	{@st42b}{s16}Monster (%s/%s){/}	{@st42b}{s16}남은 몬스터
 UI_20191024_003933	{@st42b}{s14}First Completion Reward{/}	{@st42b}{s14}첫 클리어 보상{/}
 UI_20191024_003934	{@st42b}{s14}Stage Debuff{/}	{@st42b}{s14}Stage 디버프{/}
 UI_20191024_003935	{@st42b}{s14}Give Up{/}	{@st42b}{s14}포기하기{/}
-UI_20191024_003936	{@st59}Minimize BGM Player{/}	{@st59}BGM 플레이어를 최소화합니다{/}
-UI_20191024_003937	{@st59}Close BGM Player{/}	{@st59}BGM 플레이어를 닫습니다{/}
-UI_20191024_003938	{@st59}Play Music{/}	{@st59}음악을 재생합니다{/}
-UI_20191024_003939	{@st59}Previous Track{/}	{@st59}이전 음악 재생{/}
-UI_20191024_003940	{@st59}Next Track{/}	{@st59}다음 음악 재생{/}
-UI_20191024_003941	Music Play Time	음악 재생 시간
-UI_20191024_003942	{@st59}Change Skin{/}	{@st59}스킨 변경{/}
-UI_20191024_003943	{@st59}Play Random Track{/}	{@st59}랜덤 음악 재생{/}
-UI_20191024_003944	{@st59}Repeat{/}	{@st59}반복 재생{/}
-UI_20191024_003945	{@st59}Search Playlist{/}	{@st59}전체목록 검색{/}
-UI_20191024_003946	{@st59}Maximize BGM Player{/}	{@st59}BGM 플레이어를 최대화합니다{/}
+UI_20191024_003936	{@st59}Уменьшить BGM Плеер{/}	{@st59}BGM 플레이어를 최소화합니다{/}
+UI_20191024_003937	{@st59}Закрыть BGM Плеер{/}	
+UI_20191024_003938	{@st59}Вопроизвести{/}	
+UI_20191024_003939	{@st59}Предыдущая песня{/}	
+UI_20191024_003940	{@st59}Следующая песня{/}	
+UI_20191024_003941	Время воспроизведения песни
+UI_20191024_003942	{@st59}Убрать Скин{/}	
+UI_20191024_003943	{@st59}Возпроизвести Рандомную песню{/}	
+UI_20191024_003944	{@st59}Повторять{/}	
+UI_20191024_003945	{@st59}Найти Песню{/}	
+UI_20191024_003946	{@st59}Увеличить BGM Плеер{/}	{@st59}BGM 플레이어를 최대화합니다{/}
 UI_20191024_003947	Category	분야
 UI_20191024_003948	{@st48}%s Benefits{/}	{@st48}%s 혜택{/}
 UI_20191024_003949	All characters connected to the game receive a buff that{nl}{@st66d_y}increases the EXP earned when defeating monsters by +200%{/} for a 1-hour duration.	월드 내 접속중인 전체 캐릭터 대상으로{nl}{@st66d_y}몬스터 처치 시 경험치 200% 증가{/} 버프가 1시간동안 적용됩니다.
@@ -3953,20 +3953,20 @@ UI_20191024_003952	{/}{nl}Use item?{/}	{/}{nl}아이템을 사용하시겠습니
 UI_20191024_003953	It will be removed from %s{nl}and applied only to {@st66d_y}%s{/}.{/}	사용한 %s {nl}인벤토리에서 사라지며 현재 {@st66d_y}%s{/}에만 적용됩니다.{/}
 UI_20191024_003954	{@st43}{s22}Goddess' Grace	{@st43}{s22}여신의 가호
 UI_20191024_003955	{@st41b}{s16}Remaining Time %s min %s sec	{@st41b}{s16}남은 시간 %s분 %s초
-UI_20191024_003956	{@st41b}{s16}x1	{@st41b}{s16}1회
-UI_20191024_003957	{@st41b}{s16} Silver	{@st41b}{s16} 돈
+UI_20191024_003956	{@st41b}{s16}x1	
+UI_20191024_003957	{@st41b}{s16} Серебро
 UI_20191024_003958	{@st43}{s24}Offering	{@st43}{s24}봉헌
 UI_20191024_003959	{@st43}{s24}Confirm	{@st43}{s24}확인
 UI_20191024_003960	{@st66b}Expand Hangout	{@st66b}아지트 확장
 UI_20191024_003961	{@st66b}Hangout Info{/}	{@st66b}아지트 정보{/}
 UI_20191024_003962	Guild Hangout Expansion Level	길드 아지트 확장 단계
-UI_20191024_003963	{@st42}{s22}{#ffd739}Lv. %s{/}{/}{/}	{@st42}{s22}{#ffd739}%s 단계{/}{/}{/}
+UI_20191024_003963	{@st42}{s22}{#ffd739}Уровень %s{/}{/}{/}	
 UI_20191024_003964	Guild Hangout Expansion Lv and Info	길드 아지트 확장 단계 및 정보
-UI_20191024_003965	{@st41b}{s18}Lv. 1: %s{/}{/}	{@st41b}{s18}1 단계 : %s{/}{/}
-UI_20191024_003966	{@st41b}{s18}Lv. 2: %s{/}{/}	{@st41b}{s18}2 단계 : %s{/}{/}
-UI_20191024_003967	{@st41b}{s18}Lv. 3: %s{/}{/}	{@st41b}{s18}3 단계 : %s{/}{/}
-UI_20191024_003968	{@st41b}{s18}Lv. 4: %s{/}{/}	{@st41b}{s18}4 단계 : %s{/}{/}
-UI_20191024_003969	{@st41b}{s18}Lv. 5: %s{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}
+UI_20191024_003965	{@st41b}{s18}Уровень 1: %s{/}{/}
+UI_20191024_003966	{@st41b}{s18}Уровень 2: %s{/}{/}
+UI_20191024_003967	{@st41b}{s18}Уровень 3: %s{/}{/}
+UI_20191024_003968	{@st41b}{s18}Уровень 4: %s{/}{/}
+UI_20191024_003969	{@st41b}{s18}Уровень 5: %s{/}{/}
 UI_20191024_003970	Guild Housing Facility Info	길드 하우징 시설 정보
 UI_20191024_003971	Contribution and Mileage	기여도 및 길드 마일리지 관리
 UI_20191024_003972	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.
@@ -3977,14 +3977,14 @@ UI_20191024_003976	{@st42}{s18}Exchange Guild Mileage for Contribution Points{/}
 UI_20191024_003977	{@st42}{s18}Distribute Contribution Points to Guild Members{/}{/}	{@st42}{s18}길드원에게 기여도 분배하기{/}{/}
 UI_20191024_003978	Guild Housing Points	길드 하우징 포인트 정보
 UI_20191024_003979	You can purchase Guild Housing Items and Facilities by using Housing Points.{nl}- Housing Points can be obtained using Guild Mileage at the ratio of 5 (Guild Mileage) : 1 (Housing Point).{nl}- Housing Points can only be purchased when your Guild has reached Guild Expansion Lv. 2 or above.{nl}- Crafting Workshops can be installed to increase the maximum Housing Points that you can possess.	하우징 포인트를 통해 길드 하우징 물품 및 시설을 구매할 수 있습니다.{nl}- 5(길드 마일리지) : 1(하우징 포인트) 비율로 각 하우징 포인트를 마일리지로 구매할 수 있습니다.{nl}- 길드 아지트 확장 단계가 2단계 이상인 경우에만 하우징 포인트 구매가 가능합니다.{nl}- 제작 공방소를 증축하여 각 하우징 포인트의 최대치를 늘릴 수 있습니다.
-UI_20191024_003980	{@st42}{s16}Idea{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}독창성{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003980	{@st42}{s16}Идея{#ffd739}(+%s){/}{/}{/}	
 UI_20191024_003981	{@st42}{s16}Functionality{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}기능성{#ffd739}(+%s){/}{/}{/}
 UI_20191024_003982	{@st42}{s16}Creativity{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}예술성{#ffd739}(+%s){/}{/}{/}
 UI_20191024_003983	{@st42}{s16}Economy{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}경제성{#ffd739}(+%s){/}{/}{/}
 UI_20191024_003984	{@st42}{s16}{#ff0000}Guild Mileage Cost (%s){/}{/}{/}	{@st42}{s16}{#ff0000}차감 길드 마일리지 (%s){/}{/}{/}
 UI_20191024_003985	{@st42}{s16}{#ffd739}Estimated Remaining Mileage: %s{/}{/}{/}	{@st42}{s16}{#ffd739}예상 잔여 마일리지 : %s{/}{/}{/}
-UI_20191024_003986	{@st42}{s18}Cancel{/}	{@st42}{s18}취소{/}
-UI_20191024_003987	{@st42}{s18}Save{/}	{@st42}{s18}저장{/}
+UI_20191024_003986	{@st42}{s18}Отмена{/}	
+UI_20191024_003987	{@st42}{s18}Сохранить
 UI_20191024_003988	ⓘ Withdrawals/Deposits will consume 20 Mileage.{nl}ⓘ Mileages are earned everytime a Guild member logs in or certain in-game contents are completed by Guild Members (e.g. Challenge Mode Lv. 5, Unique Raid and Legend Raids).{nl}ⓘ Each member can accumulate a maximum of 100 Mileage by completing in-game contents and this maximum limit is reset every Monday at 06:00 AM server time.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 특정 콘텐츠 이용(챌린지 5단계 이상, 유니크 레이드, 레전드 레이드 클리어)을 통해서 적립됩니다.{nl}ⓘ특정 콘텐츠 이용을 통한 마일리지 적립은 길드원별 주간 100 까지 누적 적립 가능하며, 누적 적립은 매주 월요일 오전 6시에 초기화 됩니다.
 UI_20191024_003989	{@st42}Housing{/}	{@st42}하우징{/}
 UI_20191024_003990	{@st66d}Distribute Contribution Points	{@st66d}기여도 분배
@@ -4001,7 +4001,7 @@ UI_20191024_004000	%s Available for Exchange	전환 가능한 %s
 UI_20191024_004001	Enter the amount of %s to be exchanged.	전환할 %s를 입력하세요.
 UI_20191024_004002	%s Cost	소비 %s
 UI_20191024_004003	%s Remaining	잔여 %s
-UI_20191024_004004	{@st66b}Exchange	{@st66b}전환
+UI_20191024_004004	{@st66b}Обменять
 UI_20191024_004005	{@st43}{s22}Dismantle Mystic Tome	{@st43}{s22}신비한 서 분해
 UI_20191024_004006	Dismantle Complete	분해 완료
 UI_20191024_004007	{@st41b}{s18}Dismantle	{@st41b}{s18}분해 하기
@@ -4010,7 +4010,7 @@ UI_20191024_004009	{@st43}{s22}Craft Mystic Tome	{@st43}{s22}신비한 서 제�
 UI_20191024_004010	{@st41b}{s18}Goddess' Blessed Gem	{@st41b}{s18}여신의 축복석
 UI_20191024_004011	{@st41b}{s18}Craft	{@st41b}{s18}제작 하기
 UI_20191024_004012	{@st43}Exit Edit Mode{/}	{@st43}편집모드 취소{/}
-UI_20191024_004013	{@st43}{#97f72f}{s20}Install	{@st43}{#97f72f}{s20}설치
+UI_20191024_004013	{@st43}{#97f72f}{s20}Установить
 UI_20191024_004014	{@st43}{#97f72f}{s20}Rotate	{@st43}{#97f72f}{s20}회전
 UI_20191024_004015	{@st66b}{s18}Uninstall?	{@st66b}{s18}철거 하시겠습니까?
 UI_20191024_004016	Furniture	가구
@@ -4033,7 +4033,7 @@ UI_20191024_004032	{@st66b}Facilities	{@st66b}시설
 UI_20191024_004033	{@st66b}Employment	{@st66b}계약서
 UI_20191024_004034	{@st59}Housing{/}	{@st59}하우징{/}
 UI_20191024_004035	{@st66b}{s18}Type{/}	{@st66b}{s18}종류{/}
-UI_20191024_004036	{@st59}BGM Player{/}	{@st59}BGM 플레이어{/}
+UI_20191024_004036	{@st59}BGM Плеер{/}	{@st59}BGM 플레이어{/}
 UI_20191024_004037	{@st66b}Tab 1	{@st66b}텝1
 UI_20191024_004038	{@st66b}Tab 2	{@st66b}텝2
 UI_20191024_004039	{@st43b}{s16}Mission Objectives Only	{@st43b}{s16}미션 목표만 보기
@@ -4046,21 +4046,21 @@ UI_20191024_004045	{@st41b}{img icon_button_warning 36 36}Confirm	{@st41b}{img i
 UI_20191024_004046	Guild Level Required for Expansion	확장에 필요한 길드 레벨
 UI_20191024_004047	Guild Funds Required for Expansion	확장에 필요한 길드 자금
 UI_20191024_004048	Guild Mileage Required for Expansion	확장에 필요한 길드 마일리지
-UI_20191024_004049	{@st41b}{s18}Lv. 1: %s{/}{/}{/}	{@st41b}{s18}1 단계 : %s{/}{/}{/}
-UI_20191024_004050	{@st41b}{s18}Lv. 2: %s{/}{/}{/}	{@st41b}{s18}2 단계 : %s{/}{/}{/}
-UI_20191024_004051	{@st41b}{s18}Lv. 3: %s{/}{/}{/}	{@st41b}{s18}3 단계 : %s{/}{/}{/}
-UI_20191024_004052	{@st41b}{s18}Lv. 4: %s{/}{/}{/}	{@st41b}{s18}4 단계 : %s{/}{/}{/}
-UI_20191024_004053	{@st41b}{s18}Lv. 5: %s{/}{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}{/}
+UI_20191024_004049	{@st41b}{s18}Уровень 1: %s{/}{/}{/}	
+UI_20191024_004050	{@st41b}{s18}Уровень 2: %s{/}{/}{/}	
+UI_20191024_004051	{@st41b}{s18}Уровень 3: %s{/}{/}{/}	
+UI_20191024_004052	{@st41b}{s18}Уровень 4: %s{/}{/}{/}	
+UI_20191024_004053	{@st41b}{s18}Уровень 5: %s{/}{/}{/}	
 UI_20191024_004054	Expand Hangout	아지트 확장
 UI_20191024_004055	Increases combat efficacy against Humanoids	인간형 대상 강화
 UI_20191024_004056	{#5e4e3f}{s16}Reseach weapons that are effective against{nl}Plant-type monsters.	{#5e4e3f}{s16}식물형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
 UI_20191024_004057	{#5ae2e7}{@st43}{s16}Damage +0.4% per Buff Level	{#5ae2e7}{@st43}{s16}버프 레벨당 +0.4% 대미지 증가
-UI_20191024_004058	List	목록
+UI_20191024_004058	Список
 UI_20191024_004059	Rotate	회전
-UI_20191024_004060	{@st42b}{s16}Sell{/}	{@st42b}{s16}판매{/}
-UI_20191024_004061	Mission	미션 내용
-UI_20191024_004062	{@st42b}{s14}{#ffffff}Normal	{@st42b}{s14}{#ffffff}노말
-UI_20191024_004063	{@st42b}{s14}{#0e7fe8}Magic	{@st42b}{s14}{#0e7fe8}매직
-UI_20191024_004064	{@st42b}{s14}{#d92400}Unique	{@st42b}{s14}{#d92400}유니크
-UI_20191024_004065	{@st42b}{s14}{#ffa800}Legend	{@st42b}{s14}{#ffa800}레전드
+UI_20191024_004060	{@st42b}{s16}Продать{/}	{
+UI_20191024_004061	Миссия
+UI_20191024_004062	{@st42b}{s14}{#ffffff}Нормальный
+UI_20191024_004063	{@st42b}{s14}{#0e7fe8}Магический
+UI_20191024_004064	{@st42b}{s14}{#d92400}Уникальный
+UI_20191024_004065	{@st42b}{s14}{#ffa800}Легендарный
 UI_20191104_004066	Unlimited Personal Trades	개인 거래 무제한

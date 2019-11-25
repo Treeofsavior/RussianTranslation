@@ -5,7 +5,7 @@ ETC_20150317_000004	There are people who try to eat the Large Kepa sometimes. Do
 ETC_20150317_000005	Red Kepa
 ETC_20150317_000006	Contrary to popular belief, it's the Red Kepas that are most similar to the original Kepa.
 ETC_20150317_000007	Poisoned Kepa
-ETC_20150317_000008	Монстры
+ETC_20150317_000008	 Монстры
 ETC_20150317_000009	Hamming
 ETC_20150317_000010	Despite its tough skin, the Hamming is a fairly feeble monster.
 ETC_20150317_000011	Chinency
@@ -1477,7 +1477,7 @@ ETC_20150317_001476	Team does not exist
 ETC_20150317_001477	{S18}{ol}{#ffffcc}This character does not exist.
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
-ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
+ETC_20150317_001480	Вы превысили свой максимальный вес.{nl}Продавайте или выбросьте предметы из своего инвентаря, чтобы уменьшить вес.
 ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
 ETC_20150317_001482	Your inventory is full
 ETC_20150317_001483	This server is closed
@@ -1871,7 +1871,7 @@ ETC_20150317_001870	%v Players
 ETC_20150317_001871	Area
 ETC_20150317_001872	Obtain
 ETC_20150317_001873	Inheritance
-ETC_20150317_001874	Start
+ETC_20150317_001874	Старт
 ETC_20150317_001875	Присоединится
 ETC_20150317_001876	Obtained item
 ETC_20150317_001877	Accessory
@@ -1890,7 +1890,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
-ETC_20150317_001893	Предметы
+ETC_20150317_001893	 Предметы
 ETC_20150317_001894	Карта
 ETC_20150317_001895	Достижения
 ETC_20150317_001896	Mike
@@ -1898,9 +1898,9 @@ ETC_20150317_001897	Mission
 ETC_20150317_001898	Other character
 ETC_20150317_001899	Cancel Participation
 ETC_20150317_001900	{Auto_1} level
-ETC_20150317_001901	Final
+ETC_20150317_001901	Финал
 ETC_20150317_001902	PvP tournament is open.
-ETC_20150317_001903	Close
+ETC_20150317_001903	Закрыть
 ETC_20150317_001904	Gift Score + {Auto_1}!
 ETC_20150317_001905	Gift Score + {Auto_1}
 ETC_20150317_001906	Reward
@@ -4294,7 +4294,7 @@ ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
 ETC_20150317_004296	{@st43}Mission
-ETC_20150317_004297	{@st41}Н
+ETC_20150317_004297	{@st41}Награда
 ETC_20150317_004298	{@st41b}EXP:
 ETC_20150317_004299	{@st41}Required Item
 ETC_20150317_004300	{@st45tw} Forfeit
@@ -12243,7 +12243,7 @@ ETC_20150714_012244	Your character's level is not high enough.
 ETC_20150714_012245	The connection with the server has been disconnected. Reconnecting...
 ETC_20150714_012246	The error from the server has occurred so it restored automatically.
 ETC_20150714_012247	Attached Items
-ETC_20150714_012248	Do you want to give this item to {PC}?
+ETC_20150714_012248	Вы хотите забрать эти предметы {PC}?
 ETC_20150714_012249	You have received the item(s).
 ETC_20150714_012250	You are too close to the Base Camp.
 ETC_20150714_012251	You are far away from the refreshment table.
@@ -14135,7 +14135,7 @@ ETC_20150803_014136	Thank you
 ETC_20150803_014137	Nothing appeared
 ETC_20150803_014138	Tell Amanda that you couldn't find anything
 ETC_20150803_014139	The item is already sold
-ETC_20150803_014140	Team Battle League началась. {Nl} Участвуйте, используя левый значок на миникарте.
+ETC_20150803_014140	Начался Team Battle League. {Nl} Участвуйте, используя левый значок на миникарте.
 ETC_20150803_014141	You can't participate the game since you've rejected the game a lot recently.
 ETC_20150803_014142	You do not have a fragment with you!
 ETC_20150803_014143	Magic Device
@@ -19171,8 +19171,8 @@ ETC_20151224_019172	Dagger
 ETC_20151224_019173	Cannon
 ETC_20151224_019174	Rifle
 ETC_20151224_019175	Горшок яда
-ETC_20151224_019176	Select a character to receive the item
-ETC_20151224_019177	You cannot lock an already locked item.
+ETC_20151224_019176	Выберите персонажа, чтобы получить предметы
+ETC_20151224_019177	Вы не можете заблокировать уже заблокированный предмет.
 ETC_20151224_019178	Male only
 ETC_20151224_019179	Female only
 ETC_20151224_019180	Unable to equip
@@ -31847,7 +31847,7 @@ ETC_20180320_031848	Are you sure you want to repair?{nl}{ol}{Price} Silver{/}
 ETC_20180320_031849	You have exceeded the maximum amount of registrations.
 ETC_20180320_031850	Already in progress. Please try again later.
 ETC_20180320_031851	Cannot move channels.{nl}Either your character is unable to move channels, or your current map does not allow it.
-ETC_20180320_031852	You are about to receive {#aa0000}{ol}{ItemCount}{/}{/} item(s) which cannot be transferred via Team Storage.{nl}The item(s) {#aa0000}{ol}cannot be transferred to other characters{/}{/}.{nl} {nl}Are you sure you want to give the item(s) to {#ffffff}{ol}{PC}{/}{/}?
+ETC_20180320_031852	Вы собираетесь получить {#aa0000}{ol}{ItemCount}{/}{/} предмет(ы), которые нельзя передать через Team Storage.{nl}Эти предметы {#aa0000}{ol}не могуть быть переданы другим персонажам{/}{/}.{nl} {nl}Вы уверены, что хотите забрать предмет(ы) {#ffffff}{ol}{PC}{/}{/}?
 ETC_20180320_031853	Failed to display TP purchase list.{nl}Please try again later.{nl}If the problem persists, please send us a Support ticket with the error code.{nl}Error code: {Code}
 ETC_20180320_031854	Failed to transfer TP.{nl}Please try again later.{nl}If the problem persists, please send us a Support ticket with the error code.{nl}Error code: {Code}
 ETC_20180320_031855	Please select a guild quest
@@ -37332,7 +37332,7 @@ ETC_20190104_037333	The skill is temporarily unavailable to use.
 ETC_20190104_037334	You can sell up to {COUNT} units.
 ETC_20190104_037335	Prerequisites
 ETC_20190104_037336	Personal Trade
-ETC_20190104_037337	Alchemy Workshop
+ETC_20190104_037337	Мастерская алхимии
 ETC_20190104_037338	Level
 ETC_20190104_037339	Awakening
 ETC_20190104_037340	Legend Item Stat Bonus
