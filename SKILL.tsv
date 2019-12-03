@@ -13015,10 +13015,10 @@ SKILL_20190104_013014	Explodes an item registered in the Alchemy Workshop to dam
 SKILL_20190104_013015	Skill Factor: #{SkillFactor}#%{nl}Targets: 5
 SKILL_20190104_013016	Concentrate magic energy and fire it at enemies.
 SKILL_20190104_013017	Sprinkle HP Potion
-SKILL_20190104_013018	Опрысните зелье HP, зарегистрированное в Мастерской Алхимии, чтобы восстановить ваше HP и здоровье членов вашей группы. Вы можете зарегистрировать только зелья, сделанные Алхимиком.
+SKILL_20190104_013018	Опрысните зелье HP, зарегистрированное в Мастерской Алхимии, чтобы{nl} восстановить ваше HP и здоровье членов вашей группы. Вы можете зарегистрировать только зелья, сделанные Алхимиком.
 SKILL_20190104_013019	Восстановление: #{CaptionRatio}#
 SKILL_20190104_013020	Sprinkle SP Potion
-SKILL_20190104_013021	Опрысните зелье SP, зарегистрированное в Мастерской Алхимии, чтобы восстановить ваш SP и членов вашей группы. Вы можете зарегистрировать только зелья, сделанные Алхимиком.
+SKILL_20190104_013021	Опрысните зелье SP, зарегистрированное в Мастерской Алхимии, чтобы{nl} восстановить ваш SP и членов вашей группы. Вы можете зарегистрировать только зелья, сделанные Алхимиком.
 SKILL_20190104_013022	Stab the enemy with a bone knife. If the enemy is a Beast-, Devil- or Insect-type, or affected by the Enervation debuff, blood will spew out that recovers some of your HP.
 SKILL_20190104_013023	Skill Factor: #{SkillFactor}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}Recovers #{CaptionRatio2}#% of damage
 SKILL_20190104_013024	Attack and absorb the life force from a Beast-, Devil- or Insect-type enemy, or an enemy affected by the Enervation debuff, while recovering part of your HP.{nl}{#00113F}Blood Sucking affects cursed enemies of all types. To cursed enemies of the already-susceptible types, the effects increase by 20%.{/}
@@ -15199,7 +15199,7 @@ SKILL_20190419_015198	Соберите мощную магическую эне�
 SKILL_20190419_015199	Коэффициент Скилла: #{SkillFactor}#% x2{nl}Коэффициент АоЕ атаки: #{SkillSR}#{nl}Время кастования: 0.5 секунд{nl}Урон увеличен на + 25% при полном {nl}заряде
 SKILL_20190419_015200	Damage Taken -#{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# minutes
 SKILL_20190419_015201	Attack continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
-SKILL_20190419_015202	Teleport to a random location. Use the arrow keys to choose the direction of the teleportation and the threat level from some monsters that the player was targeted by is reset after the skill is used.
+SKILL_20190419_015202	Телепортирует в случайное место. Используйте клавиши со стрелками, чтобы выбрать направление телепортации и уровень угрозы от некоторых монстров, на которых игрок был нацелен, сбрасывается после использования скила.
 SKILL_20190419_015203	Maximum teleportation distance: #{CaptionRatio}#
 SKILL_20190419_015204	Summons a fireball at the targeted area. Enemies that touch the fireball receive Fire damage. [Fireball] will not hit the same enemies twice. You can summon up to 5 fireballs can be summoned.{nl}{#00113F}Using Storm Dust or Psychic Pressure on Fireball attacks will cause Fireball to split and attack enemies within the range of the Storm Dust or Psychic Pressure.{/}
 SKILL_20190419_015205	Add. Fire Property Damage: +#{CaptionRatio}#{nl}Fire Property Attack: +#{CaptionRatio2}#{nl}Duration: 30 minutes
@@ -16023,7 +16023,7 @@ SKILL_20191024_016022	Strike the enemy's head, causing them to become afflicted 
 SKILL_20191024_016023	Skill Factor: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}[Stun] duration: #{CaptionRatio}# seconds	스킬 계수 #{SkillFactor}#% x 2회{nl}광역 공격 비율 #{SkillSR}#{nl}[스턴] 지속시간 #{CaptionRatio}#초
 SKILL_20191024_016024	Storm Bolt item	스톰 볼트 item
 SKILL_20191024_016025	Storm Boltitem	스톰 볼트item
-SKILL_20191024_016026	Создаёт вокруг себя защитный щит, который поглощает атаки противника.	
+SKILL_20191024_016026	Создаёт вокруг себя защитный щит,{nl}который поглощает атаки противника.	
 SKILL_20191024_016027	Reduces #{CaptionRatio}#% of the incoming damage{nl}Duration: #{CaptionRatio2}# minutes{nl}Consumes #{CaptionRatio3}#% of the maximum SP for every attack defended against.	받는 피해 #{CaptionRatio}#% 감소{nl}지속시간 #{CaptionRatio2}#분{nl}방어할 때 마다 최대 SP의 #{CaptionRatio3}#% 소모
 SKILL_20191024_016028	Gather powerful fire magic to launch it towards an enemy.{nl}An explosion occurs when the enemy is hit to damage nearby enemies with fire damage.{/}	강력한 화염 에너지를 모아 적에게 발사 합니다.{nl}적에게 적중하면 폭발하여 주변 적에게 화염 대미지를 입힙니다.{/}
 SKILL_20191024_016029	Skill Factor: #{SkillFactor}#% x #{CaptionRatio}#{nl}Fire Walls: 8{nl}Duration: 15 seconds	스킬 계수 #{SkillFactor}#% x #{CaptionRatio}#회{nl}파이어 월 8개{nl}지속시간 15초

@@ -3398,15 +3398,15 @@ UI_20180827_003397	Смерть/Воскрешение
 UI_20180827_003398	Пати смерь/Воскрешение
 UI_20180827_003399	Макс. ур. перса
 UI_20180827_003400	{@st59}Запросить данные о быстром слоте снова.{/}
-UI_20180827_003401	{@st66b18}Retrieve
-UI_20180827_003402	{@st66b18}Sell
-UI_20180827_003403	{@st66b18}Buy
-UI_20180827_003404	{@st66b}{s18}Category
-UI_20180827_003405	{@st66b}{s18}Name{/}
-UI_20180827_003406	{@st66b}{s18}Level{/}
-UI_20180827_003407	{@st66b}{s18}Price{/}
-UI_20180827_003408	{@st66b}{s18}Quantity{/}
-UI_20180827_003409	{@st66b}{s18}Total Amount{/}
+UI_20180827_003401	{@st66b18}Забрать
+UI_20180827_003402	{@st66b18}Продать
+UI_20180827_003403	{@st66b18}Купить
+UI_20180827_003404	{@st66b}{s18}Категория
+UI_20180827_003405	{@st66b}{s18}Название{/}
+UI_20180827_003406	{@st66b}{s18}Уровень{/}
+UI_20180827_003407	{@st66b}{s18}Цена{/}
+UI_20180827_003408	{@st66b}{s18}Количество{/}
+UI_20180827_003409	{@st66b}{s18}Итого{/}
 UI_20180827_003410	{@st66b}{s18}Stats{/}
 UI_20180827_003411	{@st66b}{s18}Sockets{/}
 UI_20180827_003412	{@st66b}{s18}Potential{/}
@@ -3421,14 +3421,14 @@ UI_20180827_003420	{@st66b}{s18}Total Amount{/}
 UI_20180827_003421	{@st66b}{s18}Wait Period{/}
 UI_20180827_003422	{@st66b}{s18}Статус{/}
 UI_20180827_003423	Retrieve {#002d93}Silver{/}{/} from the sale of {#8e0000}[%s%s] x%s{/}{/}? Total:{#8e0000}%s{/}{/}
-UI_20180827_003424	{@st41b}Receive
-UI_20180827_003425	Retrieve {#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}?
-UI_20180827_003426	Retrieve all items?
-UI_20180827_003427	{@st41b}Item List
+UI_20180827_003424	{@st41b}Получить
+UI_20180827_003425	Забрать {#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}?
+UI_20180827_003426	Забрать все предметы?
+UI_20180827_003427	{@st41b}Списко Предметов
 UI_20180827_003428	Please register an item.
 UI_20180827_003429	{@st66d}Register Item
-UI_20180827_003430	{@st66b}Max. Price{/}
-UI_20180827_003431	{@st66b}Min. Price{/}
+UI_20180827_003430	{@st66b}Макс. Цена{/}
+UI_20180827_003431	{@st66b}Мин. Цена{/}
 UI_20180827_003432	{@st66b}Lowest Price{/}
 UI_20180827_003433	{@st66b}{s14}(%s Silver per unit)
 UI_20180827_003434	{@st66}Registration fees:
@@ -3436,7 +3436,7 @@ UI_20180827_003435	{@st66}Total price:
 UI_20180827_003436	{@st66}Market fees:
 UI_20180827_003437	{@st66}Final amount:
 UI_20180827_003438	{@st66}%s Day(s): %s% of item price
-UI_20180827_003439	{@st66}{s14}Silver obtained from selling items (except Tokens){nl}can be retrieved from the Market after 48 hours.{/}
+UI_20180827_003439	{@st66}{s14}Серебро, полученное от продажи предметов (кроме токенов) {nl}, может быть получено с аукциона через 48 часов. {/}
 UI_20180827_003440	{@st66b}{s18}Fees{/}
 UI_20180827_003441	{@st66b}{s18}Time Remaining{/}
 UI_20180827_003442	{ds}{b}{#ffefd6}30 min: {#fe7e00}100 POINTS
@@ -3449,7 +3449,7 @@ UI_20180827_003448	{@st42}{s22}Popo Магазин{@st42}
 UI_20180827_003449	{@st59}Получить вещи снова.{/}
 UI_20180827_003450	{img test_cooltime 25 25}{s18}Points resetting in %s day(s), %s hour(s), %s minute(s).{/}
 UI_20180827_003451	{@st66b}Main{/}
-UI_20180827_003452	{@st66b}Popo магаз{/}
+UI_20180827_003452	{@st66b}Popo магазин{/}
 UI_20180827_003453	{@st66b}PP Gear Rental{/}
 UI_20180827_003454	{@st66b}Information{/}
 UI_20180827_003455	{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 06:00, server time).
@@ -3473,7 +3473,7 @@ UI_20180827_003472	{@st66b}Enable Animated Illustrations
 UI_20180827_003473	 Use item?
 UI_20180827_003474	It will be removed from %s and applied only to %s.{/}
 UI_20180827_003475	Включить Анимацию
-UI_20180827_003476	{@st41b}Purchase{/}
+UI_20180827_003476	{@st41b}Купить{/}
 UI_20180827_003477	Search crafting materials.
 UI_20180827_003478	{#002d93}Silver{/}{/} from {#8e0000}[%s %s] x%s{/}{/}: {#8e0000}[%s]{/}{/}
 UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}
@@ -3539,9 +3539,9 @@ UI_20181017_003538	Save your current category search options.{nl}Options not spe
 UI_20181017_003539	Сохранить Имя
 UI_20181017_003540	{@st66d}Сохранить Настройки
 UI_20181017_003541	{@st41d}Сохранить
-UI_20181017_003542	Import category options.
-UI_20181017_003543	{@st66d}Import Options
-UI_20181017_003544	Trade Limit
+UI_20181017_003542	Параметры импорта категории.
+UI_20181017_003543	{@st66d}Настройки Импорта
+UI_20181017_003544	Торговый лимит
 UI_20181017_003545	Enchant Jewels
 UI_20181017_003546	Enchant Stats
 UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s
@@ -3559,19 +3559,19 @@ UI_20181017_003558	{@st43}2nd
 UI_20181017_003559	{@st43}3rd
 UI_20181017_003560	Level Range
 UI_20181017_003561	Normal
-UI_20181017_003562	Search Item
+UI_20181017_003562	Найти Предмет
 UI_20181017_003563	Show only unidentified items
 UI_20181017_003564	Hide unidentified items
 UI_20181017_003565	Advanced Settings
 UI_20181017_003566	Value
 UI_20181017_003567	{@st66}{s16}Add Stat
 UI_20181017_003568	Stat Group
-UI_20181017_003569	{@st66}{s16}Save
-UI_20181017_003570	Save search settings.
-UI_20181017_003571	{@st66}{s16}Import
-UI_20181017_003572	Import search settings.
-UI_20181017_003573	Reset search settings.
-UI_20181017_003574	Item Level
+UI_20181017_003569	{@st66}{s16}Сохранить
+UI_20181017_003570	Сохранить настройки поиска.
+UI_20181017_003571	{@st66}{s16}Импорт
+UI_20181017_003572	Импорт настроек поиска.
+UI_20181017_003573	Сбросить настройки поиска.
+UI_20181017_003574	Уровень Предмета
 UI_20181017_003575	Roast Level
 UI_20181017_003576	Delete Stat
 UI_20181017_003577	Settings Save Name

@@ -1736,7 +1736,7 @@ ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You don't have enough silver.
 ETC_20150317_001738	Level 1 or higher
-ETC_20150317_001739	Any class
+ETC_20150317_001739	Все классы
 ETC_20150317_001740	Swordsman
 ETC_20150317_001741	Archer
 ETC_20150317_001742	Cleric
@@ -1784,8 +1784,8 @@ ETC_20150317_001783	Defense Rate
 ETC_20150317_001784	Evasion Rate
 ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
-ETC_20150317_001787	Weight: {All} / {Max}
-ETC_20150317_001788	Weight ({Rate}%)
+ETC_20150317_001787	Вес: {All} / {Max}
+ETC_20150317_001788	Вес ({Rate}%)
 ETC_20150317_001789	Unsocketable
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
@@ -1954,10 +1954,10 @@ ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
 ETC_20150317_001955	Destroying Tree Root Crystals will help recover your Stamina!
 ETC_20150317_001956	Класс
-ETC_20150317_001957	{@st41b} Title {/}
+ETC_20150317_001957	{@st41b} Титул {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Achievement Score: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
 ETC_20150317_001959	{@st41b} NPC Adventure Score: {/}
-ETC_20150317_001960	Buy
+ETC_20150317_001960	Купить
 ETC_20150317_001961	Selling Price
 ETC_20150317_001962	SHIFT + Left-click to equip jewel
 ETC_20150317_001963	Socket Bonus
@@ -2000,7 +2000,7 @@ ETC_20150317_001999	Lance Mastery
 ETC_20150317_002000	Marksmanship
 ETC_20150317_002001	Tactical Action
 ETC_20150317_002002	Physical Training
-ETC_20150317_002003	None
+ETC_20150317_002003	Ничего
 ETC_20150317_002004	No increase
 ETC_20150317_002005	Lost
 ETC_20150317_002006	Gloves
@@ -2047,7 +2047,7 @@ ETC_20150317_002046	Gift given by {Giver} to {Target}
 ETC_20150317_002047	Количество
 ETC_20150317_002048	Забрать
 ETC_20150317_002049	Buy
-ETC_20150317_002050	Посмотреть маркет
+ETC_20150317_002050	Посмотреть Аукцион
 ETC_20150317_002051	[Unavailable]
 ETC_20150317_002052	[Available]
 ETC_20150317_002053	[In Progress]
@@ -2733,8 +2733,8 @@ ETC_20150317_002732	Skill Attack
 ETC_20150317_002733	Magic Resistance
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	Магическая Атака
+ETC_20150317_002737	Магическая Защита
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Gender
 ETC_20150317_002740	Maximum Socket(s)
@@ -3826,7 +3826,7 @@ ETC_20150317_003825	Use items
 ETC_20150317_003826	of area
 ETC_20150317_003827	enter range
 ETC_20150317_003828	Automatically complete from quest session object when goal is achieved
-ETC_20150317_003829	None
+ETC_20150317_003829	Ничего
 ETC_20150317_003830	Quest Pre-requisite
 ETC_20150317_003831	Spot
 ETC_20150317_003832	Within range
@@ -25820,7 +25820,7 @@ ETC_20161214_025821	The evil energy is dissipating.
 ETC_20161214_025822	A title given to CBT1 participants.
 ETC_20161214_025823	A title given to people who have met 100 NPCs.
 ETC_20161214_025824	Title awarded to users selected during the event.
-ETC_20161214_025825	Discovered all of the treasure chests.
+ETC_20161214_025825	Обнаружить все сундуки с сокровищами.
 ETC_20161214_025826	Reach Rank 8 by the Wings of Vaivora.
 ETC_20161214_025827	A title that is awarded to the Swordsman that stood at the pinnacle of the Team Battle League.
 ETC_20161214_025828	A title that is awarded to the Wizard that stood at the pinnacle of the Team Battle League.
@@ -28363,7 +28363,7 @@ ETC_20170726_028364	You can no longer equip cards of the same grade.
 ETC_20170726_028365	No field boss in this region.
 ETC_20170726_028366	N/A
 ETC_20170726_028367	Your sell list contains expired items.
-ETC_20170726_028368	Discount
+ETC_20170726_028368	Скидки
 ETC_20170726_028369	[Premium] New Items
 ETC_20170726_028370	[Premium] Bestsellers
 ETC_20170726_028371	[Premium] Half Price
@@ -36479,8 +36479,8 @@ ETC_20181017_036480	Registration fees consume {Price} Silver,{nl} and {@st66d_y}
 ETC_20181017_036481	This item may not appear in the Market due to a synchronization error. Market Item Index: {marketidx}
 ETC_20181017_036482	You can purchase only one item at once.
 ETC_20181017_036483	Activation Scrolls
-ETC_20181017_036484	Accessories
-ETC_20181017_036485	Материалы специального снаряжения
+ETC_20181017_036484	Аксессуары
+ETC_20181017_036485	Материалы спец. снаряжения
 ETC_20181017_036486	Ichors - Weapons
 ETC_20181017_036487	Ichors - Armor
 ETC_20181017_036488	Stats
@@ -43043,7 +43043,7 @@ ETC_20191024_043044	Astral Tower Closed Quarters: Casual	별의 탑 폐쇄 구�
 ETC_20191024_043045	Asiomage Testing Grounds: Casual	아시오 메이지의 실험실: 캐주얼
 ETC_20191024_043046	Tomb of the White Crow: Casual	흰 까마귀의 영면지: 캐주얼
 ETC_20191024_043047	Former Fantasy Library: Sausis Room 9: Casual	과거 환상도서관 : 사우시스 9 관: 캐주얼
-ETC_20191024_043048	Arts	아츠
+ETC_20191024_043048	Искусства
 ETC_20191024_043049	Unidentified	미식별
 ETC_20191024_043050	Encyclopedia	전집
 ETC_20191024_043051	Mystic Tome: Swordsman	신비한 서: 소드맨
