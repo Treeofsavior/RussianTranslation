@@ -12978,7 +12978,7 @@ SKILL_20190104_012977	Send out a wave of fire all around to attack your enemies.
 SKILL_20190104_012978	Elemental Essence
 SKILL_20190104_012979	Grants a buff that increases the damage bonus of property attacks when attacking an enemy's weakness.
 SKILL_20190104_012980	Offensive Property Effects: +#{CaptionRatio}#%{nl}Duration: 20 seconds
-SKILL_20190104_012981	Summon a familiar. The familiar rushes to an enemy that you attack or one that attacks you, and then explodes. The explosion deals damage based on the summon's attack.
+SKILL_20190104_012981	Призыв фамильяров. Фамильяры бросаются на врагов, которых вы атакуете или же атакующих вас и взрываются. Урон от взрыва основывается на уроне призываемых существ.
 SKILL_20190104_012982	Summon Skill Factor: #{SkillFactor}#%{nl}Summons 5 Familiars{nl}Duration: 60 seconds
 SKILL_20190104_012983	Summons the demon from the secondary card equipped on the Grimoire to attack enemies. The damage inflicted is increased in proportion to the caster's SPR. The Evocation buff is applied to the demon created by Summoning when damage is dealt with Evocation, causing it to ignore 20% of enemy physical/magic defense.
 SKILL_20190104_012984	Skill Factor: #{SkillFactor}#%{nl}Evocation Buff Duration: #{CaptionRatio2}# seconds
