@@ -2934,8 +2934,8 @@ UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot reward
 UI_20171128_002934	Автоподбор%s
 UI_20171128_002935	{@st41b}Зайти%s
 UI_20171128_002936	{@st43}{#ffcc33}{s24}Зачищено
-UI_20171128_002937	{@ST43}Cleared : 
-UI_20171128_002938	{@st43b}{s18}Полученные награды
+UI_20171128_002937	{@ST43}Зачищено : 
+UI_20171128_002938	{@st43b}{s18}Награды
 UI_20171128_002939	{@st66d_y}Multiply Effect Reward x
 UI_20171128_002940	{img icon_item_silver 24 24} Серебро
 UI_20171128_002941	{img icon_item_cube3 25 25} Куб
@@ -3186,7 +3186,7 @@ UI_20180517_003185	{img icon_item_tpBox_30 36 36}%s TP will be consumed.
 UI_20180517_003186	Probability Message
 UI_20180517_003187	{@st66b}Да{/}
 UI_20180517_003188	{@st66b}Нет{/}
-UI_20180517_003189	{@st66w}Show all tabs{/}
+UI_20180517_003189	{@st66w}Показать все вкладки{/}
 UI_20180517_003190	{@st66b}In-game, your character and team names will be displayed like this:{nl} 
 UI_20180517_003191	CharacterName TeamName
 UI_20180517_003192	 .{nl}{img exemple_img_teamname}{nl}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}

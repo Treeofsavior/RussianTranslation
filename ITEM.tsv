@@ -14658,10 +14658,10 @@ ITEM_20170420_014657	A mushroom with a hint of a woody scent. Right-click to use
 ITEM_20170420_014658	This fruit has a sweet and sour flavor. {nl}Restores HP every 2 seconds. 180 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014659	Restores 80~100 HP. The meat is readily available and safe to eat raw. Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014660	Мгновенно восстанавливает 172 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 172 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
-ITEM_20170420_014661	Мгновенно восстанавливает 288 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 288 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
-ITEM_20170420_014662	Мгновенно восстанавливает 576 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 576 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
-ITEM_20170420_014663	Мгновенно восстанавливает 108 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 108 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
-ITEM_20170420_014664	Мгновенно восстанавливает 180 HP. {nl} Дополнительно восстанавливает SP каждые 2 секунды. {nl} 180 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014661	Мгновенно восстанавливает 288 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 288 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014662	Мгновенно восстанавливает 576 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 576 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014663	Мгновенно восстанавливает 108 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 108 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
+ITEM_20170420_014664	Мгновенно восстанавливает 180 HP. {nl} Дополнительно восстанавливает HP каждые 2 секунды. {nl} 180 HP восстанавливается в течение 15 секунд. {nl} Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 45 секунд.
 ITEM_20170420_014665	Instantly restores 360 SP. {nl}Additionally restores SP every 2 seconds. {nl}360 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
 ITEM_20170420_014666	Restores 224 HP and SP every 2 seconds. {nl}224 HP and SP are restored over 15 seconds. {nl}Right-click to use. Cooldown of 50 seconds.
 ITEM_20170420_014667	Restores HP and SP every 2 seconds. {nl}373 HP and SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 100 seconds.
@@ -19892,7 +19892,7 @@ ITEM_20181017_019891	Right-click to use and select a toy from the list.{nl}Will 
 ITEM_20181017_019892	Title - Here to Party
 ITEM_20181017_019893	Title box awarded for the Dainu Svente event.
 ITEM_20181017_019894	Full Moon Fragment
-ITEM_20181017_019895	Event item. Bring it to the corresponding NPC to participate in the event.{nl}Will be deleted at the end of the event.
+ITEM_20181017_019895	Предмет события. Отнесите его соответствующему NPC для участия в событии. {Nl} Будет удалено в конце события.
 ITEM_20181017_019896	Title - Waiting for a Full Moon
 ITEM_20181017_019897	Title box awarded for the full moon event.
 ITEM_20181017_019898	Spotted Baby Pig Companion Voucher
