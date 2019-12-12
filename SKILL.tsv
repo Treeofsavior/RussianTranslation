@@ -1227,11 +1227,11 @@ SKILL_20150317_001226	Briquetting
 SKILL_20150317_001227	Tincturing
 SKILL_20150317_001228	Magnum Opus
 SKILL_20150317_001229	Create magic barrier on target area that blocks enemy attacks.
-SKILL_20150317_001230	Lv.1 Длительность: #{CaptionTime}# Секунд, block 6 times, Maximum Targets: #{CaptionRatio}# Lv.2 Длительность: #{CaptionTime}# Секунд, block 6 times, Maximum Targets: #{CaptionRatio}# Lv.3 Длительность: #{CaptionTime}# Секунд, block 6 times, Maximum Targets: #{CaptionRatio}#
+SKILL_20150317_001230	Ур.1 Длительность: #{CaptionTime}# Секунд, block 6 times, Maximum Targets: #{CaptionRatio}# Ур.2 Длительность: #{CaptionTime}# Секунд, block 6 times, Maximum Targets: #{CaptionRatio}# Lv.3 Длительность: #{CaptionTime}# Секунд, block 6 times, Maximum Targets: #{CaptionRatio}#
 SKILL_20150317_001231	Create an area of fog in front. Accuracy of enemies located in the fog decrease.
 SKILL_20150317_001232	Длительность: #{CaptionTime}# Секунд, Accuracy -#{CaptionRatio}#%{nl}Consume #{SpendSP}# SP
 SKILL_20150317_001233	Shock the enemies under [Freeze] nearby and inflict damage.
-SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.2 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Splash #{SkillSR}#
+SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Ур.2 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_001235	Apply [Curse] to the target and reduce its defense
 SKILL_20150317_001236	Lv.1 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Длительность: #{CaptionTime}# Секунд Lv.2 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Длительность: #{CaptionTime}# Секунд Lv. 3 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Длительность: #{CaptionTime}# Секунд Lv.4 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Длительность: #{CaptionTime}# Секунд Lv.5 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Длительность: #{CaptionTime}# Секунд
 SKILL_20150317_001237	Inflicts damage on targets who are affected by [Curse]. Every 3rd attack inflicts greater damage.
@@ -17431,43 +17431,43 @@ SKILL_20191024_017430	[Arts] Peacemaker: обновленное усиление
 SKILL_20191024_017431	* Повышает множитель навыка [Peacemaker] на 1,25% за каждый уровень атрибута	* [피스메이커]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017432	[Arts] Aiming Shot: обновленное усиление	[아츠] 에이밍 샷: 상급 강화
 SKILL_20191024_017433	* Повышает множитель навыка [Aiming Shot] на 1,25% за каждый уровень атрибута	* [에이밍 샷]의 스킬 계수가 특성 레벨당 1.25% 증가
-SKILL_20191024_017434	Alchemist Class Lv. 45	알케미스트 클래스 45레벨 달성
-SKILL_20191024_017435	[Combustion: Усиление] Attribute Lv. 65	[컴버스천: 강화] 특성 65 레벨 달성
-SKILL_20191024_017436	[Alchemistic Missile: Усиление] Attribute Lv. 65	[알케미스틱 미사일: 강화] 특성 65 레벨 달성
-SKILL_20191024_017437	Appraiser Class Lv. 45	감정사 클래스 45 레벨 달성
-SKILL_20191024_017438	[Blindside: Усиление] Attribute Lv. 65	[약점공격: 강화] 특성 65 레벨 달성
-SKILL_20191024_017439	Archer Class Lv. 45	아처 클래스 15레벨 달성
-SKILL_20191024_017440	[Multi Shot: Усиление] Attribute Lv. 65	[멀티 샷: 강화] 특성 65 레벨 달성
-SKILL_20191024_017441	[Oblique Shot: Усиление] Attribute Lv. 65	[오블리크 샷: 강화] 특성 65 레벨 달성
-SKILL_20191024_017442	[Twin Arrow: Усиление] Attribute Lv. 65	[트윈 애로우: 강화] 특성 65 레벨 달성
-SKILL_20191024_017443	Ardito Class Lv. 45	아르디티 클래스 45레벨 달성
-SKILL_20191024_017444	[Granata: Усиление] Attribute Lv. 65	[그라나다: 강화] 특성 65 레벨 달성
-SKILL_20191024_017445	[Tre Granate: Усиление] Attribute Lv. 65	[트레 그라나다: 강화] 특성 65 레벨 달성
-SKILL_20191024_017446	[Ritirarsi: Усиление] Attribute Lv. 65	[리티라르시: 강화] 특성 65 레벨 달성
-SKILL_20191024_017447	[Invasione: Усиление] Attribute Lv. 65	[인바시오네: 강화] 특성 65 레벨 달성
-SKILL_20191024_017448	[Taglio: Усиление] Attribute Lv. 65	[탈리오: 강화] 특성 65 레벨 달성
-SKILL_20191024_017449	Assassin Class Lv. 45	어쌔신 클래스 45레벨 달성
-SKILL_20191024_017450	[Behead: Усиление] Attribute Lv. 65	[카트 라시흐: 강화] 특성 65 레벨 달성
-SKILL_20191024_017451	[Instant Acceleration: Усиление] Attribute Lv. 65	[투사르 리히즈인: 강화] 특성 65 레벨 달성
-SKILL_20191024_017452	[Piercing Heart: Усиление] Attribute Lv. 65	[타흐카브 알칼브: 강화] 특성 65 레벨 달성
-SKILL_20191024_017453	[Annihilation: Усиление] Attribute Lv. 65	[이브아다탄: 강화] 특성 65 레벨 달성
-SKILL_20191024_017454	Barbarian Class Lv. 45	바바리안 클래스 45레벨 달성
-SKILL_20191024_017455	[Embowel: Усиление] Attribute Lv. 65	[임바우얼: 강화] 특성 65 레벨 달성
-SKILL_20191024_017456	[Stomping Kick: Усиление] Attribute Lv. 65	[스톰핑 킥: 강화] 특성 65 레벨 달성
-SKILL_20191024_017457	[Pouncing: Усиление] Attribute Lv. 65	[파운싱: 강화] 특성 65 레벨 달성
-SKILL_20191024_017458	[Seism: Усиление] Attribute Lv. 65	[사이즘: 강화] 특성 65 레벨 달성
-SKILL_20191024_017459	[Cleave: Усиление] Attribute Lv. 65	[클리브: 강화] 특성 65 레벨 달성
-SKILL_20191024_017460	Bokor Class Lv. 45	보코르 클래스 45레벨 달성
-SKILL_20191024_017461	[Effigy: Усиление] Attribute Lv. 65	[에피지: 강화] 특성 65 레벨 달성
-SKILL_20191024_017462	[Bwa Kayiman: Усиление] Attribute Lv. 65	[브와 카이망: 강화] 특성 65 레벨 달성
-SKILL_20191024_017463	[Damballa: Усиление] Attribute Lv. 65	[댐발라: 강화] 특성 65 레벨 달성
-SKILL_20191024_017464	Bullet Marker Class Lv. 45	불릿 마커 클래스 45레벨 달성
-SKILL_20191024_017465	[Napalm Bullet: Усиление] Attribute Lv. 65	[소이탄: 강화] 특성 65 레벨 달성
-SKILL_20191024_017466	[Full Metal Jacket: Усиление] Attribute Lv. 65	[풀 메탈 자켓: 강화] 특성 65 레벨 달성
-SKILL_20191024_017467	[R.I.P.: Усиление] Attribute Lv. 65	[R.I.P.: 강화] 특성 65 레벨 달성
-SKILL_20191024_017468	[Bloody Overdrive: Усиление] Attribute Lv. 65	[블러디 오버드라이브: 강화] 특성 65 레벨 달성
-SKILL_20191024_017469	[Smash Bullet: Усиление] Attribute Lv. 65	[파쇄탄: 강화] 특성 65 레벨 달성
-SKILL_20191024_017470	[Mozambique Drill: Усиление] Attribute Lv. 65	[모잠비크 드릴: 강화] 특성 65 레벨 달성
+SKILL_20191024_017434	Alchemist Class Ур. 45
+SKILL_20191024_017435	[Combustion: Усиление] Attribute Ур. 65	
+SKILL_20191024_017436	[Alchemistic Missile: Усиление] Attribute Ур. 65	
+SKILL_20191024_017437	Appraiser Class Ур. 45	
+SKILL_20191024_017438	[Blindside: Усиление] Attribute Ур. 65	
+SKILL_20191024_017439	Archer Class Ур. 45	
+SKILL_20191024_017440	[Multi Shot: Усиление] Attribute Ур. 65	
+SKILL_20191024_017441	[Oblique Shot: Усиление] Attribute Ур. 65	
+SKILL_20191024_017442	[Twin Arrow: Усиление] Attribute Ур. 65	
+SKILL_20191024_017443	Ardito Class Ур. 45	
+SKILL_20191024_017444	[Granata: Усиление] Attribute Ур. 65	
+SKILL_20191024_017445	[Tre Granate: Усиление] Attribute Ур. 65	
+SKILL_20191024_017446	[Ritirarsi: Усиление] Attribute Ур. 65	
+SKILL_20191024_017447	[Invasione: Усиление] Attribute Ур. 65	
+SKILL_20191024_017448	[Taglio: Усиление] Attribute Ур. 65	
+SKILL_20191024_017449	Assassin Class Ур. 45	
+SKILL_20191024_017450	[Behead: Усиление] Attribute Ур. 65
+SKILL_20191024_017451	[Instant Acceleration: Усиление] Attribute Ур. 65
+SKILL_20191024_017452	[Piercing Heart: Усиление] Attribute Ур. 65	
+SKILL_20191024_017453	[Annihilation: Усиление] Attribute Ур. 65	
+SKILL_20191024_017454	Barbarian Class Ур. 45	
+SKILL_20191024_017455	[Embowel: Усиление] Attribute Ур. 65
+SKILL_20191024_017456	[Stomping Kick: Усиление] Attribute Ур. 65	
+SKILL_20191024_017457	[Pouncing: Усиление] Attribute Ур. 65	
+SKILL_20191024_017458	[Seism: Усиление] Attribute Ур. 65	
+SKILL_20191024_017459	[Cleave: Усиление] Attribute Ур. 65	
+SKILL_20191024_017460	Bokor Class Ур. 45	
+SKILL_20191024_017461	[Effigy: Усиление] Attribute Ур. 65	
+SKILL_20191024_017462	[Bwa Kayiman: Усиление] Attribute Ур. 65	
+SKILL_20191024_017463	[Damballa: Усиление] Attribute Ур. 65	
+SKILL_20191024_017464	Bullet Marker Class Ур. 45	
+SKILL_20191024_017465	[Napalm Bullet: Усиление] Attribute Ур. 65	
+SKILL_20191024_017466	[Full Metal Jacket: Усиление] Attribute Ур. 65
+SKILL_20191024_017467	[R.I.P.: Усиление] Attribute Ур. 65	
+SKILL_20191024_017468	[Bloody Overdrive: Усиление] Attribute Ур. 65
+SKILL_20191024_017469	[Smash Bullet: Усиление] Attribute Ур. 65	
+SKILL_20191024_017470	[Mozambique Drill: Усиление] Attribute Ур. 65
 SKILL_20191024_017471	[Outrage: Усиление] Attribute Lv. 65	[아웃레이지: 강화] 특성 65 레벨 달성
 SKILL_20191024_017472	Cannoneer Class Lv. 45	캐노니어 클래스 45레벨 달성
 SKILL_20191024_017473	[Cannon Shot: Усиление] Attribute Lv. 65	[캐논 샷: 강화] 특성 65 레벨 달성
