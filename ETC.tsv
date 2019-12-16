@@ -5,7 +5,7 @@ ETC_20150317_000004	There are people who try to eat the Large Kepa sometimes. Do
 ETC_20150317_000005	Red Kepa
 ETC_20150317_000006	Contrary to popular belief, it's the Red Kepas that are most similar to the original Kepa.
 ETC_20150317_000007	Poisoned Kepa
-ETC_20150317_000008	 Монстры
+ETC_20150317_000008	Монстры
 ETC_20150317_000009	Hamming
 ETC_20150317_000010	Despite its tough skin, the Hamming is a fairly feeble monster.
 ETC_20150317_000011	Chinency
@@ -1540,7 +1540,7 @@ ETC_20150317_001539	You cannot receive basic items because your inventory is ful
 ETC_20150317_001540	Your account ID cannot contain spaces.
 ETC_20150317_001541	You are not equipped with the{nl}required weapon to use this skill.
 ETC_20150317_001542	Out of the range distance of herbivorous subject
-ETC_20150317_001543	You may not use this yet
+ETC_20150317_001543	Вы не можете использовать это
 ETC_20150317_001544	You cannot create anymore
 ETC_20150317_001545	Enchantment error (error code: {Auto_1})
 ETC_20150317_001546	Duel status activated. {nl}The squad will be withdrawn automatically.
@@ -1578,7 +1578,7 @@ ETC_20150317_001577	Failed to purchase item! You have insufficient funds.
 ETC_20150317_001578	Failed to purchase item! Seller has canceled or has removed it from the list.
 ETC_20150317_001579	Failed to purchase item! An unknown error has occurred.
 ETC_20150317_001580	Too close
-ETC_20150317_001581	{s20}{ol}{#46ffc8} You do not have enough Stamina
+ETC_20150317_001581	{s20}{ol}{#46ffc8} Вам не хватает Stamina
 ETC_20150317_001582	Object needed for the skill is not available.
 ETC_20150317_001583	You cannot equip secondary equipment while wearing a two-handed weapon.
 ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
@@ -1851,7 +1851,7 @@ ETC_20150317_001850	Times
 ETC_20150317_001851	Damage
 ETC_20150317_001852	{Ul}Maximum Attack! {/}
 ETC_20150317_001853	{Ul}Maximum Damage! {/}
-ETC_20150317_001854	 Ур
+ETC_20150317_001854	Ур
 ETC_20150317_001855	Obtained Quantity
 ETC_20150317_001856	Obtained Monsters
 ETC_20150317_001857	Buy from Shop
@@ -1890,7 +1890,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
-ETC_20150317_001893	 Предметы
+ETC_20150317_001893	Предметы
 ETC_20150317_001894	Карта
 ETC_20150317_001895	Достижения
 ETC_20150317_001896	Mike
@@ -1926,10 +1926,10 @@ ETC_20150317_001925	Wizard
 ETC_20150317_001926	Archer
 ETC_20150317_001927	Cleric
 ETC_20150317_001928	View Information
-ETC_20150317_001929	 Канал
+ETC_20150317_001929	Канал
 ETC_20150317_001930	Вы хотите перейти на канал {Channel}?
 ETC_20150317_001931	Цена
-ETC_20150317_001932	's Дом
+ETC_20150317_001932	 Дом
 ETC_20150317_001933	This channel is closed.
 ETC_20150317_001934	TP Shop
 ETC_20150317_001935	Defense
@@ -4001,7 +4001,7 @@ ETC_20150317_004000	You need monsters to bring the fire energy around!
 ETC_20150317_004001	Can only be used in Fallen Tree Garden
 ETC_20150317_004002	Can only be used in general fields
 ETC_20150317_004003	Can only be used in Mage Tower 1F
-ETC_20150317_004004	You may not use this yet
+ETC_20150317_004004	Вы не можете использовать это
 ETC_20150317_004005	There is no Goddess Statue nearby!
 ETC_20150317_004006	There are no monsters around to use the bomb on!
 ETC_20150317_004007	Available only in the West Siauliai Woods
@@ -4712,14 +4712,14 @@ ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
 ETC_20150317_004713	You do not have enough silver.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
-ETC_20150317_004715	Chat
+ETC_20150317_004715	Чат
 ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
 ETC_20150317_004718	Normal Chat
 ETC_20150317_004719	Party Chat
 ETC_20150317_004720	Group
 ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004722	Система
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	Minimum:
 ETC_20150317_004725	Maximum:
@@ -4727,11 +4727,11 @@ ETC_20150317_004726	{@st43} Silver 0
 ETC_20150317_004727	{@st43} Silver
 ETC_20150317_004728	Discarded
 ETC_20150317_004729	(Warp Scroll)
-ETC_20150317_004730	Silver
+ETC_20150317_004730	Серебро
 ETC_20150317_004731	{@st41b}Confirm{/}
 ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
-ETC_20150317_004734	Maps
+ETC_20150317_004734	Карта
 ETC_20150317_004735	Maps Explored
 ETC_20150317_004736	{S20}{#00f00F} My Ranking:
 ETC_20150317_004737	Acquisition
@@ -30150,7 +30150,7 @@ ETC_20171128_030151	Wooden Barricade 3 (Partially Destroyed)
 ETC_20171128_030152	Mysterious Device (Big Version)
 ETC_20171128_030153	Coral Plain Transportation Device
 ETC_20171128_030154	Fantasy Library Transportation Device
-ETC_20171128_030155	Enter the Challenge Mode
+ETC_20171128_030155	Войти в режим испытаний
 ETC_20171128_030156	Step Up
 ETC_20171128_030157	Finish the Mode
 ETC_20171128_030158	Разбор вещей
@@ -31045,7 +31045,7 @@ ETC_20171128_031046	This is fishy.
 ETC_20171128_031047	There's adzuki beans inside.
 ETC_20171128_031048	You can't use this function during the Territory Wars.
 ETC_20171128_031049	This cannot be used in the PvP areas.
-ETC_20171128_031050	Do you want to participate in the challenge mode?
+ETC_20171128_031050	Вы хотите принять участие в режиме испытаний?
 ETC_20171128_031051	Do you want to challenge the next level?
 ETC_20171128_031052	Are you sure you want to stop challenging?
 ETC_20171128_031053	You can't participate since one of your party members is challenging 2 or more stages now.
@@ -31053,7 +31053,7 @@ ETC_20171128_031054	You have conquered the Challenge Mode. Do you want to receiv
 ETC_20171128_031055	You couldn't participate since the portal has closed.
 ETC_20171128_031056	A portal has already opened at the other spot.
 ETC_20171128_031057	Challenge Mode Portal
-ETC_20171128_031058	Your character level is too high to enter.
+ETC_20171128_031058	Ваш уровень персонажа слишком высок, чтобы войти.
 ETC_20171128_031059	You can't receive the reward since the level difference with the relevant area is too great.
 ETC_20171128_031060	You've failed since time ran out.
 ETC_20171128_031061	A Challenge Mode portal has opened in the current area.
@@ -42129,7 +42129,7 @@ ETC_20190628_042130	Old Legend Enhancement Card Box
 ETC_20190628_042131	Right-click to use and obtain the items.{nl}- Old Legend Enhancement Card x3
 ETC_20190628_042132	Multi-color Monster Card Box
 ETC_20190628_042133	Right-click to use and obtain the items.{nl}- Monster Card Album: Red x2{nl}- Monster Card Album: Blue x2{nl}- Monster Card Album: Green x2{nl}- Monster Card Album: Purple x2
-ETC_20190628_042134	Glowing Lv. 400 Awakening Abrasive
+ETC_20190628_042134	Glowing Ур. 400 Awakening Abrasive
 ETC_20190628_042135	Golden Anvil Box S Rank
 ETC_20190628_042136	Right-click to use and obtain the items.{nl}- Golden Anvil x50{nl}* Note: Golden Anvils can only be transferred via Team Storage and consume Silver when used.
 ETC_20190628_042137	2019 Leticia's Treasure Chest
@@ -42802,10 +42802,10 @@ ETC_20191024_042803	Freeze resistance +{@st66d_y}{s16}[%d]{/}{/}, Max. HP +{@st6
 ETC_20191024_042804	ATK against Medium-type monsters +{@st66d_y}{s16}[%d]{/}{/}	중형 대상 공격력+{@st66d_y}{s16}[%d]{/}{/}
 ETC_20191024_042805	Blind resistance +{@st66d_y}{s16}[%d]{/}{/}, Max. SP +{@st66d_y}{s16}[%d]{/}{/}	암흑 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}, 최대 SP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20191024_042806	Additional damage +{@st66d_y}{s16}[%d]{/}{/} against shielded enemies	실드 적용 중인 대상에게 {@st66d_y}{s16}[%d]{/}{/} 추가 대미지
-ETC_20191024_042807	Hangout Expansion Lv. 1	아지트 확장 1단계
-ETC_20191024_042808	Hangout Expansion Lv. 2	아지트 확장 2단계
+ETC_20191024_042807	Hangout Expansion Ур. 1	아지트 확장 1단계
+ETC_20191024_042808	Hangout Expansion Ур. 2	아지트 확장 2단계
 ETC_20191024_042809	Expanded Hangout facilities available{nl}    - Housing items and facilities can be bought and sold{nl}    - Crafting Workshop can be installed{nl}    - Additional spaces in Hangout to install new items and facilities	확장된 길드 아지트 이용 가능{nl}    - 하우징 용품, 시설 구매 및 판매 가능{nl}    - 제작 공방소 설치 가능{nl}    - 아지트 내 하우징 용품 및 시설 배치 가능한 구역 추가
-ETC_20191024_042810	Hangout Expansion Lv. 3	아지트 확장 3단계
+ETC_20191024_042810	Hangout Expansion Ур. 3	아지트 확장 3단계
 ETC_20191024_042811	Various labs and facilities can be installed{nl}    - Additional spaces in Hangout to install new items and facilities	각종 연구소 설치 및 이용 가능{nl}    - 아지트 내 하우징 용품 및 시설 배치 가능한 구역 확장
 ETC_20191024_042812	Additional spaces in Hangout to install new items and facilities	아지트 내 하우징 용품 및 시설 배치 가능한 구역 확장
 ETC_20191024_042813	Weapons Research max. level +5	무기 연구 최대 레벨 +5
