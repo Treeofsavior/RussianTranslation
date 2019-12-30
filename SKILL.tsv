@@ -17853,3 +17853,11 @@ SKILL_20191125_017852	Призыв столба огня, чтобы нанес�
 SKILL_20191125_017853	Fluffy Cheer	참새의 응원
 SKILL_20191125_017854	 Fluffy Sparrow cheers you on with its chirps.{nl} cheering Увеличение your movement speed by +2.	복실복실 참새가 곁에서 지저귀며 당신을 응원합니다.{nl}참새의 응원으로 이동 속도가 2 증가합니다.
 SKILL_20191216_017855	Equip Midnight Starlight Effect Costume	미드나이트 스타라이트 이펙트 코스튬 장착
+SKILL_20191228_017856	Gabija Effect Free Check	가비야 이펙트 프리체크
+SKILL_20191228_017857	Gabija Flame Effect	가비야의 불 이펙트
+SKILL_20191228_017858	[Event] New Year 2x	[이벤트] 4주년 x2
+SKILL_20191228_017859	[Buff Effect]: The amount of [Event] New Year Coins obtained is increased by two-fold.{nl}[Bonus Effect]: The amount of [Event] New Year Coins obtained is increased by 5x when stacked with [Event] New Year x3 buff.{nl}Duration: 24 hours	[버프 효과] : [이벤트] 4주년 기념 주화를 2배로 획득합니다.{nl}[특수 효과] :  [이벤트] 4주년 x3버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.{nl}[지속 시간] : 24시간
+SKILL_20191228_017860	[Event] New Year 3x	[이벤트] 4주년 x3
+SKILL_20191228_017861	[Buff Effect]: The amount of [Event] New Year Coins obtained is increased by 3x.{nl}[Bonus Effect]: The amount of [Event] New Year Coins obtained is increased by 5x when stacked with [Event] New Year x2 buff.{nl}Duration: 24 hours	[버프 효과] : [이벤트] 4주년 기념 주화를 3배로 획득합니다.{nl}[특수 효과] :  [이벤트] 4주년 x2버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.{nl}[지속 시간] : 24시간
+SKILL_20191228_017862	Summon Gabija Doll	가비야 인형 소환
+SKILL_20191228_017863	Gabija Doll has been summoned.	가비야 인형이 소환된 상태입니다.
