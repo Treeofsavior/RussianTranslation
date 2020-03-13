@@ -3,18 +3,18 @@ UI_20150317_000002	{@st43}Список атрибутов{/}
 UI_20150317_000003	{@st59}Закрыть список атрибутов{/}
 UI_20150317_000004	{@st43}Выучить атрибуты{/}
 UI_20150317_000005	{@st59}Закрыть окно атрибутов{/}
-UI_20150317_000006	{@st41b}Серебра{/}
+UI_20150317_000006	{@st41b}Серебро{/}
 UI_20150317_000007	Мои достижения
 UI_20150317_000008	Рейтинг серверов
 UI_20150317_000009	{@st59}Доступно внезапное событие.{/}
-UI_20150317_000010	{@st59}Есть новое сообщение Справки{/}
+UI_20150317_000010	{@st59}Новое справочное сообщение{/}
 UI_20150317_000011	{@st41}Вы уверены, что хотите создать этот тип стрел?{/}
 UI_20150317_000012	{@st41b}Только{/}
 UI_20150317_000013	{@st41b}Все{/}
 UI_20150317_000014	{@St41b}Пауза{/}
 UI_20150317_000015	{@St43}Журнал приключений{/}
 UI_20150317_000016	{@St43}Аукцион{/}
-UI_20150317_000017	{@St59}Закрыть Почтовый ящик{/}
+UI_20150317_000017	{@St59}Закрыть{/}
 UI_20150317_000018	{@St41b}Товар продан : ×%s, Товар не продан : ×%s{/}
 UI_20150317_000019	{@St43}{s22}Предмет Аукциона{/}
 UI_20150317_000020	{@st59}Закрыть Журнал Квестов{/}
@@ -76,7 +76,7 @@ UI_20150317_000075	{@st43}Настройки игры{/}
 UI_20150317_000076	{@st64}Используйте клавиши со стрелками, чтобы выбрать ячейку!
 UI_20150317_000077	{@st43}Информация о прогрессе {/}
 UI_20150317_000078	{@st43}Выбрать класс
-UI_20150317_000079	Psychokinesist
+UI_20150317_000079	Психокинетический
 UI_20150317_000080	{@st42}%s Ранг {/}
 UI_20150317_000081	Количество Рангов
 UI_20150317_000082	Показать краткое описание класса.
@@ -155,7 +155,7 @@ UI_20150317_000154	{@st41b}Запись
 UI_20150317_000155	Название команды
 UI_20150317_000156	Имя персонажа
 UI_20150317_000157	Ранг {#ffff00}%s{/} %s Ур. {#ffff00}%s{/}
-UI_20150317_000158	Warrior
+UI_20150317_000158	Воин
 UI_20150317_000159	Памятка приключений {#ffff00}%s{/} (Ранг{#ffff00}%s{/}/%s)
 UI_20150317_000160	Памятка приключений {#ffff00}%s{/} ({#ffff00}Без ранга{/})
 UI_20150317_000161	Все достижения : {#ffff00}%s{/}
@@ -303,7 +303,7 @@ UI_20150317_000302	{@st59b} Журнал приключений {nl}{@st59s}- П
 UI_20150317_000303	{@sti7}{s22}{ds}Достижения{/}
 UI_20150317_000304	{@st42b}{#22FF22} Топ 10% / %s Очков{/}
 UI_20150317_000305	{@st42b} Среднее / %s Очков {/}
-UI_20150317_000306	1-й / %s чков
+UI_20150317_000306	1-й / %s очков
 UI_20150317_000307	Ранг %s
 UI_20150317_000308	%s Очков
 UI_20150317_000309	Профессия
@@ -374,10 +374,10 @@ UI_20150317_000373	{@st42b}Количество
 UI_20150317_000374	{@st42b}Цена
 UI_20150317_000375	{@st42b}Скрыть имя продавца{/}
 UI_20150317_000376	{@st41b}Добавить
-UI_20150317_000377	Siege Coin
+UI_20150317_000377	Осадная монета
 UI_20150317_000378	Кто-то был убит кем-то
 UI_20150317_000379	{@st43}Мини-игры{/}
-UI_20150317_000380	{@st49}Fire Catapult{/}
+UI_20150317_000380	{@st49}Огненная Катапульта{/}
 UI_20150317_000381	{@st44}Control directions{/}
 UI_20150317_000382	{@st44}Огонь{/}
 UI_20150317_000383	Мини-игра
@@ -2002,16 +2002,16 @@ UI_20151224_002001	{@st42}Свободные TP{/}
 UI_20151224_002002	{@st42}TP за события{/}
 UI_20151224_002003	{@st41b}Титры{/}
 UI_20151224_002004	{@st59}Титры{/}
-UI_20151224_002005	{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
-UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Level Designer{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Screenplay Director{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Lead Animator{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Animator{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Character Designer{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
-UI_20151224_002007	{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
-UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Director{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
-UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
+UI_20151224_002005	{@st42}Продюссор и Директор{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Арт Директор{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Арт Дизайнер{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Старший Программист{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Программисты{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
+UI_20151224_002006	{@st42}Дизайнеры боевых систем{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Дизайнер уровней{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Режиссер сценария{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Ведущий Аниматор{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Аниматоры{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Дизайнеры персонажей{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
+UI_20151224_002007	{@st42}Дизайнеры фона{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Менеджеры по дизайн контенту{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Дизайнеры контента{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Сценаристы{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
+UI_20151224_002008	{@st42}Звукорежиссер{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}Генеральный звукорежиссер{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Дизайнер звука{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Менеджер{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Дизайнер{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Менеджер по обеспечению качества{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Обеспечение качества{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
+UI_20151224_002009	{@st42}Директор по глобальному издательству{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Техническая поддержка{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
 UI_20151224_002010	Выберите Стартовый Город
-UI_20151224_002011	{@st44}Klaipeda
-UI_20151224_002012	{@st59s}Шахтерский город, который прогрессировал благодаря Crystal Mine.{nl}Этот город получил небольшие повреждения во время Medzio Diena.{/}
-UI_20151224_002013	{@st44}Orsha
-UI_20151224_002014	{@st59s}Мы пытались защитить себя в гигантском замке во время Medzio Diena.{nl}Но ужасающая катастрофа поглотила даже его.{/}
+UI_20151224_002011	{@st44}Клайпеда
+UI_20151224_002012	{@st59s}Шахтерский город, который прогрессировал благодаря Кристаллической пещере.{nl}Этот город получил небольшие повреждения во время Медзио Дэйа.{/}
+UI_20151224_002013	{@st44}Орша
+UI_20151224_002014	{@st59s}Мы пытались защитить себя в гигантском замке во время Медзио Дэйа.{nl}Но ужасающая катастрофа поглотила даже его.{/}
 UI_20151224_002015	{@st59}Вернуться в Дом.{/}
 UI_20151224_002016	{@st43}{s24}Название Дома{/}
 UI_20151224_002017	{@st59}Название Дома{/}
@@ -2030,7 +2030,7 @@ UI_20151224_002029	{@st45tw2}Очки{/}
 UI_20151224_002030	По возрастанию
 UI_20151224_002031	По убыванию
 UI_20151224_002032	По дате
-UI_20151224_002033	{@st42}Token привилегии:{/}
+UI_20151224_002033	{@st42}Токен привилегии:{/}
 UI_20151224_002034	{@st66b}Изменить название Вывески
 UI_20151224_002035	{@st41b}Съесть
 UI_20151224_002036	{@st41b}Число
@@ -2059,22 +2059,22 @@ UI_20160224_002058	{@st63_yellow}Завершенные:{/}
 UI_20160224_002059	Получить награду и уйти.
 UI_20160224_002060	{@st63_yellow}Испытание:{/}
 UI_20160224_002061	Идите на следующий этаж
-UI_20160224_002062	{@st43}Relic Collector{/}
+UI_20160224_002062	{@st43}Коллекционер реликвий{/}
 UI_20160224_002063	{@st59}Закрыть{/}
-UI_20160224_002064	{@st59b}Обмен предметов{nl}{@st59s} - Возможен обмен предметов, полученных в Earth Tower{nl} - Обмен начнется, когда вы поместите предмет в слот.{nl}{/}
+UI_20160224_002064	{@st59b}Обмен предметов{nl}{@st59s} - Возможен обмен предметов, полученных в Земляной Башне{nl} - Обмен начнется, когда вы поместите предмет в слот.{nl}{/}
 UI_20160224_002065	F
 UI_20160224_002066	{@st59}Закрыть{/}
 UI_20160224_002067	{@st59}Поместите аксессуар{/}
 UI_20160224_002068	{@st66b}{s15}Повторное открытие осуществляется за серебро..{/}
-UI_20160224_002069	{@st66b}{s15}(На два раза больше для пользователей с Token){/}
+UI_20160224_002069	{@st66b}{s15}(На два раза больше для пользователей с Токеном){/}
 UI_20160224_002070	{@st41b}Вы достигли лимита открытий.{/}
 UI_20160224_002071	{@st66b}Базовая информация
 UI_20160224_002072	{@st66b}Подробнее
-UI_20160224_002073	Ваш Гильдмастер ищет участников для События Гильдии.
+UI_20160224_002073	Ваш Гильдмастер ищет участников для Событий Гильдии.
 UI_20160224_002074	{@st63_yellow}Члены :{/}
 UI_20160224_002075	{@st63}%s участник (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Область :{/}
-UI_20160224_002077	Cobalt Forest
+UI_20160224_002077	Кобальтовый лес
 UI_20160224_002078	{@st63_yellow}Задачи :{/}
 UI_20160224_002079	{@st43}Гильдия ур. %s{/}
 UI_20160224_002080	{@st66b}Улучшение и Ранг
@@ -2085,12 +2085,12 @@ UI_20160224_002084	* Гильдмастер может отправлять пр
 UI_20160224_002085	{@st41b}Зачаровать
 UI_20160224_002086	{@st41b}Свиток Зачарования{/}
 UI_20160224_002087	{@st59}Закрыть{/}
-UI_20160224_002088	{@st66b}Потребляет 1 Enchant Scroll{/}
+UI_20160224_002088	{@st66b}Потребляет 1 Свиток Чар{/}
 UI_20160224_002089	{@st42b}Имеется свитков : %s{/}
 UI_20160224_002090	{@st66b}Миссии{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
-UI_20160224_002092	{@st66b}Earth Tower{/}
-UI_20160224_002093	{@st59b}Групповые Подземелья{nl}{@st59s}Это контент, где ваша группа для достижения определенных целей перемещается в независимую зону.{nl}Вы можете либо самостоятельно собрать группу для прохода подземелья, либо использовать автоматический поиск.{nl} - Подземелья : Можно попасть, поговорив с соответствующим НПС в каждой уровневой области.{nl} - Миссии : Можно попасть, поговорив с Mercenary Post Receptionists в Fedimian.{nl} - Миссия Saalus Convent : Можно попасть, поговорив с Sister Lhasa в Saalus Convent.{nl}{/}
+UI_20160224_002092	{@st66b}Землянная Башня{/}
+UI_20160224_002093	{@st59b}Групповые Подземелья{nl}{@st59s}Это контент, где ваша группа для достижения определенных целей перемещается в независимую зону.{nl}Вы можете либо самостоятельно собрать группу для прохода подземелья, либо использовать автоматический поиск.{nl} - Подземелья : Можно попасть, поговорив с соответствующим NPC в каждой уровневой области.{nl} - Миссии : Можно попасть, поговорив со Службой Приема Наемников в Федимиане.{nl} - Миссия Прекрасный Монастырь : Можно попасть, поговорив с Сестрой Лхасой в Прекрасном Монастыре.{nl}{/}
 UI_20160224_002094	{@st59}Закрыть{/}
 UI_20160224_002095	{@st59}Показать/Скрыть{/}
 UI_20160224_002096	{@st45tw2}Ожидание{/}
@@ -2110,12 +2110,12 @@ UI_20160224_002109	{@59}Показать в новом окне{/}
 UI_20160224_002110	{s14}Журнал Приключений обновлен
 UI_20160224_002111	{@st41}Обмен
 UI_20160224_002112	Приходите в весёлое королевство
-UI_20160224_002113	Расписание Team Battle League
+UI_20160224_002113	Расписание Командной Боевой Лиги
 UI_20160224_002114	Последние Записи
 UI_20160224_002115	{@st45tw2}Категория{/}
 UI_20160224_002116	{@st41c}%s{/}
 UI_20160224_002117	{@st41c}%sm{/}
-UI_20160224_002118	Temple Shooter сгоняет Vubbes обратно в Crystal Mine, который сейчас находятся под контролем Mirtis'.{nl}Сразите Temple Shooter и помогите сделать Crystal Mine безопасными еще раз.
+UI_20160224_002118	Храмовый Стрелок сгоняет Vubbes обратно в Кристаллическую пещеру, который сейчас находятся под контролем Mirtis'.{nl}Сразите Храмового Стрелка и помогите сделать Кристаллические Пещеры безопасным местом еще раз.
 UI_20160224_002119	{@st41c}Билетов %s{/}
 UI_20160224_002120	Имя и Класс
 UI_20160224_002121	{@st41b}Обновить
