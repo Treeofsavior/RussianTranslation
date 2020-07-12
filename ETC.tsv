@@ -18248,7 +18248,7 @@ ETC_20151224_018249	Token: 5 Minutes
 ETC_20151224_018250	Token: 10 Minutes
 ETC_20151224_018251	Token: 30 Minutes
 ETC_20151224_018252	Token: 1 Hour
-ETC_20151224_018253	Using this Soul Crystal will resurrect you in the same position you died.
+ETC_20151224_018253	Использование Soul Crysta воскресит вас в том же положении, в котором вы умерли.
 ETC_20151224_018254	Use to obtain 30 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018255	Use to obtain 100 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018256	Use to obtain 200 TP.{nl}This item cannot be refunded or returned after use.
@@ -46353,7 +46353,7 @@ ETC_20200320_046354	Your team name has been reset due to a long inactive period.
 ETC_20200320_046355	Can only be used on Random Stat Ichor.	랜덤 아이커에만 사용할 수 있습니다.				
 ETC_20200320_046356	This item is only for New/Returning Savior.	신규/복귀 유저가 아니어서 사용하실 수 없습니다.				
 ETC_20200320_046357	Cannot use in PVP area.	PVP에서는 사용하실 수 없습니다.				
-ETC_20200320_046358	The weight is full.	무게가 가득 찼습니다.				
+ETC_20200320_046358	Инвентарь переполнен.				
 ETC_20200320_046359	Damage	대미지	ETC_20150317_001851	Damage	데미지	
 ETC_20200320_046360	Will be closed.	후 종료합니다.				
 ETC_20200320_046361	The raid is already closed. 	종료된 레이드 입니다.				
