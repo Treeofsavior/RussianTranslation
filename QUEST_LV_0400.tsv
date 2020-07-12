@@ -5919,3 +5919,240 @@ QUEST_LV_0400_20191024_005948	It was horrible the kinds of mental anguish that I
 QUEST_LV_0400_20191024_005949	Former Fantasy Library : Sausis Room 9, you can enter solo or with party members.{nl}Do you wish to enter?{nl}(Recommended Level:330)	과거 환상도서관 : 사우시스 9 관(권장레벨:330)으로, 당신과 파티를 맺은 플레이어{nl} 또는 1인으로 입장하실 수 있습니다.{nl}입장하시겠습니까?
 QUEST_LV_0400_20191024_005950	The number of Nimrah and Varle-kin that infest the Aitheo Coast has dwindled.{nl}But still we cannot let our guard down.	다행히 아이테오 해안에 니므라족과 바를족의 수가 많이 줄었습니다.{nl}하지만 아직 마음을 놓을 수는 없습니다.
 QUEST_LV_0400_20191024_005951	Asiomage Testing Grounds, you can enter solo or with party members.{nl}Do you wish to enter?{nl}(Recommended Level:380)	아시오 메이지의 실험실(권장레벨:380)으로, 당신과 파티를 맺은 플레이어{nl} 또는 1인으로 입장하실 수 있습니다.{nl}입장하시겠습니까?
+QUEST_LV_0400_20200128_005952	About 7 residues will be powerful enough. Collect 7 Magic Residues for me.	7개 정도면 강한 마력이 가득차있는 상태가 될테니 그 정도를 모아와주십시오.	QUEST_LV_0400_20180827_003508	About 15 of the residues will be powerful enough. Collect 15 Magic Residues for me.	15개 정도면 강한 마력이 가득차있는 상태가 될테니 그 정도를 모아와주십시오.	저항군 총사령관 바일
+QUEST_LV_0400_20200128_005953	Bring me the Magic Residues.{nl}7 will be enough.	그러니 잔류물을 모아와주세요.{nl}7개면 충분할 겁니다.	QUEST_LV_0400_20180827_003510	So please collect the residues for me.{nl}15 will be enough.	그러니 잔류물을 모아와주세요.{nl}15개면 충분할 겁니다.	저항군 총사령관 바일
+QUEST_LV_0400_20200129_005954	Defeat Vilktys	빌크티스 처치				
+QUEST_LV_0400_20200129_005955	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat Vilktys in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}서융거스 가도에서 빌크티스 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005956	Defeat Trampauld	트램펄드 처치				
+QUEST_LV_0400_20200129_005957	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Trampauld in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}서융거스 가도에서 트램펄드 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005958	Defeat Tarnite	타르나이트 처치				
+QUEST_LV_0400_20200129_005959	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Tarnite in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}서융거스 가도에서 타르나이트 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005960	Defeat the Sodinincuz	소디닝커즈 처치				
+QUEST_LV_0400_20200129_005961	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Sodinincuz in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}서융거스 가도에서 소디닝커즈 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005962	Defeat the Viskal	비스칼 처치				
+QUEST_LV_0400_20200129_005963	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Viskal in West Jungers Road	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}서융거스 가도에서 비스칼 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005964	Defeat the Stagvalus	스태그발러스 처치				
+QUEST_LV_0400_20200129_005965	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Stagvalus in Vienibe Shelter.	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}비에니베 쉼터에서 스태그발러스 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005966	Defeat the Ponta, Poevita	폰타, 포에비타 처치				
+QUEST_LV_0400_20200129_005967	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Ponta and Poevita in Vienibe Shelter.	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}비에니베 쉼터에서 폰타, 포에비타 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005968	Defeat the Poana	포아나 처치				
+QUEST_LV_0400_20200129_005969	On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Poana in Vienibe Shelter	클라페다 의뢰소의 접수원 람다의 의뢰로{nl}비에니베 쉼터에서 포아나 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_005970	Creeping Darkness (1)	드리워지는 어둠(1)				
+QUEST_LV_0400_20200129_005971	Say you will go	가겠다고 한다				
+QUEST_LV_0400_20200129_005972	Say not yet	지금은 때가 아니라고 한다				
+QUEST_LV_0400_20200129_005973	Creeping Darkness (2)	드리워지는 어둠(2)				
+QUEST_LV_0400_20200129_005974	Creeping Darkness (3)	드리워지는 어둠(3)				
+QUEST_LV_0400_20200129_005975	Say you will do something else first	다른 작업부터 하겠다고 한다				
+QUEST_LV_0400_20200129_005976	Creeping Darkness (4)	드리워지는 어둠(4)				
+QUEST_LV_0400_20200129_005977	Creeping Darkness (5)	드리워지는 어둠(5)				
+QUEST_LV_0400_20200129_005978	Say you will do it	하고 오겠다고 한다				
+QUEST_LV_0400_20200129_005979	Ask for time to get ready	정비를 갖출 시간을 달라고 한다				
+QUEST_LV_0400_20200129_005980	Creeping Darkness (6)	드리워지는 어둠(6)				
+QUEST_LV_0400_20200129_005981	Say you have other matters to attend to	다른 용무가 있다고 한다				
+QUEST_LV_0400_20200129_005982	Creeping Darkness (7)	드리워지는 어둠(7)				
+QUEST_LV_0400_20200129_005983	Demon God Ragana (1)	마신 라가나(1)				
+QUEST_LV_0400_20200129_005984	Scrutinize your surroundings	주변을 경계한다				
+QUEST_LV_0400_20200129_005985	Demon God Ragana (2)	마신 라가나(2)				
+QUEST_LV_0400_20200129_005986	Say we should move cautiously	조심해서 이동하자고 한다				
+QUEST_LV_0400_20200129_005987	Ask to turn back because it's dangerous	위험하니 관두자고 한다				
+QUEST_LV_0400_20200129_005988	Demon God Ragana (3)	마신 라가나(3)				
+QUEST_LV_0400_20200129_005989	Tell her you'll see her in Orsha	오르샤에서 보자고 한다				
+QUEST_LV_0400_20200129_005990	Say you don't need it	신경 쓸 필요 없다고 한다				
+QUEST_LV_0400_20200129_005991	Laima's Spinning Wheel (1)	라이마의 물레(1)				
+QUEST_LV_0400_20200129_005992	Laima's Spinning Wheel (2)	라이마의 물레(2)				
+QUEST_LV_0400_20200129_005993	Ask for time to prepare	긴장을 풀 시간을 달라고 한다				
+QUEST_LV_0400_20200129_005994	Laima's Spinning Wheel (3)	라이마의 물레(3)				
+QUEST_LV_0400_20200129_005995	Laima's Spinning Wheel (4)	라이마의 물레(4)				
+QUEST_LV_0400_20200129_005996	Laima's Spinning Wheel (5)	라이마의 물레(5)				
+QUEST_LV_0400_20200129_005997	It's something I must do	해야하는 일이라고 한다				
+QUEST_LV_0400_20200129_005998	Towards the Central Square	중앙 광장을 향해				
+QUEST_LV_0400_20200129_005999	End conversation	대화를 끝낸다				
+QUEST_LV_0400_20200129_006000	Intruders of the Ruins (1)	폐허를 노리는 자들(1)				
+QUEST_LV_0400_20200129_006001	Say it's probably nothing	별일 아닐거라 한다				
+QUEST_LV_0400_20200129_006002	Intruders of the Ruins (2)	폐허를 노리는 자들(2)				
+QUEST_LV_0400_20200129_006003	Intruders of the Ruins (3)	폐허를 노리는 자들(3)				
+QUEST_LV_0400_20200129_006004	Intruders of the Ruins (4)	폐허를 노리는 자들(4)				
+QUEST_LV_0400_20200129_006005	Message of the Goddesses	여신들의 전언				
+QUEST_LV_0400_20200129_006006	Dusk and Dawn (1)	황혼과 여명(1)				
+QUEST_LV_0400_20200129_006007	Dusk and Dawn (2)	황혼과 여명(2)				
+QUEST_LV_0400_20200129_006008	Dusk and Dawn (3)	황혼과 여명(3)				
+QUEST_LV_0400_20200129_006009	Dusk and Dawn (4)	황혼과 여명(4)				
+QUEST_LV_0400_20200129_006010	Dusk and Dawn (5)	황혼과 여명(5)				
+QUEST_LV_0400_20200129_006011	Frienel Memorial Kupole	프리넬 기념구의 큐폴				
+QUEST_LV_0400_20200129_006012	Ask what's going on.	무슨 일이냐고 묻는다.				
+QUEST_LV_0400_20200129_006013	Ignore.	무시하고 지나간다.				
+QUEST_LV_0400_20200129_006014	First Step Towards the Final Battle (1)	결전을 향한 첫걸음(1)				
+QUEST_LV_0400_20200129_006015	I'm ready.	준비됐다고 한다.				
+QUEST_LV_0400_20200129_006016	I'm not ready yet.	아직 준비되지 않았다고 한다.				
+QUEST_LV_0400_20200129_006017	First Step Towards the Final Battle (2)	결전을 향한 첫걸음(2)				
+QUEST_LV_0400_20200129_006018	I don't think I can handle it.	상대할 수 없을 것 같다고 한다.				
+QUEST_LV_0400_20200129_006019	First Step Towards the Final Battle (3)	결전을 향한 첫걸음(3)				
+QUEST_LV_0400_20200129_006020	I need time to prepare.	정비할 시간이 필요하다고 한다.				
+QUEST_LV_0400_20200129_006021	Goddess Austeja's Request (1)	아우스테야 여신의 부탁(1)				
+QUEST_LV_0400_20200129_006022	Goddess Austeja's Request (2)	아우스테야 여신의 부탁(2)				
+QUEST_LV_0400_20200129_006023	Giltine's Rival (1)	길티네와 다른 계획을 가진 마족(1)				
+QUEST_LV_0400_20200129_006024	Let's go.	어서 가보자고 한다.				
+QUEST_LV_0400_20200129_006025	I will search a little more.	좀 더 찾아보겠다고 한다.				
+QUEST_LV_0400_20200129_006026	Giltine's Rival (2)	길티네와 다른 계획을 가진 마족(2)				
+QUEST_LV_0400_20200129_006027	Ask what offer it is.	무슨 조건이냐고 묻는다.				
+QUEST_LV_0400_20200129_006028	Approval (1)	능력 입증(1)				
+QUEST_LV_0400_20200129_006029	Don't underestimate me.	날 얕보지 말라고 한다.				
+QUEST_LV_0400_20200129_006030	Leave with your tail between your legs.	겁을 먹고 자리를 벗어난다.				
+QUEST_LV_0400_20200129_006031	Approval (2)	능력 입증(2)				
+QUEST_LV_0400_20200129_006032	Approval (3)	능력 입증(3)				
+QUEST_LV_0400_20200129_006033	Approval (4)	능력 입증(4)				
+QUEST_LV_0400_20200129_006034	Give up.	힘들다며 포기한다.				
+QUEST_LV_0400_20200129_006035	Baiga's Offer	바이가의 조건				
+QUEST_LV_0400_20200129_006036	Ask what he wants.	어서 얘기하라고 한다.				
+QUEST_LV_0400_20200129_006037	Leave.	들을 필요가 없다며 떠난다.				
+QUEST_LV_0400_20200129_006038	Root of the Divine Tree (1)	신수의 뿌리(1)				
+QUEST_LV_0400_20200129_006039	Say that you are worried about Goddess Medeina.	메데이나 여신이 걱정된다고 한다.				
+QUEST_LV_0400_20200129_006040	Say it's too late.	이미 늦었다고 한다.				
+QUEST_LV_0400_20200129_006041	Root of the Divine Tree (2)	신수의 뿌리(2)				
+QUEST_LV_0400_20200129_006042	Say it's pointless.	무의미한 행동이라고 한다.				
+QUEST_LV_0400_20200129_006043	Root of the Divine Tree (3)	신수의 뿌리(3)				
+QUEST_LV_0400_20200129_006044	Root of the Divine Tree (4)	신수의 뿌리(4)				
+QUEST_LV_0400_20200129_006045	Root of the Divine Tree (5)	신수의 뿌리(5)				
+QUEST_LV_0400_20200129_006046	Root of the Divine Tree (6)	신수의 뿌리(6)				
+QUEST_LV_0400_20200129_006047	Let's go.	어서 가자고 한다.				
+QUEST_LV_0400_20200129_006048	I'm afraid.	두려워졌다고 한다.				
+QUEST_LV_0400_20200129_006049	Root of the Divine Tree (7)	신수의 뿌리(7)				
+QUEST_LV_0400_20200129_006050	I won't be any help.	내가 도움이 될 수 있을 거라고 한다.				
+QUEST_LV_0400_20200129_006051	There is no way.	방법이 없을 거라고 한다.				
+QUEST_LV_0400_20200129_006052	Concentrating	정신을 집중하는 중				
+QUEST_LV_0400_20200129_006053	Unpredictable Movement	간과 할 수 없는 마족의 움직임				
+QUEST_LV_0400_20200129_006054	I will help.	기꺼이 돕겠다고 한다.				
+QUEST_LV_0400_20200129_006055	I don't wanna take the risk.	위험을 감수하기는 싫다고 말한다.				
+QUEST_LV_0400_20200129_006056	Talk to Kupole Skywa	큐폴 스카이와와 대화	QUEST_LV_0400_20171128_002564	Talk to Kupole Scaia	큐폴 스카이아와 대화	
+QUEST_LV_0400_20200129_006057	On the request of Receptionist Ramda of the Mercenary Post defeat Vilktys in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로 서융거스 가도에서 빌크티스 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006058	On the request of Receptionist Ramda of the Mercenary Post defeat the Trampauld in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로 서융거스 가도에서 트램펄드 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006059	On the request of Receptionist Ramda of the Mercenary Post defeat the Tarnite in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로 서융거스 가도에서 타르나이트 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006060	On the request of Receptionist Ramda of the Mercenary Post defeat the Sodinincuz in West Jungers Road.	클라페다 의뢰소의 접수원 람다의 의뢰로 서융거스 가도에서 소디닝커즈 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006061	On the request of Receptionist Ramda of the Mercenary Post defeat the Viskal in West Jungers Road	클라페다 의뢰소의 접수원 람다의 의뢰로 서융거스 가도에서 비스칼 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006062	On the request of Receptionist Ramda of the Mercenary Post defeat the Stagvalus in Vienibe Shelter.	클라페다 의뢰소의 접수원 람다의 의뢰로 비에니베 쉼터에서 스태그발러스 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006063	On the request of Receptionist Ramda of the Mercenary Post defeat the Ponta and Poevita in Vienibe Shelter.	클라페다 의뢰소의 접수원 람다의 의뢰로 비에니베 쉼터에서 폰타, 포에비타 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006064	On the request of Receptionist Ramda of the Mercenary Post defeat the Poana in Vienibe Shelter	클라페다 의뢰소의 접수원 람다의 의뢰로 비에니베 쉼터에서 포아나 처치를 수행해야 합니다.				
+QUEST_LV_0400_20200129_006065	Byle wants to destroy Ignas' device that turns people into demons.{nl}Byle says that throwing the Magic Residue into the device will overload the machine and destroy it.{nl}He also said that if there isn't enough Magic Residue to destroy the device, the device will excrete the Magic Residue in the system and that you should throw it back into the device to overload it.{nl}Destroy Ignas' device.{nl}	바일은 이제 이그나스가 세운 마족의 장치를 폭파시킬 때가 됐다고 합니다.{nl}바일은 마력 잔류물을 이용하여 마족의 장치에 던지면 마력 잔류물에 가득찬 마력을 흡수하여 과부하에 걸려 파괴될 것이라고 합니다.{nl}그러나 잔류물의 마력이 불충분하여 파괴가 실패할 수 있다며 파괴에 실패하면 장치는 방어 태세로 바뀌어 던져넣은 마력 잔류물을 뱉어낸다고 합니다.{nl}바일은 뱉어낸 마력 잔류물을 다시 되받아쳐 장치에 집어넣어 장치에 손상을 계속 줘서 파괴시키라고 합니다.{nl}마족의 장치를 파괴하세요.{nl}	QUEST_LV_0400_20180827_004145	Byle wants to destroy Ignas' device that turns people into demons.{nl}Byle says that throwing the Magic Residue into the device will overload the machine and destroy it.{nl}He also said that if there isn't enough Magic Residue to destroy the device, the device will excrete the Magic Residue in the system and that you should throw it back into the device to overload it.{nl}Destroy Ignas' device.{nl}	바일은 이제 이그나스가 세운 마족의 장치를 폭파시킬 때가 됐다고 합니다.{nl}바일은 마력 잔류물을 이용하여 마족의 장치에 던지면 마력 잔류물에 가득찬 마력을 흡수하여 과부하에 걸려 파괴될 것이라고 합니다.{nl}그러나 잔류물의 마력이 불충분하여 파괴가 실패할 수 있다며 파괴에 실패하면 장치는 방어 태세로 바뀌어 던져넣은 마력 잔류물을 뱉어낸다고 합니다.{nl}바일은 뱉아낸 마력 잔류물을 다시 되받아쳐 장치에 집어넣어 장치에 손상을 계속 줘서 파괴시키라고 합니다.{nl}마족의 장치를 파괴하세요.{nl}	
+QUEST_LV_0400_20200129_006066	Neringa is waiting for you in Orsha. Talk to Neringa in Orsha.	오르샤에 네링가가 당신을 기다리고 있습니다. 오르샤에 있는 네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006067	Neringa has left Orsha, telling you that she will be waiting for you in Baltinel Memorial.{nl}Go to the Baltinel Memorial and talk to her.	네링가는 발티넬 기념구로 먼저 이동하겠다고 말하고 오르샤에서 사라졌습니다.{nl}발티넬 기념구로 이동해 네링가와 이야기하세요.				
+QUEST_LV_0400_20200129_006068	Defeat the demons in the area	주변 마족을 처치				
+QUEST_LV_0400_20200129_006069	Neringa wants you to defeat the demons in the area in order to prepare for the next step in her plan.	네링가는 발티넬 기념구에 성스러운 힘을 당신이 받을 수 있는 작업을 위해 우선 주변 마족을 정리하자고 합니다.				
+QUEST_LV_0400_20200129_006070	You have defeated the demons in the area.{nl}Report to Neringa.	주변의 마족을 처치했습니다.{nl}네링가에게 돌아가 보고하세요.				
+QUEST_LV_0400_20200129_006071	Neringa seems to be preparing for something.{nl}Talk to Neringa.	네링가는 다음 작업을 위해 무언가 준비한 듯 합니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006072	Install the Namott to designated locations	지정된 위치에 신성의 나모트를 설치				
+QUEST_LV_0400_20200129_006073	Neringa wants you to install Holy Namott in designated locations in order to nullify the demonic powers.{nl}She also says that you must clear the area of demons in order to prevent them from interfering in the installation and that you must protect the Namott from demons after installing them.	네링가는 지정된 위치에 신성의 나모트를 설치해 마족의 힘을 정화하는 작업을 하자고 합니다.{nl}다만, 주변에 마족들이 꼬일 것을 염려해 설치 위치에 마족이 있다면 제거하고 설치 후에도 신성의 힘에 이끌린 마족이 나모트를 파괴하러 드는 일도 막아야한다고 합니다.				
+QUEST_LV_0400_20200129_006074	Stop the demons from destroying the Holy Namott	신성의 나모트를 파괴하려는 마족 저지				
+QUEST_LV_0400_20200129_006075	Demons are gathering to attack the Holy Namott.{nl}Protect the Namott until it activates.	신성한 힘에 이끌린 마족이 신성의 나모트를 파괴하려고 달려듭니다.{nl}나모트가 제 역할을 할 수 있을 때까지 마족의 파괴 공작을 저지하세요.				
+QUEST_LV_0400_20200129_006076	The purified demonic powers are flowing into you thanks to the Namott.{nl}Talk to Neringa about your next task.	신성의 나모트가 제 힘을 발휘한 덕분에 마족을 정화한 힘이 당신에게 흘러들어옵니다.{nl}네링가에게 가 다음 할 일을 의논하세요.				
+QUEST_LV_0400_20200129_006077	Neringa wants to meet you at Gliehel Memorial for your next task.{nl}Talk to Neringa in Gliehel Memorial.	네링가는 다음으로 할 일을 위해 글리헬 기념구로 오라고 합니다.{nl}글리헬 기념구에 있는 네링가를 찾아가 대화하세요.				
+QUEST_LV_0400_20200129_006078	Neringa wants you to clear the area of demons first.{nl}Defeat the demons in the area for your next task.	네링가는 당신이 해야할 일을 위해 우선 주변을 정리부터 하자고 합니다.{nl}다음 작업을 위해 마족을 먼저 처치해 주변을 정리하세요.				
+QUEST_LV_0400_20200129_006079	You've defeated the demons in the area.{nl}Report back to Neringa.	주변의 마족을 정리했습니다.{nl}네링가에게 돌아가 보고하세요.				
+QUEST_LV_0400_20200129_006080	Neringa wants to prepare to come face to face with the presence.{nl}Talk to Neringa.	네링가는 이제 그 존재를 맞이하기 위한 행동을 준비하려는 듯 합니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006081	Wash the orb in Giehel Sanctuary	글리헬 성소 주변에 보주를 씻기기				
+QUEST_LV_0400_20200129_006082	Neringa wants you to wash the orb with the water in the Sanctuary.{nl}You need to find locations with concentrated divine power to wash the orb.	네링가는 성소의 물로 보주를 씻어 신성력을 담아달라고 합니다.{nl}단, 네링가는 그냥 씻기지 말고 성소 주변에 성스러운 힘이 모여있는 지점에 가서 응축된 힘이 담아지도록 그 지점에서 보주를 씻겨달라고 합니다.				
+QUEST_LV_0400_20200129_006083	You can feel the power filling the orb.{nl}Report back to Neringa.	보주에 엄청난 힘이 가득 채워지는게 느껴집니다.{nl}네링가에게 돌아가 보고하세요.				
+QUEST_LV_0400_20200129_006084	Neringa seems satisfied with the orb.{nl}Ask Neringa what you have to do next.	네링가는 신성한 힘이 가득 담겨진 보주가 만족스러운 듯 합니다.{nl}네링가에게 다음 할 일을 물어보세요.				
+QUEST_LV_0400_20200129_006085	Safely move the orb and throw at the tree	보주를 안전하게 옮긴 후 나무에 던지기				
+QUEST_LV_0400_20200129_006086	Neringa wants you to deliver the orb to the tree in Pilgrim's Square and throw it at the tree.{nl}You must be careful not the crack the orb from attacking demons. 	네링가는 힘이 가득찬 보주를 순례자의 광장에 있는 나무까지 운반한 뒤 던지라고 합니다.{nl}단, 신성한 힘에 이끌린 마족이 달려들어 보주를 깨뜨릴 수 있으므로 깨지지 않도록 조심히 들고 가야 합니다.				
+QUEST_LV_0400_20200129_006087	Divine power is released and absorbed into the tree.{nl}It was very effective! Report back to Neringa.	보주를 던져 깨뜨리자 신성한 힘이 나무에 스며들어 대지에 퍼졌습니다.{nl}효과는 굉장했습니다! 네링가에게 이 일을 보고하세요.				
+QUEST_LV_0400_20200129_006088	Neringa seems to have sensed something after the explosion.{nl}Talk to Neringa.	아까 전의 폭발 이후 네링가가 무언가를 감지한 듯 합니다.{nl}네링가와 이야기해보세요.				
+QUEST_LV_0400_20200129_006089	The demons who were drawn by the explosion attack you and Neringa.{nl}Defeat the incoming demons.	아까 전의 폭발 이후에 상황을 보러온 마족이 당신과 네링가를 공격합니다.{nl}계속해서 몰려오는 마족을 처치하세요.				
+QUEST_LV_0400_20200129_006090	Demons have ceased their attack.{nl}Talkj to Neringa.	이제 공격해오는 마족이 없는 듯 합니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006091	The demons attack seems to have died down.{nl}Talk to Neringa.	마족의 습격이 조용해졌습니다.{nl}네링가와 이야기하세요.				
+QUEST_LV_0400_20200129_006092	Face the presence that you were fated to face.	마주해야 할 존재와 대면하기				
+QUEST_LV_0400_20200129_006093	Neringa says that she can sense evil powers at the entrance of Gliehel Ranch.{nl}Go to Gliehel Ranch with Neringa.	네링가는 사악한 기운이 글리헬 녹원 입구에서 느껴진다고 합니다.{nl}네링가와 함께 글리헬 녹원 입구로 이동하세요.				
+QUEST_LV_0400_20200129_006094	The Demon God Ragana and the Beholder have left.{nl}Report to Neringa about what happened.	마신 라가나와 주시자가 어디론가로 사라졌습니다.{nl}네링가에게 지금 있었던 일을 의논하세요.				
+QUEST_LV_0400_20200129_006095	Neringa is worried about you.{nl}Talk to Neringa.	네링가가 당신의 상태를 걱정합니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006096	Neringa wants to talk to you back in Orsha in the fear that demons may eavesdrop.{nl}Return to Orsha and talk to Neringa.	네링가는 남아있는 마족이 자신들의 이야기를 엿들을 수 있으므로 오르샤로 돌아가 자기를 찾아와달라고 합니다.{nl}오르샤로 돌아가 네링가를 찾아 이야기를 나누세요.				
+QUEST_LV_0400_20200129_006097	Goddess Austeja says that she will head to the Outskirts of Skalda in order to chase after Baiga.{nl}Talk to the Goddess Austeja in the Outskirts of Skalda.	여신 아우스테야는 바이가의 뒤를 쫓기 위해 먼저 스칼다 외곽으로 간다고 합니다.{nl}스칼다 외곽에 있는 여신 아우스테야와 대화하세요.				
+QUEST_LV_0400_20200129_006098	Neringa wants to clear the area of demons first.{nl}Defeat the demons in the area.	네링가는 우선 자신들의 일을 방해할 주변 마족부터 정리하고 보자고 합니다.{nl}주변 마족을 제거해주세요.				
+QUEST_LV_0400_20200129_006099	You have defeated all the demons in the area.{nl}Use the candle to summon Neringa and talk to her.	주변의 마족을 전부 처치했습니다.{nl}촛불을 이용해 네링가를 소환해 이야기하세요.				
+QUEST_LV_0400_20200129_006100	Neringa wants you to find the Spinning Wheel.{nl}Talk to Neringa.	네링가는 이제 물레를 찾으러 가자고 합니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006101	Answer the spinning wheel	물레의 질문에 답하기				
+QUEST_LV_0400_20200129_006102	Laima's Spinning Wheel wants to ask you a few questions.{nl}Answer the questions asked by the Spinning Wheel.{nl}Summon Neringa again and talk to Neringa if the Wheel has disappeared.	라이마의 물레는 당신에게 몇 가지 질문을 물어보려고 합니다.{nl}라이마의 물레의 질문에 답하세요.{nl}만약 물레가 사라졌다면 네링가를 소환해 네링가와 다시 대화하세요.				
+QUEST_LV_0400_20200129_006103	Talk to Laima's Spinning Wheel	라이마의 물레와 대화				
+QUEST_LV_0400_20200129_006104	You have answered all the questions asked by Laima's Spinning Wheel.{nl}Talk to Laima's Spinning Wheel.	라이마의 물레의 질문에 모두 답했습니다.{nl}라이마의 물레와 대화하세요.				
+QUEST_LV_0400_20200129_006105	Laima's Spinning Wheel now wants to test you.{nl}Talk to Laima's Spinning Wheel.	라이마의 물레는 이제 당신에게 시련을 주겠다고 합니다.{nl}라이마의 물레와 대화하세요.				
+QUEST_LV_0400_20200129_006106	Withstand the test of the Spinning Wheel	물레의 시련을 이겨내기				
+QUEST_LV_0400_20200129_006107	Laima's Spinning Wheel has tested you according to your answers.{nl}Defeat the demons attacking to steal the Spinning wheel away.	라이마의 물레는 당신이 답한 내용에 따라 시련을 내렸습니다.{nl}물레를 뺏기 위해 달려드는 마족을 처치하세요.				
+QUEST_LV_0400_20200129_006108	You have withstood the Spinning Wheel's test.{nl}Talk to Laima's Spinning Wheel again.	물레의 시련을 이겨냈습니다.{nl}라이마의 물레와 다시 대화하세요.				
+QUEST_LV_0400_20200129_006109	You have withstood the Spinning Wheel's test.{nl}Talk to Laima's Spinning Wheel.	물레의 시련을 이겨냈습니다.{nl}라이마의 물레와 대화하세요.				
+QUEST_LV_0400_20200129_006110	You are now out of danger thanks to the power of the spinning wheel.{nl}Use the candle to talk to Neringa to learn where you are.	물레의 힘이 발동된 덕분에 간신히 위기를 피했습니다.{nl}촛불을 이용해 네링가와 대화해 이곳이 어딘지 물어보세요.				
+QUEST_LV_0400_20200129_006111	Neringa wants to talk to you about your next task.{nl}Talk to Neringa.{nl}If you are not in the hidden dimension, use Laima's spinning wheel to move to the hidden dimension.	네링가는 이제 다음 할 일에 대해 의논하고자 합니다.{nl}네링가와 대화하세요.{nl}숨겨진 이공간이 아닐 경우, 라이마의 물레를 이용해서 숨겨진 이공간으로 이동하세요.				
+QUEST_LV_0400_20200129_006112	Neringa wants to talk to you about your next task.{nl}Talk to Neringa.	네링가는 이제 다음 할 일에 대해 의논하고자 합니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006113	You have left the hidden dimension.{nl}Use the candle to summon Neringa and talk to her.	숨겨진 이공간에서 나왔습니다.{nl}촛불을 이용해 네링가를 소환하여 네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006114	Neringa wants to move to Rinksmas Ruins to do your next tast.{nl}Move to Rinksmas Ruins and use the candle to talk to Neringa.	네링가는 링크스마스 폐허로 이동해 다음 할 일을 이어가자고 합니다.{nl}링크스마스 폐허로 이동해 촛불을 이용하여 네링가를 소환해 대화하세요.				
+QUEST_LV_0400_20200129_006115	Neringa wants to clear the area of demons first.{nl}Defeat the demons in the area.	네링가는 앞으로 나아가기 위해 주변의 마족부터 일단 정리하자고 합니다.{nl}주변의 마족을 정리하세요.				
+QUEST_LV_0400_20200129_006116	You have defeated all the demons in the area.{nl}Use the candle to summon Neringa and talk to her.	주변의 마족을 전부 처치했습니다.{nl}촛불을 이용해 네링가를 소환하여 네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006117	Neringa senses something in the Center Square.{nl}Talk to Neringa more.	중앙 광장에 심상찮은 느낌이 느껴진다고 합니다.{nl}네링가와 계속 이야기하세요.				
+QUEST_LV_0400_20200129_006118	Protect the Goddess Statue	여신상을 보호				
+QUEST_LV_0400_20200129_006119	The defense fell from the attack and demons and demons have filled the Central Square.{nl}Protect the Goddess Statue from demons.	다수의 공세에 의해 방어선이 뚫리면서 중앙 광장에 여신상을 부수려는 마족들이 가득찼습니다.{nl}마족으로부터 여신상을 지켜주세요.				
+QUEST_LV_0400_20200129_006120	The demons have ceased to attack.{nl}Talk to Neringa about the current situation.	마족의 공세가 멈췄습니다.{nl}네링가와 현재의 상황에 대해 이야기하세요.				
+QUEST_LV_0400_20200129_006121	Neringa wants you to help the Dievdirbies here.{nl}Talk to Neringa.	네링가는 딥디르비를 도와 이곳에서 작업을 진행하라고 합니다.{nl}네링가와 이야기하세요.				
+QUEST_LV_0400_20200129_006122	Destroy the idol in the riverside cathedral	강변 성당의 마족의 우상 파괴				
+QUEST_LV_0400_20200129_006123	Destroy the demon idols in the riverside cathedral first.{nl}Demons will attack you when approaching the idol so be careful.	우선, 강변 성당 쪽에 있는 마족의 우상을 파괴해 주세요.{nl}마족의 우상에 가까이 다가가면 마족이 당신을 공격하니 주의해서 파괴해 주세요.				
+QUEST_LV_0400_20200129_006124	You have defeated the idol in the riverside cathedral.{nl}Talk to Neringa.	강변 성당 쪽의 마족의 우상을 파괴했습니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006125	Neringa wants to talk to you about the idol to destroy next.{nl}Talk to Neringa.	네링가는 다음으로 파괴할 마족의 우상에 관해 이야기하고자 합니다.{nl}네링가와 이야기하세요.				
+QUEST_LV_0400_20200129_006126	Destroy the demon idol in the vacant lot	인적 없는 공터의 마족의 우상 파괴				
+QUEST_LV_0400_20200129_006127	The demons have their life forces linked to the idol in the vacant lot.{nl}Defeat the demons that are linked to the idol to destroy them.{nl}Interact with the idol to identify the demons that you need to defeat.	인적 없는 공터에 있는 마족의 우상은 주변의 마족과 생명이 이어져있다고 합니다.{nl}마족의 우상에 다가가 생명이 연결된 마족을 찾아 없애 마족의 우상을 파괴하세요.{nl}생명이 연결된 마족은 마족의 우상을 건드리면 확인할 수 있습니다.				
+QUEST_LV_0400_20200129_006128	You have destroyed the idol in the vacant lot.{nl}Talk to Neringa.	인적 없는 공터 쪽의 마족의 우상을 파괴했습니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006129	Destroy the demon idols in ruin hills	폐허 언덕길의 마족의 우상 파괴				
+QUEST_LV_0400_20200129_006130	The idols in ruin hills seem to be especially strong.{nl}Destroy the demon idols there and becareful.	폐허 언덕길에 있는 마족의 우상은 평소보다 강한 기운이 느껴진다고 합니다.{nl}주위를 주의하며 폐허 언덕길에 있는 마족의 우상을 파괴해주세요.				
+QUEST_LV_0400_20200129_006131	You have destroyed the demon idols in the ruin hills.{nl}Talk to Neringa.	폐허 언덕길 쪽의 마족의 우상까지 모두 파괴했습니다.{nl}네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006132	Neringa wants to talk about your next task in Central Square.{nl}Talk to Neringa.	네링가는 이제 폐허 중앙 광장으로 가 상황이 종료된 후의 이야기를 하자고 합니다.{nl}네링가와 이야기하세요.				
+QUEST_LV_0400_20200129_006133	You have heard the message of the Goddess.{nl}Talk to Neringa by using the candle	여신의 힘과 함께 여신의 전언을 들었습니다.{nl}촛불을 사용해 네링가를 불러내 다음 할 일에 대해 의논하세요.				
+QUEST_LV_0400_20200129_006134	Neringa wants to rescue Laima before the ritual is over.{nl}Use the candle to summon Neringa and talk to her.	네링가는 이제 환원 의식이 끝나기 전에 라이마를 구하러 가자고 합니다.{nl}촛불을 사용해 네링가를 소환하여 네링가와 대화하세요.				
+QUEST_LV_0400_20200129_006135	Neringa wants you to defeat the demons in the way to Goddess Laima.{nl}Defeat the demons.	네링가는 여신 라이마가 있는 곳으로 가기 위해 방해되는 마족들을 처치하자고 합니다.{nl}주변의 마족을 처치하세요.				
+QUEST_LV_0400_20200129_006136	Move to the Passage of Hope	희망의 샛길 중앙으로 이동				
+QUEST_LV_0400_20200129_006137	You have cleared the area of demons.{nl}Move to the Passage of Hope and investigate the situation.	주변의 마족을 정리했습니다.{nl}희망의 샛길 중앙으로 이동해 무슨 일이 일어나는지 확인하세요.				
+QUEST_LV_0400_20200129_006138	Move to the Passage of Hope and investigate what is happening.	희망의 샛길 중앙으로 이동해 무슨 일이 일어나는지 확인하세요.				
+QUEST_LV_0400_20200129_006139	Talk to Goddess Laima	여신 라이마와 대화				
+QUEST_LV_0400_20200129_006140	The Revelations have scattered and the ritual has failed!{nl}Talk to Goddess Laima about your next plans.	계시가 뿔뿔히 흩어져 환원 의식이 실패로 돌아갔습니다!{nl}여신 라이마와 대화하여 다음에 할 일을 의논하세요.				
+QUEST_LV_0400_20200129_006141	Talk to Goddess Laima and ask what it is that needs to be done.	여신 라이마와 대화하여 지금 바로 해야할 일이 무엇인지 의논하세요.				
+QUEST_LV_0400_20200129_006142	Find all Revelations	모든 계시를 찾아내기				
+QUEST_LV_0400_20200129_006143	Use the power you've received from Goddess Laima to find Revelations.{nl}The power you received will react stronger when you get closer.{nl}Collect the Revelation when it is revealed.	여신 라이마에게 받은 힘을 이용해 주변을 돌아다녀 계시를 찾아내주세요.{nl}계시에 가까워 질수록 힘이 계시에 이끌려 더욱 더 강하게 반응합니다.{nl}힘이 가장 강력하게 반응하면 계시가 모습을 드러내므로 그 때 계시를 회수해주세요.				
+QUEST_LV_0400_20200129_006144	Return to Goddess Laima	여신 라이마에게 돌아가기				
+QUEST_LV_0400_20200129_006145	You have collected enough Revelations.{nl}The last Revelation seems to be in the Passage of Hope.{nl}Return to Goddess Laima first.	계시가 어느 정도 모였습니다.{nl}마지막 계시들은 희망의 샛길 중앙에서 느껴집니다.{nl}우선 여신 라이마에게 돌아가세요.				
+QUEST_LV_0400_20200129_006146	You have collected enough Revelations.{nl}Return to Goddess Laima and deliver the Revelation.	계시가 어느 정도 모였습니다.{nl}여신 라이마에게 돌아가 계시를 건네주세요.				
+QUEST_LV_0400_20200129_006147	Defeat the Kabad	카바드 처치				
+QUEST_LV_0400_20200129_006148	Kabad has appeared on your way to Goddess Laima!{nl}Defeat the Kabad to make way.	위기를 맞이한 여신 라이마에게 가려는 찰나, 카바드가 당신의 앞을 가로막습니다!{nl}카바드를 처치하여 가로막힌 길을 뚫으세요.				
+QUEST_LV_0400_20200129_006149	You have defeated Kabad but it doesn't look good.{nl}Talk to Neringa about what to do next.	카바드를 처치했지만 상황이 좋지 않습니다.{nl}네링가와 대화하여 앞으로 할 일을 의논하세요.				
+QUEST_LV_0400_20200129_006150	Talk to Neringa and see if there's anything that can be done.	라이마가 위기에 처한 상황에서 할 수 있는 방법이 있을지 네링가와 의논하세요.				
+QUEST_LV_0400_20200129_006151	Giltine has fled after the spinning wheel has took her power.{nl}Talk to Goddess Laima.	길티네가 물레에게 힘을 뺏기자 도망쳤습니다.{nl}힘을 되찾은 여신 라이마와 대화하세요.				
+QUEST_LV_0400_20200129_006152	Talk to Kupole Maya	큐폴 마야와 대화				
+QUEST_LV_0400_20200129_006153	Kupole Maya says that she was asked by Neringa to do something.{nl}Talk to Kupole Maya.	큐폴 마야는 네링가로부터 부탁받은 게 있다고 합니다.{nl}큐폴 마야와 대화해 보세요.				
+QUEST_LV_0400_20200129_006154	Call Neringa	네링가 부르기				
+QUEST_LV_0400_20200129_006155	Use Neringa's candle in West Jungers Road to summon Neringa's illusion.	서융거스 가도에서 인벤토리에 있는 네링가의 촛불을 사용해 네링가의 환영을 불러보세요.				
+QUEST_LV_0400_20200129_006156	Talk to Neringa's Illusion	네링가의 환영과 대화				
+QUEST_LV_0400_20200129_006157	Talk to Neringa's Illusion.	네링가의 환영과 대화해 보세요.				
+QUEST_LV_0400_20200129_006158	Neringa says that she can sense Goddess Austeja's presence.{nl}But it seems that monsters are in the way and need to be defeated.{nl}Defeat the monsters in the area.	네링가는 저 멀리서 아우스테야의 기운이 느껴졌다고 합니다.{nl}그러나 마족과 몬스터가 그 진로를 막고 있다며, 이들을 처리하면서 이동하자고 합니다.{nl}주변의 마족과 몬스터를 처치하세요.				
+QUEST_LV_0400_20200129_006159	You've cleared the area of monsters.{nl}Use the candle to talk to Neringa.	주변의 마족과 몬스터를 어느 정도 처치했습니다.{nl}네링가의 촛불을 사용해 네링가의 환영과 대화해 보세요.				
+QUEST_LV_0400_20200129_006160	Follow the trace of Goddess Austeja	아우스테야 여신의 기운 쫓기				
+QUEST_LV_0400_20200129_006161	Neringa says that Goddess Austeja seems to have relocated.{nl}Go find Goddess Austeja with Neringa.	네링가는 아우스테야 여신의 기운이 흩어져 버렸다며, 아무래도 자리를 이동한 것 같다고 얘기합니다.{nl}네링가와 함께 아우스테야 여신의 기운을 쫓아가세요.{nl}				
+QUEST_LV_0400_20200129_006162	Talk to Goddess Austeja	아우스테야여신과 대화				
+QUEST_LV_0400_20200129_006163	Use the Goddess Austeja's orb in the Fourth Hall	제 4 연회장에서 아우스테야 여신의 보주 사용하기				
+QUEST_LV_0400_20200129_006164	Goddess Austeja wants you to search the Fourth Hall.{nl}Go to the Fourth Hall and use the orb.	아우스테야 여신은 아직 확인하지 못한 제 4 연회장을 확인해 달라고 합니다.{nl}제 4 연회장으로 가서 아우스테야 여신의 보주를 사용해 보세요.				
+QUEST_LV_0400_20200129_006165	Talk to Demon King Baiga	마왕 바이가와 대화				
+QUEST_LV_0400_20200129_006166	Follow Baiga	바이가를 쫓아가기				
+QUEST_LV_0400_20200129_006167	Baiga wants you to come find him.{nl}Look for Baiga.	바이가는 비에니베 대주랑을 지나 자신을 찾아오라고 얘기합니다.{nl}비에니베 대주랑을 지나 바이가를 찾아보세요.				
+QUEST_LV_0400_20200129_006168	Move to the Banquet Hall	연회장으로 이동				
+QUEST_LV_0400_20200129_006169	Baiga wants you to follow him to the Banquet Hall. Go there.	바이가는 연회장으로 자신을 따라오라고 얘기합니다. 연회장으로 이동하세요.				
+QUEST_LV_0400_20200129_006170	Move to upper fortress inner wall	제 2 소형 홀 근처로 이동				
+QUEST_LV_0400_20200129_006171	Goddess Austeja says that she can sense Kartas within the inner walls of the upper fortress. Go there.	바이가는 제 2 소형 홀 근처로 자신을 찾아오라고 합니다.{nl}제 2 소형 홀 근처에서 바이가를 찾아보세요.				
+QUEST_LV_0400_20200129_006172	Chronomancer Master Lucid Winterspoon is calling all Revelators. Go visit Lucid Winterspoon to see what she wants.	무너진 옛 초소로 이동				
+QUEST_LV_0400_20200129_006173	Chronomancer Master has called all Revelators in order to observe the past to find out what Baiga is planning. Visit Lucid Winterspoon when you are prepared to help her.	아우스테야 여신은 이 지역에서 신성한 기운이 어렴풋이 느껴진다고 이야기합니다. 먼저 무너진 옛 초소로 가서 특이한 점은 없는지 살펴보세요.				
+QUEST_LV_0400_20200129_006174	Move to the Second Hall	아우스테야 여신은 이 지역에 신성한 기운이 어렴풋이 느껴진다고 얘기합니다. 먼저 무너진 옛 초소로 가서 특이한 점은 없는지 살펴보세요.				
+QUEST_LV_0400_20200129_006175	Baiga wants you to meet him in the Second Hall.{nl}Go see Baiga in the Second Hall.	리우드나스 공터로 이동				
+QUEST_LV_0400_20200129_006176	Go to the Ruined Old Fortress	무너진 옛 초소에서는 신수의 뿌리를 찾을 수 없었습니다.{nl}리우드나스 공터로 가서 신수의 뿌리를 찾아보세요.				
+QUEST_LV_0400_20200129_006177	Goddess Austeja says that she can sense a divine energy in the area. Go to the ruined old fortress and investigate.	수상한 장치 확인				
+QUEST_LV_0400_20200129_006178	Goddess Austeja says that she can sense a divine energy in the area. Go to the ruined old fortress and investigate.	무너진 옛 초소에서는 신수의 뿌리를 찾을 수 없었고, 리우드나스 공터에 수상한 장치들을 발견했습니다.{nl}장치들에 비밀이 있진 않을지 살펴보세요.				
+QUEST_LV_0400_20200129_006179	Move to the Liudnas Lot	리우드나스 공터에 수상한 장치들을 발견했습니다.{nl}장치들에 비밀이 있진 않을지 살펴보세요.				
+QUEST_LV_0400_20200129_006180	You could not find the Root of the Divine Tree.{nl}Go to Liudnas Lot to look for the root.	신수의 뿌리 확인				
+QUEST_LV_0400_20200129_006181	Investigate the strange device	장치들의 비밀을 풀어내자 신수의 뿌리가 나타났습니다.{nl}신수의 뿌리를 확인하세요.				
+QUEST_LV_0400_20200129_006182	You could not find the Root of the Divine Tree but you've found strange devices.{nl}Investigate the devices for hidden secrets.	카르타스의 기운을 쫓기				
+QUEST_LV_0400_20200129_006183	You have found strange devices in Liudnas Lot.{nl}Investigate the devices.	아우스테야 여신은 카르타스의 기운을 쫓아가자고 합니다.{nl}아우스테야 여신과 함께 카르타스의 기운을 쫓아가세요.				
+QUEST_LV_0400_20200129_006184	Investigate the Root of the Divine Tree	요새 상층부 내벽으로 이동				
+QUEST_LV_0400_20200129_006185	You have unlocked the secret of the devices.{nl}Investigate the Root of the Divine Tree.	아우스테야 여신은 요새 상층부 내벽 위에 카르타스의 기운이 강하게 느껴진다고 합니다. 어서 요새 상층부 내벽으로 이동하세요.				
+QUEST_LV_0400_20200129_006186	Follow Kartas	크로노맨서 마스터 루시드 윈터스푼이 계시자들을 불러모으고 있다는 소식이 있습니다. 무슨 일이 있는지 루시드 윈터스푼에게 찾아가 보세요.				
+QUEST_LV_0400_20200129_006187	Goddess Austeja wants to chase after Kartas.{nl}Follow Kartas along with Goddess Austeja.	크로노맨서 마스터는 과거의 시간을 관찰하여 마왕 바이가의 계획을 알아내기 위해서 계시자들을 모았다고 합니다. 루시드 윈터스푼을 도울 준비를 마치면 찾아가 그녀와 대화하세요.				
+QUEST_LV_0400_20200514_006188	It will be tough to break through the demons. Perhaps burning their camp would draw their attention. We got enough Sporgimo Flowers to burn their whole camp. Place the Sporgimo Flowers at their establishments.	마족들이 싸우는 곳을 뚫고 가기는 어려워 보입니다. 먼저 마족의 진지를 불 태워 그들의 눈을 돌리는 게 좋겠습니다. 마족의 진지를 불 태우기 위해 필요한 스포르기모 꽃을 모두 구했습니다. 마족의 시설물이 있는 지역에 스포르기모 꽃을 놓으세요.	QUEST_LV_0400_20171128_002762	You've learned that going straight through the demons isn't a viable plan. Instead, burn their camp first to create a distraction. You have gathered enough Sporgimo flowers. Place them near the camp.	마족들이 싸우는 곳을 뚫고 가기는 어려워 보입니다. 먼저 마족의 진지를 불 태워 그들의 눈을 돌리는 게 좋겠습니다. 마족의 진지를 불 태우기 위해 필요한 스포르기모 꽃을 모두 구했습니다. 마족의 시설물 근처에 스포르기모 꽃을 놓으세요.	

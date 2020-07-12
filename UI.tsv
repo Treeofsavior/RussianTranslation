@@ -583,8 +583,8 @@ UI_20150317_000582	{s24}{b}{#000000}Улучшение завершено!
 UI_20150317_000583	{@st41}Улучшить снова{/}
 UI_20150317_000584	{@st41}Закрыть{/}
 UI_20150317_000585	{s18}{ol}{gr gradation1}Ремонтировать Снаряжение{/}
-UI_20150317_000586	Надеть Снаряжение  
-UI_20150317_000587	Экипированное Снаряжение 
+UI_20150317_000586	Надеть Снаряжение
+UI_20150317_000587	Экипированное Снаряжение
 UI_20150317_000588	{Gr gradation1}Выбрать Все{/}
 UI_20150317_000589	Выбрать Все
 UI_20150317_000590	{Gr gradation1}Ремонт{/}
@@ -727,7 +727,7 @@ UI_20150317_000726	{@st59}Информация о персонаже (F1){/}
 UI_20150317_000727	{@st59}Инвентарь (F2){/}
 UI_20150317_000728	{@st59}Классы и Умения (F3){/}
 UI_20150317_000729	{@st59}Журнал приключений (F4){/}
-UI_20150317_000730	{@st59}Квесты (F5){/}
+UI_20150317_000730	{@st59}Задания (F5){/}
 UI_20150317_000731	{@st59}Пати (F6){/}
 UI_20150317_000732	{@st59}Друзья (F7){/}
 UI_20150317_000733	{@st59}Макросы (F8) {/}
@@ -2686,7 +2686,7 @@ UI_20170726_002685	{@st66b}Ежеднеыный счетчик посещени�
 UI_20170726_002686	{@st43}{s22}Посмотреть расположение{/}
 UI_20170726_002687	{@st59}Закрыть.{/}
 UI_20170726_002688	{@st43}Ивенты{/}
-UI_20170726_002689	{@st66b}Нажмите на баннер, чтобы перейти на анонс ивента.{/}
+UI_20170726_002689	{@st66b}Нажмите на баннер, чтобы перейти на анонс события.{/}
 UI_20170726_002690	{@st59}Закрыть{/}
 UI_20170726_002691	{@st59}Обмен экипировки{/}
 UI_20170726_002692	Открыть Баннер Ивентов
@@ -3367,7 +3367,7 @@ UI_20180629_003366	Wig Shop List (M)
 UI_20180629_003367	Open Others
 UI_20180629_003368	Others List
 UI_20180629_003369	Purchase Test
-UI_20180629_003370	{@st66}{nl}Удалить перса
+UI_20180629_003370	{@st66}{nl}Удалить
 UI_20180629_003371	{@st66}{nl}Смени дом
 UI_20180629_003372	{@st66}{nl}Создать новый персонаж
 UI_20180629_003373	Cannot transfer appearance
@@ -3385,8 +3385,8 @@ UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each 
 UI_20180723_003385	{@st41b}{s16}Victory Rewards
 UI_20180723_003386	{@st42}{s16}Receive
 UI_20180809_003387	{@st41b}Open Voucher
-UI_20180827_003388	{@st59}Системные{/}
-UI_20180827_003389	{@st59}Боевые{/}
+UI_20180827_003388	{@st59}Системный{/}
+UI_20180827_003389	{@st59}Боевой{/}
 UI_20180827_003390	{@st42}{s18}Настройки чата
 UI_20180827_003391	Окно чата
 UI_20180827_003392	Оповещение входа
@@ -4057,10 +4057,287 @@ UI_20191024_004056	{#5e4e3f}{s16}Reseach weapons that are effective against{nl}P
 UI_20191024_004057	{#5ae2e7}{@st43}{s16}Damage +0.4% per Buff Level	{#5ae2e7}{@st43}{s16}버프 레벨당 +0.4% 대미지 증가
 UI_20191024_004058	Список
 UI_20191024_004059	Rotate	회전
-UI_20191024_004060	{@st42b}{s16}Продать{/}	{
+UI_20191024_004060	{@st42b}{s16}Продать{/}	
 UI_20191024_004061	Миссия
 UI_20191024_004062	{@st42b}{s14}{#ffffff}Нормальный
 UI_20191024_004063	{@st42b}{s14}{#0e7fe8}Магический
 UI_20191024_004064	{@st42b}{s14}{#d92400}Уникальный
 UI_20191024_004065	{@st42b}{s14}{#ffa800}Легендарный
 UI_20191104_004066	Unlimited Personal Trades	개인 거래 무제한
+UI_20200129_004067	{@st42}%s {@st42}Item{/}	{@st42}%s {@st42}아이템{/}				
+UI_20200129_004068	Storage	기본 창고				
+UI_20200129_004069	{@st66b}Storage Expansion	{@st66b}기본 창고 확장				
+UI_20200129_004070	{@st59}Expands Basic Storage{/}	{@st59}기본 창고를 확장합니다{/}				
+UI_20200129_004071	Select items to combine	합성할 아이템을 올려주세요				
+UI_20200129_004072	Experience Up	경험치 증가				
+UI_20200129_004073	Level Up	레벨 증가				
+UI_20200129_004074	{@st43}{s22}Combine Ark	{@st43}{s22}아크 합성				
+UI_20200129_004075	{@st59b}Combine Ark{@st59s}{nl}- Select Ark to add EXP or Level	{@st59b}아크 합성{@st59s}{nl}- 경험치 증가 또는 레벨 증가 할 아크를 등록				
+UI_20200129_004076	{@st43}{s20}Combine	{@st43}{s20}합성				
+UI_20200129_004077	{img icon_item_silver 24 24} {@st41b}%s Cost{/}	{img icon_item_silver 24 24} {@st41b}%s 비용{/}				
+UI_20200129_004078	{img icon_item_silver 24 24} {@st41b}Estimated Balance{/}	{img icon_item_silver 24 24} {@st41b}예상 잔액{/}				
+UI_20200129_004079	Place an Ark to transfer.	이전할 아이템을 올려주세요				
+UI_20200129_004080	{@st59b}Ark Transfer@st59s}{nl}- Place an Ark to transfer{nl} - Place an Ark to receive	{@st59b}아크 이전{@st59s}{nl}- 이전 할 아크 등록 {nl} - 이전 받을 아크 등록				
+UI_20200129_004081	Transfer	이전				
+UI_20200129_004082	Place an item to transfer the stats.	옵션을 이전할 아이템을 올려주세요				
+UI_20200129_004083	{img icon_item_silver 24 24} {@st41b}Transfer Cost{/}%s	{img icon_item_silver 24 24} {@st41b}이전 비용{/}%s				
+UI_20200129_004084	{@st43}Barber Shop - Skin			
+UI_20200129_004085	{@st59}Skin{/}					
+UI_20200129_004086	{@st66}- Skin Coupons				
+UI_20200129_004087	{@st43}{s22}Goddess' Blessing				
+UI_20200129_004088	{@st43}{s20}Confirm				
+UI_20200129_004089	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points	
+UI_20200129_004090	{s18}Contents			
+UI_20200129_004091	{@st66}Foods are only offered to the host and host’s party members.		
+UI_20200129_004092	{@s18}Hangout Level{/}			
+UI_20200129_004093	{@st41}Preview		
+UI_20200129_004094	{@st43}%s F{/}				
+UI_20200129_004095	{@st43}Function{/}				
+UI_20200129_004096	{@st41}Exit Edit Mode{/}				
+UI_20200129_004097	{@st41}Up/downstairs{/}				
+UI_20200129_004098	{@st42b}Dismantle All{/}				
+UI_20200129_004099	{@st42b}See Background{/}				
+UI_20200129_004100	{@st42b}Open Page{/}				
+UI_20200129_004101	{@43b}{s22}See Background{/}{/}			
+UI_20200129_004102	{@43b}{s22}Page{/}{/}				
+UI_20200129_004103	{@43b}{s22}Load Page{/}{/}			
+UI_20200129_004104	{@st66b}{s18}The housing item does not exist.{nl}{nl}Cannot load the page.				
+UI_20200129_004105	{@st66b}{s18}List			
+UI_20200129_004106	{@st66b}{s18}Please check if there are housing items{nl}{nl}placed or stored in the following places.{nl}{nl}1. Housing item area{nl}{nl}2. Inventory			
+UI_20200129_004107	{@st66b}{s18}The following housing items will be dismantled when loading the page.					
+UI_20200129_004108	{@st66b}{s18}Proceed with teardown and load the page?				
+UI_20200129_004109	{@st43}Preview Controls{/}				
+UI_20200129_004110	{@st41}Leave{/}			
+UI_20200129_004111	{@st41}Move Screen{/}			
+UI_20200129_004112	{@st41}View Height{/}				
+UI_20200129_004113	Available only in Instanced Dungeon.	
+UI_20200129_004114	* Additional damage buff granted on a group with 4 or less saviors.{nl}* 50% increase in damage per savior and 200% increase for solo entry.{/}
+UI_20200129_004115	{@st59}Ark{/}				
+UI_20200129_004116	Equipment			
+UI_20200129_004117	Transcendence Bonus				
+UI_20200129_004118	Total				
+UI_20200129_004119	Enchant			
+UI_20200129_004120	{@st43}Item %s Transfer			
+UI_20200129_004121	{@st41b}{s18}%s Transfer			
+UI_20200129_004122	{@st43b}{s18}Transfer Stats				
+UI_20200129_004123	Sandra's Detailed Magnifier			
+UI_20200129_004124	{@st66}{s18}Consumes Sandra's Detailed Magnifier x%s.				
+UI_20200129_004125	Sandra's Magnifier				
+UI_20200129_004126	{@st66}{s18}Consumes Sandra's Magnifier x%s.			
+UI_20200129_004127	{@st66b18}Market Retrieve Tab			
+UI_20200129_004128	{@st66d_y}{s16}Goddess' Blessing			
+UI_20200129_004129	{@st41b}Leave{/}			
+UI_20200129_004130	{@st43}Message Box(%s/%s)			
+UI_20200129_004131	{@st66}Tip. Scroll down to load more data.				
+UI_20200129_004132	{@st66}     Tip 1. Episode Rewards are obtainable once per team.                         
+UI_20200129_004133	{@st66b}Episode{/}		
+UI_20200129_004134	{@st66b}Quest List{/}
+UI_20200129_004135	{@st66b}Complete{/}	
+UI_20200129_004136	{@st43}{s22}Episode Rewards{/}			
+UI_20200129_004137	{@st59}Close Episode Rewards info.{/}				
+UI_20200129_004138	Episode Rewards				
+UI_20200129_004139	Episode				
+UI_20200129_004140	Name of Episode					
+UI_20200129_004141	{@st41b}Anvil to Use				
+UI_20200129_004142	{@st42b}None	
+UI_20200129_004143	{@st42}Character Speech Bubble			
+UI_20200129_004144	Emergency Quest			
+UI_20200129_004145	Change to Minimization Mode.			
+UI_20200129_004146	Cancel current Emergency Quest.			
+UI_20200129_004147	{img test_cooltime 20 20}{@st43}{s16}Time Limited - %s			
+UI_20200129_004148	{@st66b}Enable Effect Sharpness Adjustment			
+UI_20200129_004149	{@st66b}Hide letter effects				
+UI_20200129_004150	{@st66b}My Character Effect Sharpness(%s){/}				
+UI_20200129_004151	{@st66b}Other Characters' Effect Sharpness(%s){/}			
+UI_20200129_004152	{@st66b}Boss Monster Effect Sharpness(%s){/}			
+UI_20200129_004153	{@st42b}{ds}{s18}Show all map{/}
+UI_20200129_004154	{@st42b}{ds}{s18}{#FF5E00}See all Goddess Statues{/}				
+UI_20200129_004155	{@st59}Shortcut{/}				
+UI_20200129_004156	{@st59}Complete{/}				
+UI_20200129_004157	{@42b}{s20}Page %s{/}{/}			
+UI_20200129_004158	{@st59}Enter title{/}			
+UI_20200129_004159	{@st59}Preview{nl}Reset by leaving edit mode or pressing Preview button.				
+UI_20200129_004160	{@st59}Delete			
+UI_20200129_004161	{@st42b}Save{/}			
+UI_20200129_004162	{@st42b}Load{/}			
+UI_20200129_004163	Team Storage +30, activate additional storage				
+UI_20200206_004164	Coins Collected				
+UI_20200206_004165	List of Stamp Tour Missions				
+UI_20200206_004166	List of Content Missions				
+UI_20200206_004167	{@st43b}{s22}Goddess’ Roulette Coins			
+UI_20200206_004168	{@st66b}{s18}Acquisition State			
+UI_20200206_004169	{@st66b}{s18}Stamps				
+UI_20200206_004170	{@st66b}{s18}Contents				
+UI_20200206_004171	Tab Title				
+UI_20200206_004172	Instructions				
+UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins				
+UI_20200207_004174	Stamp Diary			
+UI_20200218_004175	Refresh				
+UI_20200320_004176	{@st43}{s16}Skill Damage{/}				
+UI_20200320_004177	{@st43}{s16}Total Amount of Damage{/}			
+UI_20200320_004178	{@st42b}{ds}{s14}Time Remaining{/}				
+UI_20200320_004179	{@st42b}View ones with Exchange Count left{/}			
+UI_20200320_004180	{@st42b}Open Shop			
+UI_20200320_004181	{nl}Shows the location and remaining entries of each contents. 	
+UI_20200320_004182	{@st43}Contents Status Board{/}	
+UI_20200320_004183	{@st66b}Weekly Boss Raid			
+UI_20200320_004184	Swordsman Type					
+UI_20200320_004185	Wizard Type					
+UI_20200320_004186	Scout Type					
+UI_20200320_004187	{@st66b}{s16}Ranking			
+UI_20200320_004188	{@st66b}{s16}Team			
+UI_20200320_004189	{@st66b}{s16}Max. Damage in 1 Try				
+UI_20200320_004190	Displays Weekly Pattern Information			
+UI_20200320_004191	Combat Information			
+UI_20200320_004192	{@st66b}{s16}Type Rank Reward					
+UI_20200320_004193	{@st66b}{s16} Total Damage Reward			
+UI_20200320_004194	{s16}{ol}{#FFFFFF}Enter(%s/%s)				
+UI_20200320_004195	{s16}{ol}{#FFFFFF}Practice Mode				
+UI_20200320_004196	Achievement Rate
+UI_20200320_004197	{img monsterbtn_image 29 28}{@st66b}{s16}  Card Album{/}	
+UI_20200320_004198	{@st59}Open Card Album{/}
+UI_20200320_004199	Sandra's Perfect Magnifier			
+UI_20200320_004200	{@st66}{s18}Consume %s Sandra's Perfect Magnifier.			
+UI_20200320_004201	Sandra's Ultimate Magnifier			
+UI_20200320_004202	{@st66}{s18}Consume %s Sandra's Ultimate Magnifier.			
+UI_20200320_004203	{@st59}Show Card Album Apply Option{/}
+UI_20200320_004204	{@st43}Equip Card Album Cards{/}		
+UI_20200320_004205	{@st59}Close{/}	
+UI_20200320_004206	{@st43}Reward List{/}				
+UI_20200320_004207	{s16}{ol}{#FFFFFF}Recieve Reward				
+UI_20200320_004208	{s16}{ol}{#FFFFFF}Check				
+UI_20200320_004209	{@st59}Contents Status Board(F10){/}	
+UI_20200320_004210	{@st66b}Use Daylight				
+UI_20200320_004211	{@st66b}See Motion Emoticon in chat			
+UI_20200320_004212	{@st43b}{s20}Weekly Pattern Information				
+UI_20200320_004213	{@st59}Close{/}				
+UI_20200320_004214	{@st43}{s18}Rank %s			
+UI_20200320_004215	{@st43}{s18}Rank %s ~ Rank %s			
+UI_20200320_004216	{@st43}{s22}Reward List			
+UI_20200320_004217	{s16}{ol}{#FFFFFF}Retrieve All			
+UI_20200320_004218	Change Item Property				
+UI_20200320_004219	Property				
+UI_20200320_004220	Present Value				
+UI_20200320_004221	Changed Value				
+UI_20200320_004222	{@st59}Close{/}				
+UI_20200320_004223	{@st42}Change			
+UI_20200320_004224	{@st43}Cheat : Item Property{/}	
+UI_20200320_004225	{@st41b}Transcend{/}				
+UI_20200320_004226	{@st41b}Enhance{/}			
+UI_20200320_004227	{@st41b}Level{/}				
+UI_20200320_004228	{@st41b}Slot			
+UI_20200320_004229	{@st41b}Red			
+UI_20200320_004230	{@st41b}Blue				
+UI_20200320_004231	{@st41b}Yellow				
+UI_20200320_004232	{@st41b}Green				
+UI_20200320_004233	{@st43}Cheat : Random Option{/}				
+UI_20200320_004234	Option 1				
+UI_20200320_004235	Option 2				
+UI_20200320_004236	Option 3			
+UI_20200320_004237	Option 4				
+UI_20200320_004238	Option 5	
+UI_20200320_004239	Option 6	
+UI_20200320_004240	Batch change to Option 1				
+UI_20200320_004241	{@st43}Cheat : Fixed Ichor{/}			
+UI_20200320_004242	Select Set				
+UI_20200320_004243	Select Item				
+UI_20200320_004244	Selected Option				
+UI_20200320_004245	Existing Option				
+UI_20200320_004246	Cannot Enchant			
+UI_20200320_004247	Type Rank				
+UI_20200320_004248	{@st43}{s14}{ol}{ds}Rank %s (Top %s%)					
+UI_20200320_004249	Best Try Score					
+UI_20200320_004250	Accumulated Damage					
+UI_20200320_004251	{@st43}{s18}{ol}{ds}Rank %s				
+UI_20200320_004252	{@st66b}{s16}Fire Wall					
+UI_20200429_004253	{@st42b}{ol}{s20}Spin the Roulette (%s/%s)					
+UI_20200429_004254	Requires 10 Goddess' Roulette Coins.				
+UI_20200429_004255	Check the Rewards List					
+UI_20200429_004256	{@st43b}{s22}Available Items from the Goddess' Roulette					
+UI_20200429_004257	{@st66b}{s16}* Available items will be changed as the accumulated number of the spin increases.			
+UI_20200514_004258	Apply Filter					
+UI_20200514_004259	{@st59}Close Assister UI{/}				
+UI_20200514_004260	{@st43}{s22}Assister Cabinet{/}			
+UI_20200514_004261	{@st59b}Assister Info{nl}{@st59s} - You can view the Assisters in your possession in the Assister Info tab.{nl} - The Assisters that you want to use must be registered in the main slot, which can be done by moving the Assisters from the list at the bottom by holding and dragging the right-click button.{nl} - All Assisters possess a Grade and a Potential.{nl}[Grade]{nl} - Displays the Assister's power level.{nl} - Grades are divided into Normal, Magic, Unique and Legend which affects how an Assister performs in battle.{nl}[Evolution Grade]{nl} - All Assisters can be evolved a maximum of two times. An evolution increases the number of skills available and the Assister's stats.{nl} - All Assisters begin with a 1 Star Evolution Grade and can be evolved to 3 Stars maximum.{/}{nl}{@st59b}Fusion{nl}{@st59s} - You can fuse 3 as of identical Grade to obtain a random Assister of the same Grade.{nl} - There is also a 5% chance to obtain an Assister of a higher grade by fusing the Assisters.{/}{nl}{@st59b}Evolution{nl}{@st59s} - You can use 3 identical Assisters to evolve your Assister.{nl} - Evolution only works when using 3 identical Assisters of the same Evolution Grade and will result in 1 identical Assister with a +1 Evolution Grade.{nl} - The resulting Assister's level will be identical to that of the Assister with the highest level.{/}
+UI_20200514_004262	{@st59}Close Assister Cabinet{/}				
+UI_20200514_004263	{@st66b}{s16}Assister Info{/}					
+UI_20200514_004264	{@st42b}{s18}Passive			
+UI_20200514_004265	{@st42b}{s18}Cost: %s/%s				
+UI_20200514_004266	{@st59}Arrange Assister list.{/}			
+UI_20200514_004267	{@st59}Assister Card Album{/}				
+UI_20200514_004268	{@st42b}{s18}Assister: %s/%s					
+UI_20200514_004269	{@st42}{#7AE4FF}Current Arts{/}{/}					
+UI_20200514_004270	{@st43b}{s20}Companion List 				
+UI_20200514_004271	- By Login : Organize according to the most recent login order.{nl}- By Latest : Organize according to most recently added or modified friend order.{nl}- By Team Name : Organize team name in ABC order.	
+UI_20200514_004272	{@st43b}{s22}Goddess' Roulette			
+UI_20200514_004273	{@st42b}{s24}You have acquired the amount for today.{nl}Daily amount will be reset the following day at  6 AM EST			
+UI_20200514_004274	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.
+UI_20200514_004275	{@st42b}Empty{/}					
+UI_20200514_004276	{@st42b}Furniture Shop				
+UI_20200514_004277	{@st42b}Change Page{/}				
+UI_20200514_004278	Install					
+UI_20200514_004279	{@st43b}{s26}Private Housing Board					
+UI_20200514_004280	Refresh					
+UI_20200514_004281	House Recommended				
+UI_20200514_004282	House of Friend					
+UI_20200514_004283	House of Guild Member					
+UI_20200514_004284	My House					
+UI_20200514_004285	Search by Team Name 					
+UI_20200514_004286	Post Title					
+UI_20200514_004287	Team Name of Author					
+UI_20200514_004288	{@st41b}{s16}Move to Housing				
+UI_20200514_004289	Edit Post					
+UI_20200514_004290	Edit				
+UI_20200514_004291	{@st43b}{s20}Social Info				
+UI_20200514_004292	{@st42b}{s18}{ds}Accumulated Visitors : %s					
+UI_20200514_004293	{@st42b}{s18}{ds}Visitors Today : %s				
+UI_20200514_004294	{@st42b}{s18}{ds}Like : %s				
+UI_20200514_004295	{@st42b}{s18}{ds}Message : %s					
+UI_20200514_004296	{@st43b}{s20}Option: Open private housing to public					
+UI_20200514_004297	{@st43b}{s20}Point Info	보				
+UI_20200514_004298	{@st42b}{s18}{ds}Private Housing : Grade %s 				
+UI_20200514_004299	{@st42b}{s18}{ds}Placement Point: %s				
+UI_20200514_004300	{@st42b}{s18}{ds}Private Housing Point : %s					
+UI_20200514_004301	{@st43b}{s26}Edit Post				
+UI_20200514_004302	{@st43b}{s22}Title				
+UI_20200514_004303	Please enter title				
+UI_20200514_004304	{@st43b}{s22}Thumbnail Preview{/}					
+UI_20200514_004305	ⓘ PNG(24bit/32bit) files of %s size can be uploaded.{nl}ⓘ Only files in English or numbers can be uploaded. {nl}ⓘ Controversial Images can be restricted.{nl}ⓘ Upload Thumbnails by uploading files or Flim.		
+UI_20200514_004306	{@st41b}{s16}{ol}Film					
+UI_20200514_004307	{@st41b}{s16}{ol}Import					
+UI_20200514_004308	{@st43b}{s22}Message				
+UI_20200514_004309	Please enter content					
+UI_20200514_004310	ⓘ Private Housing Board can only be modified or posted a maximum of 5 times per day.  (Reset : 00:00 AM EST)					
+UI_20200514_004311	{@st41b}{s16}{ol}Write				
+UI_20200514_004312	{@st66b}Contents Ranking					
+UI_20200514_004313	{@st66b}{s16}Clear Time					
+UI_20200514_004314	{@st66b}{s16}Guild Name				
+UI_20200514_004315	{@st66b}{s16}Party Member Name				
+UI_20200514_004316	Слот				
+UI_20200514_004317	{@st66}{s18}%s %s will be used.			
+UI_20200514_004318	Craft Ark					
+UI_20200514_004319	Craft Special Ingredient					
+UI_20200514_004320	Place the item to convert				
+UI_20200514_004321	{@st43}Convert Legend Ingredients				
+UI_20200514_004322	Convert				
+UI_20200514_004323	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image{nl}-Maximum 10 images can be shown.
+UI_20200514_004324	{@st66d_y}{s16}Goddess' Roulette		UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins
+UI_20200514_004325	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized.{nl} - Companions in lodge can be summoned and unsummoned by the Companion List button{nl} - Does not apply to Flying-type Companions in the Companion List{nl} - When entering the lodge after summoning companions from the lodge of other number, you become no longer accompanied by the companion{nl} - When the companion icon is in the quick slot, only companion summon is possible (Unsummon in the Companion Info UI){nl} - Unsummon ground-type companions with Shift+R (Does not apply to Flying-type Companions){/}
+UI_20200514_004326	{@st59b}Companion List{/}			
+UI_20200514_004327	{@st41b}{s16}Cancel
+UI_20200514_004328	{@st41b}{s16}Screenshot				
+UI_20200514_004329	{@st43}Cheat : Enchant or Awaken{/}			
+UI_20200514_004330	Enchant Jewel			
+UI_20200514_004331	Set Stats					
+UI_20200514_004332	{@st42b}{s16}Remove{/}					
+UI_20200514_004333	{@st42b}{s16}Shortcut{/}					
+UI_20200514_004334	{img icon_item_silver 24 24} Craft Cost{/}%s			
+UI_20200514_004335	There is no list to be shown.			
+UI_20200514_004336	Category Name					
+UI_20200514_004337	Team Name Blah Blah					
+UI_20200514_004338	{@st66b}{s16}Cost					
+UI_20200514_004339	{@st66b}{s16}Original Passive{/}					
+UI_20200514_004340	{@st43b}{s18}Passive Effect				
+UI_20200514_004341	{@st42b}{s14}{ds}◆Original Passive					
+UI_20200514_004342	{@st42b}{s14}{ds}◆Combination Passive					
+UI_20200609_004343	{@st66d_y}{s16}Stamp Tour	

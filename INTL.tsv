@@ -377,3 +377,11 @@ INTL_20191205_000376	Use to open the Christmas Royal Chest in Klaipeda to obtain
 INTL_20191216_000377	{img test_cooltime 25 25}{s18}Points are reset every quarter.	{img test_cooltime 25 25}{s18}매 분기마다 포인트 초기화가 진행됩니다.
 INTL_20191216_000378	 {nl}Please select a reward.	 {nl}원하는 보상을 선택해주세요.
 INTL_20191230_000379	Can only be accessed on Fridays, Saturdays and Sundays.	금,토,일에만 대화하실 수 있습니다.
+INTL_20200114_000380	Road to Spring 	봄으로 가는 길 				
+INTL_20200114_000381	Spring Cube	봄 큐브	INTL_20190405_000317	Flower Road Cube	꽃길 큐브	
+INTL_20200114_000382	Road to Spring Mission	봄으로 가는 길 이벤트 미션				
+INTL_20200114_000383	You can receive a Cherry Blossom Hairpin for your first five {#661199}Flower Petals{/}. For your next five {#661199}Flower Petals{/}, you can receive 25 Spring Cubes.	이벤트 기간동안 최초 {#661199}꽃잎{/} 5개는 삼색 경단 머리핀, 이후 {#661199}꽃잎{/} 5개는 봄 큐브 25개로 교환할 수 있습니다.	INTL_20190405_000321	Вы можете получить Cherry Blossom Hairpin для первых 5 Flower Petals. Для ваших следующих 5 Flower Petals, можете получить Tricolor Treat Hairpin.	이벤트 기간동안 최초 꽃잎 5개는 삼색 경단 머리핀, 이후 꽃잎 5개는 벚꽃 머리핀으로 교환할 수 있습니다.	이벤트 알림판
+INTL_20200114_000384	{#661199}Road to Spring Information	{#661199}봄으로 가는 길 이벤트 안내	INTL_20190405_000322	Flower Road Event	꽃길 이벤트	
+INTL_20200206_000385	{@st66d_y}{s14}Goddess’{nl}Blessing	{@st66d_y}{s14}여신의{nl}축복				
+INTL_20200214_000386	: x5{nl}- Legend Raids: Casual : x2{nl}- Unique Raids : x5{nl}- Unique Raids: Casual : x2{nl}- Challenge Mode Stage 5+: x2{nl}- Level Dungeons: x1	 클리어 : 5개{nl}- 레전드 레이드:캐주얼 클리어 : 2개{nl}- 유니크 레이드 클리어 : 5개{nl}- 유니크 레이드:캐주얼 클리어 : 2개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 레벨던전 클리어 : 1개				대장장이 테리아베리스
+INTL_20200609_000387	There is no on-going event in the Event Notice Board.	현재 이벤트 알림판에서 진행중인 이벤트가 없습니다.				이벤트 알림판
