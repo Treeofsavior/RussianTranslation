@@ -2484,7 +2484,7 @@ UI_20161214_002483	{@st41b}Оставшийся фонд {/}{img white_right_arr
 UI_20161214_002484	1 Ур карты босов не потребляют 5TP.
 UI_20161214_002485	{@st66b}Турнирная таблица в режиме реального времени 
 UI_20161214_002486	Турнирная таблица за прошлый сезон 
-UI_20161214_002487	Увеличивает опыт и шанс дропа {nl}в 3 раза. Потребляет 1 попытку входа в данж {nl}и Dungeon Multiply Token.
+UI_20161214_002487	Увеличивает опыт и шанс дропа {nl}в 3 раза. Потребляет 1 попытку {nl}входа в данж и {nl}Dungeon Multiply Token.
 UI_20161214_002488	{@st41b}Активировать Multiply Mode
 UI_20161214_002489	{@st41b}Отменить Multiply Mode
 UI_20161214_002490	Multiply Mode Number
@@ -4111,7 +4111,7 @@ UI_20200129_004110	{@st41}Leave{/}
 UI_20200129_004111	{@st41}Move Screen{/}			
 UI_20200129_004112	{@st41}View Height{/}				
 UI_20200129_004113	Available only in Instanced Dungeon.	
-UI_20200129_004114	* Additional damage buff granted on a group with 4 or less saviors.{nl}* 50% increase in damage per savior and 200% increase for solo entry.{/}
+UI_20200129_004114	* Дополнительный урон, наносимый группе с 4 или менее спасителями. {Nl} * Увеличение урона на 50%  за спасителя и 200% при одиночном входе.{/}
 UI_20200129_004115	{@st59}Ark{/}				
 UI_20200129_004116	Equipment			
 UI_20200129_004117	Transcendence Bonus				

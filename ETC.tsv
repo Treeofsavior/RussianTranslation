@@ -1723,7 +1723,7 @@ ETC_20150317_001722	Wand
 ETC_20150317_001723	{nl} Do you want to add a socket?
 ETC_20150317_001724	{nl} Do you want to extract this gem?
 ETC_20150317_001725	Would you like to create this item?
-ETC_20150317_001726	Материалы
+ETC_20150317_001726	Материал
 ETC_20150317_001727	Ring
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
@@ -2000,7 +2000,7 @@ ETC_20150317_001999	Lance Mastery
 ETC_20150317_002000	Marksmanship
 ETC_20150317_002001	Tactical Action
 ETC_20150317_002002	Physical Training
-ETC_20150317_002003	None
+ETC_20150317_002003	Ничего
 ETC_20150317_002004	No increase
 ETC_20150317_002005	Lost
 ETC_20150317_002006	Gloves
@@ -3826,7 +3826,7 @@ ETC_20150317_003825	Use items
 ETC_20150317_003826	of area
 ETC_20150317_003827	enter range
 ETC_20150317_003828	Automatically complete from quest session object when goal is achieved
-ETC_20150317_003829	None
+ETC_20150317_003829	Ничего
 ETC_20150317_003830	Quest Pre-requisite
 ETC_20150317_003831	Spot
 ETC_20150317_003832	Within range
@@ -5223,7 +5223,7 @@ ETC_20150317_005222	Placed Bait
 ETC_20150317_005223	Help me!
 ETC_20150317_005224	Skilled Mechanic
 ETC_20150317_005225	Where did the goddess go...
-ETC_20150317_005226	Give us peace and salvation...
+ETC_20150317_005226	Дай нам мир и спасение...
 ETC_20150317_005227	Please listen to our prayers...
 ETC_20150317_005228	For peace and happiness...
 ETC_20150317_005229	Look over there! The spiders are coming!
@@ -31024,7 +31024,7 @@ ETC_20171128_031025	Cannot be used while automatching.
 ETC_20171128_031026	Cannot lock inside instanced dungeon.
 ETC_20171128_031027	Returning in {Sec} seconds...
 ETC_20171128_031028	Failed to apply Multiply Tokens; not enough in inventory.
-ETC_20171128_031029	Enter {ID_NAME} (Recommended Lv: {ID_LV})?{nl}Only you and your party members can enter together.
+ETC_20171128_031029	Enter {ID_NAME} (Рекомендуемый уровень: {ID_LV})?{nl}Только вы и члены вашей команды можете войти вместе.
 ETC_20171128_031030	{ID_NAME} (Recommended Lv: {ID_LV})
 ETC_20171128_031031	You have obtained a reward for the Refuge Visitor achievement.
 ETC_20171128_031032	Can only be used after entering the Challenge Mode 1 time.
@@ -37668,7 +37668,7 @@ ETC_20190104_037669	Check Next Collection Compensation List
 ETC_20190104_037670	{Auto_1} collection(s) acquired
 ETC_20190104_037671	{Auto_1} collection(s) completed
 ETC_20190104_037672	Допускается уровень {LV} или выше.
-ETC_20190104_037673	{ID_NAME} (Min. Lv: {ID_LV}, 1 advancement)
+ETC_20190104_037673	{ID_NAME} (Мин. Уровень: {ID_LV}, 1 advancement)
 ETC_20190104_037674	{nl}Advance into a new class?{nl}(The chosen class can only be changed through Class Change.)
 ETC_20190104_037675	{@st44}Next Class Advancement Information
 ETC_20190104_037676	{@st59}Увеличивает физическую атаку.{/}
@@ -48327,7 +48327,7 @@ ETC_20200703_048328	Summer Festa Event Food Exchange Shop	Summer Festa 이벤트
 ETC_20200703_048329	Exchange for 1~{MAX}	교환 가능 개수 1~{MAX}				
 ETC_20200703_048330	Current [Summer Festa] Magic Ice Cube State{nl}Contents Play {#3366FF}({COIN}/400){/}{nl}1 Hour Log-in: Food Voucher x10 {#3366FF}({TIME1}/50){/}{nl}1 Hour Log-in: Magic Ice Cube x20 {#3366FF}({TIME2}/100){/}{nl}{#FF0000}※Daily limit resets on every 6AM EST.{/}	[Summer Festa] 특별한 얼음 획득 현황{nl}콘텐츠 이용 {#3366FF}({COIN}/400개){/}{nl}1시간 접속 시 음식 교환권 10개 지급 {#3366FF}({TIME1}/50개){/}{nl}1시간 접속 시 특별한 얼음 20개 획득 {#3366FF}({TIME2}/100개){/}{nl}{#FF0000}※일일 획득량은 매일 오전 6시 초기화 됩니다.{/}				
 ETC_20200703_048331	[Summer Festa] Watermelon Fishing!{nl}Number of [Event] Octopus Tentacle Bait Received Daily {#3366FF}({BAIT}/1){/}{nl}Number of [Summer Festa] Food Voucher Received Daily {#3366FF}({TICKET}/10){/}{nl}Number of [Event] Fresh Watermelon exchanged during the event period {#3366FF}({TRADE}/150){/}{nl}{#FF0000}※Daily limit resets on every 6AM EST.{nl}※The maximum exchange number of [Event] Fresh Watermelon available during the event period is 150,{nl}and you will only receive the buff if you exchange after the event period.{/}	[Summer Festa] 수박 낚시!{nl}[이벤트] 문어발 미끼 일일 수령 횟수 {#3366FF}({BAIT}/1회){/}{nl}[Summer Festa] 음식 교환권 일일 획득 개수 {#3366FF}({TICKET}/10개){/}{nl}이벤트 기간 중 [이벤트] 시원한 수박 교환 횟수 {#3366FF}({TRADE}/150회){/}{nl}{#FF0000}※일일 수령 횟수는 매일 오전 6시 초기화 됩니다.{nl}※이벤트 기간 중 [이벤트] 시원한 수박의 최대 교환 교환 횟수는 150개 이며,{nl}이후 교환 시 버프만 획득 가능합니다.{/}				
-ETC_20200703_048332	{#003399}[Summer Festa]{/} Event	{#003399}[Summer Festa]{/} 이벤트				
+ETC_20200703_048332	{#003399}[Summer Festa]{/} Событие			
 ETC_20200703_048333	Increases EXP gains by {ARG}%.	경험치 획득량이 {ARG}% 증가합니다.				
 ETC_20200703_048334	Increases Maximum HP and SP by {ARG}.	최대 HP 및 최대 SP가 {ARG}만큼 증가합니다.				
 ETC_20200703_048335	Increases Looting Chance by {ARG}.	루팅 찬스가 {ARG}만큼 증가합니다.				

@@ -9039,7 +9039,7 @@ ITEM_20151224_009038	Riteris Cube
 ITEM_20151224_009039	Flammidus Cube
 ITEM_20151224_009040	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality.{nl}Only available to equipment with 0 Potential. Upon failure, the equipment will not be destroyed.{nl}If it fails on enhanced equipment beyond +11, the enhance level of the equipment will reduce to +10.{nl}Right-click to use.
 ITEM_20151224_009041	Flammidus Card
-ITEM_20151224_009042	An unidentified gem found by monsters.{nl}Desired by many collectors due to its mysterious color.{nl}Use it to upgrade your guild.
+ITEM_20151224_009042	Неопознанный камень, найденный монстрами. {nl} Желаемый многими коллекционерами из-за его таинственного цвета. {nl} Используйте его, чтобы улучшить вашу гильдию.
 ITEM_20151224_009043	A little stone. It can be obtained by the Stone Picking skill.
 ITEM_20151224_009044	A mysterious crystal found when space-time is distorted.
 ITEM_20151224_009045	Chafperor Shell
@@ -11115,7 +11115,7 @@ ITEM_20160811_011114	A gem with the blessing of the goddesses.{nl}Can be used to
 ITEM_20160811_011115	A hammer with mysterious powers that allow it to dismantle all that it touches. Used to extract Blessed Gems.
 ITEM_20160811_011116	Absorbs magic from its surroundings. Used to extract items.
 ITEM_20160811_011117	Blessed Shard
-ITEM_20160811_011118	A stone that becomes the ingredient of a special item.
+ITEM_20160811_011118	Камень, который становится компонентом особого предмета.
 ITEM_20160811_011119	Magic Powder
 ITEM_20160811_011120	Test Magic Powder
 ITEM_20160811_011121	Alchemy Residue
