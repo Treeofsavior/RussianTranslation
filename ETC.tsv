@@ -1772,7 +1772,7 @@ ETC_20150317_001771	Repair Completed
 ETC_20150317_001772	Companion Armor
 ETC_20150317_001773	Companion Weapon
 ETC_20150317_001774	Helmet
-ETC_20150317_001775	Cooldown: {Sec} seconds
+ETC_20150317_001775	Перезарядка: {Sec} секунд
 ETC_20150317_001776	Weapon Effect
 ETC_20150317_001777	Secondary Weapon Effect
 ETC_20150317_001778	Top and Bottom Effect
@@ -1784,8 +1784,8 @@ ETC_20150317_001783	Defense Rate
 ETC_20150317_001784	Evasion Rate
 ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
-ETC_20150317_001787	Weight: {All} / {Max}
-ETC_20150317_001788	Weight ({Rate}%)
+ETC_20150317_001787	Вес: {All} / {Max}
+ETC_20150317_001788	Вес ({Rate}%)
 ETC_20150317_001789	Unsocketable
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
@@ -4364,7 +4364,7 @@ ETC_20150317_004363	{@st42b} This name is already taken{/}
 ETC_20150317_004364	{@st42b} Движение {/}
 ETC_20150317_004365	{@st42b} My character's movement {/}
 ETC_20150317_004366	{@st42b} NPC Placement {/}
-ETC_20150317_004367	{@st42b} Cancel {/}
+ETC_20150317_004367	{@st42b} Отмена {/}
 ETC_20150317_004368	{@st42b} Change the angle {/}
 ETC_20150317_004369	{@st42b} Delete Anchor {/}
 ETC_20150317_004370	{@st42b} Appoint Range{/}
@@ -15326,9 +15326,9 @@ ETC_20151001_015327	Destroy all the summoning scrolls within 20 minutes!
 ETC_20151001_015328	Mission succeeded!{nl}You will return in 60 seconds
 ETC_20151001_015329	Mission failed!{nl}You will return in 30 seconds
 ETC_20151001_015330	Defeat Throneweaver
-ETC_20151001_015331	Starting in 50 seconds
-ETC_20151001_015332	Starting in 30 seconds
-ETC_20151001_015333	Starting in 10 seconds
+ETC_20151001_015331	Старт через 50 секунд
+ETC_20151001_015332	Старт через 30 секунд
+ETC_20151001_015333	Старт через 10 секунд
 ETC_20151001_015334	Defeat the raucous Necroventer!
 ETC_20151001_015335	Small Crystal
 ETC_20151001_015336	Destroy the red crystal emanating with red energy!
@@ -15368,46 +15368,46 @@ ETC_20151001_015369	18F
 ETC_20151001_015370	19F
 ETC_20151001_015371	20F
 ETC_20151001_015372	Lobby
-ETC_20151001_015373	Cleared the 1st floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015374	Cleared the 2nd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015375	Cleared the 3rd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015376	Cleared the 4th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015377	Cleared the 5th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015378	Cleared the 6th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015379	Cleared the 7th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015380	Cleared the 8th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015381	Cleared the 9th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015382	Cleared the 10th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015383	Cleared the 11th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015384	Cleared the 12th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015385	Cleared the 13th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015386	Cleared the 14th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015387	Cleared the 15th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015388	Cleared the 16th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015389	Cleared the 17th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015390	Cleared the 18th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015391	Cleared the 19th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015392	Cleared the 20th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015393	Monsters will appear on the 1st floor after 10 seconds!
-ETC_20151001_015394	Monsters will appear on the 2nd floor after 10 seconds!
-ETC_20151001_015395	Monsters will appear on the 3rd floor after 10 seconds!
-ETC_20151001_015396	Monsters will appear on the 4th floor after 10 seconds!
-ETC_20151001_015397	Monsters will appear on the 5th floor after 10 seconds!
-ETC_20151001_015398	Monsters will appear on the 6th floor after 10 seconds!
-ETC_20151001_015399	Monsters will appear on the 7th floor after 10 seconds!
-ETC_20151001_015400	Monsters will appear on the 8th floor after 10 seconds!
-ETC_20151001_015401	Monsters will appear on the 9th floor after 10 seconds!
-ETC_20151001_015402	Monsters will appear on the 10th floor after 10 seconds!
-ETC_20151001_015403	Monsters will appear on the 11th floor after 10 seconds!
-ETC_20151001_015404	Monsters will appear on the 12th floor after 10 seconds!
-ETC_20151001_015405	Monsters will appear on the 13th floor after 10 seconds!
-ETC_20151001_015406	Monsters will appear on the 14th floor after 10 seconds!
-ETC_20151001_015407	Monsters will appear on the 15th floor after 10 seconds!
-ETC_20151001_015408	Monsters will appear on the 16th floor after 10 seconds!
-ETC_20151001_015409	Monsters will appear on the 17th floor after 10 seconds!
-ETC_20151001_015410	Monsters will appear on the 18th floor after 10 seconds!
-ETC_20151001_015411	Monsters will appear on the 19th floor after 10 seconds!
-ETC_20151001_015412	Monsters will appear on the 20th floor after 10 seconds!
+ETC_20151001_015373	Зачищен 1-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015374	Зачищен 2-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015375	Зачищен 3-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015376	Зачищен 4-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015377	Зачищен 5-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015378	Зачищен 6-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015379	Зачищен 7-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015380	Зачищен 8-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015381	Зачищен 9-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015382	Зачищен 10-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015383	Зачищен 11-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015384	Зачищен 12-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015385	Зачищен 13-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015386	Зачищен 14-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015387	Зачищен 15-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015388	Зачищен 16-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015389	Зачищен 17-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015390	Зачищен 18-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015391	Зачищен 19-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015392	Зачищен 20-й этаж!{nl}Разбейте дверь, чтобы перейти на следующий этаж!
+ETC_20151001_015393	Монстры появятся на 1 этаже через 10 секунд!
+ETC_20151001_015394	Монстры появятся на 2 этаже через 10 секунд!
+ETC_20151001_015395	Монстры появятся на 3 этаже через 10 секунд!
+ETC_20151001_015396	Монстры появятся на 4 этаже через 10 секунд!
+ETC_20151001_015397	Монстры появятся на 5 этаже через 10 секунд!
+ETC_20151001_015398	Монстры появятся на 6 этаже через 10 секунд!
+ETC_20151001_015399	Монстры появятся на 7 этаже через 10 секунд!
+ETC_20151001_015400	Монстры появятся на 8 этаже через 10 секунд!
+ETC_20151001_015401	Монстры появятся на 9 этаже через 10 секунд!
+ETC_20151001_015402	Монстры появятся на 10 этаже через 10 секунд!
+ETC_20151001_015403	Монстры появятся на 11 этаже через 10 секунд!
+ETC_20151001_015404	Монстры появятся на 12 этаже через 10 секунд!
+ETC_20151001_015405	Монстры появятся на 13 этаже через 10 секунд!
+ETC_20151001_015406	Монстры появятся на 14 этаже через 10 секунд!
+ETC_20151001_015407	Монстры появятся на 15 этаже через 10 секунд!
+ETC_20151001_015408	Монстры появятся на 16 этаже через 10 секунд!
+ETC_20151001_015409	Монстры появятся на 17 этаже через 10 секунд!
+ETC_20151001_015410	Монстры появятся на 18 этаже через 10 секунд!
+ETC_20151001_015411	Монстры появятся на 19 этаже через 10 секунд!
+ETC_20151001_015412	Монстры появятся на 20 этаже через 10 секунд!
 ETC_20151001_015413	Go to the portal nearby to use the Seal of Space!
 ETC_20151001_015414	Starting in 10 seconds
 ETC_20151001_015415	Start!

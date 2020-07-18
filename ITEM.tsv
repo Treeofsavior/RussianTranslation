@@ -20769,48 +20769,48 @@ ITEM_20190104_020768	[Event] Title - Brushed Against Boruta
 ITEM_20190104_020769	A title box given to Saviors who fought Boruta the dragon in Sulivinas Lair 5 times or more.{nl}Use to receive the title [Brushed Against Boruta].{nl}You must be Lv 360 or higher to use this item.
 ITEM_20190104_020770	[Event] Title - Fearless Against Boruta
 ITEM_20190104_020771	A title box given to Saviors who fought Boruta the dragon in Sulivinas Lair 10 times or more.{nl}Use to receive the title [Fearless Against Boruta].{nl}You must be Lv 360 or higher to use this item.
-ITEM_20190104_020772	Restores 1267 HP immediately and additionally restores 1267 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020773	Restores 1382 HP immediately and additionally restores 1382 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020774	Restores 1497 HP immediately and additionally restores 1497 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020775	Restores 1613 HP immediately and additionally restores 1613 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020776	Restores 1728 HP immediately and additionally restores 1728 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020777	Restores 1883 HP immediately and additionally restores 1883 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020778	Restores 2415 HP immediately and additionally restores 2415 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020779	Restores 2947 HP immediately and additionally restores 2947 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020780	Restores 3353 HP immediately and additionally restores 3353 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020781	Restores 4018 HP immediately and additionally restores 4018 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020782	Restores 4284 HP immediately and additionally restores 4284 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020783	Restores 4949 HP immediately and additionally restores 4949 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020784	Restores 5215 HP immediately and additionally restores 5215 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020785	Restores 5614 HP immediately and additionally restores 5614 HP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020786	Restores 420 SP immediately and additionally restores 420 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020787	Restores 456 SP immediately and additionally restores 456 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020788	Restores 498 SP immediately and additionally restores 498 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020789	Restores 534 SP immediately and additionally restores 534 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020790	Restores 576 SP immediately and additionally restores 576 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020791	Restores 612 SP immediately and additionally restores 612 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020792	Restores 648 SP immediately and additionally restores 648 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020793	Restores 690 SP immediately and additionally restores 690 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020794	Restores 784 SP immediately and additionally restores 784 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020795	Restores 924 SP immediately and additionally restores 924 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020796	Restores 987 SP immediately and additionally restores 987 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020797	Restores 1134 SP immediately and additionally restores 1134 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020798	Restores 1197 SP immediately and additionally restores 1197 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020799	Restores 1288 SP immediately and additionally restores 1288 SP every 2 seconds over 15 seconds. Right-click to use.
-ITEM_20190104_020800	Restores 52 Stamina. Right-click to use.
-ITEM_20190104_020801	Restores 54 Stamina. Right-click to use.
-ITEM_20190104_020802	Restores 56 Stamina. Right-click to use.
-ITEM_20190104_020803	Restores 58 Stamina. Right-click to use.
-ITEM_20190104_020804	Restores 60 Stamina. Right-click to use.
-ITEM_20190104_020805	Restores 62 Stamina. Right-click to use.
-ITEM_20190104_020806	Restores 64 Stamina. Right-click to use.
-ITEM_20190104_020807	Restores 66 Stamina. Right-click to use.
-ITEM_20190104_020808	Restores 68 Stamina. Right-click to use.
-ITEM_20190104_020809	Restores 70 Stamina. Right-click to use.
-ITEM_20190104_020810	Restores 72 Stamina. Right-click to use.
-ITEM_20190104_020811	Restores 74 Stamina. Right-click to use.
-ITEM_20190104_020812	Restores 76 Stamina. Right-click to use.
-ITEM_20190104_020813	Restores 78 Stamina. Right-click to use.
+ITEM_20190104_020772	Восстанавливает 1267 HP немедленно и дополнительно восстанавливает 1267 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020773	Восстанавливает 1382 HP немедленно и дополнительно восстанавливает 1382 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020774	Восстанавливает 1497 HP немедленно и дополнительно восстанавливает 1497 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020775	Восстанавливает 1613 HP немедленно и дополнительно восстанавливает 1613 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020776	Восстанавливает 1728 HP немедленно и дополнительно восстанавливает 1728 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020777	Восстанавливает 1883 HP немедленно и дополнительно восстанавливает 1883 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020778	Восстанавливает 2415 HP немедленно и дополнительно восстанавливает 2415 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020779	Восстанавливает 2947 HP немедленно и дополнительно восстанавливает 2947 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020780	Восстанавливает 3353 HP немедленно и дополнительно восстанавливает 3353 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020781	Восстанавливает 4018 HP немедленно и дополнительно восстанавливает 4018 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020782	Восстанавливает 4284 HP немедленно и дополнительно восстанавливает 4284 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020783	Восстанавливает 4949 HP немедленно и дополнительно восстанавливает 4949 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020784	Восстанавливает 5215 HP немедленно и дополнительно восстанавливает 5215 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020785	Восстанавливает 5614 HP немедленно и дополнительно восстанавливает 5614 HP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020786	Восстанавливает 420 SP немедленно и дополнительно восстанавливает 420 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020787	Восстанавливает 456 SP немедленно и дополнительно восстанавливает 456 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020788	Восстанавливает 498 SP немедленно и дополнительно восстанавливает 498 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020789	Восстанавливает 534 SP немедленно и дополнительно восстанавливает 534 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020790	Восстанавливает 576 SP немедленно и дополнительно восстанавливает 576 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020791	Восстанавливает 612 SP немедленно и дополнительно восстанавливает 612 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020792	Восстанавливает 648 SP немедленно и дополнительно восстанавливает 648 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020793	Восстанавливает 690 SP немедленно и дополнительно восстанавливает 690 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020794	Восстанавливает 784 SP немедленно и дополнительно восстанавливает 784 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020795	Восстанавливает 924 SP немедленно и дополнительно восстанавливает 924 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020796	Восстанавливает 987 SP немедленно и дополнительно восстанавливает 987 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020797	Восстанавливает 1134 SP немедленно и дополнительно восстанавливает 1134 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020798	Восстанавливает 1197 SP немедленно и дополнительно восстанавливает 1197 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020799	Восстанавливает 1288 SP немедленно и дополнительно восстанавливает 1288 SP каждые 2 секунды в течение 15 секунд. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020800	Восстанавливает 52 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020801	Восстанавливает 54 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020802	Восстанавливает 56 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020803	Восстанавливает 58 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020804	Восстанавливает 60 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020805	Восстанавливает 62 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020806	Восстанавливает 64 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020807	Восстанавливает 66 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020808	Восстанавливает 68 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020809	Восстанавливает 70 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020810	Восстанавливает 72 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020811	Восстанавливает 74 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020812	Восстанавливает 76 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
+ITEM_20190104_020813	Восстанавливает 78 Stamina. Щелкните правой кнопкой мыши, чтобы использовать.
 ITEM_20190104_020814	Lv1 Physical Critical Attack Potion
 ITEM_20190104_020815	Increases your physical critical attack by 32 for 180 seconds. Right-click to use. Cooldown of 60 seconds.
 ITEM_20190104_020816	Lv2 Physical Critical Attack Potion
