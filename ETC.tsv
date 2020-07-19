@@ -1503,7 +1503,7 @@ ETC_20150317_001502	This warp point has already been saved.
 ETC_20150317_001503	The server end is not completed {nl}or you have logged in from another computer. {nl}End the connection.
 ETC_20150317_001504	When you delete the character,{nl} all equipped items will also be deleted.{nl} Are you sure you want to delete?
 ETC_20150317_001505	New job has been added.
-ETC_20150317_001506	{Auto_1} {Auto_2} item(s) obtained.
+ETC_20150317_001506	{Auto_1} {Auto_2} предмет(ов) получено.
 ETC_20150317_001507	Disconnected from the mission server.
 ETC_20150317_001508	Cannot create mission room. {nl}Please try it again later.
 ETC_20150317_001509	Your character is not logged in
@@ -1668,7 +1668,7 @@ ETC_20150317_001667	This skill cannot be used whilst riding your companion.
 ETC_20150317_001668	A skill that can be used only while riding your companion.
 ETC_20150317_001669	Must be at least {LEN} characters.
 ETC_20150317_001670	Must be less than {LEN} characters.
-ETC_20150317_001671	Contains one or more character which are not allowed to be used.
+ETC_20150317_001671	Содержит один или несколько символов, которые нельзя использовать.
 ETC_20150317_001672	You cannot ride during Rest Mode.
 ETC_20150317_001673	You cannot ride on a stunned companion.
 ETC_20150317_001674	The customer is not a CBT user.
@@ -1708,7 +1708,7 @@ ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Квест
+ETC_20150317_001711	Задание
 ETC_20150317_001712	Оружие
 ETC_20150317_001713	Броня
 ETC_20150317_001714	Two-handed Sword
@@ -1745,7 +1745,7 @@ ETC_20150317_001744	Not possible on this item.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
 ETC_20150317_001747	ВКЛ Все
-ETC_20150317_001748	Расходный
+ETC_20150317_001748	Расходуемый
 ETC_20150317_001749	Книга
 ETC_20150317_001750	Деньги
 ETC_20150317_001751	Доп. оружие
@@ -1851,7 +1851,7 @@ ETC_20150317_001850	Times
 ETC_20150317_001851	Damage
 ETC_20150317_001852	{Ul}Maximum Attack! {/}
 ETC_20150317_001853	{Ul}Maximum Damage! {/}
-ETC_20150317_001854	Ур
+ETC_20150317_001854	Уровень
 ETC_20150317_001855	Obtained Quantity
 ETC_20150317_001856	Obtained Monsters
 ETC_20150317_001857	Buy from Shop
@@ -2442,7 +2442,7 @@ ETC_20150317_002441	You found the item underground
 ETC_20150317_002442	Nothing was found
 ETC_20150317_002443	Тип
 ETC_20150317_002444	Атрибут
-ETC_20150317_002445	x{Count} obtained
+ETC_20150317_002445	x{Count} получено
 ETC_20150317_002446	Found the reference related with Naktis
 ETC_20150317_002447	Failed to find the reference related with Naktis
 ETC_20150317_002448	Obtained the herb!
@@ -2733,8 +2733,8 @@ ETC_20150317_002732	Skill Attack
 ETC_20150317_002733	Magic Resistance
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	Магическая Атака
+ETC_20150317_002737	Магическая Защита
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Gender
 ETC_20150317_002740	Maximum Socket(s)
@@ -3041,7 +3041,7 @@ ETC_20150317_003040	Collect bomb flower
 ETC_20150317_003041	Obtained Bomb Flowers!
 ETC_20150317_003042	You already have obtained the Bomb Flowers!
 ETC_20150317_003043	Collect Oil-Stained Fuse
-ETC_20150317_003044	Obtained!
+ETC_20150317_003044	Получено!
 ETC_20150317_003045	You have already have the Fuse!
 ETC_20150317_003046	Delivering ingredients
 ETC_20150317_003047	Collecting Bombs
@@ -4756,7 +4756,7 @@ ETC_20150317_004755	{@st41b} Ranking
 ETC_20150317_004756	{@st41}{#f0dcaa} Average kills
 ETC_20150317_004757	{@st41}{#f0dcaa} Average level
 ETC_20150317_004758	{@st41}{#f0dcaa} Average silver
-ETC_20150317_004759	 obtained
+ETC_20150317_004759	 получено
 ETC_20150317_004760	 (using)
 ETC_20150317_004761	Ice
 ETC_20150317_004762	{@st41} icon
@@ -5524,7 +5524,7 @@ ETC_20150317_005523	Play 7 days.
 ETC_20150317_005524	Great Blessing
 ETC_20150317_005525	Dae-Gil Stalker
 ETC_20150317_005526	Annoyed Dae-Gil 100 times.
-ETC_20150317_005527	Hair
+ETC_20150317_005527	Волосы
 ETC_20150317_005528	Cause I'm Special
 ETC_20150317_005529	Visited beauty salon 3 times
 ETC_20150317_005530	Treasure Hunter
@@ -18282,7 +18282,7 @@ ETC_20151224_018283	Grants Token benefits to all your characters in the server f
 ETC_20151224_018284	Token: 3 Days [Event]
 ETC_20151224_018285	Grants Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018286	Skill Reset Potion
-ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current skill points.
+ETC_20151224_018287	Очень полезное зелье для тех, кто просто не может правильно Настроить скиллы. {Nl} Используйте это, чтобы сбросить ваши текущие очки скиллов.
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
 ETC_20151224_018289	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.
 ETC_20151224_018290	10 TP [Event]
@@ -22515,7 +22515,7 @@ ETC_20160718_022516	Warpulis' raid defense{nl}Participation reward
 ETC_20160718_022517	Acquired {ITEMCOUNT}{nl}You have gained {COUNT} opportunities to open treasure boxes!
 ETC_20160718_022518	You have gained {COUNT} opportunities to open{nl}Warpulis' raid defense treasure boxes!
 ETC_20160718_022519	From treasure chests{nl}from Warpulis' raid defense
-ETC_20160718_022520	obtained x{COUNT}!
+ETC_20160718_022520	получено x{COUNT}!
 ETC_20160718_022521	Demon Lord Warpulis will summon {MONSTER} in 10 minutes at West Siauliai Woods and Lemprasa Pond in channel 1 and 2{nl}Prepare for battle!
 ETC_20160718_022522	West Siauliai Woods and Lemprasa Pond have been attacked by boss monsters.{nl}Hurry and gather at channel 1 and 2!
 ETC_20160718_022523	You will gain 30% more experience and item drops for 1 hour due to the Goddess' Blessing!
@@ -23046,7 +23046,7 @@ ETC_20160811_023047	Guild Hangout Entrance Denied Log
 ETC_20160811_023048	Uphill Defense Миссия
 ETC_20160811_023049	Starter Defense Mission: Event
 ETC_20160811_023050	Medium Defense Mission: Event
-ETC_20160811_023051	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl} - Used as crafting material for x4 EXP Tome. {nl} Recipe can be purchased from Accessory Merchants.{nl}[EXP Tome Effects]{nl} - +30% EXP from hunting monsters{nl}(Stackable with Token benefits){nl}(Does not apply to EXP cards){nl} - Doubled STA recovery rate
+ETC_20160811_023051	Применяет различные эффекты к вашему персонажу на 1 час. Щелкните правой кнопкой мыши, чтобы использовать. {nl} - Расходуется при подключение к игре. {nl} - Используется в качестве материала для создания x4 EXP Tome. {nl} Рецепт можно приобрести у Accessory Merchants. {nl} [EXP Tome эффект] {nl} - + 30% опыта от охоты на монстров {nl} (Наращивается с помощью Token) {nl} (не распространяется на карты опыта) {nl} - Удвоенная скорость восстановления STA
 ETC_20160811_023052	Red Gem Box
 ETC_20160811_023053	A box containing 4 types of gem and a gem abrasive. Right-click to obtain.
 ETC_20160811_023054	Blue Gem Box
@@ -28386,7 +28386,7 @@ ETC_20170726_028387	Select Festival Toy
 ETC_20170726_028388	Select Festival Costume
 ETC_20170726_028389	Target Monster Count: {COUNT}
 ETC_20170726_028390	You have received all the Mercenary Badges for today.
-ETC_20170726_028391	Obtained Mercenary Badge.
+ETC_20170726_028391	Получено Mercenary Badge.
 ETC_20170726_028392	Exchange Mercenary Badge
 ETC_20170726_028393	Join [Pledge of the Blade] Mission
 ETC_20170726_028394	Receive [Honorary Pledge of the Blade] Title
@@ -28427,11 +28427,11 @@ ETC_20170726_028428	Maximum Tackle Box slots.
 ETC_20170726_028429	Fishing Rod
 ETC_20170726_028430	There is already Paste Bait in the water.
 ETC_20170726_028431	{TeamName} used Paste Bait!
-ETC_20170726_028432	You have exceeded your daily fishing count.
+ETC_20170726_028432	Вы превысили свой ежедневный лимит рыбалки.
 ETC_20170726_028433	There is another bonfire nearby.{nl}Try a different spot.
 ETC_20170726_028434	{TeamName}'s Bonfire
 ETC_20170726_028435	Cannot proceed in combat mode.
-ETC_20170726_028436	Use near the water.
+ETC_20170726_028436	Используйте возле воды.
 ETC_20170726_028437	{Name} caught a Golden Fish!{nl}{Exp}% EXP boost added for {Time} minutes.
 ETC_20170726_028438	Use near a Bonfire.
 ETC_20170726_028439	Eating the fish...
@@ -36856,11 +36856,11 @@ ETC_20190104_036857	Attribute Point Scroll
 ETC_20190104_036858	Companion Name Change Voucher
 ETC_20190104_036859	This voucher is consumed instead of TP when your Companion's name is changed.
 ETC_20190104_036860	Class Change Voucher Lv 1
-ETC_20190104_036861	Increases class change points by +100.{nl}Class points can be accumulated to a maximum of 3,000 and excess points earned will not be saved.
+ETC_20190104_036861	Увеличивает очки изменения класса на +100.{nl} Очки класса могут быть накоплены максимум до 3000, и заработанные лишние очки не будут сохранены.
 ETC_20190104_036862	Class Change Voucher Lv 2
-ETC_20190104_036863	Increases class change points by +500.{nl}Class points can be accumulated to a maximum of 3,000 and excess points earned will not be saved.
+ETC_20190104_036863	Увеличивает очки изменения класса на +500.{nl} Очки класса могут быть накоплены максимум до 3000, и заработанные лишние очки не будут сохранены.
 ETC_20190104_036864	Class Change Voucher Lv 3
-ETC_20190104_036865	Increases class change points by +1,000.{nl}Class points can be accumulated to a maximum of 3,000 and excess points earned will not be saved.
+ETC_20190104_036865	Увеличивает очки изменения класса на +1,000.{nl} Очки класса могут быть накоплены максимум до 3000, и заработанные лишние очки не будут сохранены.
 ETC_20190104_036866	Skill+Attribute Reset Package
 ETC_20190104_036867	Contains the following items.{nl} - Attribute Reset Potion x1{nl} - Skill Reset Potion x1
 ETC_20190104_036868	[Re:Build] Artisan Magnifier
@@ -43969,8 +43969,8 @@ ETC_20200128_043970	Dungeon closing in 90 seconds.	90초 후 던전이 종료됩
 ETC_20200128_043971	Dungeon closing in 60 seconds.	60초 후 던전이 종료됩니다.				
 ETC_20200128_043972	Protect the torch for 2 minutes to open the way	2분간 횃불을 지키면 길이 열립니다				
 ETC_20200128_043973	Keep the torch on for 2 minutes!	2분간 횃불을 지키세요!				
-ETC_20200128_043974	Starting in 20 seconds.	20초 뒤 시작됩니다.				
-ETC_20200128_043975	Starting in 10 seconds.	10초 뒤 시작됩니다.				
+ETC_20200128_043974	Старт через 20 секунд.					
+ETC_20200128_043975	Старт через 10 секунд.				
 ETC_20200128_043976	Returning to the entrance in 90 seconds.	90초 후 입구로 돌아갑니다.				
 ETC_20200128_043977	Schaffenstar Officer	샤펜스타 간부				
 ETC_20200128_043978	Tile has been generated. Deal with it swiftly.	장판이 생성되었습니다. 빠르게 처리하십시오				
@@ -45103,7 +45103,7 @@ ETC_20200129_045104	Specialized Stats	특화 능력치
 ETC_20200129_045105	Character Rotation	캐릭터 회전				
 ETC_20200129_045106	Enter a name for the character	캐릭터 이름을 입력하세요				
 ETC_20200129_045107	No character name. Please enter a character name.	캐릭터 이름을 입력하지 않았습니다. 캐릭터 이름을 입력하여 주세요.				
-ETC_20200129_045108	Select a class to create	생성을 원하는 클래스를 선택해 주세요				
+ETC_20200129_045108	Выберите класс для создания				
 ETC_20200129_045109	, Attribute Points will not be consumed.{nl}Acquire Lv.{abilLevel} {abilName} using {bookName}?	으로 특성 포인트가 소모되지 않습니다.{nl}{bookName} 을 사용하여 {abilName} {abilLevel}레벨을 획득하시겠습니까?				
 ETC_20200129_045110	Motion	모션				
 ETC_20200129_045111	You already have the gesture.	이미 보유한 제스쳐입니다.				
