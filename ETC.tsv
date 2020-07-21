@@ -1992,7 +1992,7 @@ ETC_20150317_001991	Available
 ETC_20150317_001992	All
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
-ETC_20150317_001995	Quest List
+ETC_20150317_001995	Список Заданий
 ETC_20150317_001996	Adventure Journal Updated
 ETC_20150317_001997	{#000000} item is not recorded in the journal.
 ETC_20150317_001998	This monster was not recorded in the journal.
@@ -28363,12 +28363,12 @@ ETC_20170726_028364	You can no longer equip cards of the same grade.
 ETC_20170726_028365	No field boss in this region.
 ETC_20170726_028366	N/A
 ETC_20170726_028367	Your sell list contains expired items.
-ETC_20170726_028368	Discount
-ETC_20170726_028369	[Premium] New Items
-ETC_20170726_028370	[Premium] Bestsellers
-ETC_20170726_028371	[Premium] Half Price
-ETC_20170726_028372	[Premium] Mega Deal
-ETC_20170726_028373	Dungeon Info
+ETC_20170726_028368	Скидки
+ETC_20170726_028369	[Премиум] Новые Предметы
+ETC_20170726_028370	[Премиум] Бестселлеры
+ETC_20170726_028371	[Премиум] Полцены
+ETC_20170726_028372	[Премиум] Мега Сделка
+ETC_20170726_028373	Информация о данжах
 ETC_20170726_028374	Destroying a Tree Root Crystal restores stamina and, for characters until level 200, increases movement speed.
 ETC_20170726_028375	{s24}Congratulations!{nl}{PC} has obtained a(n) {ITEMNAME}{nl}from Leticia's Secret Cube!
 ETC_20170726_028376	Golden Note Request Complete Certificate
@@ -45007,7 +45007,7 @@ ETC_20200129_045008	{#ff4040} Attack against Ghost Armored Target	{#ff4040}유�
 ETC_20200129_045009	{#66b3ff} Add. Damage Resistance	{#66b3ff}추가 대미지 저항				
 ETC_20200129_045010	{#ff4040} Additional Damage	{#ff4040}추가 대미지				
 ETC_20200129_045011	Summon Damage	소환수 대미지				
-ETC_20200129_045012	Level: 	레벨 : 				
+ETC_20200129_045012	Уровень: 					
 ETC_20200129_045013	{@st45w3}{s18}x{Auto_1} {/}	{@st45w3}{s18}{Auto_1} 개{/}				
 ETC_20200129_045014	Subquests are locked.{nl}(Unlock Conditions: Claim Episode 10 Clear Rewards or reach Character Lv. 390)	서브 퀘스트는 잠겨 있습니다.{nl}(개방 조건 : 에피소드 10 클리어 보상 획득 또는 캐릭터 레벨 390이상 달성)				
 ETC_20200129_045015	Subquests unlocked for all characters!	모든 캐릭터의 서브 퀘스트가개방되었습니다!				
@@ -48336,5 +48336,20 @@ ETC_20200703_048337	Increases Movement Speed by {ARG}.	이동속도가 {ARG}만�
 ETC_20200703_048338	Recovers HP and SP by {ARG} every 10 seconds.	10초마다 HP 및 SP가 {ARG}만큼 회복됩니다.				
 ETC_20200703_048339	Recovers Stamina by {ARG} every 5 seconds.	5초마다 스태미나가 {ARG}만큼 회복됩니다.				
 ETC_20200703_048340	Increases Physical and Magic Attack by {ARG} each.	물리, 마법 공격력이 각각 {ARG}만큼 증가합니다.				
-ETC_20200706_048341	Exceeded the maximum number of items that can be stacked.	아이템 최대 스택 개수를 초과했습니다.
-ETC_20200706_048342	You have exceeded the maximum number of items you can acquire.	획득 가능한 아이템 최대 수량을 초과 하였습니다.
+ETC_20200706_048341	Exceeded the maximum number of items that can be stacked.	아이템 최대 스택 개수를 초과했습니다.				
+ETC_20200706_048342	You have exceeded the maximum number of items you can acquire.	획득 가능한 아이템 최대 수량을 초과 하였습니다.				
+ETC_20200710_048343	2020 Leticia's Treasure Chest (Season 7)	2020 레티샤의 보물 상자(6월)				
+ETC_20200710_048344	A chest filled with Leticia's most precious items. Use to obtain all of the following items.{nl} - Boruta Seal - Enhancement x3{nl} - Boruta Seal Selection Box x1	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 보루타 인장 - 강화용 3개{nl} - 보루타 인장 선택 상자 1개				
+ETC_20200710_048345	A chest filled with Leticia's most precious items. Use to obtain the following item.{nl} - Boruta Seal - Enhancement x3	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 보루타 인장 - 강화용 3개				
+ETC_20200710_048346	This item cannot be used as an ingredient for the registered main option Seal item.	등록된 주 옵션 인장아이템의 강화 재료로 사용할 수 없는 아이템입니다.				
+ETC_20200717_048347	Business-Class Package	비즈니스 클래스 패키지				
+ETC_20200717_048348	Use to obtain one of the following items.{nl} - [Lv. 400] Stage 8 Transcendence Scroll x1{nl} - Shining Ruby Anvil x3{nl} - Advanced Golden Anvil Box (Rank S) x1{nl} - [Lv.460] Legend Enchant Jewel x5{nl} - Shining Golden Ichor Extraction Kit x3{nl} - Sandra's Magnifier x5{nl} - Sandra's Detailed Magnifier x5	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - [Lv.400] 8초월 스크롤 x1{nl} - 빛나는 루비 모루 x3{nl} - 고급 황금 모루 상자 S급 x1{nl} - [LV. 460] 레전드 인챈트 쥬얼 x5{nl} - 빛나는 황금 아이커 추출 키트 x3{nl} - 산드라의 감정 돋보기 x5{nl} - 산드라의 미세 감정 돋보기 x5				
+ETC_20200717_048349	Economy-Class Package	이코노미 클래스 패키지				
+ETC_20200717_048350	Use to obtain one of the following items.{nl} - [Lv.460] Legend Enchant Jewel x5{nl} - Shining Silver Ichor Extraction Kit x5{nl} - Shining Silver Anvil x3{nl} - Artisan Magnifier x10	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - [LV. 460] 레전드 인챈트 쥬얼 x5{nl} - 빛나는 은빛 아이커 추출 키트 x5{nl} - 빛나는 은빛 모루 x3{nl} - 장인의 돋보기 x10				
+ETC_20200717_048351	First-Class Package	퍼스트 클래스 패키지				
+ETC_20200717_048352	Use to obtain one of the following items.{nl} - Business Class Package x1{nl} - Economy Class Package x1{nl} - [Lv.430] Diamond Anvil (14 days)(14일) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 비즈니스 클래스 패키지 x1{nl} - 이코노미 클래스 패키지 x1{nl} - [Lv.440] 다이아몬드 모루(14일) x1				
+ETC_20200717_048353	This Guild Quest cannot be started at the moment.{nl}Schedule: Next Update	해당 길드 퀘스트는 현재 이용할 수 없습니다.{nl}이용제한 : 다음 업데이트				
+ETC_20200720_048354	Right-click to use and obtain the following items.{nl} - [Lv. 400] Stage 8 Transcendence Scroll x1{nl} - Shining Ruby Anvil x3{nl} - [Untradable]Advanced Golden Anvil Box (Rank S) x1{nl} - [LV. 460] Legend Enchant Jewel x5{nl} - Shining Golden Ichor Extraction Kit x3{nl} - Sandra's Magnifier x5{nl} - Sandra's Detailed Magnifier x5	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [Lv.400] 8초월 스크롤 1개{nl} - 빛나는 루비 모루 3개{nl} - [거래불가]고급 황금 모루 상자 S급 1개{nl} - [LV. 460] 레전드 인챈트 쥬얼 5개{nl} - 빛나는 황금 아이커 추출 키트 3개{nl} - 산드라의 감정 돋보기 5개{nl} - 산드라의 미세 감정 돋보기 5개
+ETC_20200720_048355	Right-click to use and obtain the following items.{nl} - [LV.460] Legend Enchant Jewel x5{nl} - Shining Silver Ichor Extraction Kit x5{nl} - Shining Silver Anvil x3{nl} - Artisan Magnifier x10	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [LV. 460] 레전드 인챈트 쥬얼 5개{nl} - 빛나는 은빛 아이커 추출 키트 5개{nl} - 빛나는 은빛 모루 3개{nl} - 장인의 돋보기 10개
+ETC_20200720_048356	Right-click to use and obtain the following items.{nl} - Business-Class Package x1{nl} - Economy-Class Package x1{nl} - [Lv.430] Diamond Anvil (14 Days) x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 비즈니스 클래스 패키지 1개{nl} - 이코노미 클래스 패키지 1개{nl} - [Lv.430] 다이아몬드 모루(14일) 1개
+ETC_20200720_048357	[Untradable]Advanced Golden Anvil Box (Rank S)	[거래불가]고급 황금 모루 상자 S급
