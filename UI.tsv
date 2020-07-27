@@ -528,7 +528,7 @@ UI_20150317_000527	{s16}Оставшиеся время
 UI_20150317_000528	Использовать предмет для задания
 UI_20150317_000529	Подсказка к заданию
 UI_20150317_000530	{@st41}Подтвердить{/}
-UI_20150317_000531	{@st43}{s22}Задание выполнен{/}
+UI_20150317_000531	{@st43}{s22}Задание выполнено{/}
 UI_20150317_000532	{@st41b}Готово{/}
 UI_20150317_000533	{@st41}Принять{/}
 UI_20150317_000534	{@st41}Отклонить{/}
@@ -1862,14 +1862,14 @@ UI_20151224_001861	{@st59}Закрыть{/}
 UI_20151224_001862	{@st43}Гильдия{/}
 UI_20151224_001863	{@st41b}Основная Информация
 UI_20151224_001864	{@st41b}Собственность
-UI_20151224_001865	Поиск группы для гильд квеста.
+UI_20151224_001865	Поиск группы для гильд задания.
 UI_20151224_001866	{@st41b}Повышение и Ранг
 UI_20151224_001867	{@st41b}Атрибуты Гильдии
 UI_20151224_001868	{@st43}Повысить Гильдию{/}
 UI_20151224_001869	Канал / Область
 UI_20151224_001870	Призвать
 UI_20151224_001871	Для Членов Гильдии
-UI_20151224_001872	Вперед
+UI_20151224_001872	Вперёд
 UI_20151224_001873	{@st43}История{/}
 UI_20151224_001874	{@st59}Закрыть{/}
 UI_20151224_001875	{@st45tw2}Категория{/}
@@ -2751,7 +2751,7 @@ UI_20170912_002750	Exploration
 UI_20170912_002751	%s % Explored
 UI_20170912_002752	Рекомендуемый Уровень
 UI_20170912_002753	Исследовано
-UI_20170912_002754	Type
+UI_20170912_002754	Тип
 UI_20170912_002755	Acquisition Points %s
 UI_20170912_002756	Acquisition Points %s
 UI_20170912_002757	Статус
@@ -2783,7 +2783,7 @@ UI_20170912_002782	Territory Wars Alert
 UI_20170912_002783	Spot Last Seized By
 UI_20170912_002784	Current Points
 UI_20170912_002785	Моя Гильдия
-UI_20170912_002786	{@st66d}Return to a city in {s20}%s seconds.{/}
+UI_20170912_002786	{@st66d}Возвращение в город через {s20}% s секунд.{/}
 UI_20170912_002787	{@st66d}Return to city{/}
 UI_20170912_002788	{@st43}{s20}Protecting Guild{/}
 UI_20170912_002789	Protecting Guild
@@ -2885,7 +2885,7 @@ UI_20170912_002884	ⓘ See the official website and item descriptions for more i
 UI_20170912_002885	{@st43}Одеть Монстр Карты{/}
 UI_20170912_002886	{@st59}Закрыть Окно Монстр Карты{/}
 UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}
-UI_20170912_002888	{@st66b}Respawn in nearby city (30 seconds){/}
+UI_20170912_002888	{@st66b}Возрождение в соседнем городе (30 секунд){/}
 UI_20170912_002889	{@st66b}Show Party Name{/}
 UI_20170912_002890	{@st66b}Recipe Material Obtained{/}
 UI_20170912_002891	{@st43}PvP Settings{/}
@@ -3169,10 +3169,10 @@ UI_20180517_003168	{@st42b}See only equippable items
 UI_20180517_003169	{@st43b}{s15}{#ffbf11}Point Difference
 UI_20180517_003170	{@st43b}{s16}%s Points
 UI_20180517_003171	Obtained [ %s] Badges
-UI_20180517_003172	{@st66d}{s20}Returning in %s seconds.{/}
+UI_20180517_003172	{@st66d}{s20}Возвращение через %s секунд.{/}
 UI_20180517_003173	{@st66d}Return{/}
 UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}
-UI_20180517_003175	{@st45tw2}Conditions and Precautions{/}
+UI_20180517_003175	{@st45tw2}Условия и меры предосторожности{/}
 UI_20180517_003176	{@st66b}Respawn in Guild Tower{/}
 UI_20180517_003177	{@st59}Продвижение Гильдий (Alt + R){/}
 UI_20180517_003178	{@st66b}Авто выбор ячейки{/}
@@ -3368,8 +3368,8 @@ UI_20180629_003367	Open Others
 UI_20180629_003368	Others List
 UI_20180629_003369	Purchase Test
 UI_20180629_003370	{@st66}{nl}Удалить
-UI_20180629_003371	{@st66}{nl}Смени дом
-UI_20180629_003372	{@st66}{nl}Создать новый персонаж
+UI_20180629_003371	{@st66}{nl}Сменить дом
+UI_20180629_003372	{@st66}{nl}Создать нового персонажа
 UI_20180629_003373	Cannot transfer appearance
 UI_20180629_003374	Основной{/}
 UI_20180629_003375	{#003997}{b}Stage Clear: %s
@@ -3594,8 +3594,8 @@ UI_20190104_003593	{@st59}Scout Tree{/}
 UI_20190104_003594	{@st41b}Identification Cost{/} %s
 UI_20190104_003595	{@st59}Кукла{/}
 UI_20190104_003596	{img silver 20 20}Price %s
-UI_20190104_003597	{@st44}Список класов{/}
-UI_20190104_003598	{@st43}Информация о текущих класах
+UI_20190104_003597	{@st44}Список классов{/}
+UI_20190104_003598	{@st43}Информация о текущих класcах
 UI_20190104_003599	{@st43}Изменить дерево класов {img testquesten_button 30 30}
 UI_20190104_003600	Максимальное количество очков, которое можно заработать сбрасывается каждый понедельник в 06:00 по времени сервера.{nl}Очки можно заработать следующим образом:{nl} {nl}- Вход в игру: 10 очков (5 дополнительных очков для игроков в гильдиях и игроков с премиумом){nl} - За удачную рыбалку: 1 очко за улов{nl}- Saalus Convent Миссию: 15 очков{nl}- Легендарный рейд: 20 очков{nl} (За исключением Earth Tower, где 5 очков за каждые 5 уровней){nl}- Uphill Defense Миссия: 10 очков{nl}- Уникальный рейд: 20 очков{nl}- Подземелья: 10 очков{nl}- Mercenary Post миссии: 10 очков{nl}- Ежедневные квесты: 10 очков
 UI_20190104_003601	{@st42}Еженедельные очки{/} {@st66d_y}(%s/%s){/}
@@ -3606,9 +3606,9 @@ UI_20190104_003605	{@st42}{#FFCC66}CON
 UI_20190104_003606	{@st42}{#FFCC66}INT
 UI_20190104_003607	{@st42}{#FFCC66}SPR
 UI_20190104_003608	{@st42}{#FFCC66}DEX
-UI_20190104_003609	{@st43}Информация о класе{/}
+UI_20190104_003609	{@st43}Информация о классе{/}
 UI_20190104_003610	Закрыть режим изменения класа.
-UI_20190104_003611	{@st43}Выберите клас и нажмите кнопку выбора.
+UI_20190104_003611	{@st43}Выберите класс и нажмите кнопку выбора.
 UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}
 UI_20190104_003613	{@st59b}Колекция {nl}{@st59s}- Приобретите колоду колекций, чтобы добавить колекционные предметы в свою колекцию. {nl} - Горячая клавиша сбора будет включена при использовании элемента колоды. {nl} {/}
 UI_20190104_003614	{@st59}Закрыть{/}
@@ -3723,12 +3723,12 @@ UI_20190104_003722	* After the class tree change, you will receive attribute poi
 UI_20190104_003723	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.
 UI_20190104_003724	* You will return to the barracks after changing class trees.
 UI_20190104_003725	* You cannot change class trees{nl}if you have any unused EXP Recovery Cards in your inventory.
-UI_20190104_003726	Are you sure you want to change to the selected class?{/}
-UI_20190104_003727	Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}
+UI_20190104_003726	Вы уверены, что хотите перейти к выбранному классу??{/}
+UI_20190104_003727	Ваш класс будет изменён на вновь выбранный класс{nl}и {@st66d_y}Очки изменения класса будут израсходованы.{/}{/}
 UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.
-UI_20190104_003729	* Changing your class will remove the class costumes{nl}for classes you had previously advanced into.
-UI_20190104_003730	* You will return to your Lodge after confirming.
-UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.
+UI_20190104_003729	* Изменение вашего класса приведёт к удалению классовых {nl}костюмов, в которых вы ранее продвинулись.
+UI_20190104_003730	* Вы вернетёсь в свою Лоджу после подтверждения.
+UI_20190104_003731	* Общие атрибуты также будут сброшены, {nl} и очки атрибутов будут возвращены.
 UI_20190104_003732	{@st41b}Repair Cost{/} %s
 UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}
 UI_20190104_003734	{@st42}{s20}Скиллы и атрибуты
@@ -4038,7 +4038,7 @@ UI_20191024_004037	{@st66b}Tab 1	{@st66b}텝1
 UI_20191024_004038	{@st66b}Tab 2	{@st66b}텝2
 UI_20191024_004039	{@st43b}{s16}Mission Objectives Only	{@st43b}{s16}미션 목표만 보기
 UI_20191024_004040	* The attributes that have already been invested in{nl}will be refunded as Attribute Points after the Class Tree change.{nl}(The Arts learned will be reset as well.{nl}Attribute Points will be refunded but Mystic Tomes will not.)	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.{nl}(아츠도 초기화 되며, 특성 포인트는 복구되지만,{nl}신비한 서는 복구되지 않습니다.)
-UI_20191024_004041	* The classes removed due to this change{nl}will have their attributes and skills returned as points.{nl}{#FF1122}Arts are not reset with class change.{nl}Please remember to use a Arts Reset Potion before changing your class.{/}	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.{nl}{#FF1122}클래스 변경으로는 아츠가 초기화 되지 않습니다.{nl}변경 전에 해당 클래스의 아츠 초기화 포션을 먼저{nl}사용하신 후 클래스를 변경하시기 바랍니다.{/}
+UI_20191024_004041	* Классы, удаленные в связи с этим изменением,{nl}получат свои атрибуты и навыки в виде очков.{nl}{#FF1122}Искусство не сбрасывается при смене класса.{nl}Пожалуйста, не забудьте использовать {nl}зелье сброса искусств перед сменой класса.{/}
 UI_20191024_004042	{@st66b}Maintain Target Skill UI{/}	{@st66b}대상 지정 스킬 UI 유지{/}
 UI_20191024_004043	{@st66b}Apply Background Effect	{@st66b}환경 이펙트 적용
 UI_20191024_004044	{@st66b}Apply Character Silhouettes	{@st66b}캐릭터 실루엣 적용

@@ -13459,7 +13459,7 @@ ITEM_20170224_013458	An honorable armband awarded to members of the guild that a
 ITEM_20170224_013459	Guild Battle 3rd Place Armband
 ITEM_20170224_013460	An honorable armband awarded to members of the guild that achieves 3rd Place in the Regional Guild Battles.
 ITEM_20170224_013461	Potion of the Victor
-ITEM_20170224_013462	Right-click to use. Cooldown time 1800 seconds.
+ITEM_20170224_013462	Щелкните правой кнопкой мыши, чтобы использовать. Время перезарядки 1800 секунд.
 ITEM_20170224_013463	Random Number Scroll
 ITEM_20170224_013464	Right-click to use and obtain a number between 1 and 10.
 ITEM_20170227_013465	A type of food giving off a foul smell. Not many people would be able to stomach it. Eating it will recover 5000 HP but make you unable to move for 3 seconds. Cooldown: 5 minutes.
@@ -13477,7 +13477,7 @@ ITEM_20170227_013476	Title - High Glucose
 ITEM_20170227_013477	Right-click to open and obtain the 'High Glucose' title.
 ITEM_20170227_013478	Title - Chocoholic
 ITEM_20170227_013479	Right-click to open and obtain the 'Chocoholic' title.
-ITEM_20170227_013480	Right-click to use. Cooldown time 21600 seconds.
+ITEM_20170227_013480	Щелкните правой кнопкой мыши, чтобы использовать. Время перезарядки 21600 секунд.
 ITEM_20170227_013481	LV1 Companion EXP Card
 ITEM_20170227_013482	Increases by +3,500 the EXP of the companion currently following your character.
 ITEM_20170227_013483	LV2 Companion EXP Card
@@ -14989,9 +14989,9 @@ ITEM_20170609_014988	An invitation to a wedding.{nl}Deliver it to the guest to w
 ITEM_20170609_014989	Party Firecracker (14 Days)
 ITEM_20170609_014990	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.
 ITEM_20170615_014991	Small Elixir of HP Recovery
-ITEM_20170615_014992	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.
+ITEM_20170615_014992	Мгновенно восстанавливает 20% от максимального HP. {nl}Дополнительно восстанавливает остальные 20% HP каждые 2 секунды в течение 11 секунд. {nl}Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 20 секунд.
 ITEM_20170615_014993	Small Elixir of SP Recovery
-ITEM_20170615_014994	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.
+ITEM_20170615_014994	Мгновенно восстанавливает 20% от максимального SP. {nl}Дополнительно восстанавливает остальные 20% SP каждые 2 секунды в течение 11 секунд. {nl}Щелкните правой кнопкой мыши, чтобы использовать. Перезарядка 20 секунд.
 ITEM_20170615_014995	Place a piece of equipment on this anvil and hit it to upgrade the quality of your equipment. You can enhance your equipment without the cost of silver. Right-click to use.{nl} Cannot be exchanged for medals in the Exchange Shop.
 ITEM_20170615_014996	Lv 315 Recipe Box - Weapon
 ITEM_20170615_014997	Use to obtain a random LV 315 weapon recipe.
@@ -17598,11 +17598,11 @@ ITEM_20180320_017597	Gem Abrasive: 5000
 ITEM_20180320_017598	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 500{nl} Can be exchanged for medals at the Exchange Shop.
 ITEM_20180320_017599	Increases EXP gains, movement speed and maximum HP according to number of stacks for 30 minutes. Maximum 5 stacks.
 ITEM_20180320_017600	Looting Chance: 100
-ITEM_20180320_017601	Increases looting chance by 100 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.
+ITEM_20180320_017601	Увеличивает шанс дропа на 100 на 60 минут. Щелкните правой кнопкой мыши, чтобы использовать. Восстановление 60 минут.{nl}- Не может быть сложено с другим зельем.
 ITEM_20180320_017602	Looting Chance: 300
-ITEM_20180320_017603	Increases looting chance by 300 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- cannot be stacked with other looting chance potion.
+ITEM_20180320_017603	Увеличивает шанс мародерства на 300 на 60 минут. Щелкните правой кнопкой мыши, чтобы использовать. Восстановление 60 минут.{nl}- Не может быть сложено с другим зельем.
 ITEM_20180320_017604	Looting Chance: 500
-ITEM_20180320_017605	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.
+ITEM_20180320_017605	Увеличивает шанс мародерства на 500 на 60 минут. Щелкните правой кнопкой мыши, чтобы использовать. Восстановление 60 минут.{nl}- Не может быть сложено с другим зельем.
 ITEM_20180320_017606	Колекция: Coasts
 ITEM_20180320_017607	Колекция: Fantasy Library
 ITEM_20180320_017608	Колекция: Narvas Temple
@@ -17689,7 +17689,7 @@ ITEM_20180320_017688	Demon Lord Nuaele Cube
 ITEM_20180320_017689	Demon Lord Zaura Cube
 ITEM_20180320_017690	Demon Lord Blut Cube
 ITEM_20180320_017691	Guild Quest Reward: Boss Raid
-ITEM_20180320_017692	Reward box for successfully completing Boss Raid during Guild Quest.{nl}High chance to obtain ore.
+ITEM_20180320_017692	Ящик с наградами за успешное прохождение рейдового босса, во время квеста гильдии. {nl} Высокий шанс получить руду.
 ITEM_20180320_017693	Guild Quest Reward: Mission
 ITEM_20180320_017694	Reward box for successfully completing Mission during Guild Quest.{nl}High chance to obtain seed.
 ITEM_20180320_017695	Guild Quest Reward: Hair Accessory
@@ -19393,7 +19393,7 @@ ITEM_20180827_019392	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hog
 ITEM_20180827_019393	[PP] TP Item Random Box
 ITEM_20180827_019394	Right-click to use and obtain of the following random items.{nl}- EXP Tome x1{nl} - Multiply Token x2{nl} - Megaphone x1{nl} - Enchant Scroll (untradable) x1{nl} - Warp Scroll x8{nl} - Soul Crystal x4{nl} - Emergency Repair Kit x3
 ITEM_20180827_019395	[PP] Ore Box
-ITEM_20180827_019396	Right-click to use and obtain a random item.
+ITEM_20180827_019396	Щелкните правой кнопкой мыши, чтобы использовать и получить случайный предмет.
 ITEM_20180827_019397	[PP] Small Elixir of HP Recovery 
 ITEM_20180827_019398	[PP] Small Elixir of SP Recovery 
 ITEM_20180827_019399	[PP] Beauty Shop Coupon Box
@@ -19437,7 +19437,7 @@ ITEM_20180827_019436	Right-click to use. Upon use, the companion is immediately 
 ITEM_20180827_019437	Checkmate Popup Book
 ITEM_20180827_019438	Event souvenir.
 ITEM_20180827_019439	[PP] Fancy Worms
-ITEM_20180827_019440	High-quality bait used for fishing.
+ITEM_20180827_019440	Высококачественная приманка используется для рыбалки.
 ITEM_20180827_019441	N/A
 ITEM_20180827_019442	N/A
 ITEM_20180827_019443	N/A
