@@ -4341,3 +4341,78 @@ UI_20200514_004340	{@st43b}{s18}Passive Effect
 UI_20200514_004341	{@st42b}{s14}{ds}◆Original Passive					
 UI_20200514_004342	{@st42b}{s14}{ds}◆Combination Passive					
 UI_20200609_004343	{@st66d_y}{s16}Stamp Tour	
+UI_20200710_004344	{@st43}Pocket Wig (Male)	{@st43}디자인 컷(남)				
+UI_20200710_004345	{@st43}Pocket Wig(Female)	{@st43}디자인 컷(여)				
+UI_20200710_004346	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given after the end regardless of outcome)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	UI_20200129_004089	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트	
+UI_20200710_004347	{@st66b18}Available Name.{nl}※TP and item used are not refunded.{/}	{@st66b18}사용 가능한 이름입니다.{nl}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}				
+UI_20200710_004348	{@st66b18}Available Name.{nl}※Item is consumed when changing name.{/}	{@st66b18}사용 가능한 이름입니다.{nl}※이름을 변경하면 아이템이 소모됩니다.{/}				
+UI_20200710_004349	Title	타이틀				
+UI_20200710_004350	{@st41b}{s16}1 Time Cost	{@st41b}{s16}1회 비용				
+UI_20200710_004351	{@st43}{s20}1 Time	{@st43}{s20}1회				
+UI_20200710_004352	{@st41b}{s16}Please enter the number of trials	{@st41b}{s16}시도할 횟수를 입력해 주세요				
+UI_20200710_004353	{@st43}{s20}Continue	{@st43}{s20}연속				
+UI_20200710_004354	{@st43}{s20}Stop	{@st43}{s20}중단				
+UI_20200710_004355	Current %s:{@st66d_y}%s{/}	보유 %s:{@st66d_y}%s{/}				
+UI_20200710_004356	{@st41b}{s16}Please enter the the number of offer	{@st41b}{s16}봉헌할 횟수를 입력해 주세요				
+UI_20200710_004357	{@st43}{s24}Continuous Offering	{@st43}{s24}연속 봉헌				
+UI_20200710_004358	{@st43}{s24}Stop	{@st43}{s24}중단				
+UI_20200710_004359	{@st42b}Personal Housing Board{/}	{@st42b}개인 하우징 게시판{/}				
+UI_20200710_004360	{@st41b}Preview Item{/}	{@st41b}미리보기 아이템{/}				
+UI_20200710_004361	Housing Shop	하우징 샵				
+UI_20200710_004362	{@st66b}{s20}Purchase	{@st66b}{s20}구매				
+UI_20200710_004363	{@st66}-Furniture	{@st66}-가구				
+UI_20200710_004364	{@st66}-Preview	{@st66}-미리보기				
+UI_20200710_004365	{@st66}-Voucher Discounts	{@st66}-상품권 할인				
+UI_20200710_004366	{@st66}There are no vouchers available.{/}	{@st66}사용 가능한 상품권이 없습니다.{/}				
+UI_20200710_004367	{@st66b}{s20}Sale	{@st66b}{s20}판매				
+UI_20200710_004368	When settling, preview furnitures will be arranged.	정산 시, 미리보기 가구들이 배치됩니다.				
+UI_20200710_004369	{@st66}Arrangement Status	{@st66}배치 여부				
+UI_20200710_004370	{@st42}  Automatic  {/}	{@st42}  자동  {/}				
+UI_20200710_004371	{@st66d}Cancel{/}	{@st66d}취소{/}				
+UI_20200710_004372	{@st66d}Settle{/}	{@st66d}정산{/}				
+UI_20200710_004373	Equip Ichor	아이커 일괄 장착				
+UI_20200710_004374	Unequip Ichor (Fixed)	아이커 일괄 장착 해제(고정옵션)				
+UI_20200710_004375	Unequip Ichor (Random)	아이커 일괄 장착 해제(랜덤옵션)				
+UI_20200710_004376	{@st66b}Battle in Sulivinas Lair	{@st66b}봉쇄전				
+UI_20200710_004377	{@st66b}{s16}Guild Name	{@st66b}{s16}길드명				
+UI_20200710_004378	{@st66b}{s16}Time	{@st66b}{s16}시간				
+UI_20200710_004379	Boss Information	보스 정보				
+UI_20200710_004380	Information of Battle in Sulivinas Lair 	봉쇄전 정보				
+UI_20200710_004381	{nl}{s18} Help of Battle in Sulivinas Lair{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being{nl} {nl}[Battle in Sulivinas Lair Ranking]{nl} Battle in Sulivinas Lair rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Battle in Sulivinas Lair rewards]{nl} Battle in Sulivinas Lair rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 				
+UI_20200710_004382	obtain them via tab.	탭을 통해 획득할 수 있습니다.				
+UI_20200710_004383	{s16}{ol}{#FFFFFF}Move	{s16}{ol}{#FFFFFF}이동				
+UI_20200710_004384	Moving to the entrance.	입장 위치로 이동합니다.				
+UI_20200710_004385	{s16}{ol}{#FFFFFF}Receive rewards	{s16}{ol}{#FFFFFF}보상 수령				
+UI_20200710_004386	Can only be used by the Guild Master.{nl}The rewards will be sent automatically to the guild storage.	길드 마스터만 이용 가능합니다.{nl}수령한 보상은 길드 보관함으로 지급됩니다.				
+UI_20200710_004387	{@st47}{s18}Amount of Dismantled Equipment: %s/%s	{@st47}{s18}분해 장비 수: %s/%s				
+UI_20200710_004388	* Common attributes will also be reset,{nl}Total {#FF0000}%s{/}of attribute points will be returned.{nl}Attribute Points after refund: {#FF0000}%s{/}+{#FF0000}%s{/}	* 변경 시 공용 특성도 초기화 되며,{nl}총 {#FF0000}%s{/}의 특성 포인트가 환급됩니다.{nl}환급 후 특성 포인트: {#FF0000}%s{/}+{#FF0000}%s{/}				
+UI_20200710_004389	{@st66b}{s18}System{/}	{@st66b}{s18}시스템{/}				
+UI_20200710_004390	{@st66b}{s18}Graphic{/}	{@st66b}{s18}그래픽{/}				
+UI_20200710_004391	{@st66b}Target Nearby Neutral Objects in Advance{/}	{@st66b}근처의 중립 오브젝트 우선 타겟{/}				
+UI_20200710_004392	{@st43}Control{/}	{@st43}조작{/}				
+UI_20200710_004393	{@st43}Common{/}	{@st43}공통{/}				
+UI_20200710_004394	{@st43}Guild Territory Wars{/}	{@st43}콜로니전{/}				
+UI_20200710_004395	{@st66b}GTW Other Character's HP Info. Size{/}	{@st66b}콜로니전 다른 캐릭터 체력 정보 크기{/}				
+UI_20200710_004396	{@st66b}View GTW Character's buff{/}	{@st66b}콜로니전 캐릭터 버프 보기{/}				
+UI_20200710_004397	{@st66b}View Larger{/}	{@st66b}크게 보기{/}				
+UI_20200710_004398	{@st66b}View Smaller{/}	{@st66b}작게 보기{/}				
+UI_20200710_004399	{@st66b}Turn on the GTW Battle Alarm{/}	{@st66b}콜로니전 전투 알람 켜기{/}				
+UI_20200710_004400	{@st66b}View Guild Name of GTW{/}	{@st66b}콜로니전 길드명 보기{/}				
+UI_20200710_004401	{@st66b}View Team Name of GTW{/}	{@st66b}콜로니전 팀명 보기{/}				
+UI_20200710_004402	{@st66b}View Hostile Guild Emblem of GTW{/}	{@st66b}콜로니전 적대 길드 엠블럼 일괄 보기{/}				
+UI_20200710_004403	{@st66b}View My Character{/}	{@st66b}내 캐릭터 보기{/}				
+UI_20200710_004404	{@st66b}View Party Character{/}	{@st66b}파티 캐릭터 보기{/}				
+UI_20200710_004405	{@st66b}View Guild Members' Character{/}	{@st66b}길드원 캐릭터 보기{/}				
+UI_20200710_004406	{@st66b}View Hostile Character{/}	{@st66b}적대 캐릭터 보기{/}				
+UI_20200710_004407	{@st66b}View Boss skill range	{@st66b}보스 스킬 범위 보기				
+UI_20200710_004408	{s18}Please enter the following phrase {nl}[%s]	{s18}다음 문구를 입력해 주세요{nl}[%s]				
+UI_20200710_004409	{@st66b18}Available name. {nl}※TP used is not refunded{/}	{@st66b18}사용 가능한 이름입니다. {nl}※구매에 사용된 TP는 환불되지 않습니다.{/}				
+UI_20200710_004410	{@st59}Preview	{@st59}미리보기				
+UI_20200710_004411	{@st43}{s15}{ol}{ds}Rank %s	{@st43}{s15}{ol}{ds}%s위				
+UI_20200710_004412	No Records	기록 없음				
+UI_20200710_004413	{@st43b}{s16}Current Stats	{@st43b}{s16}적용 옵션				
+UI_20200710_004414	{@st43b}{s16}Equip Stats	{@st43b}{s16}장착 옵션				
+UI_20200710_004415	{@st43b}{s16}Ichor Stats	{@st43b}{s16}아이커 옵션				
+UI_20200710_004416	Able to equip/unequip Ichor	아이커 일괄 장착/해제 가능				
+UI_20200727_004417	{@st66b18}Usable name.{nl}Will you create?{/}	{@st66b18}사용 가능한 이름입니다.{nl}생성하시겠습니까?{/}			
+UI_20200727_004418	Extra Socket Cost %s : {@st66d_y}%s{/} {nl}Gem Extraction Cost %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/} {nl}젬 추출 비용 %s : {@st66d_y}%s{/}	UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}
