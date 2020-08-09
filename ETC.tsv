@@ -1851,7 +1851,7 @@ ETC_20150317_001850	Times
 ETC_20150317_001851	Damage
 ETC_20150317_001852	{Ul}Maximum Attack! {/}
 ETC_20150317_001853	{Ul}Maximum Damage! {/}
-ETC_20150317_001854	Уровень
+ETC_20150317_001854	 Уровень
 ETC_20150317_001855	Obtained Quantity
 ETC_20150317_001856	Obtained Monsters
 ETC_20150317_001857	Buy from Shop
@@ -1993,7 +1993,7 @@ ETC_20150317_001992	All
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
 ETC_20150317_001995	Список Заданий
-ETC_20150317_001996	Adventure Journal Updated
+ETC_20150317_001996	Журнал Приключений Обновлён
 ETC_20150317_001997	{#000000} item is not recorded in the journal.
 ETC_20150317_001998	This monster was not recorded in the journal.
 ETC_20150317_001999	Lance Mastery
@@ -11252,10 +11252,10 @@ ETC_20150428_011253	Defeat monsters around the epitaph!
 ETC_20150428_011254	Defeat Demon Lord Blut!
 ETC_20150428_011255	Defeat Demon Lord Nuaele!
 ETC_20150428_011256	Tell Goddess Vakarine about Hauberk's escape!
-ETC_20150428_011257	Defeat 10,000 monsters
+ETC_20150428_011257	Убить 10,000 монстров
 ETC_20150428_011258	Beginning of the Hunt
 ETC_20150428_011259	Slaughterer
-ETC_20150428_011260	Defeat 1,000,000 monsters
+ETC_20150428_011260	Убить 1,000,000 монстров
 ETC_20150428_011261	Familiar Hunt
 ETC_20150428_011262	Adventurer
 ETC_20150428_011263	Achieve 10,000 overkills
@@ -28772,7 +28772,7 @@ ETC_20170912_028773	Cannot be used near Goddess Statues.
 ETC_20170912_028774	Cannot be used near boss monsters.
 ETC_20170912_028775	Can only be used in fields.
 ETC_20170912_028776	You can summon a maximum of 5 boss monsters in a region.
-ETC_20170912_028777	Using this item will summon a level 330 boss monster.{nl}Are you sure you want to use it?
+ETC_20170912_028777	Использование этого предмета вызовет монстра-босса 330 уровня.{nl}Вы уверены, что хотите его использовать?
 ETC_20170912_028778	Characters which are the sole Templar in a guild as well as that guild's master cannot use Rank Reset Voucher items.
 ETC_20170912_028779	Cannot use during a friendly duel.
 ETC_20170912_028780	Вы достигли максимального количества {nl}персонажей в этой лодже.{nl}Хотите купить слот для персонажа?
@@ -48304,55 +48304,55 @@ ETC_20200626_048305	The clear count of the guild quest of your guild are as foll
 ETC_20200626_048306	{#003399}[Guild Event]{/} Receive Guild Rewards	{#003399}[길드 이벤트]{/} 길드 보상 받기				
 ETC_20200626_048307	{#003399}[Guild Event]{/} Receive Individual Rewards	{#003399}[길드 이벤트]{/} 개인 보상 받기				
 ETC_20200626_048308	You do not have any rewards to receive.	보상 지급 대상이 아닙니다.				
-ETC_20200703_048309	[Summer Festa] Magic Ice Cube	[SummerFesta] 특별한 얼음				
-ETC_20200703_048310	You can exchange for various items from the event NPC.{nl}Will be automatically deleted at the end of the event period.	이벤트 NPC를 통해 다양한 보상과 교환할 수 있습니다.{nl}7월 9일 점검 시 일괄 삭제됩니다.				
-ETC_20200703_048311	[Summer Festa] Food Voucher	[SummerFesta] 음식 교환권				
-ETC_20200703_048312	You can exchange for foods that will give you various buffs from the event NPC.{nl}Will be automatically deleted at the end of the event period.	이벤트 NPC를 통해 버프를 획득할 수 있는 음식과 교환 가능합니다.{nl}7월 9일 점검 시 일괄 삭제됩니다.				
-ETC_20200703_048313	[Event] Watermelon Fish	[이벤트] 수박 물고기				
-ETC_20200703_048314	Obtained when succeeding in fishing using Octopus Tentacle as a bait.{nl}{nl}Will be automatically deleted at the end of the event period.	문어발 미끼를 사용하여 낚시 성공 시 획득할 수 있습니다.{nl}{nl}7월 9일 점검 시 일괄 삭제됩니다.				
-ETC_20200703_048315	Fresh Watermelon.{nl}Use to obtain following items by chance.{nl}List of items:{nl}- Goddess' Cube(14 Days){nl}- [Event] Ancient Golden Socket{nl}- [Event] Ruby Anvil(14 Days){nl}- [Event][LV.430]Legend Enchant Jewel{nl}- [Event] Sandra's Magnifier(14 Days){nl}- [Event] Sandra's Detailed Magnifier(14 Days){nl}- [Event] Golden Ichor Extraction Kit{nl}- Silver Ichor Extraction Kit (14 Days){nl}- Mercenary Badge{nl}- [Event] Attribute Points 1000 (14 Days){nl}Will be automatically deleted at the end of the event period.	시원한 수박입니다.{nl}사용 시 확률에 따라 다음 아이템을 획득합니다..{nl}획득 가능 아이템{nl}- 여신의 큐브(14일){nl}- [이벤트] 오래된 황금 소켓{nl}- [이벤트] 루비 모루(14일){nl}- [이벤트][LV.430]레전드 인챈트 쥬얼{nl}- [이벤트] 산드라의 감정 돋보기(14일){nl}- [이벤트] 산드라의 미세 감정 돋보기(14일){nl}- [이벤트] 황금 아이커 추출 키트{nl}- 은빛 아이커 추출 키트(14일){nl}- 용병단 증표{nl}- 특성 포인트 1000(14일){nl}7월 9일 점검 시, 일괄 삭제됩니다				
-ETC_20200703_048316	Klaipeda's summer specialty BBQ Prawn Skewers.{nl}Use and receive one of the Increase Chance of Successfully Fishing, Increase EXP gains, Increase Maximum HP/SP, Increase Looting Chance buffs by random.{nl}Will be automatically deleted at the end of the event period.	클라페다 여름 별미 맛있는 꼬치입니다.{nl}사용 시 낚시 성공 확률 증가, 경험치 획득량 증가, 최대 HP/SP 증가, 루팅찬스 증가 중 한 가지의 버프를 무작위로 획득하실 수 있습니다.{nl}7월 9일 점검 시, 일괄 삭제됩니다.				
-ETC_20200703_048317	Klaipeda's summer specialty Blue Lemonade.{nl}Use and receive one of the Increase Chance of Successfully Fishing, Increase EXP gains, Increase Maximum HP/SP, Increase Looting Chance buffs by random.{nl}Will be automatically deleted at the end of the event period.	클라페다 여름 별미 짜릿한 레몬아이스티입니다.{nl}사용 시 이동속도 증가, 경험치 획득량 증가, 최대 HP/SP 증가, 루팅찬스 증가 중 한 가지의 버프를 무작위로 획득하실 수 있습니다.{nl}7월 9일 점검 시, 일괄 삭제됩니다.				
-ETC_20200703_048318	Klaipeda's summer specialty Fresh Coconut Water.{nl}Use and receive one of the Increase Chance of Successfully Fishing, Increase EXP gains, Increase Maximum HP/SP, Increase Looting Chance buffs by random.{nl}Will be automatically deleted at the end of the event period.	클라페다 여름 별미 시원한 코코넛주스입니다.{nl}사용 시 HP/SP 회복, 경험치 획득량 증가, 최대 HP/SP 증가, 루팅찬스 증가 중 한 가지의 버프를 무작위로 획득하실 수 있습니다.{nl}7월 9일 점검 시, 일괄 삭제됩니다.				
-ETC_20200703_048319	Klaipeda's summer specialty Sweet Fruit Ice Flake.{nl}Use and receive one of the Increase Chance of Successfully Fishing, Increase EXP gains, Increase Maximum HP/SP, Increase Looting Chance buffs by random.{nl}Will be automatically deleted at the end of the event period.	클라페다 여름 별미 달달한 과일빙수입니다.{nl}사용 시 스태미나 회복, 경험치 획득량 증가, 최대 HP/SP 증가, 루팅찬스 증가 중 한 가지의 버프를 무작위로 획득하실 수 있습니다.{nl}7월 9일 점검 시, 일괄 삭제됩니다.				
-ETC_20200703_048320	Klaipeda's summer specialty Soft Ice Cream.{nl}Use and receive one of the Increase Chance of Successfully Fishing, Increase EXP gains, Increase Maximum HP/SP, Increase Looting Chance buffs by random.{nl}Will be automatically deleted at the end of the event period.	클라페다 여름 별미 부드러운 소프트아이스크림입니다.{nl}사용 시 물리/마법 공격력 증가, 경험치 획득량 증가, 최대 HP/SP 증가, 루팅찬스 증가 중 한 가지의 버프를 무작위로 획득하실 수 있습니다.{nl}7월 9일 점검 시, 일괄 삭제됩니다.				
-ETC_20200703_048321	A special bait used for watermelon fishing. Gives you a chance of catching Silver Fish, Small Silver Fish, and [Event] Watermelon Fish when used as bait.{nl} If you succeed in fishing by using this bait, you can receive [Summer Festa] Food Voucher.{nl}Unused [Event] Octopus Tentacle Bait will be automatically deleted at the end of the event period.	수박 낚시에 사용하는 특별한 미끼입니다. 미끼로 사용할 경우 은빛 물고기, 작은 은빛 물고기,[이벤트] 수박 물고기를 각기 다른 확률로 획득 할 수 있습니다.{nl} 해당 미끼를 사용하여 낚시에 성공할 경우 [summer festa] 음식 교환권 획득할 수 있습니다.{nl}사용하지 않은 [이벤트]문어발 미끼는 7월 9일 점검 시 일괄 삭제됩니다.				
-ETC_20200703_048322	/Summer	/여름				
-ETC_20200703_048323	{#0033FF}[Summer Festa]{/} Event Guide	{#0033FF}[Summer Festa]{/} 이벤트 안내				
-ETC_20200703_048324	{#0033FF}[Summer Festa]{/} Receive [Event] Octopus Tentacle Bait	{#0033FF}[Summer Festa]{/}[이벤트] 문어발 미끼 수령하기				
-ETC_20200703_048325	{#0033FF}[Summer Festa]{/} Event Shop	{#0033FF}[Summer Festa]{/} 이벤트 상점				
-ETC_20200703_048326	{#0033FF}[Summer Festa]{/} Event Food Exchange Shop	{#0033FF}[Summer Festa]{/} 이벤트 음식 교환권 상점				
-ETC_20200703_048327	Summer Festa Event Shop	Summer Festa 이벤트 상점				
-ETC_20200703_048328	Summer Festa Event Food Exchange Shop	Summer Festa 이벤트 음식 교환권 상점				
-ETC_20200703_048329	Exchange for 1~{MAX}	교환 가능 개수 1~{MAX}				
-ETC_20200703_048330	Current [Summer Festa] Magic Ice Cube State{nl}Contents Play {#3366FF}({COIN}/400){/}{nl}1 Hour Log-in: Food Voucher x10 {#3366FF}({TIME1}/50){/}{nl}1 Hour Log-in: Magic Ice Cube x20 {#3366FF}({TIME2}/100){/}{nl}{#FF0000}※Daily limit resets on every 6AM EST.{/}	[Summer Festa] 특별한 얼음 획득 현황{nl}콘텐츠 이용 {#3366FF}({COIN}/400개){/}{nl}1시간 접속 시 음식 교환권 10개 지급 {#3366FF}({TIME1}/50개){/}{nl}1시간 접속 시 특별한 얼음 20개 획득 {#3366FF}({TIME2}/100개){/}{nl}{#FF0000}※일일 획득량은 매일 오전 6시 초기화 됩니다.{/}				
-ETC_20200703_048331	[Summer Festa] Watermelon Fishing!{nl}Number of [Event] Octopus Tentacle Bait Received Daily {#3366FF}({BAIT}/1){/}{nl}Number of [Summer Festa] Food Voucher Received Daily {#3366FF}({TICKET}/10){/}{nl}Number of [Event] Fresh Watermelon exchanged during the event period {#3366FF}({TRADE}/150){/}{nl}{#FF0000}※Daily limit resets on every 6AM EST.{nl}※The maximum exchange number of [Event] Fresh Watermelon available during the event period is 150,{nl}and you will only receive the buff if you exchange after the event period.{/}	[Summer Festa] 수박 낚시!{nl}[이벤트] 문어발 미끼 일일 수령 횟수 {#3366FF}({BAIT}/1회){/}{nl}[Summer Festa] 음식 교환권 일일 획득 개수 {#3366FF}({TICKET}/10개){/}{nl}이벤트 기간 중 [이벤트] 시원한 수박 교환 횟수 {#3366FF}({TRADE}/150회){/}{nl}{#FF0000}※일일 수령 횟수는 매일 오전 6시 초기화 됩니다.{nl}※이벤트 기간 중 [이벤트] 시원한 수박의 최대 교환 교환 횟수는 150개 이며,{nl}이후 교환 시 버프만 획득 가능합니다.{/}				
-ETC_20200703_048332	{#003399}[Summer Festa]{/} Событие			
-ETC_20200703_048333	Increases EXP gains by {ARG}%.	경험치 획득량이 {ARG}% 증가합니다.				
-ETC_20200703_048334	Increases Maximum HP and SP by {ARG}.	최대 HP 및 최대 SP가 {ARG}만큼 증가합니다.				
-ETC_20200703_048335	Increases Looting Chance by {ARG}.	루팅 찬스가 {ARG}만큼 증가합니다.				
-ETC_20200703_048336	Increases Chance of Successfully Fishing by {ARG}%.	낚시 성공 확률이 {ARG}% 증가합니다.				
-ETC_20200703_048337	Increases Movement Speed by {ARG}.	이동속도가 {ARG}만큼 증가합니다.				
-ETC_20200703_048338	Recovers HP and SP by {ARG} every 10 seconds.	10초마다 HP 및 SP가 {ARG}만큼 회복됩니다.				
-ETC_20200703_048339	Recovers Stamina by {ARG} every 5 seconds.	5초마다 스태미나가 {ARG}만큼 회복됩니다.				
-ETC_20200703_048340	Increases Physical and Magic Attack by {ARG} each.	물리, 마법 공격력이 각각 {ARG}만큼 증가합니다.				
-ETC_20200706_048341	Exceeded the maximum number of items that can be stacked.	아이템 최대 스택 개수를 초과했습니다.				
-ETC_20200706_048342	You have exceeded the maximum number of items you can acquire.	획득 가능한 아이템 최대 수량을 초과 하였습니다.				
-ETC_20200710_048343	2020 Leticia's Treasure Chest (Season 7)	2020 레티샤의 보물 상자(6월)				
-ETC_20200710_048344	A chest filled with Leticia's most precious items. Use to obtain all of the following items.{nl} - Boruta Seal - Enhancement x3{nl} - Boruta Seal Selection Box x1	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 보루타 인장 - 강화용 3개{nl} - 보루타 인장 선택 상자 1개				
-ETC_20200710_048345	A chest filled with Leticia's most precious items. Use to obtain the following item.{nl} - Boruta Seal - Enhancement x3	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 보루타 인장 - 강화용 3개				
-ETC_20200710_048346	This item cannot be used as an ingredient for the registered main option Seal item.	등록된 주 옵션 인장아이템의 강화 재료로 사용할 수 없는 아이템입니다.				
-ETC_20200717_048347	Business-Class Package	비즈니스 클래스 패키지				
-ETC_20200717_048348	Use to obtain one of the following items.{nl} - [Lv. 400] Stage 8 Transcendence Scroll x1{nl} - Shining Ruby Anvil x3{nl} - Advanced Golden Anvil Box (Rank S) x1{nl} - [Lv.460] Legend Enchant Jewel x5{nl} - Shining Golden Ichor Extraction Kit x3{nl} - Sandra's Magnifier x5{nl} - Sandra's Detailed Magnifier x5	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - [Lv.400] 8초월 스크롤 x1{nl} - 빛나는 루비 모루 x3{nl} - 고급 황금 모루 상자 S급 x1{nl} - [LV. 460] 레전드 인챈트 쥬얼 x5{nl} - 빛나는 황금 아이커 추출 키트 x3{nl} - 산드라의 감정 돋보기 x5{nl} - 산드라의 미세 감정 돋보기 x5				
-ETC_20200717_048349	Economy-Class Package	이코노미 클래스 패키지				
-ETC_20200717_048350	Use to obtain one of the following items.{nl} - [Lv.460] Legend Enchant Jewel x5{nl} - Shining Silver Ichor Extraction Kit x5{nl} - Shining Silver Anvil x3{nl} - Artisan Magnifier x10	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - [LV. 460] 레전드 인챈트 쥬얼 x5{nl} - 빛나는 은빛 아이커 추출 키트 x5{nl} - 빛나는 은빛 모루 x3{nl} - 장인의 돋보기 x10				
-ETC_20200717_048351	First-Class Package	퍼스트 클래스 패키지				
-ETC_20200717_048352	Use to obtain one of the following items.{nl} - Business Class Package x1{nl} - Economy Class Package x1{nl} - [Lv.430] Diamond Anvil (14 days)(14일) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 비즈니스 클래스 패키지 x1{nl} - 이코노미 클래스 패키지 x1{nl} - [Lv.440] 다이아몬드 모루(14일) x1				
-ETC_20200717_048353	This Guild Quest cannot be started at the moment.{nl}Schedule: Next Update	해당 길드 퀘스트는 현재 이용할 수 없습니다.{nl}이용제한 : 다음 업데이트				
-ETC_20200720_048354	Right-click to use and obtain the following items.{nl} - [Lv. 400] Stage 8 Transcendence Scroll x1{nl} - Shining Ruby Anvil x3{nl} - [Untradable]Advanced Golden Anvil Box (Rank S) x1{nl} - [LV. 460] Legend Enchant Jewel x5{nl} - Shining Golden Ichor Extraction Kit x3{nl} - Sandra's Magnifier x5{nl} - Sandra's Detailed Magnifier x5	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [Lv.400] 8초월 스크롤 1개{nl} - 빛나는 루비 모루 3개{nl} - [거래불가]고급 황금 모루 상자 S급 1개{nl} - [LV. 460] 레전드 인챈트 쥬얼 5개{nl} - 빛나는 황금 아이커 추출 키트 3개{nl} - 산드라의 감정 돋보기 5개{nl} - 산드라의 미세 감정 돋보기 5개
-ETC_20200720_048355	Right-click to use and obtain the following items.{nl} - [LV.460] Legend Enchant Jewel x5{nl} - Shining Silver Ichor Extraction Kit x5{nl} - Shining Silver Anvil x3{nl} - Artisan Magnifier x10	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [LV. 460] 레전드 인챈트 쥬얼 5개{nl} - 빛나는 은빛 아이커 추출 키트 5개{nl} - 빛나는 은빛 모루 3개{nl} - 장인의 돋보기 10개
-ETC_20200720_048356	Right-click to use and obtain the following items.{nl} - Business-Class Package x1{nl} - Economy-Class Package x1{nl} - [Lv.430] Diamond Anvil (14 Days) x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 비즈니스 클래스 패키지 1개{nl} - 이코노미 클래스 패키지 1개{nl} - [Lv.430] 다이아몬드 모루(14일) 1개
-ETC_20200720_048357	[Untradable]Advanced Golden Anvil Box (Rank S)	[거래불가]고급 황금 모루 상자 S급
+ETC_20200710_048309	Misrus had been isolated in the Outer Wall Sewers since Medzio Diena. According to a diary of a dead Schaffenstar member found in the sewers, the Chesha had been fearful of Misrus but did not run away as if something even greater than Misrus was keeping them trapped in the sewers. Whatever that creature may be, it must be at least a demon lord or something even greater.	머즈루스는 신수의 날 이후 누군가에 의해 외성벽 지하수로에 격리되어있었습니다. 그곳에서 발견된 죽은 샤펜스타 단원의 일지로 추측해보면, 체샤들은 머즈루스를 매우 두려워하면서도 아무도 도망치려고 하지 않았습니다. 별다른 수단도 없이 머즈루스와 체샤들을 그 어둡고 음산한 공간에 가둬 둘 수 있는 존재는 누구였을지 모르지만, 머즈루스의 흉포함만 보더라도 그 존재가 가볍게 무시할 수 있는 인물은 아니라는 생각이 듭니다. 수북이 쌓인 뼈 무더기들을 밟고 서 있는 두 머리의 짐승 앞에서 떨지 않을 수 있는 건 마왕, 혹은 그보다 더 강한 존재들뿐입니다.				
+ETC_20200710_048310	Frost Pbeta	마기에 침식된 프베타				
+ETC_20200710_048311	Frost Pbeta is a demon made from snow and ice with the power of Kruvina by Glacia the White Witch. It seems Beholder somehow influenced her due to the shape of Pbeta.	하얀 마녀의 숲의 주인인 글레이시어가 눈과 얼음에 크루비나의 힘을 더해 만들어냈습니다. 그녀가 프베타의 형상을 만들어 낼 수 있었던 이유는 주시자의 영향이 있었을 것이라는 추측입니다.				
+ETC_20200710_048312	Glacia is oddly pale and clean. The snow and ice around her frost body became the skin of new demon.{nl}The soul of Glacia was in dire status as the result of Kruvina experiment. After revival as the demon, she was under extreme stress as she found out that she is no more a human. Her shattered mind draws an insane degree of philautia the defend her soul.{nl}Glacia, the new demon of snow and ice, born by the power of Kruvina, is receiving abundant magic power from the frozen plateau. The enormous magic power of the plateau is stored at the Black Crystal through Glacia.	글레이시어의 피부는 이질감이 느껴질 정도로 창백하고 깨끗합니다. 그녀의 피부는 그녀가 눈 위에서 동사하고 마족으로 변모하면서 얼음과 눈으로 만들어진 피부입니다.{nl}글레이시어는 마족이 되기 전에 겪었던 크루비나 실험에 의해 정신 상태가 온전치 못했습니다. 마족으로 되살아난 이후 변화된 자신의 외모를 보며 극심한 충격을 받았으나, 온전치 못했던 정신 상태는 스스로에 대한 방어기제로 광적인 수준에 가까운 자기애를 끌어냈습니다.{nl}눈과 얼음, 크루비나의 힘으로 다시 태어난 마족, 글레이시어는 고원지의 추위로부터 풍부한 마력을 공급받고 있습니다. 고원지의 막대한 양의 마력은 글레이시어를 통해 검은 수정으로 흡수되고 있었습니다.				
+ETC_20200710_048313	Demon Lord Nebulas	마군주 네뷸라스				
+ETC_20200710_048314	Demon Lord Bramble	마군주 브람블				
+ETC_20200710_048315	Fedimian Public House	페디미안 주점				
+ETC_20200710_048316	Mission Test PVP per 1 Hour	1시간별 미션 테스트 PVP				
+ETC_20200710_048317	Mission TestPVP per 1 Hour	1시간별 미션 테스트PVP				
+ETC_20200710_048318	Mansion Study	저택 서재				
+ETC_20200710_048319	EP 1 Special Vocation	EP 1 특별한 사명				
+ETC_20200710_048320	Episode 1 [Klaipeda] Special Vocation Clear	에피소드 1 [클라페다] 특별한 사명 클리어	ETC_20200129_044126	Episode 1-1 Special Vocation Clear	에피소드 1-1 특별한 사명 클리어	
+ETC_20200710_048321	EP 1 Long Wait	EP 1 오랜 기다림				
+ETC_20200710_048322	Episode 1 [Orsha] Long Wait Clear	에피소드 1 [오르샤]오랜 기다림 클리어	ETC_20200129_044128	Episode 1-2 Long Wait Clear	에피소드 1-2 오랜 기다림 클리어	
+ETC_20200710_048323	EP 2 Encounter with Demon Lord	EP 2 마왕과의 대면				
+ETC_20200710_048324	Episode 2 [Klaipeda] Encounter with Demon Lord Clear	에피소드 2 [클라페다] 마왕과의 대면 클리어	ETC_20200129_044130	Episode 2-1 Encounter with Demon Lord Clear	에피소드 2-1 마왕과의 대면 클리어	
+ETC_20200710_048325	EP 2 Corrupted Earth	EP 2 오염된 땅				
+ETC_20200710_048326	Episode 2 [Orsha] Corrupted Earth Clear	에피소드 2 [오르샤] 오염된 땅 클리어	ETC_20200129_044132	Episode 2-2 Corrupted Earth Clear	에피소드 2-2 오염된 땅 클리어	
+ETC_20200710_048327	EP 3 Goddess Believe in Human	EP 3 인간을 믿는 여신				
+ETC_20200710_048328	Episode 3 [Klaipeda] Goddess Believe in Human Clear	에피소드 3 [클라페다] 인간을 믿는 여신 클리어	ETC_20200129_044134	Episode 3-1 Goddess Believe in Human Clear	에피소드 3-1 인간을 믿는 여신 클리어	
+ETC_20200710_048329	EP 3 Demon of Delmore Castle	EP 3 델무어 성의 마족				
+ETC_20200710_048330	Episode 3 [Orsha] Demon of Delmore Castle Clear	에피소드 3 [오르샤] 델무어 성의 마족 클리어	ETC_20200129_044136	Episode 3-2 Demon of Delmore Castle Clear	에피소드 3-2 델무어 성의 마족 클리어	
+ETC_20200710_048331	EP 4 Tomb of the Great King	EP 4 위대한 왕의 무덤				
+ETC_20200710_048332	Episode 4 [Klaipeda] Tomb of the Great King Clear	에피소드 4 [클라페다]위대한 왕의 무덤 클리어	ETC_20200129_044138	Episode 4-1 Tomb of the Great King Clear	에피소드 4-1 위대한 왕의 무덤 클리어	
+ETC_20200710_048333	EP 4 Goddess Saving Human	EP 4 여신을 구하는 인간				
+ETC_20200710_048334	Episode 4 [Orsha] Goddess Saving Human Clear	에피소드 4 [오르샤] 여신을 구하는 인간 클리어	ETC_20200129_044140	Episode 4-2 Goddess Saving Human Clear	에피소드 4-2 여신을 구하는 인간 클리어	
+ETC_20200710_048335	A title given as a ranking reward for the Weekly Boss [Nebulas] type.	주간 보스 [네뷸라스] 계열 별 랭킹 보상으로 지급되는 칭호입니다. 				
+ETC_20200710_048336	A title given as a ranking reward for the Weekly Boss [Froster Lord] type.	주간 보스 [프로스터 로드] 계열 별 랭킹 보상으로 지급되는 칭호입니다. 				
+ETC_20200710_048337	A title given as a ranking reward for the Weekly Boss [Bramble] type.	주간 보스 [브람블] 계열 별 랭킹 보상으로 지급되는 칭호입니다. 				
+ETC_20200710_048338	A title given as a ranking reward for the Weekly Boss [Warpulis] type.	주간 보스 [워퓰리스] 계열 별 랭킹 보상으로 지급되는 칭호입니다. 				
+ETC_20200710_048339	Weekly Boss Raid Ranking: Nebulas	네뷸라스 주간보스 랭킹				
+ETC_20200710_048340	Weekly Boss Raid Ranking: Froster Lord	프로스터 로드 주간보스 랭킹				
+ETC_20200710_048341	Weekly Boss Raid Ranking: Bramble	브람블 주간보스 랭킹				
+ETC_20200710_048342	Weekly Boss Raid Ranking: Warpulis	워퓰리스 주간보스 랭킹				
+ETC_20200710_048343	Pocket Wig	디자인 컷				
+ETC_20200710_048344	Pocket Wig (Male)	디자인 컷(남)				
+ETC_20200710_048345	Pocket Wig (Female)	디자인 컷(여)				
+ETC_20200710_048346	Goth Loli Pocket Wig	고스로리 디자인 컷				
+ETC_20200710_048347	Noble Wave Ponytail Pocket Wig	노블 웨이브 포니테일 디자인 컷				
+ETC_20200710_048348	Bunny Boy Pocket Wig	바니보이 디자인 컷				
+ETC_20200710_048349	Two-tone Dandy Cut Pocket Wig	투톤 댄디 컷 디자인 컷				
+ETC_20200710_048350	Side Ponytail Pocket Wig	사이드 포니테일 디자인 컷				
+ETC_20200710_048351	Choppy Bangs Pocket Wig	쳐피뱅 디자인 컷				
+ETC_20200710_048352	Retro Layered Pocket Wig	레트로 레이어드 디자인 컷				
+ETC_20200710_048353	Romantic Bun Hair Pocket Wig	로맨틱 번헤어 디자인 컷				
+ETC_20200710_048354	Short Regent Hair Pocket Wig	숏 리젠트 헤어 디자인 컷				
+ETC_20200710_048355	Fishtail Pocket Wig	피쉬 테일 디자인 컷				
+ETC_20200710_048356	Twintail Chignon Pocket Wig	트윈테일 시뇽 디자인 컷				
+ETC_20200710_048357	Two-block Ponytail Pocket Wig	투블럭 포니테일 디자인 컷				
 ETC_20200710_048358	French Bob Pocket Wig	프렌치 보브 디자인 컷				
 ETC_20200710_048359	Side Swept Pocket Wig	사이드 스윕트 디자인 컷				
 ETC_20200710_048360	Braid Long Pocket Wig	브레이드 롱 디자인 컷				
