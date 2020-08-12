@@ -26624,9 +26624,14 @@ ITEM_20200727_026623	Gesture: Swingy	제스쳐 : 흔들흔들
 ITEM_20200727_026624	You can add Swingy gesture to quick slots. Right-click to use.	흔들흔들 제스쳐를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.
 ITEM_20200727_026625	Gesture: Baseball	제스쳐 : 야구
 ITEM_20200727_026626	You can add Baseball gestures to quick slots. Right-click to use.	야구 제스쳐를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.
-ITEM_20200731_026627	Emoticon: Medeina (Pursy)	이모티콘: 메데이나(돈자랑)
-ITEM_20200731_026628	You can add chat emojis as following to quick slots. {nl}Right-click to use.{nl}{img medeina_emotion04 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img medeina_emotion04 50 50}
-ITEM_20200731_026629	Emoticon: Medeina (Fabulous)	이모티콘: 메데이나(멋짐)
-ITEM_20200731_026630	You can add chat emojis as following to quick slots. {nl}Right-click to use.{nl}{img medeina_emotion05 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img medeina_emotion05 50 50}
-ITEM_20200731_026631	Emoticon: Medeina (Teary)	이모티콘: 메데이나(울먹)
-ITEM_20200731_026632	You can add chat emojis as following to quick slots. {nl}Right-click to use.{nl}{img medeina_emotion06 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img medeina_emotion06 50 50}
+ITEM_20200805_026627	[Season] Leticia's Secret Cube	[시즌] 레티샤의 시크릿 큐브				
+ITEM_20200805_026628	[Season] Leticia's Secret Cube x 10 + 1	[시즌] 레티샤의 시크릿 큐브 x 10 + 1				
+ITEM_20200805_026629	Emoticon: Medeina (Pursy)	이모티콘: 메데이나(돈자랑)				
+ITEM_20200805_026630	You can add chat emojis as following to quick slots. {nl}Right-click to use.{nl}{img medeina_emotion04 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img medeina_emotion04 50 50}				
+ITEM_20200805_026631	Emoticon: Medeina (Fabulous)	이모티콘: 메데이나(멋짐)				
+ITEM_20200805_026632	You can add chat emojis as following to quick slots. {nl}Right-click to use.{nl}{img medeina_emotion05 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img medeina_emotion05 50 50}				
+ITEM_20200805_026633	Emoticon: Medeina (Teary)	이모티콘: 메데이나(울먹)				
+ITEM_20200805_026634	You can add chat emojis as following to quick slots. {nl}Right-click to use.{nl}{img medeina_emotion06 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img medeina_emotion06 50 50}				
+ITEM_20200805_026635	You can add chat emojis to quick slots. {nl}Right-click to use.{nl}{img kupole_emotion06 50 50}	채팅 이모티콘을 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{img kupole_emotion06 50 50}				
+ITEM_20200807_026636	[Lv. 440] Stage 9 Transcendence Scroll	[Lv.440] 9초월 스크롤			
+ITEM_20200807_026637	Upgrades your equipment to Stage 9 Transcendence.{nl}Can only be used on items of Stage 0~8 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.{nl}Can only be used on items of Lv. 440 or below.	장비의 초월 수치를 9단계로 만들어줍니다.{nl}0~8단계 초월 아이템만 사용할 수 있으며, 9초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 9초월 상태로 변경됩니다. {nl}Lv 440이하 장비에만 사용 가능한 초월 스크롤입니다.			

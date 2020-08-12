@@ -4414,19 +4414,19 @@ UI_20200710_004413	{@st43b}{s16}Current Stats	{@st43b}{s16}적용 옵션
 UI_20200710_004414	{@st43b}{s16}Equip Stats	{@st43b}{s16}장착 옵션				
 UI_20200710_004415	{@st43b}{s16}Ichor Stats	{@st43b}{s16}아이커 옵션				
 UI_20200710_004416	Able to equip/unequip Ichor	아이커 일괄 장착/해제 가능				
-UI_20200727_004417	{@st66b18}Usable name.{nl}Will you create?{/}	{@st66b18}사용 가능한 이름입니다.{nl}생성하시겠습니까?{/}			
-UI_20200727_004418	Extra Socket Cost %s : {@st66d_y}%s{/} {nl}Gem Extraction Cost %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/} {nl}젬 추출 비용 %s : {@st66d_y}%s{/}	UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}
-UI_20200731_004419	{@st66b}{s20} %s{nl} can be used to receive various rewards.	{@st66b}{s20} %s를{nl}사용해 다양한 보상을 획득하세요.
-UI_20200731_004420	{@st66b}{s20}Current Acquirable Grade	{@st66b}{s20}현재 획득 가능 등급
-UI_20200731_004421	{@st41}Open %s	{@st41}%s 개봉
-UI_20200731_004422	{@st66b}{s16}Total Number Opened : %s%s	{@st66b}{s16}누적 개봉 횟 수 : %s%s
-UI_20200731_004423	{@st66b}{s16}Remaining %s x%s	{@st66b}{s16}남은 %s %s개
-UI_20200731_004424	{@st42b}{s20}Acquirable Item	{@st42b}{s20}획득 가능 아이템
-UI_20200731_004425	{@st66b}Acquirable Reward{/}	{@st66b}획득 가능 보상{/}
-UI_20200731_004426	{@st66b}Total Open Count Reward	{@st66b}누적 개봉 보상
-UI_20200731_004427	{@st66b}{s16}* Total Open Count Reward is given automatically.	{@st66b}{s16}* 누적 개봉 보상은 자동 지급됩니다.
-UI_20200731_004428	{@st66b}{s18}TOSventure	{@st66b}{s18}트캉스
-UI_20200731_004429	TOSventure Event	트캉스 이벤트
-UI_20200731_004430	{@st41b}Delete Team{/}	{@st41b}팀 삭제{/}
-UI_20200731_004431	{@st59}Request to delete team.{/}	{@st59}팀 삭제를 요청합니다.{/}
-UI_20200731_004432	Please enter the following phrase	다음 문구를 입력해 주세요
+UI_20200727_004417	{@st66b18}Usable name.{nl}Will you create?{/}	{@st66b18}사용 가능한 이름입니다.{nl}생성하시겠습니까?{/}				
+UI_20200727_004418	Extra Socket Cost %s : {@st66d_y}%s{/} {nl}Gem Extraction Cost %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/} {nl}젬 추출 비용 %s : {@st66d_y}%s{/}	UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	
+UI_20200805_004419	{@st66b}{s20} %s{nl} can be used to receive various rewards.	{@st66b}{s20} %s를{nl}사용해 다양한 보상을 획득하세요.				
+UI_20200805_004420	{@st66b}{s20}Current Acquirable Grade	{@st66b}{s20}현재 획득 가능 등급				
+UI_20200805_004421	{@st41}Open %s	{@st41}%s 개봉				
+UI_20200805_004422	{@st66b}{s16}Total Number Opened : %s%s	{@st66b}{s16}누적 개봉 횟 수 : %s%s				
+UI_20200805_004423	{@st66b}{s16}Remaining %s x%s	{@st66b}{s16}남은 %s %s개				
+UI_20200805_004424	{@st42b}{s20}Acquirable Item	{@st42b}{s20}획득 가능 아이템				
+UI_20200805_004425	{@st66b}Acquirable Reward{/}	{@st66b}획득 가능 보상{/}				
+UI_20200805_004426	{@st66b}Total Open Count Reward	{@st66b}누적 개봉 보상				
+UI_20200805_004427	{@st66b}{s16}* Total Open Count Reward is given automatically.	{@st66b}{s16}* 누적 개봉 보상은 자동 지급됩니다.				
+UI_20200805_004428	{@st66b}{s18}TOSventure	{@st66b}{s18}트캉스				
+UI_20200805_004429	TOSventure Event	트캉스 이벤트				
+UI_20200805_004430	{@st41b}Delete Team{/}	{@st41b}팀 삭제{/}				
+UI_20200805_004431	{@st59}Request to delete team.{/}	{@st59}팀 삭제를 요청합니다.{/}				
+UI_20200805_004432	Please enter the following phrase	다음 문구를 입력해 주세요				

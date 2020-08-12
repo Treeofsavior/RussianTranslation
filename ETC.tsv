@@ -49206,180 +49206,303 @@ ETC_20200727_049207	If deleting the team, every free, paid item/ game data/ comp
 ETC_20200727_049208	Delete every data except for Premium TP	프리미엄 TP를 제외한 모든 데이터 삭제			
 ETC_20200727_049209	{#FFFFFF}{ol}{s18}You have {#0050FF}{Value}{/} TP left to spend this month.{nl}{/}To increase your spending limit, please send us a ticket on our official website.{/}{/}{/}	{#FFFFFF}{ol}{s18}이번 달 {#0050FF}{Value}{/} 만큼의 TP를 더 소모할 수 있습니다.{nl}{/}한도액 증가 및 문의 사항이 있는 경우 티켓을 보내 주세요.{/}{/}{/}	ETC_20170703_028186	You have {Value} TP left to spend this month.{/}To increase your spending limit, please send us a ticket on our official website.	이번 달 {Value} 만큼의 TP를 더 소모할 수 있습니다. {/}한도액 증가 및 문의 사항이 있는 경우 티켓을 보내 주세요.
 ETC_20200727_049210	{#FFFFFF}{ol}{s18}You have exceeded {#FF0900}{Value}{/} TP spend this month.{nl} {/}To increase your spending limit, please send us a ticket on our official website.{/}{/}{/}	{#FFFFFF}{ol}{s18}이번 달 {#FF0900}{Value}{/} 만큼 초과 하였습니다.{nl} {/}한도액 증가 및 문의 사항이 있는 경우 티켓을 보내 주세요.{/}{/}{/}	ETC_20170703_028187	You have exceeded {Value} TP spend this month.{/}To increase your spending limit, please send us a ticket on our official website.	이번 달 {Value} 만큼 초과 하였습니다. {/}한도액 증가 및 문의 사항이 있는 경우 티켓을 보내 주세요.
-ETC_20200731_049211	{img Collar_Event_Tecance 24 24} A Midsummer's TOSventure	{img Collar_Event_Tecance 24 24} 한여름의 트캉스				
-ETC_20200731_049212	A title given to the Savior who completed the Summer TOSventure.	트캉스 이벤트의 모든 미션을 클리어한 구원자에게 지급되는 칭호 입니다.				
-ETC_20200731_049213	A Midsummer's TOSventure	한여름의 트캉스				
-ETC_20200731_049214	medeinapursy	메데이나돈자랑				
-ETC_20200731_049215	medeinafabulous	메데이나멋짐				
-ETC_20200731_049216	medeinateary	메데이나울먹				
-ETC_20200731_049217	Lepidoptera Junction: Legend(EASY)	나비목 접선지 : 레전드(EASY)				
-ETC_20200731_049218	Lepidoptera Junction: Legend(NORMAL)	나비목 접선지 : 레전드(NORMAL)				
-ETC_20200731_049219	Lepidoptera Junction: Legend(HARD)	나비목 접선지 : 레전드(HARD)				
-ETC_20200731_049220	White Witch Forest : Legend(EASY)	하얀 마녀의 숲 : 레전드(EASY)				
-ETC_20200731_049221	White Witch Forest : Legend(NORMAL)	하얀 마녀의 숲 : 레전드(NORMAL)				
-ETC_20200731_049222	White Witch Forest : Legend(HARD)	하얀 마녀의 숲 : 레전드(HARD)				
-ETC_20200731_049223	Lolopanther Area	롤로펜서 구간				
-ETC_20200731_049224	Challenge Mode Stage 7 or above	챌린지 모드 7단계 이상				
-ETC_20200731_049225	Challenge Mode Stage 8	챌린지 모드 8단				
-ETC_20200731_049226	Challenge Mode Stage 9	챌린지 모드 9단				
-ETC_20200731_049227	Challenge Mode Stage 10	챌린지 모드 10단				
-ETC_20200731_049228	Challenge Division Singularity Stage 2	챌린지 분열 특이점 2단				
-ETC_20200731_049229	Challenge Division Singularity Stage 2	챌린지 분열 특이점 3단				
-ETC_20200731_049230	Challenge Division Singularity Stage 4	챌린지 분열 특이점 4단				
-ETC_20200731_049231	Challenge Division Singularity Stage 5	챌린지 분열 특이점 5단				
-ETC_20200731_049232	Prevent the dimension of stage 5 or above from collapsing	차원 붕괴 저지 5단계 이상				
-ETC_20200731_049233	[Event] FLEX Pouch	[이벤트] FLEX 골드 주머니				
-ETC_20200731_049234	Use to open Medeina's FLEX BOX by the Event NPC.{nl}{#ff0000}Will be automatically deleted at the end of the event period.{/}	이벤트 NPC를 통해 메데이나 FLEX BOX를 개봉할 수 있습니다.{nl}{#ff0000}8월 20일 점검 시 삭제됩니다.{/}				
-ETC_20200731_049235	[TOSventure] Attribute Point 10,000	[트캉스]특성 포인트 10,000				
-ETC_20200731_049236	Event item.{nl}Grants 10000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049237	[FLEX BOX] Attribute Point 10,000	[FLEX BOX]특성 포인트 10,000				
-ETC_20200731_049238	Event item.{nl}Grants 10000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049239	[TOSventure] Challenge Portal Scroll	[트캉스] 챌린지 포탈 생성 스크롤				
-ETC_20200731_049240	Use to create a Challenge Portal.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 챌린지 포탈이 생성 됩니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049241	[FLEX BOX] Challenge Portal Scroll	[FLEX BOX] 챌린지 포탈 생성 스크롤				
-ETC_20200731_049242	Use to create a Challenge Portal.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 챌린지 포탈이 생성 됩니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049243	[Event] Challenge Portal Scroll	[이벤트] 챌린지 포탈 생성 스크롤				
-ETC_20200731_049244	[TOSventure] Challenge Mode One Entry Voucher	[트캉스] 챌린지 모드 1회 입장권				
-ETC_20200731_049245	Use this to allow one extra entry in Challenge Mode.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	챌린지 모드 입장 횟수를 1 차감합니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049246	[FLEX BOX] Challenge Mode One Entry Voucher	[FLEX BOX] 챌린지 모드 1회 입장권				
-ETC_20200731_049247	Use this to allow one extra entry in Challenge Mode.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	챌린지 모드 입장 횟수를 1 차감합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049248	[Event] Challenge Mode One Entry Voucher	[이벤트] 챌린지 모드 1회 입장권				
-ETC_20200731_049249	[TOSventure] Looting Chance: 500	[트캉스] 루팅 찬스: 500				
-ETC_20200731_049250	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	60분 동안 루팅찬스를 +500 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049251	[Event] Looting Chance: 500	[이벤트] 루팅 찬스: 500				
-ETC_20200731_049252	[TOSventure] Pamoka Solution EXP 2x Voucher	[트캉스] 시약병 경험치 증가량 2배 쿠폰				
-ETC_20200731_049253	Increase the amount of EXP earned for the Pamoka solution by 2x for 4 hours.{nl}Does not stack with other similar effects.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용시 4시간 동안 시약병에 들어오는 경험치가 2배 증가합니다.{nl}동일 효과의 버프와는 중복되지 않습니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049254	[Event] Pamoka Solution EXP 2x Voucher	[이벤트] 시약병 경험치 증가량 2배 쿠폰				
-ETC_20200731_049255	[TOSventure] Skill + Attribute Reset Potion Package	[트캉스] 스킬+특성 초기화 포션 패키지				
-ETC_20200731_049256	Right click to obtain the following items.{nl}Item will be deleted upon the announced date.{nl}- Skill Reset Potion (14 Days){nl}- Attribute Reset Potion (14 Days){nl}{#ff0000}Item will be deleted upon the announced date.{/}	우클릭 시, 다음 아이템을 모두 획득할 수 있습니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl} - 스킬 초기화 포션 (14일){nl} - 특성 초기화 포션 (14일){nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049257	[Event] Skill + Attribute Reset Potion Package	[이벤트] 스킬+특성 초기화 포션 패키지				
-ETC_20200731_049258	[FLEX BOX] Miracle Seeds	[FLEX BOX] 축복이 깃든 씨앗				
-ETC_20200731_049259	Use to grow a sprout containing all the grace of the goddesses.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049260	[FLEX BOX] Goddess Sculpture	[FLEX BOX] 여신의 조각상				
-ETC_20200731_049261	Install this statue to receive the Goddess' Blessing for five minutes.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049262	[FLEX BOX] 7-Star Gem Abrasive	[FLEX BOX] 7성 젬 연마제				
-ETC_20200731_049263	Used to enhance gems. Amplifies the EXP of gems.{nl}Will be deleted when it expires.{nl}- Gem EXP: 230,700{nl}{#ff0000}Item will be deleted upon the announced date.{/}	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl} - 획득 젬 경험치: 230,700{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049264	[FLEX BOX] Attribute Point 10,000	[FLEX BOX] 특성 포인트 1,000				
-ETC_20200731_049265	Event item.{nl}Grants 1000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049266	[FLEX BOX] Urgent Repair Kit	[FLEX BOX] 긴급 수리 키트				
-ETC_20200731_049267	Recovers the durability of currently-equipped items by +5.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 착용하고 있는 장비의 내구도를 +5 회복시켜 줍니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049268	[FLEX BOX] Instanced Dungeon Reset Voucher	[FLEX BOX] 인스턴스 던전 입장 횟수 초기화권				
-ETC_20200731_049269	Use it to reset entry count for instanced dungeons.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 인스턴스 던전의 입장 횟수가 초기화됩니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049270	[FLEX BOX] Instanced Dungeon Multiply Token	[FLEX BOX] 인스턴스 던전 배수 토큰				
-ETC_20200731_049271	Consumes all your remaining instanced dungeon daily entries, while multiplying the amount of items and EXP obtained in a single run by that number of entries.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	인스턴스 던전 잔여 횟수를 추가로 소모해, 획득 아이템과 경험치를 추가로 소모한 배수만큼 얻도록 합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049272	Title - A Midsummer's TOSventure	칭호-한여름의 트캉스				
-ETC_20200731_049273	Title-Item that will award you with A Midsummer's TOSventure title. Right-click to use.	칭호-한여름의 트캉스 칭호를 획득할 수 있는 아이템 입니다. 우클릭으로 사용하실 수 있습니다.				
-ETC_20200731_049274	[Lv. 440] Transcendence Stage 5 Scroll - Weapon	[Lv. 440] 5초월 스크롤 - 무기				
-ETC_20200731_049275	Increases the transcendence stage of weapon of level 440 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 440 이하의 무기 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.				
-ETC_20200731_049276	[Lv. 440] Transcendence Stage 5 Scroll - Armor	[Lv. 440] 5초월 스크롤 - 방어구				
-ETC_20200731_049277	Increases the transcendence stage of equipment of level 430 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 430 이하의 방어구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.				
-ETC_20200731_049278	[Lv. 440] Transcendence Stage 5 Scroll - Accessory	[Lv. 440] 5초월 스크롤 - 장신구				
-ETC_20200731_049279	Increases the transcendence stage of accessory of level 430 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 430 이하의 장신구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.				
-ETC_20200731_049280	[TOSventure] Golden Ichor Extraction Kit	[트캉스] 황금 아이커 추출 키트				
-ETC_20200731_049281	Tool used in the extraction of Ichors. Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 장비 포텐셜 0일 경우 사용 가능하며, 아이템 파괴를 방지합니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049282	[FLEX BOX] Golden Ichor Extraction Kit	[FLEX BOX] 황금 아이커 추출 키트				
-ETC_20200731_049283	Tool used in the extraction of Ichors. Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 장비 포텐셜 0일 경우 사용 가능하며, 아이템 파괴를 방지합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049284	[TOSventure] Silver Ichor Extraction Kit	[트캉스] 은빛 아이커 추출 키트				
-ETC_20200731_049285	Tool used in the extraction of Ichors. It does not require consumables.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 소모하는 재화가 필요 없습니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049286	[FLEX BOX] Silver Ichor Extraction Kit	[FLEX BOX] 은빛 아이커 추출 키트				
-ETC_20200731_049287	Tool used in the extraction of Ichors. It does not require consumables.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 소모하는 재화가 필요 없습니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049288	[Event] Silver Ichor Extraction Kit	[이벤트] 은빛 아이커 추출 키트				
-ETC_20200731_049289	[TOSventure] Ancient Golden Socket	[트캉스] 오래된 황금 소켓				
-ETC_20200731_049290	Use to add a socket on equipment with 0 potential. The socket will not be added if the equipment has already reached its maximum socket limit. Right-click to use. {nl}{#ff0000}Item will be deleted upon the announced date.{/}	포텐셜이 0인 장비에만 사용가능 하며, 사용시 소켓이 추가됩니다. 단, 최대 소켓 개수 이상으로 추가 할 수 없습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 13일오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049291	[FLEX BOX] Silver Anvil	[FLEX BOX] 은빛 모루				
-ETC_20200731_049292	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. You can enhance equipment without the cost of silver. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 실버 소비 없이 장비를 강화할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049293	[FLEX BOX] Gold Anvil	[FLEX BOX] 황금 모루				
-ETC_20200731_049294	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049295	[TOSventure] Sandra's Magnifier	[트캉스] 산드라의 감정 돋보기				
-ETC_20200731_049296	Select a bonus stat of Random-Stat equipment to change its stat, group, and value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션을 선택하여 다른 옵션 그룹, 옵션, 수치로 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049297	[FLEX BOX] Sandra's Magnifier	[FLEX BOX] 산드라의 감정 돋보기				
-ETC_20200731_049298	Select a bonus stat of Random-Stat equipment to change its stat, group, and value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션을 선택하여 다른 옵션 그룹, 옵션, 수치로 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049299	[Event] Sandra's Magnifier	[이벤트] 산드라의 감정 돋보기				
-ETC_20200731_049300	[TOSventure] Sandra's Detailed Magnifier	[트캉스] 산드라의 미세 감정 돋보기				
-ETC_20200731_049301	Select a bonus stat of Random-Stat equipment to change its value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션 하나를 선택하여 옵션은 유지하고 수치만 변경합니다. 변경된 수치는 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049302	[FLEX BOX] Sandra's Detailed Magnifier	[FLEX BOX] 산드라의 미세 감정 돋보기				
-ETC_20200731_049303	Select a bonus stat of Random-Stat equipment to change its value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션 하나를 선택하여 옵션은 유지하고 수치만 변경합니다. 변경된 수치는 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049304	[FLEX BOX] Mysterious Magnifier	[FLEX BOX] 신비한 돋보기				
-ETC_20200731_049305	Randomly changes the number, groups, and values of stats contained in a random stat item. It also alters the item's stats themselves. Applied stats cannot be reversed.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049306	[FLEX BOX] Artisan Magnifier	[FLEX BOX] 장인의 돋보기				
-ETC_20200731_049307	Randomly changes the number, groups and values of stats contained in a random-stat item. You can select one stat from the before or after to keep. To use the item you must select one stat to keep.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 변경 전 옵션과 변경 후 옵션 중 1개를 선택 할 수 있습니다. 옵션 선택을 하지 않으면 아이템을 사용 할 수 없습니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049308	[FLEX BOX] Premium Awakening Stone	[FLEX BOX] 프리미엄 각성석				
-ETC_20200731_049309	Helps awaken an item without reducing the potential of the equipment.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	장비의 포텐셜을 감소시키지 않고 아이템 각성을 할 수 있게 도와줍니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049310	[FLEX BOX] Enchant Scroll	[FLEX BOX] 마법 부여 스크롤				
-ETC_20200731_049311	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	헤어 코스튬에 사용 시 랜덤한 옵션이 추가됩니다. 옵션은 최대 3개까지 생성될 수 있습니다. 착용하고 있는 장비에는 사용할 수 없습니다. 마우스 우클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
-ETC_20200731_049312	Week 1	1주차				
-ETC_20200731_049313	Clear certain Legend Raid 5 times:: Tomb of the White Crow: Legend{nl}Tomb of the White Crow: Legend Casual{nl}Lepidoptera Junction: Legend(Easy){nl}Lepidoptera Junction: Legend(Normal){nl}Lepidoptera Junction: Legend(Hard){nl}after mission is open{nl}	미션 오픈 후{nl}특정 레전드 레이드 5회 클리어::흰 까마귀의 영면지: 레전드{nl}흰 까마귀의 영면지: 레전드 캐주얼{nl}나비목 접선지 : 레전드(Easy){nl}나비목 접선지 : 레전드(Normal){nl}나비목 접선지 : 레전드(Hard)				
-ETC_20200731_049314	Clear Hunting Grounds 5 times	미션 오픈 후{nl}프리던전 보스 5회 처치				
-ETC_20200731_049315	Succeed in crafting item 30 times	미션 오픈 후{nl}아이템 제작 30회 성공				
-ETC_20200731_049316	Week 2	2주차				
-ETC_20200731_049317	Clear Challenge Mode stage 5 or above 10 times after mission is open	미션 오픈 후 챌린지 모드 5단계 이상 10회 클리어				
-ETC_20200731_049318	Clear Level Dungeon 20 times	미션 오픈 후{nl}레벨 던전 20회 클리어				
-ETC_20200731_049319	Re-identify equipment with Lv. 430 or more 30 times	미션 오픈 후{nl}430.LV 이상 장비 재감정 30회 진행				
-ETC_20200731_049320	Week 3	3주차				
-ETC_20200731_049321	Clear Uphill Defense Very Hard Stage 15 or above 4 times:: Only counted when clearing Very Hard Stage 15 or above	미션 오픈 후{nl}업힐 디펜스 매우 어려움 15단계 이상 4회 클리어::매우 어려움 15단계 이상 클리어 시에만 카운트 됩니다.				
-ETC_20200731_049322	Clear certain Unique Raid 10 times:: Tomb of the White Crow: Casual{nl}Lepidoptera Junction: Casual{nl}Tomb of the White Crow: Unique{nl}Lepidoptera Junction: Unique{nl}White Witch's Forest: Unique	미션 오픈 후{nl}특정 유니크 레이드 10회 클리어::흰 까마귀의 영면지: 캐주얼{nl}나비목 접선지 : 캐주얼{nl}흰 까마귀의 영면지 : 유니크{nl}나비목 접선지 : 유니크{nl}하얀 마녀의 숲 : 유니크				
-ETC_20200731_049323	Extract Ichor of Lv.400 equipment or more 3 times	미션 오픈 후{nl}400.LV 이상 장비 아이커 추출 3회 성공				
-ETC_20200731_049324	Week 4	4주차				
-ETC_20200731_049325	Succeed in transcending item 3 times	미션 오픈 후{nl}아이템 초월 3회 성공				
-ETC_20200731_049326	Clear Dimension. Collapse Point St. 5 or over 2 times	미션 오픈 후{nl}차원 붕괴 지점 5단계 이상 2회 클리어				
-ETC_20200731_049327	Repair item from the user shop 100 times	미션 오픈 후{nl}유저 상점에서 아이템 수리 100회 진행				
-ETC_20200731_049328	Week 1: Hidden 	1주차 히든				
-ETC_20200731_049329	Clear Challenge Mode stage 7 or above 3 times after mission is open	미션 오픈 후 챌린지 모드 7단계 이상 3회 클리어				
-ETC_20200731_049330	Draw gem 30 times(Free drawing counted)	미션 오픈 후{nl}잼 뽑기 30회 진행(무료 뽑기 포함)				
-ETC_20200731_049331	Clear all mission of TOSventure Week 1.	트캉스 1주차 미션 모두 완료하기				
-ETC_20200731_049332	Week 2: Hidden 	2주차 히든				
-ETC_20200731_049333	Deal one hundred million or more damage at 1 hit 3 times	미션 오픈 후{nl}주간 보스 레이드 1회 대미지 1억 이상 3회 달성				
-ETC_20200731_049334	Proceed with Equipment Maintenance in user shop 40 times	미션 오픈 후{nl}유저 상점에서 장비 손질 40회 진행				
-ETC_20200731_049335	Clear all mission of TOSventure Week 2.	트캉스 2주차 미션 모두 완료하기				
-ETC_20200731_049336	Week 3: Hidden 	3주차 히든				
-ETC_20200731_049337	Dismantle item 50 times	미션 오픈 후{nl}아이템 분해 50회 진행				
-ETC_20200731_049338	Clear Assister Dungeon Stage 30 or over 1 time	미션 오픈 후{nl}어시스터 던전 30 스테이지 이상 1회 클리어				
-ETC_20200731_049339	Clear all mission of TOSventure Week 3.	트캉스 3주차 미션 모두 완료하기				
-ETC_20200731_049340	Week 4: Hidden 	4주차 히든				
-ETC_20200731_049341	Participate in Goddess' Grace 20 times(Click 20 times)	미션 오픈 후{nl}여신의 가호 20회 참여 (20회 클릭)				
-ETC_20200731_049342	Add socket 7 times in equipments with LV400 or above	미션 오픈 후{nl}400LV 이상 장비 소켓 7회 뚫기				
-ETC_20200731_049343	Clear all mission of TOSventure Week 4.	트캉스 4주차 미션 모두 완료하기				
-ETC_20200731_049344	/gold	/골드				
-ETC_20200731_049345	[Item Removal] {count} {ItemName} has expired and will be removed.	[아이템 삭제] {ItemName} {count}개가 기간 만료로 삭제 됩니다.				
-ETC_20200731_049346	{s20}When deleting team, all data in game including all characters, companions, paid/free items,{nl}TP{#ffa200}will be deleted{/}{nl}and{#ffa200}cannot be restored{/}.(Premium TP will be preserved){nl} {nl}If you really wish to delete team, please enter the following phrase.{nl}{/}	{s20}팀 삭제 시 모든 캐릭터와 컴패니언, 유/무료 아이템,{nl}TP를 포함한 {#ffa200}모든 게임 데이터가 삭제{/}되며{nl}{#ffa200}복구가 불가능{/}합니다.(프리미엄 TP는 보존){nl} {nl}정말로 팀을 삭제하시려면, 아래 문구를 입력해 주세요.{nl}{/}	ETC_20200727_049207	If deleting the team, every free, paid item/ game data/ companions except for premium TP will be deleted. Are you sure you want to delete it?	팀 삭제 시, 프리미엄 TP를 제외한 모든 캐릭터/캐릭터가 보유한 유,무료 아이템/게임 데이터/컴패니언이 삭제됩니다. 그래도 진행하시겠습니까?	
-ETC_20200731_049347	I agree that all data is deleted and cannot be restored.	모든 데이터가 삭제되며 복구할 수 없음에 동의합니다	ETC_20200727_049208	Delete every data except for Premium TP	프리미엄 TP를 제외한 모든 데이터 삭제	
-ETC_20200731_049348	{S30}{#ffa200}Warning: Game Data Deleted!!{/}{/}	{S30}{#ffa200}게임 데이터 삭제 주의!!{/}{/}				
-ETC_20200731_049349	Participate in TOSventure Event	트캉스 이벤트에 참가한다				
-ETC_20200731_049350	Mission{Level}	미션{Level}				
-ETC_20200731_049351	TOSventure Event Details	트캉스 이벤트 안내				
-ETC_20200731_049352	Open [Event] FLEX BOX	[이벤트] FLEX 박스 개봉 하기				
-ETC_20200731_049353	[Event] FLEX BOX Details	[이벤트] FLEX 박스 안내				
-ETC_20200731_049354	Medeina's FLEX BOX	메데이나 FLEX BOX				
-ETC_20200731_049355	[Event] Total Number of FLEX Pouch	[이벤트] FLEX 골드 주머니 누적 획득 량				
-ETC_20200731_049356	[Event] FLEX Pouch for 1 hour login	1시간 접속 시 [이벤트] FLEX 골드 주머니 획득				
-ETC_20200731_049357	Clear TOSventure Mission	트캉스 미션 클리어				
-ETC_20200731_049358	Daily Content Objective Completion	일일 콘텐츠 목표 진행률				
-ETC_20200731_049359	Total Number of Medeina's FLEX BOX Used	메데이나 FLEX 상자 누적 이용 횟수				
-ETC_20200731_049360	* TOSventure Completion will be activated after claiming the mission rewards.	* 트캉스 미션 진행률은 해당 미션 보상을 받아야 적용됩니다.				
-ETC_20200731_049361	Talk to the NPC and participate in the event.	NPC를 찾아가 이벤트에 참여하세요				
-ETC_20200731_049362	You can obtain [Event] FLEX Pouch from{nl}TOSventure, total login time, and clearing daily content objectives.	트캉스, 누적 접속 시간, 일일 콘텐츠 목표 진행을 통해 {nl}[이벤트] FLEX 골드 주머니를 획득할 수 있습니다.				
-ETC_20200731_049363	By every 1 hour maintaining login,	1시간 누적 접속 시 마다 				
-ETC_20200731_049364	FLEX 100 Thousand Golden Pouch	FLEX 10만 골드 주머니				
-ETC_20200731_049365	x10 can be obtained 3 times,{nl}and can also obtain 2 per an hour for 3 times	를 10개씩 3회 획득할 수 있으며, {nl}이후 3회동안 1시간에 2개씩 				
-ETC_20200731_049366	after this.	를 획득할 수 있습니다.				
-ETC_20200731_049367	You can obtain [Event] FLEX Pouch from TOSventure missions.	트캉스 미션을 통해 [이벤트] FLEX 골드 주머니를 획득할 수 있습니다.				
-ETC_20200731_049368	You can obtain [Event] FLEX Pouch by clearing contents.	콘텐츠 플레이를 통해 [이벤트] FLEX 골드 주머니를 획득할 수 있습니다.				
-ETC_20200731_049369	You can open Medeina's FLEX BOX up to maximum of 200 times.	메데이나 FLEX BOX는 최대 200회 개봉할 수 있습니다.				
-ETC_20200731_049370	The icon of the NPC might not be shown if you haven't visited the area.	방문하지 않은 지역일 경우 NPC 아이콘이 표기되지 않을 수 있습니다.				
-ETC_20200731_049371	Consume {COUNT} {ITEM}	{ITEM}을(를) {COUNT}개 소모합니다				
-ETC_20200731_049372	{TEAMNAME} obtained {COUNT} {ITEM} from {EVENT}	{TEAMNAME}님이 {EVENT}에서 {ITEM}을/를 {COUNT}개 획득하였습니다.				
-ETC_20200731_049373	You have acquired all available {ITEM} from playing today.	오늘 콘텐츠 플레이로 획득 가능한 {ITEM}을(를) 전부 획득하셨습니다.				
-ETC_20200731_049374	You have used all the available numbers to open.	개봉 가능 횟 수를 모두 이용하셨습니다.				
-ETC_20200731_049375	Some items of Medeina's FLEX BOX have reached the storage cap in your inventory.	인벤토리에 메데이나 FLEX BOX의 상품 중 최대 수량을 가진 아이템이 존재합니다.				
-ETC_20200731_049376	Open after clearing missions of week {week}.	{week}주차 미션 클리어 후 공개됩니다.				
-ETC_20200731_049377	No ongoing events currently.	현재 진행 중인 이벤트가 없습니다.				
-ETC_20200731_049378	TOSventure	트캉스				
-ETC_20200731_049379	Journal	수첩				
-ETC_20200731_049380	Acquisition Status	획득 현황				
-ETC_20200731_049381	Stamp Tour	스탬프 투어				
-ETC_20200803_049382	[Event] Ribbon Witch Hat Selection Box	[이벤트] 리본 마녀 모자 선택 상자				
-ETC_20200803_049383	Use to select and obtain one of the following items.{nl}- Purple Ribbon Witch Hat{nl}- Red Ribbon Witch Hat	사용시, 다음 아이템 중 1개를 선택하여 획득할 수 있습니다.{nl}- 보라 리본 마녀 모자{nl}- 빨간 리본 마녀 모자				
-ETC_20200803_049384	Increases the transcendence stage of equipment of level 440 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 440 이하의 방어구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.	ETC_20200731_049277	Increases the transcendence stage of equipment of level 430 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 430 이하의 방어구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.	
-ETC_20200803_049385	Increases the transcendence stage of accessory of level 440 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 440 이하의 장신구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.	ETC_20200731_049279	Increases the transcendence stage of accessory of level 430 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 430 이하의 장신구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.	
-ETC_20200803_049386	Ingredient of [x4 EXP Tome].	[x4 경험의 서] 제작 재료입니다.
-ETC_20200803_049387	Ingredient of [x8 EXP Tome].	[x8 경험의 서] 제작 재료입니다.
+ETC_20200805_049211	{img Collar_Event_Tecance 24 24} A Midsummer's TOSventure	{img Collar_Event_Tecance 24 24} 한여름의 트캉스						
+ETC_20200805_049212	A title given to the Savior who completed the Summer TOSventure.	트캉스 이벤트의 모든 미션을 클리어한 구원자에게 지급되는 칭호 입니다.				
+ETC_20200805_049213	A Midsummer's TOSventure	한여름의 트캉스				
+ETC_20200805_049214	medeinapursy	메데이나돈자랑				
+ETC_20200805_049215	medeinafabulous	메데이나멋짐				
+ETC_20200805_049216	medeinateary	메데이나울먹				
+ETC_20200805_049217	Lepidoptera Junction: Legend(EASY)	나비목 접선지 : 레전드(EASY)				
+ETC_20200805_049218	Lepidoptera Junction: Legend(NORMAL)	나비목 접선지 : 레전드(NORMAL)				
+ETC_20200805_049219	Lepidoptera Junction: Legend(HARD)	나비목 접선지 : 레전드(HARD)				
+ETC_20200805_049220	White Witch's Forest : Legend(EASY)	하얀 마녀의 숲 : 레전드(EASY)				
+ETC_20200805_049221	White Witch's Forest : Legend(NORMAL)	하얀 마녀의 숲 : 레전드(NORMAL)				
+ETC_20200805_049222	White Witch's Forest : Legend(HARD)	하얀 마녀의 숲 : 레전드(HARD)				
+ETC_20200805_049223	Challenge Mode Stage 7 or above	챌린지 모드 7단계 이상				
+ETC_20200805_049224	Challenge Mode Stage 8	챌린지 모드 8단				
+ETC_20200805_049225	Challenge Mode Stage 9	챌린지 모드 9단				
+ETC_20200805_049226	Challenge Mode Stage 10	챌린지 모드 10단				
+ETC_20200805_049227	Challenge Division Singularity Stage 2	챌린지 분열 특이점 2단				
+ETC_20200805_049228	Challenge Division Singularity Stage 3	챌린지 분열 특이점 3단				
+ETC_20200805_049229	Challenge Division Singularity Stage 4	챌린지 분열 특이점 4단				
+ETC_20200805_049230	Challenge Division Singularity Stage 5	챌린지 분열 특이점 5단				
+ETC_20200805_049231	Prevent the dimension of stage 5 or above from collapsing	차원 붕괴 저지 5단계 이상				
+ETC_20200805_049232	[Event] FLEX Pouch	[이벤트] FLEX 골드 주머니				
+ETC_20200805_049233	Use to open Medeina's FLEX BOX by the Event NPC.{nl}{#ff0000}Will be automatically deleted at the end of the event period.{/}	이벤트 NPC를 통해 메데이나 FLEX BOX를 개봉할 수 있습니다.{nl}{#ff0000}8월 20일 점검 시 삭제됩니다.{/}				
+ETC_20200805_049234	[TOSventure] Attribute Point 10,000	[트캉스]특성 포인트 10,000				
+ETC_20200805_049235	Event item.{nl}Grants 10,000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049236	[FLEX BOX] Attribute Point 10,000	[FLEX BOX]특성 포인트 10,000				
+ETC_20200805_049237	Event item.{nl}Grants 10,000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049238	[Stamp Tour] Attribute Points 10,000	[스탬프 투어]특성 포인트 10,000				
+ETC_20200805_049239	Event item.{nl}Grants 10,000 Attribute Points. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049240	[TOSventure] Challenge Portal Scroll	[트캉스] 챌린지 포탈 생성 스크롤				
+ETC_20200805_049241	Use to create a Challenge Portal.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 챌린지 포탈이 생성 됩니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049242	[FLEX BOX] Challenge Portal Scroll	[FLEX BOX] 챌린지 포탈 생성 스크롤				
+ETC_20200805_049243	Use to create a Challenge Portal.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 챌린지 포탈이 생성 됩니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049244	[Goddess' Roulette] Challenge Portal Scroll	[여신의 룰렛] 챌린지 포탈 생성 스크롤				
+ETC_20200805_049245	Use to create a Challenge Portal.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 챌린지 포탈이 생성 됩니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049246	[TOSventure] Challenge Mode One Entry Voucher	[트캉스] 챌린지 모드 1회 입장권				
+ETC_20200805_049247	Use this to allow one extra entry in Challenge Mode.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	챌린지 모드 입장 횟수를 1 차감합니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049248	[FLEX BOX] Challenge Mode One Entry Voucher	[FLEX BOX] 챌린지 모드 1회 입장권				
+ETC_20200805_049249	Use this to allow one extra entry in Challenge Mode.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	챌린지 모드 입장 횟수를 1 차감합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049250	[Goddess' Roulette] Challenge Mode One Entry Voucher	[여신의 룰렛] 챌린지 모드 1회 입장권				
+ETC_20200805_049251	Use this to allow one extra entry in Challenge Mode.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	챌린지 모드 입장 횟수를 1 차감합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049252	[TOSventure] Looting Chance: 500	[트캉스] 루팅 찬스: 500				
+ETC_20200805_049253	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	60분 동안 루팅찬스를 +500 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049254	[Stamp Tour] Looting Chance: 500	[스탬프 투어] 루팅 찬스: 500				
+ETC_20200805_049255	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	60분 동안 루팅찬스를 +500 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60분.{nl} - 루팅 찬스 포션은 중첩해서 사용 할 수 없습니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049256	[Event] Looting Chance: 500	[이벤트] 루팅 찬스: 500				
+ETC_20200805_049257	[TOSventure] Pamoka Solution EXP 2x Voucher	[트캉스] 시약병 경험치 증가량 2배 쿠폰				
+ETC_20200805_049258	Increase the amount of EXP earned for the Pamoka solution by 2x for 4 hours.{nl}Does not stack with other similar effects.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용시 4시간 동안 시약병에 들어오는 경험치가 2배 증가합니다.{nl}동일 효과의 버프와는 중복되지 않습니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049259	[Stamp Tour] Pamoka Solution EXP 2x Voucher	[스탬프 투어] 시약병 경험치 증가량 2배 쿠폰				
+ETC_20200805_049260	Increase the amount of EXP earned for the Pamoka solution by 2x for 4 hours.{nl}Does not stack with other similar effects.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용시 4시간 동안 시약병에 들어오는 경험치가 2배 증가합니다.{nl}동일 효과의 버프와는 중복되지 않습니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049261	[Event] Pamoka Solution EXP 2x Voucher	[이벤트] 시약병 경험치 증가량 2배 쿠폰				
+ETC_20200805_049262	[TOSventure] Skill + Attribute Reset Potion Package	[트캉스] 스킬+특성 초기화 포션 패키지				
+ETC_20200805_049263	Right-click to obtain the following items.{nl}Item will be deleted upon the announced date.{nl}- Skill Reset Potion (14 Days){nl}- Attribute Reset Potion (14 Days){nl}{#ff0000}Item will be deleted upon the announced date.{/}	우클릭 시, 다음 아이템을 모두 획득할 수 있습니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl} - 스킬 초기화 포션 (14일){nl} - 특성 초기화 포션 (14일){nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049264	[Stamp Tour] Skill + Attribute Reset Potion Package	[스탬프 투어] 스킬+특성 초기화 포션 패키지				
+ETC_20200805_049265	Right-click to obtain the following items.{nl}- Skill Reset Potion (14 Days){nl}- Attribute Reset Potion (14 Days){nl}{#ff0000}Item will be deleted upon the announced date.{/}	우클릭 시, 다음 아이템을 모두 획득할 수 있습니다.{nl}- 스킬 초기화 포션 (14일){nl} - 특성 초기화 포션 (14일){nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049266	[FLEX BOX] Miracle Seeds	[FLEX BOX] 축복이 깃든 씨앗				
+ETC_20200805_049267	Use to grow a sprout containing all the grace of the goddesses.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049268	[Stamp Tour] Miracle Seeds	[스탬프 투어] 축복이 깃든 씨앗				
+ETC_20200805_049269	Use to grow a sprout containing all the grace of the goddesses.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049270	[FLEX BOX] Goddess Sculpture	[FLEX BOX] 여신의 조각상				
+ETC_20200805_049271	Install this statue to receive the Goddess' Blessing for five minutes.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049272	[Stamp Tour] Goddess Sculpture	[스탬프 투어] 여신의 조각상				
+ETC_20200805_049273	Install this statue to receive the Goddess' Blessing for five minutes.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049274	[FLEX BOX] 7-Star Gem Abrasive	[FLEX BOX] 7성 젬 연마제				
+ETC_20200805_049275	Used to enhance gems. Amplifies the EXP of gems.{nl}Will be deleted when it expires.{nl}- Gem EXP: 230,700{nl}{#ff0000}Item will be deleted upon the announced date.{/}	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl} - 획득 젬 경험치: 230,700{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049276	[Goddess' Roulette] 7-Star Gem Abrasive	[여신의 룰렛] 7성 젬 연마제				
+ETC_20200805_049277	Used to enhance gems. Amplifies the EXP of gems.{nl}Will be deleted when it expires.{nl}- Gem EXP: 230,700{nl}{#ff0000}Item will be deleted upon the announced date.{/}	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl}기간 초과 시, 본 아이템이 삭제됩니다.{nl} - 획득 젬 경험치: 230,700{nl} - 획득 젬 경험치: 230,700{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049278	[FLEX BOX] Attribute Point 1,000	[FLEX BOX] 특성 포인트 1,000				
+ETC_20200805_049279	Event item.{nl}Grants 1000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049280	[Goddess' Roulette] Attribute Points 1,000	[여신의 룰렛] 특성 포인트 1,000				
+ETC_20200805_049281	Event item.{nl}Grants 1000 Attribute Points.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049282	[FLEX BOX] Urgent Repair Kit	[FLEX BOX] 긴급 수리 키트				
+ETC_20200805_049283	Recovers the durability of currently-equipped items by +5.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 착용하고 있는 장비의 내구도를 +5 회복시켜 줍니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049284	[FLEX BOX] Instanced Dungeon Reset Voucher	[FLEX BOX] 인스턴스 던전 입장 횟수 초기화권				
+ETC_20200805_049285	Use it to reset entry count for instanced dungeons.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 인스턴스 던전의 입장 횟수가 초기화됩니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049286	[Stamp Tour] Instanced Dungeon Reset Voucher	[스탬프 투어] 인스턴스 던전 입장 횟수 초기화권				
+ETC_20200805_049287	Use it to reset entry count for instanced dungeons.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	사용 시 인스턴스 던전의 입장 횟수가 초기화됩니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049288	[FLEX BOX] Instanced Dungeon Multiply Token	[FLEX BOX] 인스턴스 던전 배수 토큰				
+ETC_20200805_049289	Consumes all your remaining instanced dungeon daily entries, while multiplying the amount of items and EXP obtained in a single run by that number of entries.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	인스턴스 던전 잔여 횟수를 추가로 소모해, 획득 아이템과 경험치를 추가로 소모한 배수만큼 얻도록 합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049290	[Stamp Tour] Instanced Dungeon Multiply Token	[스탬프 투어] 인스턴스 던전 배수 토큰				
+ETC_20200805_049291	Consumes all your remaining instanced dungeon daily entries, while multiplying the number of items and EXP obtained in a single run by that number of entries.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	인스턴스 던전 잔여 횟수를 추가로 소모해, 획득 아이템과 경험치를 추가로 소모한 배수만큼 얻도록 합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049292	[Stamp Tour] Challenge Portal Scroll	[스탬프 투어] 챌린지 포탈 생성 스크롤				
+ETC_20200805_049293	[Stamp Tour] Challenge Mode One Entry Voucher	[스탬프 투어] 챌린지 모드 1회 입장권				
+ETC_20200805_049294	[Goddess' Roulette] Instanced Dungeon Reset Voucher	[여신의 룰렛] 인스턴스 던전 입장 횟수 초기화권				
+ETC_20200805_049295	[Goddess' Roulette] Instanced Dungeon Multiply Token	[여신의 룰렛] 인스턴스 던전 배수 토큰				
+ETC_20200805_049296	[Goddess' Roulette] Attribute Points 10,000	[여신의 룰렛]특성 포인트 10,000				
+ETC_20200805_049297	[Event] Ribbon Witch Hat Selection Box	[이벤트] 리본 마녀 모자 선택 상자				
+ETC_20200805_049298	Use to select and obtain one of the following items.{nl}- Purple Ribbon Witch Hat{nl}- Red Ribbon Witch Hat	사용시, 다음 아이템 중 1개를 선택하여 획득할 수 있습니다.{nl}- 보라 리본 마녀 모자{nl}- 빨간 리본 마녀 모자				
+ETC_20200805_049299	Title - A Midsummer's TOSventure	칭호-한여름의 트캉스				
+ETC_20200805_049300	Title-Item that will award you with A Midsummer's TOSventure title. Right-click to use.	칭호-한여름의 트캉스 칭호를 획득할 수 있는 아이템 입니다. 우클릭으로 사용하실 수 있습니다.				
+ETC_20200805_049301	Reward given to saviors who cleared every mission in Stamp Tour.{nl}List of items:{nl}-Title - Stamp Tourist x3{nl}- [Event] Attribute Points 10,000 x5{nl}- [Event] Ruby Anvil x5{nl}- [LV.440] Stage 5 Transcendence Scroll - Weapon x1{nl}Will be automatically deleted at the announced date.{/}	스탬프 투어 이벤트의 모든 미션을 클리어한 구원자에게 주는 보상입니다.{nl}획득 가능 아이템{nl}-칭호 - 달려라 스탬프 투어! 3개{nl}- [이벤트]특성 포인트 10,000 5개{nl}- [이벤트]루비 모루 5개{nl}- [LV.440] 5초월 스크롤 - 무기 1개{nl}{#ff0000}10월 29일 오전 06시에 삭제됩니다.{/}				
+ETC_20200805_049302	[Lv. 440] Transcendence Stage 5 Scroll - Weapon	[Lv. 440] 5초월 스크롤 - 무기				
+ETC_20200805_049303	Increases the transcendence stage of weapon of level 440 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 440 이하의 무기 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.				
+ETC_20200805_049304	[Lv. 440] Transcendence Stage 5 Scroll - Armor	[Lv. 440] 5초월 스크롤 - 방어구				
+ETC_20200805_049305	Increases the transcendence stage of armor of level 440 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 440 이하의 방어구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.				
+ETC_20200805_049306	[Lv. 440] Transcendence Stage 5 Scroll - Accessory	[Lv. 440] 5초월 스크롤 - 장신구				
+ETC_20200805_049307	Increases the transcendence stage of accessory of level 440 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.	레벨 440 이하의 장신구 아이템의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.				
+ETC_20200805_049308	[Event] Reset Pack	[이벤트] 초기화 패키지				
+ETC_20200805_049309	Use and receive the following Item.{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl} - Attribute Reset Potion	사용 시 다음 아이템을 획득합니다.{nl}- 스탯 초기화 포션{nl}- 스킬 초기화 포션{nl}- 특성 초기화 포션				
+ETC_20200805_049310	[Event] Maximum Level Emoji Box	[이벤트] 만랩 달성 이모티콘 상자				
+ETC_20200805_049311	Use to obtain 3 of the each items of the following.{nl}- Emoticon: Kupole (Evil){nl}- Emoticon: Kupole (Sigh){nl}- Emoticon: Kupole (Peace){nl}- Emote: Boruble (Shy){nl}- Emote: Rozalija (Joy){nl}- Emoticon: Marnoxi(Chocolate){nl}- Emoticon: Medeina (Handwashing){nl}- Emoticon: Medeina (Flustered) {nl}- Emoticon: Medeina (Joy){nl}- Motion Emoticon: Kupole (Sigh){nl}- Motion Emoticon: Kupole (Shocked){nl}- Motion Emoticon: Kupole (Cheeky){nl}- Motion Emoticon: Medeina (Flustered){nl}- Motion Emoticon: Medeina (Joy)	사용 시 다음 아이템을 각각 3개씩 획득할 수 있습니다.{nl}- 이모티콘: 큐폴(히죽){nl}- 이모티콘: 큐폴(한숨){nl}- 이모티콘: 큐폴(더블피스){nl}- 이모티콘: 보러블(부끄){nl}- 이모티콘: 로잘리야(기쁨){nl}- 이모티콘: 녹순이(초코){nl}- 이모티콘: 메데이나(청결){nl}- 이모티콘: 메데이나(당황){nl}- 이모티콘: 메데이나(기쁨){nl}- 모션 이모티콘: 큐폴(한숨){nl}- 모션 이모티콘: 큐폴(충격){nl}- 모션 이모티콘: 큐폴(데헷){nl}- 모션 이모티콘: 메데이나(당황){nl}- 모션 이모티콘: 메데이나(기쁨)				
+ETC_20200805_049312	[TOSventure] Golden Ichor Extraction Kit	[트캉스] 황금 아이커 추출 키트				
+ETC_20200805_049313	Tool used in the extraction of Ichors. Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 장비 포텐셜 0일 경우 사용 가능하며, 아이템 파괴를 방지합니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049314	[FLEX BOX] Golden Ichor Extraction Kit	[FLEX BOX] 황금 아이커 추출 키트				
+ETC_20200805_049315	Tool used in the extraction of Ichors. Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 장비 포텐셜 0일 경우 사용 가능하며, 아이템 파괴를 방지합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049316	[Goddess' Roulette] Golden Ichor Extraction Kit	[여신의 룰렛] 황금 아이커 추출 키트				
+ETC_20200805_049317	Tool used in the extraction of Ichors. Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 장비 포텐셜 0일 경우 사용 가능하며, 아이템 파괴를 방지합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049318	[TOSventure] Silver Ichor Extraction Kit	[트캉스] 은빛 아이커 추출 키트				
+ETC_20200805_049319	Tool used in the extraction of Ichors. It does not require consumables.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 소모하는 재화가 필요 없습니다.{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049320	[FLEX BOX] Silver Ichor Extraction Kit	[FLEX BOX] 은빛 아이커 추출 키트				
+ETC_20200805_049321	Tool used in the extraction of Ichors. It does not require consumables.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 소모하는 재화가 필요 없습니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049322	[Event] Silver Ichor Extraction Kit	[이벤트] 은빛 아이커 추출 키트				
+ETC_20200805_049323	[TOSventure] Ancient Golden Socket	[트캉스] 오래된 황금 소켓				
+ETC_20200805_049324	Use to add a socket on equipment with 0 potential. The socket will not be added if the equipment has already reached its maximum socket limit. Right-click to use. {nl}{#ff0000}Item will be deleted upon the announced date.{/}	포텐셜이 0인 장비에만 사용가능 하며, 사용시 소켓이 추가됩니다. 단, 최대 소켓 개수 이상으로 추가 할 수 없습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 13일오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049325	[Stamp Tour] Ancient Golden Socket	[스탬프 투어] 오래된 황금 소켓				
+ETC_20200805_049326	Use to add a socket on equipment with 0 potential. The socket will not be added if the equipment has already reached its maximum socket limit. Right-click to use. {nl}{#ff0000}Item will be deleted upon the announced date.{/}	포텐셜이 0인 장비에만 사용가능 하며, 사용시 소켓이 추가됩니다. 단, 최대 소켓 개수 이상으로 추가 할 수 없습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049327	[FLEX BOX] Silver Anvil	[FLEX BOX] 은빛 모루				
+ETC_20200805_049328	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. You can enhance equipment without the cost of silver. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 실버 소비 없이 장비를 강화할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049329	[Goddess' Roulette] Silver Anvil	[여신의 룰렛] 은빛 모루				
+ETC_20200805_049330	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. You can enhance equipment without the cost of silver. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 실버 소비 없이 장비를 강화할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049331	[FLEX BOX] Gold Anvil	[FLEX BOX] 황금 모루				
+ETC_20200805_049332	Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049333	[Goddess' Roulette] Golden Anvil	[여신의 룰렛] 황금 모루				
+ETC_20200805_049334	Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049335	[Stamp Tour] Golden Ichor Extraction Kit	[스탬프 투어] 황금 아이커 추출 키트				
+ETC_20200805_049336	[Stamp Tour] Silver Ichor Extraction Kit	[스탬프 투어] 은빛 아이커 추출 키트				
+ETC_20200805_049337	Tool used in the extraction of Ichors. It does not require consumables.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	아이커 추출에 사용되는 도구입니다. 소모하는 재화가 필요 없습니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049338	[Goddess' Roulette] Silver Ichor Extraction Kit	[여신의 룰렛] 은빛 아이커 추출 키트				
+ETC_20200805_049339	[TOSventure] Sandra's Magnifier	[트캉스] 산드라의 감정 돋보기				
+ETC_20200805_049340	Select a bonus stat of Random-Stat equipment to change its stat, group, and value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션을 선택하여 다른 옵션 그룹, 옵션, 수치로 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049341	[FLEX BOX] Sandra's Magnifier	[FLEX BOX] 산드라의 감정 돋보기				
+ETC_20200805_049342	Select a bonus stat of Random-Stat equipment to change its stat, group, and value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션을 선택하여 다른 옵션 그룹, 옵션, 수치로 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049343	[Goddess' Roulette] Sandra's Magnifier	[여신의 룰렛] 산드라의 감정 돋보기				
+ETC_20200805_049344	Select a bonus stat of Random-Stat equipment to change its stat, group, and value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션을 선택하여 다른 옵션 그룹, 옵션, 수치로 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049345	[TOSventure] Sandra's Detailed Magnifier	[트캉스] 산드라의 미세 감정 돋보기				
+ETC_20200805_049346	Select a bonus stat of Random-Stat equipment to change its value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션 하나를 선택하여 옵션은 유지하고 수치만 변경합니다. 변경된 수치는 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 13일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049347	[FLEX BOX] Sandra's Detailed Magnifier	[FLEX BOX] 산드라의 미세 감정 돋보기				
+ETC_20200805_049348	Select a bonus stat of Random-Stat equipment to change its value. The new random value will apply immediately and cannot be reversed .{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션 하나를 선택하여 옵션은 유지하고 수치만 변경합니다. 변경된 수치는 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049349	[FLEX BOX] Mysterious Magnifier	[FLEX BOX] 신비한 돋보기				
+ETC_20200805_049350	Randomly changes the number, groups, and values of stats contained in a random stat item. It also alters the item's stats themselves. Applied stats cannot be reversed.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049351	[Goddess' Roulette] Mysterious Magnifier	[여신의 룰렛] 신비한 돋보기				
+ETC_20200805_049352	Randomly changes the number, groups, and values of stats contained in a random stat item. It also alters the item's stats themselves. Applied stats cannot be reversed.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049353	[FLEX BOX] Artisan Magnifier	[FLEX BOX] 장인의 돋보기				
+ETC_20200805_049354	Randomly changes the number, groups, and values of stats contained in a random-stat item. You can select one stat from the before or after to keep. To use the item you must select one stat to keep.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 변경 전 옵션과 변경 후 옵션 중 1개를 선택 할 수 있습니다. 옵션 선택을 하지 않으면 아이템을 사용 할 수 없습니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049355	[Goddess' Roulette] Artisan Magnifier	[여신의 룰렛] 장인의 돋보기				
+ETC_20200805_049356	Randomly changes the number, groups, and values of stats contained in a random-stat item. You can select one stat from the before or after to keep. To use the item you must select one stat to keep.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 변경 전 옵션과 변경 후 옵션 중 1개를 선택 할 수 있습니다. 옵션 선택을 하지 않으면 아이템을 사용 할 수 없습니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049357	[FLEX BOX] Premium Awakening Stone	[FLEX BOX] 프리미엄 각성석				
+ETC_20200805_049358	Helps awaken an item without reducing the potential of the equipment.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	장비의 포텐셜을 감소시키지 않고 아이템 각성을 할 수 있게 도와줍니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049359	[Goddess' Roulette] Premium Awakening Stone	[여신의 룰렛] 프리미엄 각성석				
+ETC_20200805_049360	Helps awaken an item without reducing the potential of the equipment.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	장비의 포텐셜을 감소시키지 않고 아이템 각성을 할 수 있게 도와줍니다.{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049361	[FLEX BOX] Enchant Scroll	[FLEX BOX] 마법 부여 스크롤				
+ETC_20200805_049362	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	헤어 코스튬에 사용 시 랜덤한 옵션이 추가됩니다. 옵션은 최대 3개까지 생성될 수 있습니다. 착용하고 있는 장비에는 사용할 수 없습니다. 마우스 우클릭으로 사용합니다.{nl}{#ff0000}8월 27일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049363	[Stamp Tour] Sandra's Detailed Magnifier	[스탬프 투어] 산드라의 미세 감정 돋보기				
+ETC_20200805_049364	Select a bonus stat of Random-Stat equipment to change its value. The new random value will apply immediately and cannot be reversed.{nl}{#ff0000}[Available in items with Lv.430 or above only]{nl}{#ff0000}Item will be deleted upon the announced date.{/}	랜덤 옵션 아이템의 옵션 중에서 원하는 옵션 하나를 선택하여 옵션은 유지하고 수치만 변경합니다. 변경된 수치는 즉시 적용되며 이전으로 돌아갈 수 없습니다.{nl}{#ff0000}[430레벨 이상인 아이템에만 사용 가능]{nl}{#ff0000}10월 29일 오전 6시에 삭제됩니다.{/}				
+ETC_20200805_049365	[Goddess' Roulette] Sandra's Detailed Magnifier	[여신의 룰렛] 산드라의 미세 감정 돋보기				
+ETC_20200805_049366	Episode 3 Complete::Road to the Mausoleum	에피소드 3 클리어::왕릉으로 가는 길				
+ETC_20200805_049367	Episode 7 Complete::The Dimensional Crack(7){nl}Revelation of Fortress of the Land	에피소드 7 클리어::전이 틈새(7){nl}부서진 봉인탑(2){nl}대지의 요새 계시				
+ETC_20200805_049368	Episode 12 Complete::Dusk and Dawn (5)	에피소드 12 클리어::황혼과 여명(5)				
+ETC_20200805_049369	Interact with all Statue of Goddess Zemyna:: West Siauliai Woods{nl}Lemprasa Pond{nl}Siauliai Miners' Village{nl}Zachariel Crossroads{nl}Royal Mausoleum Constructors' Chapel{nl}Saknis Plains{nl}Inner Enceinte District{nl}Lanko 22 Waters{nl}Nazarene Tower{nl}Tekel Shelter{nl}Barynwell 86 Waters{nl}Baltinel Memorial	모든 제미나 여신상과 상호작용 하기::샤울레이 서쪽 숲{nl}렘파라사 연못{nl}샤울레이 광산 마을{nl}자카리엘 교차로{nl}왕릉 건축자 예배당{nl}사크니스 벌판{nl}내성곽지구{nl}란코 22수역{nl}나자레느 탑{nl}테켈 피난지{nl}바린웰 86수역{nl}발티넬 기념구				
+ETC_20200805_049370	Enhance Card or Gem 10 times during the Stamp Tour	투어 기간 중 카드 및 젬 강화 통합 10회 이상 진행				
+ETC_20200805_049371	Identify unidentified item 50 times from the NPC of the village{nl}during the Stamp Tour::[Identifier] Sandra{nl}[Blacksmith] Zaras	스탬프 투어 기간 중{nl}마을의 NPC에게 미감정 아이템 감정 50회 진행::[감정사] 산드라{nl}[대장장이] 자라스				
+ETC_20200805_049372	Carry equipment 12 ENH or over, 10 TRA:: Henrika of Klaipeda and Florianna of Orsha{nl}will check the item's enhancement and transcendence status and clear the mission.	12강 이상 10초월 장비 소지::클라페다의 헤느리가와 오르샤의 플로아나에게{nl}아이템 강화와 초월 상태를 검사받고 미션을 완료하세요.				
+ETC_20200805_049373	Re-identify equipment with Lv.400 or more 30 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}400LV 이상 장비 재감정 30회 진행				
+ETC_20200805_049374	Extract Ichor of equipment with Lv.400 or more 6 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}400LV 이상 장비 아이커 추출 6회 성공				
+ETC_20200805_049375	Clear Level dungeon 5 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}레벨 던전 5회 클리어				
+ETC_20200805_049376	Clear Unique Raid 10 times {nl}during the Stamp Tour::	스탬프 투어 기간 중{nl}유니크 레이드 10회 클리어::				
+ETC_20200805_049377	Clear certain Legend Raid 5 times:: Tomb of the White Crow: Legend{nl}Tomb of the White Crow: Legend Casual{nl}Lepidoptera Junction: Legend(Easy){nl}Lepidoptera Junction: Legend(Normal){nl}Lepidoptera Junction: Legend(Hard){nl}during the Stamp Tour	스탬프 투어 기간 중{nl}특정 레전드 레이드 5회 클리어::흰 까마귀의 영면지: 레전드{nl}흰 까마귀의 영면지: 레전드 캐주얼{nl}나비목 접선지 : 레전드(Easy){nl}나비목 접선지 : 레전드(Normal){nl}나비목 접선지 : 레전드(Hard)				
+ETC_20200805_049378	Clear Uphill Defense 16 times(All difficulties){nl}during the Stamp Tour	스탬프 투어 기간 중{nl}업힐 디펜스 16회 클리어 (난이도 무관)				
+ETC_20200805_049379	Clear Uphill Defense(Very Hard) 8 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}업힐 디펜스 매우 어려움 8회 클리어				
+ETC_20200805_049380	Clear Challenge Mode Stage 7 or above 10 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}챌린지 모드 7단계 10회 클리어				
+ETC_20200805_049381	Clear Dimensional Collapse Point Stage 5 or above 5 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}차원붕괴 지점 5단계 이상 5회 클리어				
+ETC_20200805_049382	Clear Earth Tower 5 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}대지의 탑 5회 클리어				
+ETC_20200805_049383	Clear Hunting Ground 20 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}프리던전 20회 클리어				
+ETC_20200805_049384	Deal 50 million or more damage at 1 hit 3 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}주간 보스 레이드 1회 대미지 5천만 이상 3회 달성				
+ETC_20200805_049385	Dismantle item from the blacksmith in the village 50 times{nl}during the Stamp Tour	마을 대장장이 NPC에게 아이템 분해 50회 진행				
+ETC_20200805_049386	Repair equipment 150 times from the blacksmith in the village{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}마을 대장장이에게 장비수리 150회 진행				
+ETC_20200805_049387	Use personal shops 300 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}개인 상점 이용 300회				
+ETC_20200805_049388	Draw gem 30 times(Free drawing counted){nl}during the Stamp Tour	스탬프 투어 기간 중 {nl}젬 뽑기 30회 진행(무료 젬 뽑기 포함)				
+ETC_20200805_049389	Craft Goddess' Blessed Gem 30 times	여신의 축복석 30회 제작 진행				
+ETC_20200805_049390	Week 1	1주차				
+ETC_20200805_049391	Clear certain Legend Raid 5 times:: Tomb of the White Crow: Legend{nl}Tomb of the White Crow: Legend Casual{nl}Lepidoptera Junction: Legend(Easy){nl}Lepidoptera Junction: Legend(Normal){nl}Lepidoptera Junction: Legend(Hard){nl}after mission is open{nl}	미션 오픈 후{nl}특정 레전드 레이드 5회 클리어::흰 까마귀의 영면지: 레전드{nl}흰 까마귀의 영면지: 레전드 캐주얼{nl}나비목 접선지 : 레전드(Easy){nl}나비목 접선지 : 레전드(Normal){nl}나비목 접선지 : 레전드(Hard)				
+ETC_20200805_049392	Clear Hunting Grounds 5 times{nl}after mission is open	미션 오픈 후{nl}프리던전 보스 5회 처치				
+ETC_20200805_049393	Succeed in crafting item 30 times{nl}after mission is open	미션 오픈 후{nl}아이템 제작 30회 성공				
+ETC_20200805_049394	Week 2	2주차				
+ETC_20200805_049395	Clear Challenge Mode stage 5 or above 10 times after mission is open	미션 오픈 후 챌린지 모드 5단계 이상 10회 클리어				
+ETC_20200805_049396	Clear Level Dungeon 20 times{nl}after mission is open	미션 오픈 후{nl}레벨 던전 20회 클리어				
+ETC_20200805_049397	Re-identify equipment with Lv. 430 or more 30 times{nl}after mission is open	미션 오픈 후{nl}430.LV 이상 장비 재감정 30회 진행				
+ETC_20200805_049398	Week 3	3주차				
+ETC_20200805_049399	Clear Uphill Defense Very Hard Stage 15 or above 4 times:: Only counted when clearing Very Hard Stage 15 or above	미션 오픈 후{nl}업힐 디펜스 매우 어려움 15단계 이상 4회 클리어::매우 어려움 15단계 이상 클리어 시에만 카운트 됩니다.				
+ETC_20200805_049400	Clear certain Unique Raid 10 times:: Tomb of the White Crow: Casual{nl}Lepidoptera Junction: Casual{nl}Tomb of the White Crow: Unique{nl}Lepidoptera Junction: Unique{nl}White Witch's Forest: Unique	미션 오픈 후{nl}특정 유니크 레이드 10회 클리어::흰 까마귀의 영면지: 캐주얼{nl}나비목 접선지 : 캐주얼{nl}흰 까마귀의 영면지 : 유니크{nl}나비목 접선지 : 유니크{nl}하얀 마녀의 숲 : 유니크				
+ETC_20200805_049401	Extract Ichor of equipment with Lv.400 or more 3 times{nl}after mission is open	미션 오픈 후{nl}400.LV 이상 장비 아이커 추출 3회 성공				
+ETC_20200805_049402	Week 4	4주차				
+ETC_20200805_049403	Succeed in transcending item 3 times{nl}after mission is open	미션 오픈 후{nl}아이템 초월 3회 성공				
+ETC_20200805_049404	Clear Dimension. Collapse Point St. 5 or over 2 times{nl}after mission is open	미션 오픈 후{nl}차원 붕괴 지점 5단계 이상 2회 클리어				
+ETC_20200805_049405	Repair item from the user shop 100 times{nl}after mission is open	미션 오픈 후{nl}유저 상점에서 아이템 수리 100회 진행				
+ETC_20200805_049406	Week 1: Hidden 	1주차 히든				
+ETC_20200805_049407	Clear Challenge Mode stage 7 or above 3 times after mission is open	미션 오픈 후 챌린지 모드 7단계 이상 3회 클리어				
+ETC_20200805_049408	Draw gem 30 times(Free drawing counted){nl}after mission is open	미션 오픈 후{nl}잼 뽑기 30회 진행(무료 뽑기 포함)				
+ETC_20200805_049409	Clear all mission of TOSventure Week 1	트캉스 1주차 미션 모두 완료하기				
+ETC_20200805_049410	Week 2: Hidden 	2주차 히든				
+ETC_20200805_049411	Deal one hundred million or more damage at 1 hit 3 times{nl}after the mission is open	미션 오픈 후{nl}주간 보스 레이드 1회 대미지 1억 이상 3회 달성				
+ETC_20200805_049412	Proceed with Equipment Maintenance in user shop 40 times{nl}after mission is open	미션 오픈 후{nl}유저 상점에서 장비 손질 40회 진행				
+ETC_20200805_049413	Clear all mission of TOSventure Week 2	트캉스 2주차 미션 모두 완료하기				
+ETC_20200805_049414	Week 3: Hidden 	3주차 히든				
+ETC_20200805_049415	Dismantle item 50 times{nl}after mission is open	미션 오픈 후{nl}아이템 분해 50회 진행				
+ETC_20200805_049416	Clear Assister Dungeon Stage 30 or over 1 time{nl}after mission is open	미션 오픈 후{nl}어시스터 던전 30 스테이지 이상 1회 클리어				
+ETC_20200805_049417	Clear all mission of TOSventure Week 3	트캉스 3주차 미션 모두 완료하기				
+ETC_20200805_049418	Week 4: Hidden 	4주차 히든				
+ETC_20200805_049419	Participate in Goddess' Grace 20 times(Click 20 times){nl}after mission is open	미션 오픈 후{nl}여신의 가호 20회 참여 (20회 클릭)				
+ETC_20200805_049420	Add socket 7 times in equipments with LV400 or above	미션 오픈 후{nl}400LV 이상 장비 소켓 7회 뚫기				
+ETC_20200805_049421	Clear all mission of TOSventure Week 4	트캉스 4주차 미션 모두 완료하기				
+ETC_20200805_049422	/gold	/골드				
+ETC_20200805_049423	/maxLevel	/만렙				
+ETC_20200805_049424	Opening this cube consumes {CONSUME}.{nl}Are you sure you want to open it?	큐브 개봉시{nl}{CONSUME}  소모됩니다.{nl}정말 개봉하시겠습니까?	ETC_20170912_028772	Opening this cube consumes {CONSUME}.{nl}Are you sure you want to open it?	큐브 개봉시{nl}{CONSUME}{nl}소모됩니다.{nl}정말 개봉하시겠습니까?	
+ETC_20200805_049425	[Item Removal] {count} {ItemName} has expired and will be removed.	[아이템 삭제] {ItemName} {count}개가 기간 만료로 삭제 됩니다.				
+ETC_20200805_049426	Ingredient of [x4 EXP Tome].	[x4 경험의 서] 제작 재료입니다.				
+ETC_20200805_049427	Ingredient of [x8 EXP Tome].	[x8 경험의 서] 제작 재료입니다.				
+ETC_20200805_049428	{@st66d_y}{s20}{COUNT}{/}{/}{@st45tw}{s20} count Bonus	{@st66d_y}{s20}{COUNT}{/}{/}{@st45tw}{s20}회차 보너스				
+ETC_20200805_049429	Buy Cube	큐브 구매				
+ETC_20200805_049430	Receive Count Reward	회차보상 받기				
+ETC_20200805_049431	Receive {#003399}[Season Server]{/} Guild Event	{#003399}[시즌서버]{/} 길드 이벤트 보상 수령하기				
+ETC_20200805_049432	Total Guild Quest Completion{nl}Weekly Clear Count({WEEKCOUNT}/3){nl}Total Clear Count({TOTALCOUNT}/12){nl}{#FF0000}※Weekly Clear Count will reset at 00:00 every Tuesday.{/}	길드 퀘스트 누적 클리어 횟수{nl}주간 클리어 횟수({WEEKCOUNT}/3){nl}누적 클리어 횟수({TOTALCOUNT}/12){nl}{#FF0000}※주간 클리어 횟수는 매주 월요일 06시에 초기화 됩니다.{/}				
+ETC_20200805_049433	{s20}When deleting team, all data in game including all characters, companions, paid/free items,{nl}TP{#ffa200}will be deleted{/}{nl}and{#ffa200}cannot be restored{/}.(Premium TP will be preserved){nl} {nl}If you really wish to delete team, please enter the following phrase.{nl}{/}	{s20}팀 삭제 시 모든 캐릭터와 컴패니언, 유/무료 아이템,{nl}TP를 포함한 {#ffa200}모든 게임 데이터가 삭제{/}되며{nl}{#ffa200}복구가 불가능{/}합니다.(프리미엄 TP는 보존){nl} {nl}정말로 팀을 삭제하시려면, 아래 문구를 입력해 주세요.{nl}{/}	ETC_20200727_049207	If deleting the team, every free, paid item/ game data/ companions except for premium TP will be deleted. Are you sure you want to delete it?	팀 삭제 시, 프리미엄 TP를 제외한 모든 캐릭터/캐릭터가 보유한 유,무료 아이템/게임 데이터/컴패니언이 삭제됩니다. 그래도 진행하시겠습니까?	
+ETC_20200805_049434	I agree that all data is deleted and cannot be restored.	모든 데이터가 삭제되며 복구할 수 없음에 동의합니다	ETC_20200727_049208	Delete every data except for Premium TP	프리미엄 TP를 제외한 모든 데이터 삭제	
+ETC_20200805_049435	{S30}{#ffa200}Warning: Game Data Deleted!!{/}{/}	{S30}{#ffa200}게임 데이터 삭제 주의!!{/}{/}				
+ETC_20200805_049436	Obtain 5 coins at 1 hour login	1시간 접속 시 코인 5개 획득	ETC_20200514_048021	Obtain 10 coins at 1 hour loggin	1시간 접속 시 코인 10개 획득	
+ETC_20200805_049437	Talk to the Magic Association NPC and participate in the event.	마법 협회 NPC를 찾아가 이벤트에 참여하세요	ETC_20200207_045180	Talk to a Magic Association NPC and join the event.	마법 협회 npc를 찾아가 이벤트에 참여하세요	
+ETC_20200805_049438	Participate in TOSventure Event	트캉스 이벤트에 참가한다				
+ETC_20200805_049439	Mission{Level}	미션{Level}				
+ETC_20200805_049440	TOSventure Event Details	트캉스 이벤트 안내				
+ETC_20200805_049441	Open [Event] FLEX BOX	[이벤트] FLEX 박스 개봉 하기				
+ETC_20200805_049442	[Event] FLEX BOX Details	[이벤트] FLEX 박스 안내				
+ETC_20200805_049443	Medeina's FLEX BOX	메데이나 FLEX BOX				
+ETC_20200805_049444	[Event] Total Number of FLEX Pouch	[이벤트] FLEX 골드 주머니 누적 획득 량				
+ETC_20200805_049445	Obtain [Event] FLEX Pouch when maintaining login for an hour	1시간 접속 시 [이벤트] FLEX 골드 주머니 획득				
+ETC_20200805_049446	Clear TOSventure Mission	트캉스 미션 클리어				
+ETC_20200805_049447	Daily Content Objective Completion	일일 콘텐츠 목표 진행률				
+ETC_20200805_049448	Total Number of Medeina's FLEX BOX Used	메데이나 FLEX 상자 누적 이용 횟수				
+ETC_20200805_049449	* TOSventure Completion will be activated after claiming the mission rewards.	* 트캉스 미션 진행률은 해당 미션 보상을 받아야 적용됩니다.				
+ETC_20200805_049450	Talk to the NPC and participate in the event.	NPC를 찾아가 이벤트에 참여하세요				
+ETC_20200805_049451	You can obtain [Event] FLEX Pouch from{nl}TOSventure, total login time, and clearing daily content objectives.	트캉스, 누적 접속 시간, 일일 콘텐츠 목표 진행을 통해 {nl}[이벤트] FLEX 골드 주머니를 획득할 수 있습니다.				
+ETC_20200805_049452	By every 1 hour maintaining login,	1시간 누적 접속 시 마다 				
+ETC_20200805_049453	FLEX 100 Thousand Golden Pouch	FLEX 10만 골드 주머니				
+ETC_20200805_049454	x10 can be obtained 3 times,{nl}and can also obtain 2 per an hour for 3 times	를 10개씩 3회 획득할 수 있으며, {nl}이후 3회동안 1시간에 2개씩 				
+ETC_20200805_049455	after this.	를 획득할 수 있습니다.				
+ETC_20200805_049456	You can obtain [Event] FLEX Pouch from TOSventure missions.	트캉스 미션을 통해 [이벤트] FLEX 골드 주머니를 획득할 수 있습니다.				
+ETC_20200805_049457	You can obtain [Event] FLEX Pouch by clearing contents.	콘텐츠 플레이를 통해 [이벤트] FLEX 골드 주머니를 획득할 수 있습니다.				
+ETC_20200805_049458	You can open Medeina's FLEX BOX up to maximum of 200 times.	메데이나 FLEX BOX는 최대 200회 개봉할 수 있습니다.				
+ETC_20200805_049459	The icon of the NPC might not be shown if you haven't visited the area.	방문하지 않은 지역일 경우 NPC 아이콘이 표기되지 않을 수 있습니다.				
+ETC_20200805_049460	Consume {COUNT} {ITEM}	{ITEM}을(를) {COUNT}개 소모합니다				
+ETC_20200805_049461	{TEAMNAME} obtained {COUNT} {ITEM} from {EVENT}	{TEAMNAME}님이 {EVENT}에서 {ITEM}을/를 {COUNT}개 획득하였습니다.				
+ETC_20200805_049462	You have acquired all available {ITEM} from playing today.	오늘 콘텐츠 플레이로 획득 가능한 {ITEM}을(를) 전부 획득하셨습니다.				
+ETC_20200805_049463	You have used all the available numbers to open.	개봉 가능 횟 수를 모두 이용하셨습니다.				
+ETC_20200805_049464	Some items of Medeina's FLEX BOX have reached the storage cap in your inventory.	인벤토리에 메데이나 FLEX BOX의 상품 중 최대 수량을 가진 아이템이 존재합니다.				
+ETC_20200805_049465	Receive Stamp Tour Mission Clear Box.	 스탬프 투어 미션 클리어 기념 상자 수령하기				
+ETC_20200805_049466	A coin obtained by Daily 1 hour login, Stamp Tour and Contents Play.{nl}Maximum 600 can be obtained.	일일 1시간 접속, 스탬프 투어, 콘텐츠 이용을 통해 획득한 모든 주화 입니다.{nl}최대 600개 획득 가능합니다.				
+ETC_20200805_049467	Clear the content for the first time and receive the Goddess' Roulette Coin.	콘텐츠 첫 클리어 통해 여신의 룰렛 코인을 획득할 수 있습니다.				
+ETC_20200805_049468	Receive Season Server Buff	시즌 서버 버프 받기				
+ETC_20200805_049469	Open after clearing missions of week {week}.	{week}주차 미션 클리어 후 공개됩니다.				
+ETC_20200805_049470	Lv450 Reward ({State1}){nl}Lv440 Reward ({State2}){nl}Event Period: August 11 after maintenance ~ November 10 before maintenance	450레벨 달성 보상 ({State1}){nl}440레벨 달성 보상 ({State2}){nl}이벤트 기간: 8월 6일 ~ 10월 22일 점검 전				
+ETC_20200805_049471	You have already received the maximum level reward.	이미 만랩 달성 보상을 획득하였습니다.				
+ETC_20200805_049472	Unclaimed	미수령				
+ETC_20200805_049473	You have not met the specific conditions.	조건을 충족하지 못하였습니다.				
+ETC_20200805_049474	Buff activated. (24 hours){nl}You can re-activate the buff after 6 hours.	버프를 활성화 했습니다. (24시간){nl}6시간 후 다시 버프를 활성화할 수 있습니다.				
+ETC_20200805_049475	Buff effect is already applied.	이미 버프 효과를 받고있습니다.				
+ETC_20200805_049476	In order to activate the Promising Guild buff, the following conditions must be met.{nl}1. Level of Guild Master: Lv.440 or more{nl}2. 10 or more members in guild including the guild master	촉망받는 길드 버프를 활성화를 위해서는 다음과 같은 조건이 만족되어야 합니다.{nl}1. 길드 마스터의 레벨이 440LV 이상{nl}2. 길드원이 길드 마스터 포함 10명 이상				
+ETC_20200805_049477	Any guild member can activate the guild buff.{nl}Buff remains for 24 hours and there is 6 hours of cooldown.{nl}Buff is applied when moving though maps.	길드 버프 활성화는 모든 길드원이 가능합니다.{nl}버프 활성화는 24시간 동안 유지되며, 6시간의 쿨타임이 있습니다.{nl} 버프는 맵 이동 시에 적용됩니다.				
+ETC_20200805_049478	No ongoing events currently.	현재 진행 중인 이벤트가 없습니다.				
+ETC_20200805_049479	TOSventure	트캉스				
+ETC_20200805_049480	Journal	수첩				
+ETC_20200805_049481	Acquisition Status	획득 현황				
+ETC_20200805_049482	Stamp Tour	스탬프 투어				
+ETC_20200807_049483	2020 Leticia's Treasure Chest (Season 8)	2020 레티샤의 보물 상자(7월)			
+ETC_20200807_049484	Use to select one of the following items.{nl}- [Lv. 440] Stage 9 Transcendence Scroll x1{nl}- Goddess' Blessed Gem x100	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - [Lv.440] 9초월 스크롤 x1 {nl} - 여신의 축복석 x 100			
+ETC_20200807_049485	Enhance Card or Gem 10 times	카드 및 젬 강화 통합 10회 이상 진행	ETC_20200805_049370	Enhance Card or Gem 10 times during the Stamp Tour	투어 기간 중 카드 및 젬 강화 통합 10회 이상 진행
+ETC_20200807_049486	Identify unidentified item 50 times from the NPC of the village::[Identifier] Sandra{nl}[Blacksmith] Zaras	마을의 NPC에게 미감정 아이템 감정 50회 진행::[감정사] 산드라{nl}[대장장이] 자라스	ETC_20200805_049371	Identify unidentified item 50 times from the NPC of the village{nl}during the Stamp Tour::[Identifier] Sandra{nl}[Blacksmith] Zaras	스탬프 투어 기간 중{nl}마을의 NPC에게 미감정 아이템 감정 50회 진행::[감정사] 산드라{nl}[대장장이] 자라스
+ETC_20200807_049487	Transcend once	초월 1회 진행	ETC_20200514_047893	Transcendence 1 time{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}초월 1회 진행
+ETC_20200807_049488	Re-identify equipment with Lv.400 or more 30 times	400LV 이상 장비 재감정 30회 진행	ETC_20200805_049373	Re-identify equipment with Lv.400 or more 30 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}400LV 이상 장비 재감정 30회 진행
+ETC_20200807_049489	Extract Ichor of equipment with Lv.400 or more 6 times	400LV 이상 장비 아이커 추출 6회 성공	ETC_20200805_049374	Extract Ichor of equipment with Lv.400 or more 6 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}400LV 이상 장비 아이커 추출 6회 성공
+ETC_20200807_049490	Clear Level dungeon 5 times	레벨 던전 5회 클리어	ETC_20200805_049375	Clear Level dungeon 5 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}레벨 던전 5회 클리어
+ETC_20200807_049491	Clear Unique Raid 10 times::	유니크 레이드 10회 클리어::	ETC_20200805_049376	Clear Unique Raid 10 times {nl}during the Stamp Tour::	스탬프 투어 기간 중{nl}유니크 레이드 10회 클리어::
+ETC_20200807_049492	Clear certain Legend Raid 5 times:: Tomb of the White Crow: Legend{nl}Tomb of the White Crow: Legend Casual{nl}Lepidoptera Junction: Legend(Easy){nl}Lepidoptera Junction: Legend(Normal){nl}Lepidoptera Junction: Legend(Hard){nl}White Witch's Forest : Legend(Easy){nl}White Witch's Forest : Legend(Normal){nl}White Witch's Forest : Legend(Hard)	특정 레전드 레이드 5회 클리어::흰 까마귀의 영면지: 레전드{nl}흰 까마귀의 영면지: 레전드 캐주얼{nl}나비목 접선지 : 레전드(Easy){nl}나비목 접선지 : 레전드(Normal){nl}나비목 접선지 : 레전드(Hard){nl}하얀 마녀의 숲 : 레전드(Easy){nl}하얀 마녀의 숲 : 레전드(Normal){nl}하얀 마녀의 숲 : 레전드(Hard)	ETC_20200805_049377	Clear certain Legend Raid 5 times:: Tomb of the White Crow: Legend{nl}Tomb of the White Crow: Legend Casual{nl}Lepidoptera Junction: Legend(Easy){nl}Lepidoptera Junction: Legend(Normal){nl}Lepidoptera Junction: Legend(Hard){nl}during the Stamp Tour	스탬프 투어 기간 중{nl}특정 레전드 레이드 5회 클리어::흰 까마귀의 영면지: 레전드{nl}흰 까마귀의 영면지: 레전드 캐주얼{nl}나비목 접선지 : 레전드(Easy){nl}나비목 접선지 : 레전드(Normal){nl}나비목 접선지 : 레전드(Hard)
+ETC_20200807_049493	Clear Uphill Defense 8 times(All difficulties)	업힐 디펜스 8회 클리어 (난이도 무관)	ETC_20200514_047900	Clear Uphill Defense 8 times(All difficulties){nl}during the Stamp Tour	스탬프 투어 기간 중{nl}업힐 디펜스 8회 클리어 (난이도 무관)
+ETC_20200807_049494	Clear Uphill Defense 16 times(All difficulties)	업힐 디펜스 16회 클리어 (난이도 무관)	ETC_20200805_049378	Clear Uphill Defense 16 times(All difficulties){nl}during the Stamp Tour	스탬프 투어 기간 중{nl}업힐 디펜스 16회 클리어 (난이도 무관)
+ETC_20200807_049495	Clear Uphill Defense(Very Hard) 8 times	업힐 디펜스 매우 어려움 8회 클리어	ETC_20200805_049379	Clear Uphill Defense(Very Hard) 8 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}업힐 디펜스 매우 어려움 8회 클리어
+ETC_20200807_049496	Clear Challenge Mode Stage 5 or above 3 times	챌린지 모드 5단계 이상 3회 클리어	ETC_20200514_047902	Clear Challenge Mode Stage 5 or above 3 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}챌린지 모드 5단계 이상 3회 클리어
+ETC_20200807_049497	Clear Challenge Mode Stage 7 or above 10 times	챌린지 모드 7단계 10회 클리어	ETC_20200805_049380	Clear Challenge Mode Stage 7 or above 10 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}챌린지 모드 7단계 10회 클리어
+ETC_20200807_049498	Clear Dimensional Collapse Point St. 5 or above 5 times	차원붕괴 지점 5단계 이상 5회 클리어	ETC_20200805_049381	Clear Dimensional Collapse Point Stage 5 or above 5 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}차원붕괴 지점 5단계 이상 5회 클리어
+ETC_20200807_049499	Clear Earth Tower 5 times	대지의 탑 5회 클리어	ETC_20200805_049382	Clear Earth Tower 5 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}대지의 탑 5회 클리어
+ETC_20200807_049500	Clear Hunting Ground 20 times	프리던전 20회 클리어	ETC_20200805_049383	Clear Hunting Ground 20 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}프리던전 20회 클리어
+ETC_20200807_049501	Deal 50 million or more damage at 1 hit 3 times	주간 보스 레이드 1회 대미지 5천만 이상 3회 달성	ETC_20200805_049384	Deal 50 million or more damage at 1 hit 3 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}주간 보스 레이드 1회 대미지 5천만 이상 3회 달성
+ETC_20200807_049502	Repair equipment 150 times from the blacksmith in the village	마을 대장장이에게 장비수리 150회 진행	ETC_20200805_049386	Repair equipment 150 times from the blacksmith in the village{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}마을 대장장이에게 장비수리 150회 진행
+ETC_20200807_049503	Use personal shops 300 times	개인 상점 이용 300회	ETC_20200805_049387	Use personal shops 300 times{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}개인 상점 이용 300회
+ETC_20200807_049504	Buy item once from the Market	마켓에서 아이템 1회 구매	ETC_20200514_047912	Buy item from the market 1 time{nl}during the Stamp Tour	스탬프 투어 기간 중{nl}마켓에서 아이템 1회 구매
+ETC_20200807_049505	Draw gem 30 times(Free drawing counted)	젬 뽑기 30회 진행(무료 젬 뽑기 포함)	ETC_20200805_049388	Draw gem 30 times(Free drawing counted){nl}during the Stamp Tour	스탬프 투어 기간 중 {nl}젬 뽑기 30회 진행(무료 젬 뽑기 포함)
+ETC_20200807_049506	Buff is activated. It is applied when moving through map or logging in again.	버프가 활성화 되었습니다. 맵 이동 혹은 재 접속 시 버프가 적용됩니다.			
+ETC_20200807_049507	{s20}Buy the Cube and receive the {@st66d_y}Count Reward{/}!{nl}- When buying cube {@st66d_y}one by one{/}, {@st66d}{#0088FA}1{/}{/} count for Count Reward increases.{nl}- When buying cube {@st66d_y}10+1{/}, {@st66d}{#0088FA}10{/}{/} count for Count Reward increases.{/}	{s20}큐브 구매하고 {@st66d_y}회차 보상{/} 받으세요!{nl}- 큐브 {@st66d_y}낱개{/} 구매 시 회차 보상 카운트가 {@st66d}{#0088FA}1회{/}{/} 증가합니다.{nl}- 큐브 {@st66d_y}10+1{/} 구매 시 회차 보상 카운트가 {@st66d}{#0088FA}10회{/}{/} 증가합니다.{/}			
+ETC_20200807_049508	The smell of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#0088FA}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#0088FA}님의 피자 냄새가 느껴집니다.{/}	ETC_20191024_043565	The smell of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}님의 피자 냄새가 느껴집니다.{/}
+ETC_20200810_049509	Lv. 440 Reward ({State1}){nl}Lv. 450 Reward ({State2}){nl}Event will be held during the announced date	440레벨 달성 보상 ({State1}){nl}450레벨 달성 보상 ({State2}){nl}이벤트 기간: 8월 6일 ~ 10월 22일 점검 전	ETC_20200805_049470	Lv450 Reward ({State1}){nl}Lv440 Reward ({State2}){nl}Event Period: August 11 after maintenance ~ November 10 before maintenance	450레벨 달성 보상 ({State1}){nl}440레벨 달성 보상 ({State2}){nl}이벤트 기간: 8월 6일 ~ 10월 22일 점검 전
+ETC_20200810_049510	Reward has been given via Guild Storage.	길드 창고에 보상이 지급되었습니다.			
