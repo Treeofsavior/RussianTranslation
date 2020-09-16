@@ -26637,3 +26637,166 @@ ITEM_20200807_026636	[Lv. 440] Stage 9 Transcendence Scroll	[Lv.440] 9초월 스
 ITEM_20200807_026637	Upgrades your equipment to Stage 9 Transcendence.{nl}Can only be used on items of Stage 0~8 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.{nl}Can only be used on items of Lv. 440 or below.	장비의 초월 수치를 9단계로 만들어줍니다.{nl}0~8단계 초월 아이템만 사용할 수 있으며, 9초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 9초월 상태로 변경됩니다. {nl}Lv 440이하 장비에만 사용 가능한 초월 스크롤입니다.			
 ITEM_20200814_026638	[Lv.440] Diamond Anvil (30 Days)	[Lv.440] 다이아몬드 모루(30일)				
 ITEM_20200814_026639	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed. Use within 30 days.{nl}{#ff0000}Only usable to items of Lv 440 or below.	강화에 실패해도 강화 수치는 하락하지 않습니다. 단, 포텐셜은 하락합니다. 포텐셜이 0미만이 될 경우 아이템이 파괴됩니다. 획득 후부터 30일 동안 사용 가능합니다.{nl}{#ff0000}Lv 440이하 아이템에만 사용 가능합니다.				
+ITEM_20200821_026640	Watermelon Splitting	수박 깨트리기				
+ITEM_20200821_026641	A toy that can split the watermelon at once. You can take one of 2 poses when using. {nl}Can be exchanged for medals at the Exchange Shop.	시원한 수박을 한 번에 깨트릴 수 있는 장난감 입니다. 사용 시 두 가지 포즈 중 하나가 재생됩니다. {nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20200826_026642	Plague Doctor White Mask	플레이그닥터 백색가면				
+ITEM_20200826_026643	Plague Doctor Red Mask	플레이그닥터 붉은가면				
+ITEM_20200826_026644	 - Deals additional damage equal to {img green_up_arrow 16 16} 50% of an enemy's block value when using a basic attack	 - 기본 공격 시 적의 블록 수치의 {img green_up_arrow 16 16}50%만큼 추가 대미지	ITEM_20170420_014204	 - Deals additional damage equal to {img green_up_arrow 16 16} 50% of an enemy's block value when using a basic attack	 - 기본 공격 시 적의 블럭 수치의 {img green_up_arrow 16 16}50%만큼 추가 대미지	
+ITEM_20200826_026645	- Final Block Rate {img green_up_arrow 16 16}15%	 - 최종블록률 {img green_up_arrow 16 16}15%	ITEM_20161214_012991	 - Final Block Rate {img green_up_arrow 16 16}15%	 - 최종블럭률 {img green_up_arrow 16 16}15%	
+ITEM_20200826_026646	{nl} {nl}  - Every time Pavise is casted during Block and Shoot,{nl}damage {img green_up_arrow 16 16}50% buff activates for 3 seconds	{nl} {nl}  - 블록 앤드 샷 시전 중, 파비스가 피격 될 때 마다{nl}3초 동안 주는 대미지{img green_up_arrow 16 16}50% 버프 발동 	ITEM_20191024_023258	{nl} {nl} - Block and Shoot damage increase buff activates when a Pavise is hit while under Block and Shoot buff 	{nl} {nl}  - 블록 앤드 샷 버프 중일 때, 파비스가 피격 될 때 마다 블록 앤드 샷 대미지 증가 버프 발동 	
+ITEM_20200826_026647	- Reduces an enemy's Defense by {img red_down_arrow 16 16} 84 for 60 seconds when an enemy blocks your attack	 - 적이 공격을 블록 시 60초간 적의 방어력 {img red_down_arrow 16 16}84 감소	ITEM_20151224_008578	 - Reduces an enemy's defense by {img red_down_arrow 16 16} 84 for 60 seconds when an enemy blocks your attack	 - 적이 공격을 블럭 시 60초간 적의 방어력 {img red_down_arrow 16 16}84 감소	
+ITEM_20200826_026648	- Final Block Rate {img green_up_arrow 16 16}-3%	 - 최종블록률 {img green_up_arrow 16 16}-3%	ITEM_20161214_012992	 - Final Block Rate {img green_up_arrow 16 16}3%	 - 최종블럭률 {img green_up_arrow 16 16}-3%	
+ITEM_20200826_026649	- Final Block Rate {img green_up_arrow 16 16}1%	 - 최종블록률 {img green_up_arrow 16 16}1%				
+ITEM_20200826_026650	- Final Block Rate {img green_up_arrow 16 16}2%	 - 최종블록률 {img green_up_arrow 16 16}2%				
+ITEM_20200826_026651	- Final Block Rate {img green_up_arrow 16 16}2.75%	 - 최종블록률 {img green_up_arrow 16 16}2.75%				
+ITEM_20200826_026652	- Final Block Rate {img green_up_arrow 16 16}1%{nl}- 1% chance to recover 40 HP every second for 5 seconds when taking damage	 - 최종블록률 {img green_up_arrow 16 16}1%{nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복	ITEM_20180827_019090	 - Final Block Rate {img green_up_arrow 16 16}1%{nl}  - 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1%{nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복	
+ITEM_20200826_026653	- Final Block Rate {img green_up_arrow 16 16}3%	 - 최종블록률 {img green_up_arrow 16 16}3%				
+ITEM_20200826_026654	- Final Block Rate {img green_up_arrow 16 16}2%{nl}  - 8% chance to reduce damage by {img red_down_arrow 16 16}50% when hit	 - 최종블록률 {img green_up_arrow 16 16}2%{nl} - 피격 시 8% 확률로 받는 피해 {img red_down_arrow 16 16}50% 감소	ITEM_20171128_016115	 - Final Block Rate {img green_up_arrow 16 16}2%{nl}  - 8% chance to reduce damage by {img red_down_arrow 16 16}50% when hit	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl} - 피격 시 8% 확률로 받는 피해 {img red_down_arrow 16 16}50% 감소	
+ITEM_20200826_026655	- Final Block Rate {img green_up_arrow 16 16}3%{nl}  - All Peltasta skill levels {img green_up_arrow 16 16}1 {nl}  - All Rodelero skill levels {img green_up_arrow 16 16}1	 - 최종블록률 {img green_up_arrow 16 16}3%{nl} - 모든 펠타스타 스킬 레벨 {img green_up_arrow 16 16}1 증가{nl}  - 모든 로델레로 스킬 레벨 {img green_up_arrow 16 16}1 증가	ITEM_20171128_016116	 - Final Block Rate {img green_up_arrow 16 16}3%{nl}  - All Peltasta skill levels {img green_up_arrow 16 16}1 {nl}  - All Rodelero skill levels {img green_up_arrow 16 16}1	 - 최종블럭률 {img green_up_arrow 16 16}3%{nl} - 모든 펠타스타 스킬 레벨 {img green_up_arrow 16 16}1 증가{nl}  - 모든 로델레로 스킬 레벨 {img green_up_arrow 16 16}1 증가	
+ITEM_20200826_026656	- Final Block Rate {img green_up_arrow 16 16}7%	 - 최종블록률 {img green_up_arrow 16 16}7%				
+ITEM_20200826_026657	- Final Block Rate {img green_up_arrow 16 16}2%{nl} - 5% chance of resisting all removable debuffs	 - 최종블록률 {img green_up_arrow 16 16}2%{nl}  -  5% 확률로 일반 해제 가능한 모든 디버프에 저항				
+ITEM_20200826_026658	- Final Block Rate {img green_up_arrow 16 16}2%{nl} {nl} Eye of the Asiomage{nl} - Provocation targets: {img green_up_arrow 16 16}1	 - 최종블록률 {img green_up_arrow 16 16}2%{nl} {nl} 아시오 메이지의 주시{nl} - 도발 대상 수 {img green_up_arrow 16 16}1명				
+ITEM_20200826_026659	- Final Block Rate {img green_up_arrow 16 16}2%{nl} {nl}Guardian - Light Weight{nl}- Only applies 80% of the Guardian skill's damage reduction effect{nl}Increases Guardian duration by 100%	 - 최종블록률 {img green_up_arrow 16 16}2%{nl} {nl}가디언 - 경량화{nl}- 가디언 스킬 대미지 감소량 80%만 적용{nl} 지속시간 {img green_up_arrow 16 16}100% 증가	ITEM_20190611_022475	 - Final Block Rate {img green_up_arrow 16 16}2%{nl} {nl}Guardian - Light Weight{nl}- Only applies 80% of the Guardian skill's damage reduction effect{nl}Increases Guardian duration by +100%	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl} {nl}가디언 - 경량화{nl}- 가디언 스킬 대미지 감소량 80%만 적용{nl} 지속시간 {img green_up_arrow 16 16}100% 증가	
+ITEM_20200826_026660	- Final Block Rate {img green_up_arrow 16 16}2%{nl}- 3 second Berserk buff when an attack is blocked{nl} {nl}Beserk{nl} - Critical rate x2 (cannot be stacked)	 - 최종블록률 {img green_up_arrow 16 16}2%{nl}  - 블록시 3초간 폭주 버프 부여{nl} {nl}폭주{nl}  - 치명타 발생 2배 (중첩 불가)	ITEM_20191024_023273	 - Final Block Rate {img green_up_arrow 16 16}2%{nl}- 3 second Berserk buff when an attack is blocked{nl} {nl}Berserk{nl} - Critical rate x2 (cannot be stacked)	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl}  - 블록시 3초간 폭주 버프 부여{nl} {nl}폭주{nl}  - 치명타 발생 2배 (중첩 불가)	
+ITEM_20200826_026661	- Final Block Rate {img gree_up_arrow 16 16}2%{nl} {nl}Resonance{nl}- Increases SP by 3,500 when using Magic Shield for 60 second duration	 - 최종블록률 {img green_up_arrow 16 16}2%{nl} {nl}공명{nl}  - 매직 실드 사용시 60초간 최대 SP 3,500 증가	ITEM_20191024_023276	 - Final Block Rate {img green_up_arrow 16 16}2%{nl} {nl}Resonance{nl}- SP +3,500 when using Magic Shield for 60 second duration	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl} {nl}공명{nl}  - 매직 실드 사용시 60초간 최대 SP 3,500 증가	
+ITEM_20200826_026662	- Final Block Rate {img green_up_arrow 16 16}2%{nl} - Applies [Focused Defense] buff to party members within 150 range{nl} - Successful block grants Focused Defense effects to increase by 2 times for 3 seconds{nl} {nl}Focused Defense{nl} - Decreases damage from [Magic Circle] and [Continual AoE] attacks by 10%{nl} - Decreases damage from insect and devil type enemies by 10%	 - 최종블록률 {img green_up_arrow 16 16}2%{nl}  - 자신 주변 150범위 파티원에게 [집중방어] 버프 부여{nl}  - 블록 성공시 3초간 집중방어 효과 2배 적용{nl} {nl}집중방어{nl} - [마법진], [범위 지속형] 공격에 받는 피해 10% 감소{nl}  - 곤충형, 악마형 적에게 받는 피해 10% 감소				
+ITEM_20200826_026663	- 10% chance when critically attacking to decrease the enemy's Block {img red_down_arrow 16 16}400	 - 치명타 발생시 10% 확률로 적 블록 수치 {img red_down_arrow 16 16}400 				
+ITEM_20200826_026664	Ark - Disperse	아크 - 분산				
+ITEM_20200826_026665	Ark - Divine Retribution	아크 - 천벌				
+ITEM_20200826_026666	Ark - Suppress	아크 - 제압				
+ITEM_20200826_026667	- Deals additional damage equal to 50% of an enemy's block value when using a basic attack	 - 기본 공격 시 적의 블록 수치의 50%만큼 추가 대미지 효과	ITEM_20160224_009851	 - Deals additional damage equal to 50% of an enemy's block value when using a basic attack	 - 기본 공격 시 적의 블럭 수치의 50%만큼 추가 대미지 효과	
+ITEM_20200826_026668	- Final Block Rate {img green_up_arrow 16 16}2%{nl}  - 8% chance to reduce damage by 50% when hit	 - 최종블록률 {img green_up_arrow 16 16}2% {nl} - 피격 시 8% 확률로 받는 피해 -50% 감소	ITEM_20161214_012996	 - Final Block Rate {img green_up_arrow 16 16}2%{nl}  - 8% chance to reduce damage by 50% when hit	 - 최종블럭률 {img green_up_arrow 16 16}2% {nl} - 피격 시 8% 확률로 받는 피해 -50% 감소	
+ITEM_20200826_026669	- Final Block Rate {img green_up_arrow 16 16}2%	- 최종블록률 {img green_up_arrow 16 16}2%				
+ITEM_20200826_026670	Ark - Swift (20 minutes)	아크 - 질풍(20분)				
+ITEM_20200826_026671	Ark - Thunder (20 minutes)	아크 - 낙뢰(20분)				
+ITEM_20200826_026672	Ark - Storm (20 minutes)	아크 - 폭풍(20분)				
+ITEM_20200826_026673	Ark - Disperse (20 minutes)	아크 - 분산(20분)				
+ITEM_20200826_026674	Ark - Divine Retribution (20 minutes)	아크 - 천벌(20분)				
+ITEM_20200826_026675	Ark - Suppress (20 minutes)	아크 - 제압(20분)				
+ITEM_20200826_026676	Vaivora Sword - Echo (20 minutes)	바이보라 소드 - 반향(20분)				
+ITEM_20200826_026677	Vaivora Two-handed Sword - Florescence (20 minutes)	바이보라 투 핸드 소드 - 화산검법(20분)				
+ITEM_20200826_026678	Vaivora Rod - Time Rush (20 minutes)	바이보라 로드 - 타임러시(20분)				
+ITEM_20200826_026679	Vaivora Bow - Reinforced Bowstring (20 minutes)	바이보라 보우 - 시위 강화(20분)				
+ITEM_20200826_026680	Vaivora Crossbow - Double Marking (20 minutes)	바이보라 크로스보우 - 이중표식(20분)				
+ITEM_20200826_026681	Vaivora Mace - Mass Heal: Freeze (20 minutes)	바이보라 메이스 - 매스 힐: 냉각(20분)				
+ITEM_20200826_026682	Vaivora Two-handed Mace - Convict (20 minutes)	바이보라 투 핸드 메이스 - 단죄(20분)				
+ITEM_20200826_026683	Vaivora Shield - Concentrated Defence (20 minutes)	바이보라 실드 - 집중방어(20분)				
+ITEM_20200826_026684	Vaivora Spear - Rete Shooter (20 minutes)	바이보라 스피어 - 투망 발사장치(20분)				
+ITEM_20200826_026685	Vaivora Pike - Halberd (20 minutes)	바이보라 파이크 - 미늘창(20분)				
+ITEM_20200826_026686	Vaivora Dagger - Cursed Dagger (20 minutes)	바이보라 대거 - 저주의 비수(20분)				
+ITEM_20200826_026687	Vaivora Staff - Stone-slinger (20 minutes)	바이보라 스태프 - 무릿매(20분)				
+ITEM_20200826_026688	Vaivora Pistol - Cryolite Bullet (20 minutes)	바이보라 피스톨 - 크리오라이트 탄두(20분)				
+ITEM_20200826_026689	Vaivora Rapier - Leventador (20 minutes)	바이보라 레이피어 - 레벤타도르(20분)				
+ITEM_20200826_026690	Vaivora Cannon - Cannon Hold (20 minutes)	바이보라 캐논 - 캐논홀드(20분)				
+ITEM_20200826_026691	Vaivora Musket - Armor-piercing Shell (20 minutes)	바이보라 머스킷 - 철갑탄(20분)				
+ITEM_20200826_026692	Vaivora Trinket - Coordination (20 minutes)	바이보라 트링킷 - 협응(20분)				
+ITEM_20200826_026693	Vaivora Sword - Slash Space (20 minutes)	바이보라 소드 - 공간베기(20분)				
+ITEM_20200826_026694	Vaivora Pike - Grind (20 minutes)	바이보라 파이크 - 분쇄(20분)				
+ITEM_20200826_026695	Vaivora Staff - Diffuse Reflection (20 minutes)	바이보라 스태프 - 확산투영(20분)				
+ITEM_20200826_026696	Vaivora Dagger - Shadow Clone (20 minutes)	바이보라 대거 - 그림자 분신(20분)				
+ITEM_20200826_026697	Vaivora Staff - Fire Bolt (20 minutes)	바이보라 스태프 - 불벼락(20분)				
+ITEM_20200826_026698	Vaivora Rod - Wicked Desire (20 minutes)	바이보라 로드 - 사념(20분)				
+ITEM_20200826_026699	Vaivora Mace - Sacred Armor (20 minutes)	바이보라 메이스 - 신성무구(20분)				
+ITEM_20200826_026700	Vaivora Two-handed Mace - Outrage (20 minutes)	바이보라 투 핸드 메이스 - 진노(20분)				
+ITEM_20200826_026701	Vaivora Pistol - Renovate Trigger (20 minutes)	바이보라 피스톨 - 트리거 개조(20분)				
+ITEM_20200826_026702	Vaivora Dagger - Carpet Bombing (20 minutes)	바이보라 대거 - 융단폭격(20분)				
+ITEM_20200826_026703	Vaivora Dagger - Phantom Blade (20 minutes)	바이보라 대거 - 비도(20분)				
+ITEM_20200826_026704	Vaivora Bow - Orbital Arrow (20 minutes)	바이보라 보우 - 궤도화살(20분)				
+ITEM_20200826_026705	Vaivora Sword - Saber (20 minutes)	바이보라 소드 - 기병도(20분)				
+ITEM_20200826_026706	Vaivora Rod - Eternal Frozen Land (20 minutes)	바이보라 로드 - 영구동토(20분)				
+ITEM_20200826_026707	- Ice Pike Skill level {img green_up_arrow 16 16}3{nl} {nl}Eternal Frozen Land{nl} - 1 Eternal Frozen Land buff stacks when character casts [Freeze], [Chill] debuff{nl} - Eternal Frozen Land Duration: 30 seconds, Maximum 30 stacks{nl} - When 1 or more buff is stacked, consumes all stacks of Eternal Frozen Land and cast [Gust] at basic attack{nl} {nl}Gust{nl} - AoE Attack Ratio 20, Ice Property Magic Damage{nl} - Skill level is equal to Ice Pike of the current level{nl} - Skill Damage increases by 7% per 1 Eternal Frozen Land stack consumed by casting{nl} - Skill Damage increases by 100%, applies Freeze debuff for 4 seconds when cast while Eternal Frozen Land is 30 stacks	- 아이스 파이크 스킬 레벨{img green_up_arrow 16 16}3{nl} {nl}영구동토{nl} - 캐릭터가 [결빙], [한기] 디버프를 걸 때 마다 영구동토 버프 1 중첩{nl} - 영구동토 버프 지속시간 30초, 최대 30 중첩{nl} - 버프 1 중첩 이상일 때, 기본 공격 시 영구동토 버프 중첩을 모두 소모하고 [거스트] 스킬 시전{nl} {nl}거스트{nl} - 광역 공격 비율 20, 얼음 속성 마법 대미지{nl} - 스킬 계수 현재 레벨의 아이스 파이크와 동일{nl} - 시전 시 소모한 영구동토 버프 1 중첩 당 스킬 대미지 7% 증가{nl} - 영구동토 버프 30 중첩 일 때 시전 시 스킬 대미지 100% 추가 증가, 4초 동안 결빙 디버프 부여				
+ITEM_20200826_026708	Vaivora Two-handed Sword - Dual Sword (20 minutes)	바이보라 투 핸드 소드 - 듀얼소드(20분)				
+ITEM_20200826_026709	- Cartar Stroke Skill Level {img green_up_arrow 16 16}3{nl}  - Skyliner Skill Level {img green_up_arrow 16 16}2{nl}  - Cross Guard Block Rate increase effect{img green_up_arrow 16 16}100%{nl} {nl}Dual Sword{nl} - Buff activated for 2 seconds while Cross Guard is cast{nl} - Resisting all removable status ailments during buff{nl} - Cast [Reversal Slash] when succeed in Blocking during Buff{nl} {nl}Reversal Slash{nl} - Activated by enemy attack within 200 distance of the front.{nl}   Cannot activate at [Magic Circle], [Continual AoE] skills{nl} - Charge at the attacker{nl} - Damage by 300% of Cartar Stroke's skill factor of the current level{nl} {nl}Can be reused immediately when succeed in Reversal Slash by Cross Guard{nl}Cannot use Reversal Slash for 5 seconds if fails	- 카타 스트로크 스킬 레벨{img green_up_arrow 16 16}3{nl}  - 스카이라이너 스킬 레벨{img green_up_arrow 16 16}2{nl}  - 크로스 가드 블록 확률 증가 효과{img green_up_arrow 16 16}100%{nl} {nl}듀얼소드{nl} - 크로스 가드 시전 중 2초 동안 버프 활성화{nl} - 버프 중 일반 해제 가능한 모든 상태이상 저항{nl} - 버프 중 블록 성공 시 [반전베기] 시전{nl} {nl}반전베기{nl} - 정면 방향 200 거리 이내 적의 공격으로 발동{nl}   [마법진], [범위 지속형] 스킬에 발동 불가{nl} - 공격자에게 돌진{nl} - 현재 레벨의 카타 스트로크 스킬 계수 300%로 피해{nl} {nl}크로스 가드로 반전베기 성공 시 즉시 재사용 가능{nl}실패 시 5초 동안 반전베기 사용 불가				
+ITEM_20200826_026710	Vaivora Spear - Javelin (20 minutes)	바이보라 스피어 - 자벨린(20분)				
+ITEM_20200826_026711	Vaivora Musket - Triple Steps Single Shot (20 minutes)	바이보라 머스킷 - 삼보방포(20분)				
+ITEM_20200826_026712	Vaivora Two-handed Mace - Desition (20 minutes)	바이보라 투 핸드 메이스 - 종언(20분)				
+ITEM_20200826_026713	Vaivora Sword - Coordination (20 minutes)	바이보라 소드 - 협응(20분)				
+ITEM_20200826_026714	Vaivora Dagger - Coordination (20 minutes)	바이보라 대거 - 협응(20분)				
+ITEM_20200826_026715	Karaliene Juoda Necklace (20 minutes)	카랄리엔 주오다 네클리스(20분)				
+ITEM_20200826_026716	Karaliene Isgarinti Necklace (20 minutes)	카랄리엔 이스가리티 네클리스(20분)				
+ITEM_20200826_026717	Karaliene Kantribe Necklace (20 minutes)	카랄리엔 칸트리베 네클리스(20분)				
+ITEM_20200826_026718	Karaliene Vargeras Necklace (20 minutes)	카랄리엔 바르제라스 네클리스(20분)				
+ITEM_20200826_026719	Karaliene Pyktis Necklace (20 minutes)	카랄리엔 피크티스 네클리스(20분)				
+ITEM_20200826_026720	Karaliene Triukas Necklace (20 minutes)	카랄리엔 트리우카스 네클리스(20분)				
+ITEM_20200826_026721	Karaliene Prideti Necklace (20 minutes)	카랄리엔 프리데티 네클리스(20분)				
+ITEM_20200826_026722	Karaliene Juoda Bracelet (20 minutes)	카랄리엔 주오다 브레이슬릿(20분)				
+ITEM_20200826_026723	Karaliene Isgarinti Bracelet (20 minutes)	카랄리엔 이스가리티 브레이슬릿(20분)				
+ITEM_20200826_026724	Karaliene Kantribe Bracelet (20 minutes)	카랄리엔 칸트리베 브레이슬릿(20분)				
+ITEM_20200826_026725	Karaliene Vargeras Bracelet (20 Minutes)	카랄리엔 바르제라스 브레이슬릿(20분)				
+ITEM_20200826_026726	Karaliene Pyktis Bracelet  (20 minutes)	카랄리엔 피크티스 브레이슬릿(20분)				
+ITEM_20200826_026727	Karaliene Triukas Bracelet (20 minutes)	카랄리엔 트리우카스 브레이슬릿(20분)				
+ITEM_20200826_026728	Karaliene Prideti Bracelet (20 minutes)	카랄리엔 프리데티 브레이슬릿(20분)				
+ITEM_20200826_026729	Boruta Seal - Common (20 minutes)	보루타 인장 - 공용(20분)				
+ITEM_20200826_026730	[Challenge Mode] Kedoran Special Potion	[챌린지 모드] 케도란 특제 회복 포션				
+ITEM_20200826_026731	Available only at Challenge Mode stage 6 or below{nl}(Unavailable at Division Singularity){nl}Applies to all party members nearby.{nl}Lasts for 30 minutes at Challenge Mode stage 6 or below{nl}and recovers HP by 1% of damage given.{nl}Recovery Rate adjusts from 3,000 to 30,000 and 2 seconds of recovery cycle. (When recovers 8,000 or below, next recovery cycle is 1 second)	챌린지 모드 6단 이하에서만 사용 가능{nl}(분열특이점에서 사용불가){nl}근처에 있는 파티원 전체에 적용{nl}30분 동안 지속되며 챌린지 모드 6단 이하에서{nl}입힌 피해의 1% 만큼 HP를 회복합니다.{nl}회복량은 최소 3,000, 최대 30,000 까지 보정되며 2초의 회복주기가 있습니다.(단, 8,000 이하 회복 시 다음 회복주기는 1초)				
+ITEM_20200826_026732	Lv1 Block Potion	블록 증가 포션 LV1	ITEM_20150714_005181	Lv1 Block Potion	블럭 증가 포션 LV1	
+ITEM_20200826_026733	Increases your block by 50 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +50 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005182	Increases your block by 50 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +50 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026734	Lv2 Block Potion	블록 증가 포션 LV2	ITEM_20150714_005183	Lv2 Block Potion	블럭 증가 포션 LV2	
+ITEM_20200826_026735	Increases your block by 65 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +65 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005184	Increases your block by 65 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +65 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026736	Lv3 Block Potion	블록 증가 포션 LV3	ITEM_20150714_005185	Lv3 Block Potion	블럭 증가 포션 LV3	
+ITEM_20200826_026737	Increases your block by 80 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +80 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005186	Increases your block by 80 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +80 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026738	Lv4 Block Potion	블록 증가 포션 LV4	ITEM_20150714_005187	Lv4 Block Potion	블럭 증가 포션 LV4	
+ITEM_20200826_026739	Increases your block by 95 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +95 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005188	Increases your block by 95 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +95 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026740	Lv5 Block Potion	블록 증가 포션 LV5	ITEM_20150714_005189	Lv5 Block Potion	블럭 증가 포션 LV5	
+ITEM_20200826_026741	Increases your block by 110 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +110 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005190	Increases your block by 110 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +110 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026742	Lv6 Block Potion	블록 증가 포션 LV6	ITEM_20150714_005191	Lv6 Block Potion	블럭 증가 포션 LV6	
+ITEM_20200826_026743	Increases your block by 125 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +125 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005192	Increases your block by 125 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +125 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026744	Lv7 Block Potion	블록 증가 포션 LV7	ITEM_20150714_005193	Lv7 Block Potion	블럭 증가 포션 LV7	
+ITEM_20200826_026745	Increases your block by 140 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +140 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005194	Increases your block by 140 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +140 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026746	Lv8 Block Potion	블록 증가 포션 LV8	ITEM_20150714_005195	Lv8 Block Potion	블럭 증가 포션 LV8	
+ITEM_20200826_026747	Increases your block by 155 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +155 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005196	Increases your block by 155 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +155 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026748	Lv9 Block Potion	블록 증가 포션 LV9	ITEM_20150714_005197	Lv9 Block Potion	블럭 증가 포션 LV9	
+ITEM_20200826_026749	Increases your block by 170 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +170 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005198	Increases your block by 170 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +170 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026750	Lv10 Block Potion	블록 증가 포션 LV10	ITEM_20150714_005199	Lv10 Block Potion	블럭 증가 포션 LV10	
+ITEM_20200826_026751	Increases your block by 185 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +185 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005200	Increases your block by 185 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +185 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026752	Lv11 Block Potion	블록 증가 포션 LV11	ITEM_20150714_005201	Lv11 Block Potion	블럭 증가 포션 LV11	
+ITEM_20200826_026753	Increases your block by 200 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +200 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005202	Increases your block by 200 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +200 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026754	Lv12 Block Potion	블록 증가 포션 LV12	ITEM_20150714_005203	Lv12 Block Potion	블럭 증가 포션 LV12	
+ITEM_20200826_026755	Increases your block by 215 for 180 seconds. Right-click to use. Cooldown: 60 seconds.	180초 동안 블록을 +215 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005204	Increases your block by 215 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +215 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026756	Lv13 Block Potion	블록 증가 포션 LV13	ITEM_20150714_005205	Lv13 Block Potion	블럭 증가 포션 LV13	
+ITEM_20200826_026757	Increases your block by 230 for 180 seconds. Right-click to use. Cooldown:  60 seconds.	180초 동안 블록을 +230 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005206	Increases your block by 230 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +230 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026758	Lv14 Block Potion	블록 증가 포션 LV14	ITEM_20150714_005207	Lv14 Block Potion	블럭 증가 포션 LV14	
+ITEM_20200826_026759	Increases your block by 245 for 180 seconds. Right-click to use. Cooldown of 60 seconds.	180초 동안 블록을 +245 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005208	Increases your block by 245 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +245 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026760	Lv15 Block Potion	블록 증가 포션 LV15	ITEM_20150714_005209	Lv15 Block Potion	블럭 증가 포션 LV15	
+ITEM_20200826_026761	Increases your block by 260 for 180 seconds. Right-click to use. Cooldown:  60 seconds.	180초 동안 블록을 +260 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005210	Increases your block by 260 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 블럭을 +260 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
+ITEM_20200826_026762	2020 New Year's Cube x10 +1	2020 신년 큐브 x10 +1				
+ITEM_20200826_026763	4th Anniversary Cube x10 + 1	4주년 기념 큐브 x10 + 1				
+ITEM_20200826_026764	Glacia Legend Raid Cube (Easy)	글레이시어 레전드 레이드 큐브(Easy)				
+ITEM_20200826_026765	Received after clearing the White Witch's Legend Raid(Easy).	하얀 마녀의 레전드 레이드(Easy)를 클리어하여 받은 보상입니다.				
+ITEM_20200826_026766	Glacia Legend Raid Cube (Normal)	글레이시어 레전드 레이드 큐브(Normal)				
+ITEM_20200826_026767	Received after clearing the White Witch's Legend Raid(Normal).	하얀 마녀의 레전드 레이드(Normal)를 클리어하여 받은 보상입니다.				
+ITEM_20200826_026768	Glacia Legend Raid Cube (Hard)	글레이시어 레전드 레이드 큐브(Hard)				
+ITEM_20200826_026769	Received after clearing the White Witch's Legend Raid(Hard).	하얀 마녀의 레전드 레이드(Hard)를 클리어하여 받은 보상입니다.				
+ITEM_20200826_026770	[PP] Lv.440 Stage 10 Transcendence Scroll	[PC방] Lv.440 10초월 스크롤	ITEM_20200129_025567	[PP] Lv.430 Stage 10 Transcendence Scroll	[PC방] Lv.430 10초월 스크롤	
+ITEM_20200826_026771	Upgrades your equipment to Stage 10 Transcendence.{nl}Can only be used on items of Stage 0~9 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.{nl}Can only be used on items at Lv. 440 or below.	장비의 초월 수치를 10단계로 만들어줍니다.{nl}0~9단계 초월 아이템만 사용할 수 있으며, 10초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 10초월 상태로 변경됩니다. {nl}Lv 440이하 장비에만 사용 가능한 초월 스크롤입니다.				
+ITEM_20200826_026772	[Lv.440] Stage 10 Transcendence Scroll	[Lv.440] 10초월 스크롤	ITEM_20200221_026039	[Lv.430] Stage 10 Transcendence Scroll	[Lv.430] 10초월 스크롤	
+ITEM_20200826_026773	[Lv.440] Diamond Anvil (14 Days)	[Lv.440] 다이아몬드 모루(14일)	ITEM_20200511_026296	[Lv.430] Diamond Anvil (14 Days)	[Lv.430] 다이아몬드 모루(14일)	
+ITEM_20200826_026774	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed. Use within 14 days.{nl}{#ff0000}Only usable to items of Lv 440 or below.	강화에 실패해도 강화 수치는 하락하지 않습니다. 단, 포텐셜은 하락합니다. 포텐셜이 0미만이 될 경우 아이템이 파괴됩니다. 획득 후부터 14일 동안 사용 가능합니다.{nl}{#ff0000}Lv 440이하 아이템에만 사용 가능합니다.	ITEM_20200511_026297	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed. Use within 14 days.{nl}{#ff0000}Only usable to items of Lv 430 or below.	강화에 실패해도 강화 수치는 하락하지 않습니다. 단, 포텐셜은 하락합니다. 포텐셜이 0미만이 될 경우 아이템이 파괴됩니다. 획득 후부터 14일 동안 사용 가능합니다.{nl}{#ff0000}Lv 430이하 아이템에만 사용 가능합니다.	
+ITEM_20200826_026775	[Card Equip Effect] Block + [{img star_mark 20 20} *  2]	[슬롯 장착 효과] 블록 +[★ * 2]	ITEM_20170912_015584	[Card Equip Effect] Block +[{img star_mark 20 20}*2]	[슬롯 장착 효과] 블럭 +[★ * 2]	
+ITEM_20200826_026776	[Card Equip Effect] Block Penetration + [{img star_mark 20 20} *  1.5]	[슬롯 장착 효과] 블록 관통 +[★ * 1.5]	ITEM_20170912_015620	[Card Equip Effect] Block Penetration +[{img star_mark 20 20}*1.5]	[슬롯 장착 효과] 블럭 관통 +[★ * 1.5]	
+ITEM_20200826_026777	Ream Toiler Card	리엄 토일러 카드				
+ITEM_20200826_026778	[Card Equip Effect] Block + [{img star_mark 20 20} *  10]	[슬롯 장착 효과] 블록 + [★ * 10]				
+ITEM_20200826_026779	Noer Parecius Card	노어 파레세우스 카드				
+ITEM_20200826_026780	[Card Equip Effect] Block Penetration + [{img star_mark 20 20} *  10]	[슬롯 장착 효과] 블록 관통 + [★ * 10]				
+ITEM_20200826_026781	Sorrowful Glacia Card	한 서린 글레이시어 카드				
+ITEM_20200826_026782	[Card Equip Effect] ATK against Mutant-type 750 * [{img star_mark 20 20}]	[슬롯 장착 효과] 변이형 대상 공격력 750 * [★]				
+ITEM_20200826_026783	[Effect] 20% chance to reduce an enemy's Physical and Magic Defense by 50% for 10 seconds after a successful block	[장착 효과] 블록 성공 시 20% 확률로 10초간 적의 물리, 마법 방어력 50% 감소 효과	ITEM_20160530_010624	[Equip Effect] 20% chance to reduce an enemy's physical and magic defense by 50% for 10 seconds after a successful block	[장착 효과] 블럭 성공 시 20% 확률로 10초간 적의 물리, 마법 방어력 50% 감소 효과	
+ITEM_20200826_026784	Guild Attribute Reset Voucher	길드 특성 초기화권				
+ITEM_20200826_026785	Following guild attribute resets when used.{nl}- Taming{nl}- Farming{nl}}※Only the guild master can use it.	사용 시, 다음 길드 특성이 초기화됩니다.{nl}- 테이밍{nl}- 농사{nl}※길드 마스터 직급만 사용할 수 있습니다.				
+ITEM_20200826_026786	Title - Overcome Frostbite	칭호 - Overcome Frostbite				
+ITEM_20200826_026787	Title given to the saviors who completed [White Witch's Forest: Legend] within the event period.	각 서버에서 [하얀 마녀의 숲: 레전드]를 일정 기간 내에 클리어한 유저에게 지급되는 칭호입니다.				
+ITEM_20200826_026788	Title - Icicle Queen	칭호 - Icicle Queen				
+ITEM_20200826_026789	Title given to the saviors who were the first to complete [White Witch's Forest: Legend] Raid on the server.	각 서버에서 최초로 [하얀 마녀의 숲: 레전드]를 클리어한 유저에게 지급되는 칭호입니다.				
+ITEM_20200826_026790	Gesture : Silver Rich	제스쳐 : 실버부자	ITEM_20200727_026617	Gesture: Want Some?	제스쳐 : 실버자랑	
+ITEM_20200826_026791	Tranquilizer given by Oscaras to use while obtaining monsters for the experiments. It is effective to nearby monsters.	오스카라스가 실험에 쓰일 몬스터를 구하기 위해 필요하다며 건네준 약. 근처의 몬스터에게 사용하면 몬스터가 마비된다고 한다.	ITEM_20161005_012214	Tranquilizer given by Oscaras to use while obtaining monsters for the experiments. It is effective once the monsters are weakened.	오스카라스가 실험에 쓰일 몬스터를 구하기 위해 필요하다며 건네준 약. 약해진 몬스터에게 사용하면 몬스터가 마비된다고 한다.	
+ITEM_20200826_026792	Holy Water handed over by Roana.	로아나가 건네준 성수입니다.	ITEM_20151224_009658	A mysterious pack held by every demon. Using it seems to be the only way to find out what it does. Here goes nothing!	마족들이 하나씩 갖고 있는 의문의 꾸러미. 무슨 효과가 있는지 사용해 보세요.	
+ITEM_20200826_026793	Medicine you've been given to be use while collecting monster essence. Monsters will be paralyzed by it.	몬스터의 정수를 채취하기 위해 필요하다며 건네준 약. 몬스터에게 사용하면 몬스터가 마비된다고 한다.	ITEM_20161005_012370	Medicine you've been given to be use while collecting monster essence. Weakened monsters will be paralyzed by it.	몬스터의 정수를 채취하기 위해 필요하다며 건네준 약. 약해진 몬스터에게 사용하면 몬스터가 마비된다고 한다.	
+ITEM_20200826_026794	These are letters picked up at White Witch's Forest. It seems to be written by the Glacia before being a demon.{nl}Right-click to read.	하얀 마녀의 숲에서 주운 편지들입니다. 글레이시어가 마족이 되기 전에 쓴 것으로 보입니다.{nl}마우스 우클릭으로 읽어 볼 수 있습니다.	ITEM_20200710_026602	These are letters picked up by Crusader Envoy at White Witch's Forest. It seems to be written by the Glacia before being a demon.{nl}Right-click to read.	크루세이더 파견원이 하얀 마녀의 숲에서 주운 편지들입니다. 글레이시어가 마족이 되기 전에 쓴 것으로 보입니다.{nl}마우스 우클릭으로 읽어 볼 수 있습니다.	
+ITEM_20200826_026795	A Mysterious Order picked up at White Witch's Forest. It is written in human language.{nl}Right-click to read.	하얀 마녀의 숲에서 주운 의문의 지령서입니다. 인간의 언어로 적혀 있습니다.{nl}마우스 우클릭으로 읽어 볼 수 있습니다.	ITEM_20200710_026607	A Mysterious Order picked up by Crusader Envoy at White Witch's Forest. It is written in human language.{nl}Right-click to read.	크루세이더 파견원이 하얀 마녀의 숲에서 주운 의문의 지령서입니다. 인간의 언어로 적혀 있습니다.{nl}마우스 우클릭으로 읽어 볼 수 있습니다.	
+ITEM_20200826_026796	Accessory from the Glacia's Cloth. I can still feel the magic of Glacia.	글레이시어의 옷에서 떨어져 나온 장신구입니다. 여전히 글레이시어의 마력이 선명하게 느껴집니다.				
+ITEM_20200826_026797	Bottle with Suspicious Piece	수상한 조각이 들어있는 병				
+ITEM_20200826_026798	Suspicious Piece purified by the Crusader Master Zofija Eleonora. Suspicious Piece seems to have been hung on the runaway Glacier's clothes and then fallen from it. Contains powerful magic that cannot be purified easily.	크루세이더 마스터 조피아 엘레노라가 정화한 수상한 조각입니다. 수상한 조각은 도망다니던 글레이시어의 옷에 걸려있다가 떨어져 나간 것으로 보입니다. 쉽게 정화할 수 없는 강력한 마족의 기운이 머금어져 있습니다.				
+ITEM_20200826_026799	Bottle with Piece that contains Beholder's power 	주시자의 힘을 머금은 조각이 들어있는 병				
+ITEM_20200826_026800	It is a Piece that contains Beholder's power. Rangda Master Uolios Wahid says that there is no one to completely purify this piece.	주시자의 힘이 머금어져 있는 조각입니다. 현재로서는 이 조각을 완전히 정화할 수 있는 사람은 없을 것이라는 게 랑다 마스터인 우올리스 와히드의 소견입니다.				
+ITEM_20200826_026801	It is said that specific monsters can sleep without fail.	특정 몬스터라면 백발 백중으로 잠재울 수 있다고 합니다.	ITEM_20161005_012462	Said to put weakened monsters to sleep without fail.	약해진 몬스터라면 백발 백중으로 잠재울 수 있다고 합니다.	
+ITEM_20200826_026802	A holy water given to you by the Exorcist Master. Spray on Demons to purify their souls.	엑소시스트 마스터가 준 정화의 성수입니다. 마족에게 뿌리면 영혼의 정화를 일으킬 수 있습니다.	ITEM_20190419_022329	A holy water given to you by the Exorcist Master. Spray on weakened demons to purify their souls.	엑소시스트 마스터가 준 정화의 성수입니다. 약해진 마족에게 뿌리면 영혼의 정화를 일으킬 수 있습니다.	

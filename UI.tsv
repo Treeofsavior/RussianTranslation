@@ -367,7 +367,7 @@ UI_20150317_000366	{@st59}Закрыть аукцион{/}
 UI_20150317_000367	{@st42b}Сортировать
 UI_20150317_000368	{@st41b}Купить
 UI_20150317_000369	{@st43}{s22}Вернуть
-UI_20150317_000370	{@st41b}Забрать все
+UI_20150317_000370	{@st41b}Забрать всё
 UI_20150317_000371	{@st41b}Вернуть
 UI_20150317_000372	{@st43}{s22}Продать
 UI_20150317_000373	{@st42b}Количество
@@ -2610,7 +2610,7 @@ UI_20170330_002609	{@st45tw2}Продано{/}
 UI_20170330_002610	{@st45tw2}Количество{/}
 UI_20170330_002611	{@st45tw2}Продан{/}
 UI_20170330_002612	{@st45tw2}Куплен{/}
-UI_20170330_002613	{@st45tw2}Отменен{/}
+UI_20170330_002613	{@st45tw2}Отменён{/}
 UI_20170330_002614	{@st45tw2}Другие{/}
 UI_20170330_002615	{@st42}Присоединится
 UI_20170330_002616	{@st42}Закрыть
@@ -3273,7 +3273,7 @@ UI_20180629_003272	{@st43b}{s20}OK
 UI_20180629_003273	Обновление доски объявлений.
 UI_20180629_003274	Awakening Shop
 UI_20180629_003275	{@st42}Close Shop
-UI_20180629_003276	{@st42}Awaken
+UI_20180629_003276	{@st42}Пробудить
 UI_20180629_003277	Material
 UI_20180629_003278	{@st42}Open Shop
 UI_20180629_003279	{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22} Acquired Silver: %s%s
@@ -3398,15 +3398,15 @@ UI_20180827_003397	Смерть/Воскрешение
 UI_20180827_003398	Пати смерь/Воскрешение
 UI_20180827_003399	Макс. ур. перса
 UI_20180827_003400	{@st59}Запросить данные о быстром слоте снова.{/}
-UI_20180827_003401	{@st66b18}Retrieve
-UI_20180827_003402	{@st66b18}Sell
-UI_20180827_003403	{@st66b18}Buy
-UI_20180827_003404	{@st66b}{s18}Category
-UI_20180827_003405	{@st66b}{s18}Name{/}
-UI_20180827_003406	{@st66b}{s18}Level{/}
-UI_20180827_003407	{@st66b}{s18}Price{/}
-UI_20180827_003408	{@st66b}{s18}Quantity{/}
-UI_20180827_003409	{@st66b}{s18}Total Amount{/}
+UI_20180827_003401	{@st66b18}Получить
+UI_20180827_003402	{@st66b18}Продать
+UI_20180827_003403	{@st66b18}Купить
+UI_20180827_003404	{@st66b}{s18}Категория
+UI_20180827_003405	{@st66b}{s18}Название{/}
+UI_20180827_003406	{@st66b}{s18}Уровень{/}
+UI_20180827_003407	{@st66b}{s18}Цена{/}
+UI_20180827_003408	{@st66b}{s18}Количество{/}
+UI_20180827_003409	{@st66b}{s18}Общая сумма{/}
 UI_20180827_003410	{@st66b}{s18}Stats{/}
 UI_20180827_003411	{@st66b}{s18}Sockets{/}
 UI_20180827_003412	{@st66b}{s18}Potential{/}
@@ -3421,10 +3421,10 @@ UI_20180827_003420	{@st66b}{s18}Total Amount{/}
 UI_20180827_003421	{@st66b}{s18}Wait Period{/}
 UI_20180827_003422	{@st66b}{s18}Статус{/}
 UI_20180827_003423	Retrieve {#002d93}Silver{/}{/} from the sale of {#8e0000}[%s%s] x%s{/}{/}? Total:{#8e0000}%s{/}{/}
-UI_20180827_003424	{@st41b}Receive
+UI_20180827_003424	{@st41b}Получить
 UI_20180827_003425	Retrieve {#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}?
-UI_20180827_003426	Retrieve all items?
-UI_20180827_003427	{@st41b}Item List
+UI_20180827_003426	Получить все предметы?
+UI_20180827_003427	{@st41b}Список Предметов
 UI_20180827_003428	Please register an item.
 UI_20180827_003429	{@st66d}Register Item
 UI_20180827_003430	{@st66b}Max. Price{/}
@@ -3436,7 +3436,7 @@ UI_20180827_003435	{@st66}Total price:
 UI_20180827_003436	{@st66}Market fees:
 UI_20180827_003437	{@st66}Final amount:
 UI_20180827_003438	{@st66}%s Day(s): %s% of item price
-UI_20180827_003439	{@st66}{s14}Silver obtained from selling items (except Tokens){nl}can be retrieved from the Market after 48 hours.{/}
+UI_20180827_003439	{@st66}{s14}Серебро, полученное при продаже предметов (кроме токенов) {nl}, можно получить на Аукционе через 48 часов.{/}
 UI_20180827_003440	{@st66b}{s18}Fees{/}
 UI_20180827_003441	{@st66b}{s18}Time Remaining{/}
 UI_20180827_003442	{ds}{b}{#ffefd6}30 min: {#fe7e00}100 POINTS
@@ -3473,7 +3473,7 @@ UI_20180827_003472	{@st66b}Enable Animated Illustrations
 UI_20180827_003473	 Use item?
 UI_20180827_003474	It will be removed from %s and applied only to %s.{/}
 UI_20180827_003475	Включить Анимацию
-UI_20180827_003476	{@st41b}Purchase{/}
+UI_20180827_003476	{@st41b}Купить{/}
 UI_20180827_003477	Search crafting materials.
 UI_20180827_003478	{#002d93}Silver{/}{/} from {#8e0000}[%s %s] x%s{/}{/}: {#8e0000}[%s]{/}{/}
 UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}
@@ -3541,7 +3541,7 @@ UI_20181017_003540	{@st66d}Сохранить Настройки
 UI_20181017_003541	{@st41d}Сохранить
 UI_20181017_003542	Import category options.
 UI_20181017_003543	{@st66d}Import Options
-UI_20181017_003544	Trade Limit
+UI_20181017_003544	Лимит торговли
 UI_20181017_003545	Enchant Jewels
 UI_20181017_003546	Enchant Stats
 UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s
@@ -3559,14 +3559,14 @@ UI_20181017_003558	{@st43}2nd
 UI_20181017_003559	{@st43}3rd
 UI_20181017_003560	Level Range
 UI_20181017_003561	Normal
-UI_20181017_003562	Search Item
+UI_20181017_003562	Искать Предмет
 UI_20181017_003563	Show only unidentified items
 UI_20181017_003564	Hide unidentified items
 UI_20181017_003565	Advanced Settings
 UI_20181017_003566	Value
 UI_20181017_003567	{@st66}{s16}Add Stat
 UI_20181017_003568	Stat Group
-UI_20181017_003569	{@st66}{s16}Save
+UI_20181017_003569	{@st66}{s16}Сохранить
 UI_20181017_003570	Save search settings.
 UI_20181017_003571	{@st66}{s16}Import
 UI_20181017_003572	Import search settings.
@@ -4013,7 +4013,7 @@ UI_20191024_004012	{@st43}Exit Edit Mode{/}	{@st43}편집모드 취소{/}
 UI_20191024_004013	{@st43}{#97f72f}{s20}Установить
 UI_20191024_004014	{@st43}{#97f72f}{s20}Rotate	{@st43}{#97f72f}{s20}회전
 UI_20191024_004015	{@st66b}{s18}Uninstall?	{@st66b}{s18}철거 하시겠습니까?
-UI_20191024_004016	Furniture	가구
+UI_20191024_004016	Мебель
 UI_20191024_004017	{@st66b}{s18}Current Funds: {@st66d_y}%s	{@st66b}{s18}소지 길드 자금 :{@st66d_y}%s				
 UI_20191024_004018	{@st66b}{s18}Remaining Funds: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 자금 :{ol}{s18}{#ec0000}%s				
 UI_20191024_004019	{@st66b}{s18}You will no longer be able to use the functions related to the housing item after it is uninstalled and the uninstalled will be returned to the inventory.	{@st66b}{s18}해당 하우징 물품을 철거하면 관련 기능을 이용할 수 없으며, 철거된 물품은 아이템 창으로 이동합니다.				
@@ -4026,7 +4026,7 @@ UI_20191024_004025	{@st66b}{s18}Current Funds: {@st66d_y}%s	{@st66b}{s18}소지 
 UI_20191024_004026	{@st66b}{s18}Funds Cost: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 자금 : {ol}{s18}{#ec0000}%s				
 UI_20191024_004027	{@st66b}{s18}Current Mileage: {@st66d_y}%s	{@st66b}{s18}소지 길드 마일리지 : {@st66d_y}%s				
 UI_20191024_004028	{@st66b}{s18}Mileage Cost: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 마일리지 : {ol}{s18}{#ec0000}%s	
-UI_20191024_004029	{@st43}Housing Shop	{@st43}하우징 상점
+UI_20191024_004029	{@st43}Жилищный магазин
 UI_20191024_004030	{@st59}Close Housing Shop{/}	{@st59}하우징 상점을 닫습니다{/}
 UI_20191024_004031	{@st66b}Landscaping	{@st66b}조경
 UI_20191024_004032	{@st66b}Facilities	{@st66b}시설
@@ -4093,7 +4093,7 @@ UI_20200129_004092	{@s18}Hangout Level{/}
 UI_20200129_004093	{@st41}Preview		
 UI_20200129_004094	{@st43}%s F{/}				
 UI_20200129_004095	{@st43}Function{/}				
-UI_20200129_004096	{@st41}Exit Edit Mode{/}				
+UI_20200129_004096	{@st41}Выйти из режима редактирования{/}				
 UI_20200129_004097	{@st41}Up/downstairs{/}				
 UI_20200129_004098	{@st42b}Dismantle All{/}				
 UI_20200129_004099	{@st42b}See Background{/}				
@@ -4124,9 +4124,9 @@ UI_20200129_004123	Sandra's Detailed Magnifier
 UI_20200129_004124	{@st66}{s18}Consumes Sandra's Detailed Magnifier x%s.				
 UI_20200129_004125	Sandra's Magnifier				
 UI_20200129_004126	{@st66}{s18}Consumes Sandra's Magnifier x%s.			
-UI_20200129_004127	{@st66b18}Market Retrieve Tab			
+UI_20200129_004127	{@st66b18}Забрать			
 UI_20200129_004128	{@st66d_y}{s16}Goddess' Blessing			
-UI_20200129_004129	{@st41b}Leave{/}			
+UI_20200129_004129	{@st41b}Покинуть{/}			
 UI_20200129_004130	{@st43}Message Box(%s/%s)			
 UI_20200129_004131	{@st66}Совет. Прокрутите вниз, чтобы загрузить больше данных.				
 UI_20200129_004132	{@st66}     Совет 1. Награды за эпизоды можно получить один раз за команду.                         
@@ -4255,7 +4255,7 @@ UI_20200429_004254	Requires 10 Goddess' Roulette Coins.
 UI_20200429_004255	Check the Rewards List					
 UI_20200429_004256	{@st43b}{s22}Available Items from the Goddess' Roulette					
 UI_20200429_004257	{@st66b}{s16}* Available items will be changed as the accumulated number of the spin increases.			
-UI_20200514_004258	Apply Filter					
+UI_20200514_004258	Применить фильтр					
 UI_20200514_004259	{@st59}Close Assister UI{/}				
 UI_20200514_004260	{@st43}{s22}Assister Cabinet{/}			
 UI_20200514_004261	{@st59b}Assister Info{nl}{@st59s} - You can view the Assisters in your possession in the Assister Info tab.{nl} - The Assisters that you want to use must be registered in the main slot, which can be done by moving the Assisters from the list at the bottom by holding and dragging the right-click button.{nl} - All Assisters possess a Grade and a Potential.{nl}[Grade]{nl} - Displays the Assister's power level.{nl} - Grades are divided into Normal, Magic, Unique and Legend which affects how an Assister performs in battle.{nl}[Evolution Grade]{nl} - All Assisters can be evolved a maximum of two times. An evolution increases the number of skills available and the Assister's stats.{nl} - All Assisters begin with a 1 Star Evolution Grade and can be evolved to 3 Stars maximum.{/}{nl}{@st59b}Fusion{nl}{@st59s} - You can fuse 3 as of identical Grade to obtain a random Assister of the same Grade.{nl} - There is also a 5% chance to obtain an Assister of a higher grade by fusing the Assisters.{/}{nl}{@st59b}Evolution{nl}{@st59s} - You can use 3 identical Assisters to evolve your Assister.{nl} - Evolution only works when using 3 identical Assisters of the same Evolution Grade and will result in 1 identical Assister with a +1 Evolution Grade.{nl} - The resulting Assister's level will be identical to that of the Assister with the highest level.{/}
@@ -4277,8 +4277,8 @@ UI_20200514_004276	{@st42b}Furniture Shop
 UI_20200514_004277	{@st42b}Change Page{/}				
 UI_20200514_004278	Install					
 UI_20200514_004279	{@st43b}{s26}Private Housing Board					
-UI_20200514_004280	Refresh					
-UI_20200514_004281	House Recommended				
+UI_20200514_004280	Обновить					
+UI_20200514_004281	Рекомендуемые Дома				
 UI_20200514_004282	House of Friend					
 UI_20200514_004283	House of Guild Member					
 UI_20200514_004284	My House					
@@ -4430,3 +4430,89 @@ UI_20200805_004429	TOSventure Event	트캉스 이벤트
 UI_20200805_004430	{@st41b}Delete Team{/}	{@st41b}팀 삭제{/}				
 UI_20200805_004431	{@st59}Request to delete team.{/}	{@st59}팀 삭제를 요청합니다.{/}				
 UI_20200805_004432	Please enter the following phrase	다음 문구를 입력해 주세요				
+UI_20200826_004433	{@st66b}Receive Rewards{/}	{@st66b}보상 받기{/}				
+UI_20200826_004434	{@st59}The selected Assister will be locked{/}	{@st59}선택한 어시스터가 잠금 상태가 됩니다.{/}				
+UI_20200826_004435	Dismantle Ark 	아크 분해				
+UI_20200826_004436	{@st43b}{s18}Place the item you want to dismantle	{@st43b}{s18}분해할 아이템을 올려주세요				
+UI_20200826_004437	{@st43b}{s18}Dismantle completed	{@st43b}{s18}분해가 완료되었습니다				
+UI_20200826_004438	{@st41b}{s18}Combine	{@st41b}{s18}합성				
+UI_20200826_004439	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	UI_20200710_004346	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given after the end regardless of outcome)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	
+UI_20200826_004440	Combine Vaivora	바이보라 합성				
+UI_20200826_004441	{@st66b}{s16}- Combine 3 Vaivora weapon to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.				
+UI_20200826_004442	{@st41b}{s20} Use Multiply Token	{@st41b}{s20}배수 토큰 사용				
+UI_20200826_004443	{@st43}Shop	{@st43}상점				
+UI_20200826_004444	{img icon_item_pvpmine_2 30 30}{@st41b}Item Purchased{/} %s	{img icon_item_pvpmine_2 30 30}{@st41b}구입 아이템{/} %s				
+UI_20200826_004445	{img icon_item_pvpmine_2 30 30}{@st41b}Estimated Balance ▶{/}	{img icon_item_pvpmine_2 30 30}{@st41b}예상 잔액 ▶{/}				
+UI_20200826_004446	{#001100}{s18}You can request to join.	{#001100}{s18}가입을 신청할 수 있습니다.				
+UI_20200826_004447	Available %s times	%s회 가능				
+UI_20200826_004448	Entry times	입장 시간				
+UI_20200826_004449	%sBattles %sWins %sDefeats	%s전 %s승 %s패				
+UI_20200826_004450	{@st43b}{s18}Option Transfered	{@st43b}{s18}이전되는 옵션	UI_20200129_004122	{@st43b}{s18}Transfer Stats	{@st43b}{s18}이전 옵션	
+UI_20200826_004451	{@st43b}{s18}Option Deleted	{@st43b}{s18}삭제되는 옵션				
+UI_20200826_004452	{@st66b}World Map{/}	{@st66b}월드맵{/}				
+UI_20200826_004453	{@st59}Open World Map.{/}	{@st59}월드맵을 엽니다.{/}				
+UI_20200826_004454	{@st41b}{%s}Potential %s	{@st41b}{%s}포텐셜 %s				
+UI_20200826_004455	{@st66b}Resurrect in the starting point{/}	{@st66b}시작 지점에서 부활하기{/}				
+UI_20200826_004456	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.{nl} {nl}Clearing the previous floor and defeating 0 monsters the next floor will be based on the same score. In this case, the accounts that entered the rankings faster are counted as priorities.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.{nl} {nl}이전 층 클리어와 다음 층 0마리 처치는 같은 스코어로 기준됩니다. 이 경우 더 빠르게 랭킹에 진입한 계정이 우선순위로 집계됩니다.	UI_20190419_003847	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	
+UI_20200826_004457	{@st66b}Cooldown Decimal Value (%s){/}	{@st66b}재사용 대기시간 소수점 (%s){/}				
+UI_20200826_004458	{@st66b} View the range of Boss magic circle	{@st66b}보스 마법진 범위 보기	UI_20200710_004407	{@st66b}View Boss skill range	{@st66b}보스 스킬 범위 보기	
+UI_20200826_004459	{@st43}Seal Exchange 	{@st43}인장 교환				
+UI_20200826_004460	{@st66d_y}{b}Exchange Seal	{@st66d_y}{b}교환 인장				
+UI_20200826_004461	Name of Exchange Seal item	교환 인장 아이템의 이름				
+UI_20200826_004462	{@st42}Material	{@st42}재료				
+UI_20200826_004463	{@st42}Exchange	{@st42}교환				
+UI_20200826_004464	Dismantle Goddess'/Demon God's Equipment	여신/마신 장비 분해				
+UI_20200826_004465	{@st66b}{s16}- Obtain 1 Arquenium from dismantling Goddess'/Demon God's equipment.	{@st66b}{s16}- 여신/마신 장비 분해 시 아케늄 1개를 획득합니다.				
+UI_20200826_004466	Vaivora Transmutator	바이보라 연성제				
+UI_20200826_004467	Vaivora Transmutation	바이보라 연성				
+UI_20200826_004468	Select the item to transmutation	연성할 아이템을 올려주세요				
+UI_20200826_004469	{@st41b}{s18}Transmutation	{@st41b}{s18}연성				
+UI_20200826_004470	{@st100cream_24}Guild Territory	{@st100cream_24}콜로니				
+UI_20200826_004471	{@st101lightbrown_16}Champions League	{@st101lightbrown_16}챔피언스 리그				
+UI_20200826_004472	{@st101lightbrown_16}Challengers League	{@st101lightbrown_16}챌린저스 리그				
+UI_20200826_004473	Close Guild Territory window.	콜로니 정보창을 닫습니다.				
+UI_20200826_004474	Check the location of Guild Territory in this area.	해당 콜로니 지역의 위치를 확인합니다.				
+UI_20200826_004475	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Map Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}맵 위치 보기				
+UI_20200826_004476	Check the Guild Territory Info.	콜로니 정보를 확인합니다.				
+UI_20200826_004477	{@st101lightbrown_16}Guild Territory	{@st101lightbrown_16}콜로니				
+UI_20200826_004478	Check the Help.	도움말을 확인합니다.				
+UI_20200826_004479	{@st101lightbrown_16}Help	{@st101lightbrown_16}도움말				
+UI_20200826_004480	Search the regions.	검색어로 지역을 검색합니다.				
+UI_20200826_004481	Close the map.	지도를 닫습니다.				
+UI_20200826_004482	{@st100white_16}{s20}Bookmark	{@st100white_16}{s20}즐겨찾기				
+UI_20200826_004483	{@st106_lbr}{s16}No registered map	{@st106_lbr}{s16}등록된 맵이 없습니다				
+UI_20200826_004484	{@st101lightbrown_16}Token Travel	{@st101lightbrown_16}토큰 이동				
+UI_20200826_004485	Close the Minimap.	미니맵을 닫습니다.				
+UI_20200826_004486	{@st100brown_16}Quest{/}	{@st100brown_16}퀘스트{/}				
+UI_20200826_004487	{@st100brown_16}Monster{/}	{@st100brown_16}몬스터{/}				
+UI_20200826_004488	{@st100brown_16}There are no Quest to be shown.{/}	{@st100brown_16}표시할 퀘스트가 없습니다.{/}				
+UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시				
+UI_20200826_004490	{@st100orange_16}Display Undiscovered{nl}Goddess Statues	{@st100orange_16}미확인 여신상 표시				
+UI_20200826_004491	{@st100white_16}If you click the region while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 지역을 클릭하면 토큰 이동을 이용할 수 있습니다.				
+UI_20200826_004492	{@st42}Premium TP{/}	{@st42}프리미엄TP{/}				
+UI_20200826_004493	Cannot extract Ichor	아이커 추출 불가	UI_20180517_003201	Cannot extract	추출 불가	
+UI_20200826_004494	Cannot extract transfer appearance	외형 변경 추출 불가	UI_20180629_003373	Cannot transfer appearance	외형 변경 불가	
+UI_20200826_004495	Cannot apply transfer appearance	외형 변경 적용 불가				
+UI_20200826_004496	Import the location of my character.	내 캐릭터의 위치를 불러옵니다.				
+UI_20200826_004497	{@st104gold_14}Protecting Guild	{@st104gold_14}점령길드				
+UI_20200826_004498	{@st104gold_14}Applicable City	{@st104gold_14}적립요율 적용 도시				
+UI_20200826_004499	{@st104gold_14}Tariff Rate	{@st104gold_14}적용중인 적립요율				
+UI_20200826_004500	Free Goddess Statue cost/Token Travel Available	여신상 비용 면제 및 월드맵 토큰 이동 가능				
+UI_20200902_004501	Dismantle Special Items	특수 아이템 분해				
+UI_20200902_004502	{@st66b}Ark{/}	{@st66b}아크{/}				
+UI_20200902_004503	{@st59}Dismantle Ark{/}	{@st59}아크 분해{/}				
+UI_20200902_004504	{@st66b}Goddess/Demon God{/}	{@st66b}여신/마신{/}				
+UI_20200902_004505	{@st59}Dismantle Goddess'/Demon God's Equipment{/}	{@st59}여신/마신 장비 분해{/}				
+UI_20200902_004506	{@st66b}Arch Stone{/}	{@st66b}아키스톤{/}				
+UI_20200902_004507	{@st59}Dismantle Arch Stone{/}	{@st59}아키스톤 분해{/}				
+UI_20200902_004508	{@st66b}Accessories{/}	{@st66b}액세서리{/}				
+UI_20200902_004509	{@st59}Dismantle Karaliene Accessories{/}	{@st59}카랄리엔 액세서리 분해{/}				
+UI_20200902_004510	{img silver_pic 24 24} Price	{img silver_pic 24 24} 가격				
+UI_20200902_004511	- Obtain Arch Stone used as material from dismantling Ark.	- 아크 분해 시 재료로 사용된 아키스톤을 획득합니다.				
+UI_20200902_004512	Result of last week's vote.	지난 주 투표 결과 입니다.				
+UI_20200902_004513	{@st42b}{s24}Importing information	{@st42b}{s24}정보를 불러오는 중입니다.				
+UI_20200902_004514	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Area Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}지역 위치 보기	UI_20200826_004475	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Map Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}맵 위치 보기	
+UI_20200902_004515	{@st106_lbr}{s16}No registered area	{@st106_lbr}{s16}등록된 지역이 없습니다				
+UI_20200902_004516	{@st100white_16}By clicking the Bookmark while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 즐겨찾기를 클릭하면 토큰 이동을 이용할 수 있습니다.				
+UI_20200902_004517	{@st100white_16}Show all area	{@st100white_16}모든 지역 표시	UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시	
+UI_20200902_004518	Vote	투표하기				
