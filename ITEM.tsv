@@ -1378,7 +1378,7 @@ ITEM_20150317_001377	Animus
 ITEM_20150317_001378	Rumors has it that the one who wears this item will leave a part of his soul in a different world. Despite the vast number of people who are still researching on this matter, the mechanism of this item remains a mystery.
 ITEM_20150317_001379	Empty_Ring
 ITEM_20150317_001380	Grooved Bangle
-ITEM_20150317_001381	Bracelet
+ITEM_20150317_001381	Браслет
 ITEM_20150317_001382	The slot where the gem was attached is still clearly visible.
 ITEM_20150317_001383	Leather Bangle
 ITEM_20150317_001384	Some monster leathers, although they don't contain any magical attributes, can gain magical effects depending on how they are crafted. You should not dismiss this item based on its material.
@@ -2759,7 +2759,7 @@ ITEM_20150317_002758	Green gemstone said to protect the holder from evil spirits
 ITEM_20150317_002759	Zircon
 ITEM_20150317_002760	A brown colored gem.
 ITEM_20150317_002761	Pyrite
-ITEM_20150317_002762	A stone containing the condensed power of flame. {nl}Purchasable from the Pyromancer Master.
+ITEM_20150317_002762	Камень, содержащий сжатую силу пламени. {nl}Можно купить у мастера-пироманта.
 ITEM_20150317_002763	Bloodstone
 ITEM_20150317_002764	A blood-colored gemstone.{nl}It is said to have healing powers.
 ITEM_20150317_002765	Cryorite
@@ -15330,7 +15330,7 @@ ITEM_20170726_015329	Balloon: S
 ITEM_20170726_015330	Balloon: {img star_mark 20 20}
 ITEM_20170726_015331	The fifth revelation found at the Mage Tower. Readable.
 ITEM_20170728_015332	Fish Tank Helmet
-ITEM_20170728_015333	Helmet
+ITEM_20170728_015333	Шлем
 ITEM_20170728_015334	With this helmet you can look at fish from up close!
 ITEM_20170728_015335	Diver Helmet
 ITEM_20170728_015336	Optimized for full submersion.
@@ -23767,7 +23767,7 @@ ITEM_20191024_023766	Lv. 10 Enhancement Card (14 Days)
 ITEM_20191024_023767	A card used to enhance a card. Increases a card's EXP by 5400.{nl}Will be automatically deleted when the expiry date is reached.
 ITEM_20191024_023768	Used to enhance gems. Amplifies the EXP of gems.{nl}Will be automatically deleted when the expiry date is reached.{nl}- Gem EXP: 230700
 ITEM_20191024_023769	[Event] Unidentified Mystic Tome
-ITEM_20191024_023770	Contains a hidden technique. Bring to a Class Master NPC to obtain an Arts of your choice.
+ITEM_20191024_023770	Содержит скрытую технику. Принесите Мастеру Класса, чтобы получить искусство по вашему выбору.
 ITEM_20191024_023771	[Event] Stamp Tour Completion Reward Box (14 Days)
 ITEM_20191024_023772	Right click to obtain the following items.{nl}Will be automatically deleted when the expiry date is reached.{nl}- [Lv. 420] Stage 10 Transcendence Scroll{nl}- 20,000,000 Silver
 ITEM_20191024_023773	Title - Pizza Time
