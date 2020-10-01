@@ -12239,7 +12239,7 @@ QUEST_20200826_012385	We are giving Anvil to enhance the Bamboo Leaves!{nl}Anvil
 QUEST_20200826_012386	You've already received the event Anvil.	이미 이벤트 모루를 수령하셨습니다.				단오절 이벤트	
 QUEST_20200826_012387	You can exchange enhanced Bamboo Leaves with the rewards.{nl}{#FF0000}※No matter of enhancement value, the exchange starts from the bamboo leaf with the lowest potential{/}	강화가 완료된 죽엽을 보상과 교환하실 수 있습니다.{nl}{#FF0000}※강화 수치와 상관 없이 포텐셜이 낮은 죽엽이 교환됩니다.{/}				단오절 이벤트	
 QUEST_20200826_012388	The exchange starts from the bamboo leaf with the lowest potential.{nl}Are you sure you want to exchange?	가지고 계신 죽엽 중에서 포텐셜이 가장 낮은 아이템이 교환됩니다.{nl}교환 하시겠습니까?				단오절 이벤트	
-QUEST_20200902_012389	Vote for your Master!	당신의 마스터에게 투표하세요!				이벤트 게시판	
+QUEST_20200902_012389	Голосуй за своего Мастера!
 QUEST_20200902_012390	[Tip] Event Details{nl}- Play various contents and get Voting Ticket!{nl}- 1 Voting Ticket will be given when you obtain all the [Event] Master Badge that can be obtained a day.{nl}- You can obtain 1 more Voting Ticket when login for 1 hour or more per day.(Once per team every day){nl}-	[Tip] 이벤트 안내{nl}- 다양한 콘텐츠를 플레이하고 투표권을 획득하세요! {nl}- 하루 획득 가능한 [이벤트] 마스터 뱃지를 모두 획득하면 투표권 1장이 지급됩니다.{nl}- 하루 1시간 이상 접속 시 투표권 1장을 더 획득할 수 있습니다.(팀당 일일 1회){nl}- 				이벤트 게시판	
 QUEST_20200902_012391	/vote	/투표					
 QUEST_20200902_012392	command will allow you to check the usage of Voting Ticket and Current Ranking. (Ranking will be renewed every 10 minutes.){nl}- Emoticon of the most voted NPC will be given after the end of the event.	 명령어를 통해 투표권 사용과 현재 순위를 확인하실 수 있습니다.(순위는 10분 마다 갱신됩니다.){nl}- 이벤트 종료 후 가장 많은 득표를 한 NPC의 이모티콘이 지급됩니다.				이벤트 게시판	

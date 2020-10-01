@@ -2790,7 +2790,7 @@ UI_20170912_002789	Protecting Guild
 UI_20170912_002790	{@st41_red}Removable Effect{/}
 UI_20170912_002791	{@st43}Exchange Artifact{/}
 UI_20170912_002792	{@st59}Close Exchange Artifact{/}
-UI_20170912_002793	{@st41b}Exchange
+UI_20170912_002793	{@st41b}Обменять
 UI_20170912_002794	Чтобы начать ловить рыбу, выберите свою приманку.
 UI_20170912_002795	{@st43b}{s22}Этап %s Tackle Box{/}
 UI_20170912_002796	{@st66d_y}{s22}Этап %s Tackle Box{/}
@@ -2948,7 +2948,7 @@ UI_20171128_002947	{@st59}Специальный костюм{/}
 UI_20171128_002948	{@st43}Item Dismantle{/}
 UI_20171128_002949	{@st43}{#ffcc33}Dismantle Complete{/}
 UI_20171128_002950	{@st41b}Dismantle Cost{/}
-UI_20171128_002951	{@st41b}Dismantle Items{/}
+UI_20171128_002951	{@st41b}Разобрать предметы{/}
 UI_20171128_002952	Item Re-Identification
 UI_20171128_002953	Re-Identify Item
 UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance.
@@ -3010,7 +3010,7 @@ UI_20180208_003009	{@st41}{s20}Current Sockets:{@st43} %s / {@st43}%s
 UI_20180208_003010	{@st41}{s20}New Socket Price: %s
 UI_20180208_003011	{@st41b}Add Socket{/}
 UI_20180208_003012	{@st59}Add Socket.{/}
-UI_20180208_003013	{@st59}Инфо о классах{/}
+UI_20180208_003013	{@st59}Информация о классах{/}
 UI_20180208_003014	{@st66b}Show Drop Item Name{/}
 UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Цена %s Серебра{nl}Снятия карты без понижения ур.{/}
 UI_20180320_003016	Level 1 cards do not consume Silver.
@@ -3205,7 +3205,7 @@ UI_20180517_003204	Armor
 UI_20180517_003205	Bottom
 UI_20180517_003206	{@st41b}{s18}Item Set
 UI_20180517_003207	{@st41b}{s16}Set Stats
-UI_20180517_003208	Exchange
+UI_20180517_003208	Обменять
 UI_20180517_003209	{@st66d}Player Name{/}
 UI_20180517_003210	{@st66}{s18}Write{/}
 UI_20180517_003211	Вес: %s
@@ -3217,7 +3217,7 @@ UI_20180517_003216	Семейное хранилище +30 слотов
 UI_20180523_003217	{@st41_yellow}{s70}Victory 
 UI_20180523_003218	{@st41_yellow}{s70}Defeat
 UI_20180528_003219	{s30}Важно
-UI_20180528_003220	{@st41b}{img icon_button_warning 36 36}Yes
+UI_20180528_003220	{@st41b}{img icon_button_warning 36 36}Да
 UI_20180629_003221	{@st41d}               Lodge
 UI_20180629_003222	{@st66d}{s20}%s {@st66d_y}{s20}%s{@st66b}{s18}{nl}Изменить дом?
 UI_20180629_003223	{@st66b}Да
@@ -4459,8 +4459,8 @@ UI_20200826_004458	{@st66b} View the range of Boss magic circle	{@st66b}보스 �
 UI_20200826_004459	{@st43}Seal Exchange 	{@st43}인장 교환				
 UI_20200826_004460	{@st66d_y}{b}Exchange Seal	{@st66d_y}{b}교환 인장				
 UI_20200826_004461	Name of Exchange Seal item	교환 인장 아이템의 이름				
-UI_20200826_004462	{@st42}Material	{@st42}재료				
-UI_20200826_004463	{@st42}Exchange	{@st42}교환				
+UI_20200826_004462	{@st42}Материал			
+UI_20200826_004463	{@st42}Обменять			
 UI_20200826_004464	Dismantle Goddess'/Demon God's Equipment	여신/마신 장비 분해				
 UI_20200826_004465	{@st66b}{s16}- Obtain 1 Arquenium from dismantling Goddess'/Demon God's equipment.	{@st66b}{s16}- 여신/마신 장비 분해 시 아케늄 1개를 획득합니다.				
 UI_20200826_004466	Vaivora Transmutator	바이보라 연성제				
@@ -4510,9 +4510,9 @@ UI_20200902_004509	{@st59}Dismantle Karaliene Accessories{/}	{@st59}카랄리엔
 UI_20200902_004510	{img silver_pic 24 24} Price	{img silver_pic 24 24} 가격				
 UI_20200902_004511	- Obtain Arch Stone used as material from dismantling Ark.	- 아크 분해 시 재료로 사용된 아키스톤을 획득합니다.				
 UI_20200902_004512	Result of last week's vote.	지난 주 투표 결과 입니다.				
-UI_20200902_004513	{@st42b}{s24}Importing information	{@st42b}{s24}정보를 불러오는 중입니다.				
+UI_20200902_004513	{@st42b}{s24}Импорт информации		
 UI_20200902_004514	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Area Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}지역 위치 보기	UI_20200826_004475	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Map Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}맵 위치 보기	
 UI_20200902_004515	{@st106_lbr}{s16}No registered area	{@st106_lbr}{s16}등록된 지역이 없습니다				
 UI_20200902_004516	{@st100white_16}By clicking the Bookmark while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 즐겨찾기를 클릭하면 토큰 이동을 이용할 수 있습니다.				
 UI_20200902_004517	{@st100white_16}Show all area	{@st100white_16}모든 지역 표시	UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시	
-UI_20200902_004518	Vote	투표하기				
+UI_20200902_004518	Голосовать				
