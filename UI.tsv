@@ -4516,3 +4516,6 @@ UI_20200902_004515	{@st106_lbr}{s16}No registered area	{@st106_lbr}{s16}등록�
 UI_20200902_004516	{@st100white_16}By clicking the Bookmark while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 즐겨찾기를 클릭하면 토큰 이동을 이용할 수 있습니다.				
 UI_20200902_004517	{@st100white_16}Show all area	{@st100white_16}모든 지역 표시	UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시	
 UI_20200902_004518	Голосовать				
+UI_20201012_004519	Event Roulette	이벤트 룰렛				
+UI_20201012_004520	Current Coins in Possession	현재 보유 코인 개수				
+UI_20201012_004521	{@st43}{s24}Draw	{@st43}{s24}뽑기				
