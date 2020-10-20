@@ -3460,7 +3460,7 @@ UI_20180827_003459	No ongoing events.
 UI_20180827_003460	{@st66b}   Регулярные{/}
 UI_20180827_003461	{@st66b}   Постоянные{/}
 UI_20180827_003462	{@st66b}   Событие{/}
-UI_20180827_003463	Items Available
+UI_20180827_003463	Доступные предметы
 UI_20180827_003464	※ Продукты обновляются каждые 3 месяца (1 января, апрелья, июлья и октябрья).
 UI_20180827_003465	{@st66b}   Weapons{/}
 UI_20180827_003466	{@st66b}   Armor{/}
@@ -3483,7 +3483,7 @@ UI_20180827_003482	{@st42b}{s16}Preview{/}
 UI_20181017_003483	{@st43}Try on themed items
 UI_20181017_003484	Insert the equipment you want to change the appearance for.
 UI_20181017_003485	{@st68}{s16}Список{/}
-UI_20181017_003486	{@st41b}Delete
+UI_20181017_003486	{@st41b}Удалить
 UI_20181017_003487	{@st59}Экипировка{/}
 UI_20181017_003488	{@st66b}Внешний вид{/}
 UI_20181017_003489	{@st59}Внешний вид{/}
@@ -3512,12 +3512,12 @@ UI_20181017_003511	{@st66b}Legend{/}
 UI_20181017_003512	{@st66b}Только улучшенные/transcended {/}
 UI_20181017_003513	{@st66b}Только не опознанные{/}
 UI_20181017_003514	{@st66b}Все типы{/}
-UI_20181017_003515	{@st66b}Red Cards{/}
-UI_20181017_003516	{@st66b}Blue Cards{/}
-UI_20181017_003517	{@st66b}Green Cards{/}
-UI_20181017_003518	{@st66b}Purple Cards{/}
-UI_20181017_003519	{@st66b}Legend Cards{/}
-UI_20181017_003520	{@st66b}Other Cards{/}
+UI_20181017_003515	{@st66b}Красная Карта{/}
+UI_20181017_003516	{@st66b}Синяя Карта{/}
+UI_20181017_003517	{@st66b}Зелеёная Карта{/}
+UI_20181017_003518	{@st66b}Фиолетовая Карта {/}
+UI_20181017_003519	{@st66b}Легендарная Карта{/}
+UI_20181017_003520	{@st66b}Другие карты{/}
 UI_20181017_003521	{@st66b}Все типы{/}
 UI_20181017_003522	{@st66b}Задания{/}
 UI_20181017_003523	{@st66b}Другое{/}
@@ -3550,7 +3550,7 @@ UI_20181017_003549	{@st59}Выбрать Основной Класс{/}
 UI_20181017_003550	{@st59}Ящик снастей(Alt + F){/}
 UI_20181017_003551	{@st59}Умения и Атрибуты (F3){/}
 UI_20181017_003552	Used Items
-UI_20181017_003553	Title       %s
+UI_20181017_003553	Титул       %s
 UI_20181017_003554	Вознаграждение
 UI_20181017_003555	{@sti7}{s26}Find Your Class
 UI_20181017_003556	{@st43b}Start
@@ -4113,10 +4113,10 @@ UI_20200129_004112	{@st41}View Height{/}
 UI_20200129_004113	Available only in Instanced Dungeon.	
 UI_20200129_004114	* Дополнительный урон, наносимый группе с 4 или менее спасителями. {Nl} * Увеличение урона на 50%  за спасителя и 200% при одиночном входе.{/}
 UI_20200129_004115	{@st59}Ark{/}				
-UI_20200129_004116	Equipment			
-UI_20200129_004117	Transcendence Bonus				
-UI_20200129_004118	Total				
-UI_20200129_004119	Enchant			
+UI_20200129_004116	Снаряжение			
+UI_20200129_004117	Бонус Трансцендентности			
+UI_20200129_004118	Всего				
+UI_20200129_004119	Зачаровать		
 UI_20200129_004120	{@st43}Item %s Transfer			
 UI_20200129_004121	{@st41b}{s18}%s Transfer			
 UI_20200129_004122	{@st43b}{s18}Transfer Stats				
@@ -4137,7 +4137,7 @@ UI_20200129_004136	{@st43}{s22}Награды Эпизода{/}
 UI_20200129_004137	{@st59}Закрыть Информация о наградах.{/}				
 UI_20200129_004138	Награды Эпизода				
 UI_20200129_004139	Эпизод			
-UI_20200129_004140	Name of Episode					
+UI_20200129_004140	Название Эпизода				
 UI_20200129_004141	{@st41b}Anvil to Use				
 UI_20200129_004142	{@st42b}None	
 UI_20200129_004143	{@st42}Character Speech Bubble			
@@ -4157,9 +4157,9 @@ UI_20200129_004156	{@st59}Complete{/}
 UI_20200129_004157	{@42b}{s20}Page %s{/}{/}			
 UI_20200129_004158	{@st59}Enter title{/}			
 UI_20200129_004159	{@st59}Preview{nl}Reset by leaving edit mode or pressing Preview button.				
-UI_20200129_004160	{@st59}Delete			
-UI_20200129_004161	{@st42b}Save{/}			
-UI_20200129_004162	{@st42b}Load{/}			
+UI_20200129_004160	{@st59}Удалить			
+UI_20200129_004161	{@st42b}Сохранить{/}			
+UI_20200129_004162	{@st42b}Загрузить{/}			
 UI_20200129_004163	Team Storage +30, activate additional storage				
 UI_20200206_004164	Coins Collected				
 UI_20200206_004165	List of Stamp Tour Missions				
@@ -4172,7 +4172,7 @@ UI_20200206_004171	Tab Title
 UI_20200206_004172	Instructions				
 UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins				
 UI_20200207_004174	Stamp Diary			
-UI_20200218_004175	Refresh				
+UI_20200218_004175	Обновить			
 UI_20200320_004176	{@st43}{s16}Skill Damage{/}				
 UI_20200320_004177	{@st43}{s16}Total Amount of Damage{/}			
 UI_20200320_004178	{@st42b}{ds}{s14}Time Remaining{/}				
@@ -4203,17 +4203,17 @@ UI_20200320_004202	{@st66}{s18}Consume %s Sandra's Ultimate Magnifier.
 UI_20200320_004203	{@st59}Show Card Album Apply Option{/}
 UI_20200320_004204	{@st43}Equip Card Album Cards{/}		
 UI_20200320_004205	{@st59}Закрыть{/}	
-UI_20200320_004206	{@st43}Reward List{/}				
-UI_20200320_004207	{s16}{ol}{#FFFFFF}Recieve Reward				
-UI_20200320_004208	{s16}{ol}{#FFFFFF}Check				
-UI_20200320_004209	{@st59}Contents Status Board(F10){/}	
+UI_20200320_004206	{@st43}Список Наград{/}				
+UI_20200320_004207	{s16}{ol}{#FFFFFF}Проверить Награды				
+UI_20200320_004208	{s16}{ol}{#FFFFFF}Проверить				
+UI_20200320_004209	{@st59}Данжи(F10){/}	
 UI_20200320_004210	{@st66b}Use Daylight				
 UI_20200320_004211	{@st66b}See Motion Emoticon in chat			
 UI_20200320_004212	{@st43b}{s20}Weekly Pattern Information				
 UI_20200320_004213	{@st59}Закрыть{/}				
-UI_20200320_004214	{@st43}{s18}Rank %s			
-UI_20200320_004215	{@st43}{s18}Rank %s ~ Rank %s			
-UI_20200320_004216	{@st43}{s22}Reward List			
+UI_20200320_004214	{@st43}{s18}Ранг %s			
+UI_20200320_004215	{@st43}{s18}Ранг %s ~ Ранг %s			
+UI_20200320_004216	{@st43}{s22}Список Наград		
 UI_20200320_004217	{s16}{ol}{#FFFFFF}Retrieve All			
 UI_20200320_004218	Change Item Property				
 UI_20200320_004219	Property				
@@ -4224,12 +4224,12 @@ UI_20200320_004223	{@st42}Change
 UI_20200320_004224	{@st43}Cheat : Item Property{/}	
 UI_20200320_004225	{@st41b}Transcend{/}				
 UI_20200320_004226	{@st41b}Enhance{/}			
-UI_20200320_004227	{@st41b}Level{/}				
+UI_20200320_004227	{@st41b}Уровень{/}				
 UI_20200320_004228	{@st41b}Слот			
-UI_20200320_004229	{@st41b}Red			
-UI_20200320_004230	{@st41b}Blue				
-UI_20200320_004231	{@st41b}Yellow				
-UI_20200320_004232	{@st41b}Green				
+UI_20200320_004229	{@st41b}Красный			
+UI_20200320_004230	{@st41b}Синий				
+UI_20200320_004231	{@st41b}Жёлтый				
+UI_20200320_004232	{@st41b}Зелёный				
 UI_20200320_004233	{@st43}Cheat : Random Option{/}				
 UI_20200320_004234	Option 1				
 UI_20200320_004235	Option 2				
@@ -4284,7 +4284,7 @@ UI_20200514_004283	House of Guild Member
 UI_20200514_004284	My House					
 UI_20200514_004285	Search by Team Name 					
 UI_20200514_004286	Post Title					
-UI_20200514_004287	Team Name of Author					
+UI_20200514_004287	Название команды автора					
 UI_20200514_004288	{@st41b}{s16}Move to Housing				
 UI_20200514_004289	Edit Post					
 UI_20200514_004290	Edit				
@@ -4358,7 +4358,7 @@ UI_20200710_004357	{@st43}{s24}Continuous Offering	{@st43}{s24}연속 봉헌
 UI_20200710_004358	{@st43}{s24}Stop	{@st43}{s24}중단				
 UI_20200710_004359	{@st42b}Personal Housing Board{/}	{@st42b}개인 하우징 게시판{/}				
 UI_20200710_004360	{@st41b}Preview Item{/}	{@st41b}미리보기 아이템{/}				
-UI_20200710_004361	Housing Shop	하우징 샵				
+UI_20200710_004361	Жилищный магазин			
 UI_20200710_004362	{@st66b}{s20}Purchase	{@st66b}{s20}구매				
 UI_20200710_004363	{@st66}-Furniture	{@st66}-가구				
 UI_20200710_004364	{@st66}-Preview	{@st66}-미리보기				
@@ -4440,7 +4440,7 @@ UI_20200826_004439	The maximum amount of points that can be earned reset every M
 UI_20200826_004440	Combine Vaivora	바이보라 합성				
 UI_20200826_004441	{@st66b}{s16}- Combine 3 Vaivora weapon to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.				
 UI_20200826_004442	{@st41b}{s20} Use Multiply Token	{@st41b}{s20}배수 토큰 사용				
-UI_20200826_004443	{@st43}Shop	{@st43}상점				
+UI_20200826_004443	{@st43}Магазин			
 UI_20200826_004444	{img icon_item_pvpmine_2 30 30}{@st41b}Item Purchased{/} %s	{img icon_item_pvpmine_2 30 30}{@st41b}구입 아이템{/} %s				
 UI_20200826_004445	{img icon_item_pvpmine_2 30 30}{@st41b}Estimated Balance ▶{/}	{img icon_item_pvpmine_2 30 30}{@st41b}예상 잔액 ▶{/}				
 UI_20200826_004446	{#001100}{s18}You can request to join.	{#001100}{s18}가입을 신청할 수 있습니다.				
@@ -4450,8 +4450,8 @@ UI_20200826_004449	%sBattles %sWins %sDefeats	%s전 %s승 %s패
 UI_20200826_004450	{@st43b}{s18}Option Transfered	{@st43b}{s18}이전되는 옵션	UI_20200129_004122	{@st43b}{s18}Transfer Stats	{@st43b}{s18}이전 옵션	
 UI_20200826_004451	{@st43b}{s18}Option Deleted	{@st43b}{s18}삭제되는 옵션				
 UI_20200826_004452	{@st66b}World Map{/}	{@st66b}월드맵{/}				
-UI_20200826_004453	{@st59}Open World Map.{/}	{@st59}월드맵을 엽니다.{/}				
-UI_20200826_004454	{@st41b}{%s}Potential %s	{@st41b}{%s}포텐셜 %s				
+UI_20200826_004453	{@st59}ОТкрыть Глобальную Карту.{/}			
+UI_20200826_004454	{@st41b}{%s}Потенциал %s			
 UI_20200826_004455	{@st66b}Resurrect in the starting point{/}	{@st66b}시작 지점에서 부활하기{/}				
 UI_20200826_004456	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.{nl} {nl}Clearing the previous floor and defeating 0 monsters the next floor will be based on the same score. In this case, the accounts that entered the rankings faster are counted as priorities.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.{nl} {nl}이전 층 클리어와 다음 층 0마리 처치는 같은 스코어로 기준됩니다. 이 경우 더 빠르게 랭킹에 진입한 계정이 우선순위로 집계됩니다.	UI_20190419_003847	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	
 UI_20200826_004457	{@st66b}Cooldown Decimal Value (%s){/}	{@st66b}재사용 대기시간 소수점 (%s){/}				
@@ -4475,16 +4475,16 @@ UI_20200826_004474	Check the location of Guild Territory in this area.	해당 �
 UI_20200826_004475	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Map Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}맵 위치 보기				
 UI_20200826_004476	Check the Guild Territory Info.	콜로니 정보를 확인합니다.				
 UI_20200826_004477	{@st101lightbrown_16}Guild Territory	{@st101lightbrown_16}콜로니				
-UI_20200826_004478	Check the Help.	도움말을 확인합니다.				
-UI_20200826_004479	{@st101lightbrown_16}Help	{@st101lightbrown_16}도움말				
-UI_20200826_004480	Search the regions.	검색어로 지역을 검색합니다.				
-UI_20200826_004481	Close the map.	지도를 닫습니다.				
-UI_20200826_004482	{@st100white_16}{s20}Bookmark	{@st100white_16}{s20}즐겨찾기				
+UI_20200826_004478	Проверить справку.			
+UI_20200826_004479	{@st101lightbrown_16}Помощь				
+UI_20200826_004480	Искать в регионах.				
+UI_20200826_004481	Закрыть карту				
+UI_20200826_004482	{@st100white_16}{s20}Закладки			
 UI_20200826_004483	{@st106_lbr}{s16}No registered map	{@st106_lbr}{s16}등록된 맵이 없습니다				
 UI_20200826_004484	{@st101lightbrown_16}Token Travel	{@st101lightbrown_16}토큰 이동				
-UI_20200826_004485	Close the Minimap.	미니맵을 닫습니다.				
-UI_20200826_004486	{@st100brown_16}Quest{/}	{@st100brown_16}퀘스트{/}				
-UI_20200826_004487	{@st100brown_16}Monster{/}	{@st100brown_16}몬스터{/}				
+UI_20200826_004485	Закрыть мини-карту			
+UI_20200826_004486	{@st100brown_16}Задания{/}				
+UI_20200826_004487	{@st100brown_16}Мостры{/}			
 UI_20200826_004488	{@st100brown_16}There are no Quest to be shown.{/}	{@st100brown_16}표시할 퀘스트가 없습니다.{/}				
 UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시				
 UI_20200826_004490	{@st100orange_16}Display Undiscovered{nl}Goddess Statues	{@st100orange_16}미확인 여신상 표시				
