@@ -1655,7 +1655,7 @@ QUEST_JOBSTEP_20150317_001654	The Archer Master wants to test whether you are qu
 QUEST_JOBSTEP_20150317_001655	Hand them over to the Archer Master
 QUEST_JOBSTEP_20150317_001656	You've collected enough bats wings. Hand them over to the Archer Master.
 QUEST_JOBSTEP_20150317_001657	Obtain bat wings
-QUEST_JOBSTEP_20150317_001658	Talk to the Cleric Master in Klaipeda.
+QUEST_JOBSTEP_20150317_001658	Поговорить с Cleric Master в Klaipeda.
 QUEST_JOBSTEP_20150317_001659	Get green ointments from the Vubbes in Crystal Mine 1F
 QUEST_JOBSTEP_20150317_001660	The Cleric Master says you can aim to reach higher through service. Defeat the Vubbes in Crystal Mine 1F and gather green ointment.
 QUEST_JOBSTEP_20150317_001661	Give them to the Cleric Master
@@ -1670,9 +1670,9 @@ QUEST_JOBSTEP_20150317_001669	Meet the Swordsman Master in Klaipeda
 QUEST_JOBSTEP_20150317_001670	Use the provoking orb at Penitence Route of Great Cathedral
 QUEST_JOBSTEP_20150317_001671	The Swordsman Master taught that courage to protect allies is very important. Provoke the monsters using the provoking orb at Penitence Route of Great Cathedral and defeat them.
 QUEST_JOBSTEP_20150317_001672	You have fulfilled the amount which the Swordsman Master requested. Report back to the Swordsman Master.
-QUEST_JOBSTEP_20150317_001673	Find the Highlander Master
-QUEST_JOBSTEP_20150317_001674	Find the Highlander Master in Klaipeda.
-QUEST_JOBSTEP_20150317_001675	Find the Peltasta Master
+QUEST_JOBSTEP_20150317_001673	Найдите Highlander Master
+QUEST_JOBSTEP_20150317_001674	Найдите Highlander Master в Klaipeda.
+QUEST_JOBSTEP_20150317_001675	Найдите Peltasta Master
 QUEST_JOBSTEP_20150317_001676	The Highlander Master told you that if you could help the Peltasta Master, he will offer you some lesson. Talk to the Peltasta Master.
 QUEST_JOBSTEP_20150317_001677	The Peltasta Master is in a hurry. Talk to the Peltasta Master again.
 QUEST_JOBSTEP_20150317_001678	Meet Uska
@@ -1683,19 +1683,19 @@ QUEST_JOBSTEP_20150317_001682	Uska told you that the work needs to start again a
 QUEST_JOBSTEP_20150317_001683	Report to Knight Commander Uska
 QUEST_JOBSTEP_20150317_001684	The source of the rumor was Bearkaras. Report to Uska when you defeat Bearkaras.
 QUEST_JOBSTEP_20150317_001685	It is now time to go back to the Highlander Master again since you completed the request. Talk to Uska again.
-QUEST_JOBSTEP_20150317_001686	Return to the Highlander Master
+QUEST_JOBSTEP_20150317_001686	Вернитесь к Highlander Master
 QUEST_JOBSTEP_20150317_001687	You've completed the request of Uska. Return to the Highlander Master.
-QUEST_JOBSTEP_20150317_001688	Find the Peltasta Master
+QUEST_JOBSTEP_20150317_001688	Найдите Peltasta Master
 QUEST_JOBSTEP_20150317_001689	Meet the Peltasta Master in Klaipeda
-QUEST_JOBSTEP_20150317_001690	Find the Highlander Master
+QUEST_JOBSTEP_20150317_001690	Найдите Highlander Master
 QUEST_JOBSTEP_20150317_001691	The Peltasta Master says the Highlanders are not keeping their promise of supplying shields. He says he will allow you to learn if you take care of this issue. First, go to the Highlander Master.
-QUEST_JOBSTEP_20150317_001692	Talk to the Highlander Master
+QUEST_JOBSTEP_20150317_001692	Поговорить с Highlander Master
 QUEST_JOBSTEP_20150317_001693	The Highlander Master seems very sorry, but you can't give up. Talk to the Highlander Master again.
 QUEST_JOBSTEP_20150317_001694	Meet the Fletcher Master
 QUEST_JOBSTEP_20150317_001695	It seems that something happened to the Fletcher Master whom the Highlander Master requested the trade. Meet the Fletcher Master in Remaining Tree Dale.
-QUEST_JOBSTEP_20150317_001696	Talk to the Fletcher Master
+QUEST_JOBSTEP_20150317_001696	Поговорить с Fletcher Master
 QUEST_JOBSTEP_20150317_001697	The Fletcher Master told you to go back, but you can't. Speak to him again.
-QUEST_JOBSTEP_20150317_001698	Defeat Moas in Crystal Brook
+QUEST_JOBSTEP_20150317_001698	Убейте Moas в Crystal Brook
 QUEST_JOBSTEP_20150317_001699	The Fletcher Master told you that if you could defeat Moas, he will advance your request. Defeat Moas which is attacking merchants traveling between Crystal Brook and Fedimian.
 QUEST_JOBSTEP_20150317_001700	Report to the Fletcher Master
 QUEST_JOBSTEP_20150317_001701	You succeeded on defeating Moas that were attacking the merchants. Report back to the Fletcher Master.
@@ -1708,17 +1708,17 @@ QUEST_JOBSTEP_20150317_001707	Retrieve the objects from the Corsair Master
 QUEST_JOBSTEP_20150317_001708	Retrieve the items stolen from the Corsair Master in the Great Cathedral area.{nl}The Dock Permit can be found by defeating Moyas, the Navigator's Chart by defeating Stoulets and the Contract can be found by defeating Moyabu.
 QUEST_JOBSTEP_20150317_001709	Hand them over to the Corsair Master
 QUEST_JOBSTEP_20150317_001710	You found all the objects of the Corsair Master. Return to him and report.
-QUEST_JOBSTEP_20150317_001711	Find the permission to the Port entry
-QUEST_JOBSTEP_20150317_001712	Find the Sailing Map
-QUEST_JOBSTEP_20150317_001713	Find the Contract
-QUEST_JOBSTEP_20150317_001714	Find the Rodelero Master
+QUEST_JOBSTEP_20150317_001711	Найдите permission to the Port entry
+QUEST_JOBSTEP_20150317_001712	Найдите Sailing Map
+QUEST_JOBSTEP_20150317_001713	Найдите Contract
+QUEST_JOBSTEP_20150317_001714	Найдите Rodelero Master
 QUEST_JOBSTEP_20150317_001715	Meet the Rodelero Master in Fedimian
 QUEST_JOBSTEP_20150317_001716	Duel against the Rodelero Master
 QUEST_JOBSTEP_20150317_001717	The Rodelero Master will show you how to fight with a sword and a shield. Win in a duel against the Rodelero Master.
 QUEST_JOBSTEP_20150317_001718	You've won against the Rodelero Master. Talk to the Rodelero Master again.
 QUEST_JOBSTEP_20150317_001719	Defeat the Rodelero Master
-QUEST_JOBSTEP_20150317_001720	Find the Archer Master
-QUEST_JOBSTEP_20150317_001721	Talk to the Archer Master in Klaipeda.
+QUEST_JOBSTEP_20150317_001720	Найдите Archer Master
+QUEST_JOBSTEP_20150317_001721	Поговорить с Archer Master в Klaipeda.
 QUEST_JOBSTEP_20150317_001722	Meet the Fletcher Master in Remaining Tree Dale
 QUEST_JOBSTEP_20150317_001723	The Archer Master told you that if you could complete his request, he will teach you. {nl}Meet the Fletcher Master in Remaining Tree Dale and check if there are any problems.
 QUEST_JOBSTEP_20150317_001724	The Fletcher Master is safe but the materials are late because of supplies. Talk to the Fletcher Master about the materials.
@@ -1728,15 +1728,15 @@ QUEST_JOBSTEP_20150317_001727	Give them to the Fletcher Master
 QUEST_JOBSTEP_20150317_001728	Thanks to the Golems, you've gathered a bunch of good quality Charcoal Stones. Give them to the Fletcher Master.
 QUEST_JOBSTEP_20150317_001729	The materials that the Fletcher Master asked for is ready. Talk to the Archer Master.
 QUEST_JOBSTEP_20150317_001730	The Fletcher Master is asking you to take the copy and go back to the Archer Master. Return to the Archer Master and show him the copy.
-QUEST_JOBSTEP_20150317_001731	Go to the Ranger Master
+QUEST_JOBSTEP_20150317_001731	Идите к Ranger Master
 QUEST_JOBSTEP_20150317_001732	Meet the Ranger Master in Klaipeda
 QUEST_JOBSTEP_20150317_001733	Extract the fluids from Moyas at the Great Cathedral
 QUEST_JOBSTEP_20150317_001734	The Ranger Master says he'll teach you if you help him. Collect fluid samples from Moyas hiding in the Cathedral.
 QUEST_JOBSTEP_20150317_001735	Deliver it to the Ranger Master
 QUEST_JOBSTEP_20150317_001736	Collect Moya fluid samples. Give them to the Ranger Master.
 QUEST_JOBSTEP_20150317_001737	Monster Fluid
-QUEST_JOBSTEP_20150317_001738	Find the Sapper Master
-QUEST_JOBSTEP_20150317_001739	Find the Sapper Master in East Siauliai Woods
+QUEST_JOBSTEP_20150317_001738	Найдите Sapper Master
+QUEST_JOBSTEP_20150317_001739	Найдите Sapper Master в East Siauliai Woods
 QUEST_JOBSTEP_20150317_001740	Defeat Biteregina in Sunset Flag Forest
 QUEST_JOBSTEP_20150317_001741	The Sapper Master asked you to defeat Biteregina that threaten people in Sunset Flag Forest.
 QUEST_JOBSTEP_20150317_001742	Defeated Biteregina. Report back to The Sapper Master.
@@ -1744,65 +1744,65 @@ QUEST_JOBSTEP_20150317_001743	Meet the Fletcher Master in Remaining Tree Dale
 QUEST_JOBSTEP_20150317_001744	Collected Whistling Wood
 QUEST_JOBSTEP_20150317_001745	The Fletcher Master seems very busy, but if you could help him, it seems that you may be able to learn from him. At Pretense Intersection, look for grubby looking trees from the monsters and bring the trees that make clear sound among them.
 QUEST_JOBSTEP_20150317_001746	Collected enough Whistling Wood. Give them to the Fletcher Master.
-QUEST_JOBSTEP_20150317_001747	Go to the Hunter Master
-QUEST_JOBSTEP_20150317_001748	Go to the Hunter Master in East Siauliai Woods
+QUEST_JOBSTEP_20150317_001747	Идите к Hunter Master
+QUEST_JOBSTEP_20150317_001748	Идите к Hunter Master в East Siauliai Woods
 QUEST_JOBSTEP_20150317_001749	Hunt for 3 kinds of monsters
 QUEST_JOBSTEP_20150317_001750	The Hunter Master gave you an assignment to hunt for monsters that are scattered in various regions. Use baits to hunt for Keparis in Starving Demon's Way, Kodomors in Scattered Stairways, and Kowaks in Purple Tree Fault Forest.
 QUEST_JOBSTEP_20150317_001751	Report to the Hunter Master
 QUEST_JOBSTEP_20150317_001752	Hunted monsters. Report to the Hunter Master.
-QUEST_JOBSTEP_20150317_001753	Keparis in Starving Demon's Way
-QUEST_JOBSTEP_20150317_001754	Kodomors in Scattered Stairways
-QUEST_JOBSTEP_20150317_001755	Kowaks in Purple Tree Fault Forest
-QUEST_JOBSTEP_20150317_001756	Go to the Wugushi Master
+QUEST_JOBSTEP_20150317_001753	Keparis в Starving Demon's Way
+QUEST_JOBSTEP_20150317_001754	Kodomors в Scattered Stairways
+QUEST_JOBSTEP_20150317_001755	Kowaks в Purple Tree Fault Forest
+QUEST_JOBSTEP_20150317_001756	Идите к Wugushi Master
 QUEST_JOBSTEP_20150317_001757	Meet the Wugushi Master in Fedimian
 QUEST_JOBSTEP_20150317_001758	Collect the composite poison
 QUEST_JOBSTEP_20150317_001759	The Wugushi Master gave you an assignment to collect the poison. Collect the poison from Stoulets in the Great Cathedral using temporal tube.
 QUEST_JOBSTEP_20150317_001760	Deliver it to the Wugushi Master
 QUEST_JOBSTEP_20150317_001761	Gathered enough combined poison. Give it to the Wugushi Master,
 QUEST_JOBSTEP_20150317_001762	Get Combined Poison
-QUEST_JOBSTEP_20150317_001763	Go to the Scout Master
+QUEST_JOBSTEP_20150317_001763	Идите к Scout Master
 QUEST_JOBSTEP_20150317_001764	Meet the Scout Master in Fedimian
 QUEST_JOBSTEP_20150317_001765	Use Flares to detect monsters and defeat them
 QUEST_JOBSTEP_20150317_001766	Use Flares to detect the monsters that are hidden in Purple Tree Fault Forest and defeat them.
 QUEST_JOBSTEP_20150317_001767	Report to the Scout Master
 QUEST_JOBSTEP_20150317_001768	Found all hidden monsters. Report back to the Scout Master.
 QUEST_JOBSTEP_20150317_001769	Defeat the monsters
-QUEST_JOBSTEP_20150317_001770	Go to the Quarrel Shooter Master
+QUEST_JOBSTEP_20150317_001770	Идите к Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001771	Get the rubbings from Lydia Schaffen's Gravestone
 QUEST_JOBSTEP_20150317_001772	The Quarrel Shooter Master wants the rubbings of Lydia Schaffen's Gravestone as a test. Get it from Goddess' Ancient Garden.
 QUEST_JOBSTEP_20150317_001773	Deliver to the Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001774	Got the rubbings. Give them to the Quarrel Shooter Master
-QUEST_JOBSTEP_20150317_001775	Go to the Rogue Master
-QUEST_JOBSTEP_20150317_001776	Go to the Rogue Master in Fedimian
+QUEST_JOBSTEP_20150317_001775	Идите к Rogue Master
+QUEST_JOBSTEP_20150317_001776	Идите к Rogue Master в Fedimian
 QUEST_JOBSTEP_20150317_001777	Use Smoke Bombs to surpass 5 monsters
 QUEST_JOBSTEP_20150317_001778	The Rogue Master told you that before teaching his skills, he needs to give you a test. Use Smoke Bombs on the monsters that rushed into the training field that is prepared in Grand Corridor of the Great Cathedral to confuse them and defeat them.
 QUEST_JOBSTEP_20150317_001779	Report to the Rogue Master
 QUEST_JOBSTEP_20150317_001780	You passed all the test from the Rogue Master. Report back to the Rogue Master.
-QUEST_JOBSTEP_20150317_001781	Go to the Hoplite Master
-QUEST_JOBSTEP_20150317_001782	Find the Hoplite Master in West Siauliai Woods
+QUEST_JOBSTEP_20150317_001781	Идите к Hoplite Master
+QUEST_JOBSTEP_20150317_001782	Найдите Hoplite Master в West Siauliai Woods
 QUEST_JOBSTEP_20150317_001783	Defeat Shadowgaler in the main chamber of the Great Cathedral
 QUEST_JOBSTEP_20150317_001784	Before you learn from the Hoplite Master, he wants you to defeat Shadowgaler before the Hackapell Master. As she wishes, defeat Shadowgaler in the main chamber of the Great Cathedral and return.
 QUEST_JOBSTEP_20150317_001785	Report to the Hoplite Master
 QUEST_JOBSTEP_20150317_001786	You have defeated Shadowgaler. Report back to the Hoplite Master.
 QUEST_JOBSTEP_20150317_001787	Defeat Shadowgaler
 QUEST_JOBSTEP_20150317_001788	Meet the Barbarian Master
-QUEST_JOBSTEP_20150317_001789	Talk to the Barbarian Master in East Siauliai Woods
+QUEST_JOBSTEP_20150317_001789	Поговорить с Barbarian Master в East Siauliai Woodss
 QUEST_JOBSTEP_20150317_001790	Defeat Yekubs in the main chamber of the Great Cathedral
 QUEST_JOBSTEP_20150317_001791	The Barbarian Master wants you to defeat Yekubs prior to other people chasing after Yekubs. Defeat Yekubs in the main chamber of the Great Cathedral.
 QUEST_JOBSTEP_20150317_001792	Report to the Barbarian Master
 QUEST_JOBSTEP_20150317_001793	You have defeated Yekubs. Report back to the Barbarian Master.
 QUEST_JOBSTEP_20150317_001794	Defeat Yekub
 QUEST_JOBSTEP_20150317_001795	Meet the Squire Master
-QUEST_JOBSTEP_20150317_001796	Talk to the Squire Master in Fedimian
+QUEST_JOBSTEP_20150317_001796	Поговорить с Squire Master в Fedimian
 QUEST_JOBSTEP_20150317_001797	Use the tie rope
 QUEST_JOBSTEP_20150317_001798	The Squire Master asked you to practice Arrest rope as much as you can so you can control it without any problem. Practice the rope to the monsters in Sanctuary of the Great Cathedral.
-QUEST_JOBSTEP_20150317_001799	Return to the Squire Master
+QUEST_JOBSTEP_20150317_001799	Вернитесь к Squire Master
 QUEST_JOBSTEP_20150317_001800	You familiarized with using the tie rope now. Report to the Scout Master.
 QUEST_JOBSTEP_20150317_001801	Meet the Centurion Master
 QUEST_JOBSTEP_20150317_001802	Meet the Centurion Master at Starving Demon's Way
 QUEST_JOBSTEP_20150317_001803	Defeat Colimencia in Layered Rock Forest
 QUEST_JOBSTEP_20150317_001804	The Centurion Master told you that you need to be competent enough to control other people. Defeat Colimencia in Layered Rock Forest to prove your skills.
-QUEST_JOBSTEP_20150317_001805	Return to the Centurion Master
+QUEST_JOBSTEP_20150317_001805	Вернитесь к Centurion Master
 QUEST_JOBSTEP_20150317_001806	Defeated Colimencia. Report back to the Centurion Master.
 QUEST_JOBSTEP_20150317_001807	Defeat Colimencia
 QUEST_JOBSTEP_20150317_001808	Call of the Archer Master
@@ -1850,10 +1850,10 @@ QUEST_JOBSTEP_20150317_001849	Scout Master told you that if you want to be learn
 QUEST_JOBSTEP_20150317_001850	Report to the Scout Master
 QUEST_JOBSTEP_20150317_001851	Defeated Deadborn. Talk to the Scout Master.
 QUEST_JOBSTEP_20150317_001852	Call of the Rogue Master
-QUEST_JOBSTEP_20150317_001853	Go to the Rogue Master in Fedimian
+QUEST_JOBSTEP_20150317_001853	Идите к Rogue Master в Fedimian
 QUEST_JOBSTEP_20150317_001854	Duel with the Rogue Master
 QUEST_JOBSTEP_20150317_001855	The Rogue Master asked you to prove yourself through a duel. Win the duel against Rogue Master in the vacant lot above the stairs.
-QUEST_JOBSTEP_20150317_001856	Talk to the Rogue Master
+QUEST_JOBSTEP_20150317_001856	Поговорить с Rogue Master
 QUEST_JOBSTEP_20150317_001857	Won the duel against the Rogue Master. Talk to the Rogue Master again.
 QUEST_JOBSTEP_20150317_001858	Dominate the Rogue Master
 QUEST_JOBSTEP_20150317_001859	The Call of the Fletcher Master
@@ -1867,14 +1867,14 @@ QUEST_JOBSTEP_20150317_001866	Call of the Schwarzer Reiter Master
 QUEST_JOBSTEP_20150317_001867	The Schwarzer Reiter Master is looking for you at Woods of Attached Bridge
 QUEST_JOBSTEP_20150317_001868	Duel against Schwarzer Reiter Master
 QUEST_JOBSTEP_20150317_001869	The Schwarzer Reiter Master told you that the guns and the swords are important, but you also need to possess the hatred. Duel against Schwarzer Reiter Master and win.
-QUEST_JOBSTEP_20150317_001870	Talk to the Schwarzer Reiter Master
+QUEST_JOBSTEP_20150317_001870	Поговорить с Schwarzer Reiter Master
 QUEST_JOBSTEP_20150317_001871	You've won against the Schwarzer Reiter Master. Talk with the Schwarzer Reiter Master.
 QUEST_JOBSTEP_20150317_001872	Acknowledgement of Schwarzer Reiter
-QUEST_JOBSTEP_20150317_001873	Go to the Cleric Master
+QUEST_JOBSTEP_20150317_001873	Идите к Cleric Master
 QUEST_JOBSTEP_20150317_001874	Go and talk to the Cleric Master in Klaipeda
 QUEST_JOBSTEP_20150317_001875	Obtain Wildflower Stamen from Lonesome Marketplace
 QUEST_JOBSTEP_20150317_001876	Cleric Master told you that the herbs are running out so he wants Wildflower Stamen instead. Obtain Wildflower Stamen from Lonesome Marketplace and take it to Cleric Master.
-QUEST_JOBSTEP_20150317_001877	Return to the Cleric Master
+QUEST_JOBSTEP_20150317_001877	Вернитесь к Cleric Master
 QUEST_JOBSTEP_20150317_001878	Gathered Wildflower Stamen. Give it to the Cleric Master.
 QUEST_JOBSTEP_20150317_001879	Wildflower Stamen
 QUEST_JOBSTEP_20150317_001880	Retrieve the lost Holy Materials in the Town Center
@@ -1883,7 +1883,7 @@ QUEST_JOBSTEP_20150317_001882	Deliver it to the Krivis Master
 QUEST_JOBSTEP_20150317_001883	Found the lost Holy Materials. Give them to the Krivis Master.
 QUEST_JOBSTEP_20150317_001884	Find %s from the Town Center
 QUEST_JOBSTEP_20150317_001885	Defeat Tutu
-QUEST_JOBSTEP_20150317_001886	Talk to the Priest Master in Klaipeda.
+QUEST_JOBSTEP_20150317_001886	Поговорить с Priest Master в Klaipeda.
 QUEST_JOBSTEP_20150317_001887	Search the Ruklys Street
 QUEST_JOBSTEP_20150317_001888	Ruklys Street is full of evil energy. Go to Ruklys Street and find the source.
 QUEST_JOBSTEP_20150317_001889	Removed the source of evil energy in Ruklys Street. Report back to Priest Master in Klaipeda.
@@ -1899,7 +1899,7 @@ QUEST_JOBSTEP_20150317_001898	Sculptor Tesla says he'll take you as a disciple i
 QUEST_JOBSTEP_20150317_001899	Give it to Sculptor Tesla
 QUEST_JOBSTEP_20150317_001900	Got the timber. Give it to Tesla.
 QUEST_JOBSTEP_20150317_001901	Defeat Green Woodspirit and get %s
-QUEST_JOBSTEP_20150317_001902	Find the Materials
+QUEST_JOBSTEP_20150317_001902	Найдите Materials
 QUEST_JOBSTEP_20150317_001903	Meet the Sadhu Master in Fedimian
 QUEST_JOBSTEP_20150317_001904	Find the source of the nightmare and eliminate it
 QUEST_JOBSTEP_20150317_001905	The people who crossed Ruklys Street are suffering from the nightmares so the Sadhu Master told you find the source and eliminate it. Find the source from Ruklys Street.
@@ -1910,8 +1910,8 @@ QUEST_JOBSTEP_20150317_001909	Defeat Rajapearl in Lonesome Marketplace
 QUEST_JOBSTEP_20150317_001910	The Paladin Master wants to check your religious belief. Defeat Rajapearl that appear often in Lonesome Marketplace.
 QUEST_JOBSTEP_20150317_001911	You've defeated Rajapearl. Return to the Paladin Master and report.
 QUEST_JOBSTEP_20150317_001912	Defeat Rajapearl
-QUEST_JOBSTEP_20150317_001913	Talk to the Monk Master
-QUEST_JOBSTEP_20150317_001914	Find the Monk Master in Remaining Tree Dale
+QUEST_JOBSTEP_20150317_001913	Поговорить с Monk Master
+QUEST_JOBSTEP_20150317_001914	Найдите Monk Master в Remaining Tree Dale
 QUEST_JOBSTEP_20150317_001915	Defeat Lepus in the central district and obtain the toe nails of Lepus
 QUEST_JOBSTEP_20150317_001916	The Monk Master asked you to bring the proof of the determination to become a Monk. Defeat Lepus in the central district and bring it's toe nails as a proof.
 QUEST_JOBSTEP_20150317_001917	Give it to the Monk Master
@@ -2901,52 +2901,52 @@ QUEST_JOBSTEP_20150717_002900	Disaster is a Great Sample [Druid Advancement]
 QUEST_JOBSTEP_20150717_002901	Reception Error [Oracle Advancement]
 QUEST_JOBSTEP_20150717_002902	Give the stolen goods to the Klaipeda Item Merchant
 QUEST_JOBSTEP_20150717_002903	The Sapper Master want to return the stolen belongings to its owner and repent for the past. Return the stolen things to Item Merchant in Klaipeda.
-QUEST_JOBSTEP_20150717_002904	Collect Boss Monster Card
+QUEST_JOBSTEP_20150717_002904	Соберите Карты с Боссов монстров
 QUEST_JOBSTEP_20150717_002905	The Bokor Master asked you bring the card obtained from boss monster.
-QUEST_JOBSTEP_20150717_002906	Talk to Klaipeda Item Merchant
+QUEST_JOBSTEP_20150717_002906	Поговорите с Klaipeda Item Merchant
 QUEST_JOBSTEP_20150717_002907	Sculptor Tesla is looking for a cat to use as his model. Ask the Item Merchant in Klaipeda if there is a cat he can use.
-QUEST_JOBSTEP_20150717_002908	Find the Item Merchant's father in Sirdgela Forest
+QUEST_JOBSTEP_20150717_002908	Найдите Item Merchant's father в Sirdgela Forest
 QUEST_JOBSTEP_20150717_002909	In exchange for the baits to lure the cat, Item Merchant asked you to find traces of her father. Find the merchant's father in Sirdgela forest.
 QUEST_JOBSTEP_20150717_002910	Give the piece of father's clothes to Item Merchant
 QUEST_JOBSTEP_20150717_002911	You weren't able to find the merchant's father but you found some clothing that seems have belonged to him. Give it to the Item Merchant.
 QUEST_JOBSTEP_20150717_002912	Received special bait feed from the Item Merchant. Use this to lure the cat in Klaipeda.
-QUEST_JOBSTEP_20150717_002913	Meet Fedimian Item Merchant
+QUEST_JOBSTEP_20150717_002913	Встретиться с Fedimian Item Merchant
 QUEST_JOBSTEP_20150717_002914	In exchange for Hardened Oil, the Item Merchant of Fedimian told you that a monster named Mothstem has a Fire Jar. Ask the merchant where you can meet Mothstem.
 QUEST_JOBSTEP_20150717_002915	The Item Merchant says he has met Mothstem in Fedimian Suburbs. Defeat the Mothstem in Fedimian Suburbs and get a Mothstem's Fire Jar.
-QUEST_JOBSTEP_20150717_002916	Go to the Squire Master in Fedimian
+QUEST_JOBSTEP_20150717_002916	Идите к Squire Master в Fedimian
 QUEST_JOBSTEP_20150717_002917	Piece of Legwyn Family Seal
 QUEST_JOBSTEP_20150717_002918	The Squire Master says he needs the Seal of Legwyn family. Defeat the monsters and collect pieces of the Legwyn Family Seal in Residence of the Fallen Legwyn Family.
 QUEST_JOBSTEP_20150717_002919	Collected all the pieces of Legwyn Family Seal. Return to the Squire Master.
-QUEST_JOBSTEP_20150717_002920	Things to do
-QUEST_JOBSTEP_20150717_002921	Return to the Corsair Master.
-QUEST_JOBSTEP_20150717_002922	Go to the Centurion Master in Forest of Prayer
-QUEST_JOBSTEP_20150717_002923	Return to the Centurion Master.
-QUEST_JOBSTEP_20150717_002924	Go to the Doppelsoeldner Master in Fedimian
-QUEST_JOBSTEP_20150717_002925	Return of the Doppelsoeldner Master.
-QUEST_JOBSTEP_20150717_002926	Go to the Sorcerer Master in Forest of Prayer
-QUEST_JOBSTEP_20150717_002927	Return to the Sorcerer Master.
-QUEST_JOBSTEP_20150717_002928	Go to the Chronomancer Master in Stele Road
-QUEST_JOBSTEP_20150717_002929	Return to the Chronomancer Master.
-QUEST_JOBSTEP_20150717_002930	Go to the Necromancer Master in Mullers Passage
-QUEST_JOBSTEP_20150717_002931	Return to the Necromancer Master.
-QUEST_JOBSTEP_20150717_002932	Past of the Crystal Mine
-QUEST_JOBSTEP_20150717_002933	Talk to the Alchemist Master
-QUEST_JOBSTEP_20150717_002934	Go to the Alchemist Master in Siauliai Miners' Village.
-QUEST_JOBSTEP_20150717_002935	Return to the Alchemist Master.
-QUEST_JOBSTEP_20150717_002936	Go to the Rogue Master in Fedimian
-QUEST_JOBSTEP_20150717_002937	Return to the Rogue Master.
-QUEST_JOBSTEP_20150717_002938	Go to the Fletcher Master in Goddess' Ancient Garden
-QUEST_JOBSTEP_20150717_002939	Return to the Fletcher Master.
-QUEST_JOBSTEP_20150717_002940	Go to Falconer Master in Stele Road
+QUEST_JOBSTEP_20150717_002920	Вещи, которые нужно сделать
+QUEST_JOBSTEP_20150717_002921	Вернитесь к Corsair Master.
+QUEST_JOBSTEP_20150717_002922	Идите к Centurion Master в Forest of Prayer
+QUEST_JOBSTEP_20150717_002923	Вернитесь к Centurion Master.
+QUEST_JOBSTEP_20150717_002924	Идите к Doppelsoeldner Master в Fedimian
+QUEST_JOBSTEP_20150717_002925	Вернитесь к Doppelsoeldner Master.
+QUEST_JOBSTEP_20150717_002926	Идите к Sorcerer Master в Forest of Prayer
+QUEST_JOBSTEP_20150717_002927	Вернитесь к Sorcerer Master.
+QUEST_JOBSTEP_20150717_002928	Идите к Chronomancer Master в Stele Road
+QUEST_JOBSTEP_20150717_002929	Вернитесь к Chronomancer Master.
+QUEST_JOBSTEP_20150717_002930	Идите к Necromancer Master в Mullers Passage
+QUEST_JOBSTEP_20150717_002931	Вернитесь к Necromancer Master.
+QUEST_JOBSTEP_20150717_002932	Прошлое Crystal Mine
+QUEST_JOBSTEP_20150717_002933	Поговорить с Alchemist Master
+QUEST_JOBSTEP_20150717_002934	Идите к Alchemist Master в Siauliai Miners' Village.
+QUEST_JOBSTEP_20150717_002935	Вернитесь к Alchemist Master.
+QUEST_JOBSTEP_20150717_002936	Идите к Rogue Master в Fedimian
+QUEST_JOBSTEP_20150717_002937	Вернитесь к Rogue Master.
+QUEST_JOBSTEP_20150717_002938	Идите к Fletcher Master в Goddess' Ancient Garden
+QUEST_JOBSTEP_20150717_002939	Вернитесь к Fletcher Master.
+QUEST_JOBSTEP_20150717_002940	Go to Falconer Master в Stele Road
 QUEST_JOBSTEP_20150717_002941	Return to Falconer Master.
-QUEST_JOBSTEP_20150717_002942	Talk to the Schwarzer Reiter Master
-QUEST_JOBSTEP_20150717_002943	Go to the Schwarzer Reiter Master in Forest of Prayer
-QUEST_JOBSTEP_20150717_002944	Return to the Schwarzer Reiter Master.
-QUEST_JOBSTEP_20150717_002945	Return to the Monk Master.
-QUEST_JOBSTEP_20150717_002946	Return to the Pardoner Master.
-QUEST_JOBSTEP_20150717_002947	Return to the Druid Master.
-QUEST_JOBSTEP_20150717_002948	Go to the Oracle Master in Klaipeda
-QUEST_JOBSTEP_20150717_002949	Return to the Oracle Master.
+QUEST_JOBSTEP_20150717_002942	Поговорить с Schwarzer Reiter Master
+QUEST_JOBSTEP_20150717_002943	Идите к Schwarzer Reiter Master в Forest of Prayer
+QUEST_JOBSTEP_20150717_002944	Вернитесь к Schwarzer Reiter Master.
+QUEST_JOBSTEP_20150717_002945	Вернитесь к Monk Master.
+QUEST_JOBSTEP_20150717_002946	Вернитесь к Pardoner Master.
+QUEST_JOBSTEP_20150717_002947	Вернитесь к Druid Master.
+QUEST_JOBSTEP_20150717_002948	Идите к Oracle Master в Klaipeda
+QUEST_JOBSTEP_20150717_002949	Вернитесь к Oracle Master.
 QUEST_JOBSTEP_20150729_002950	Please collect Tail Pins from Desmoduses in Tenet Church B1.{nl}They break easily so it's hard to get the decent ones.
 QUEST_JOBSTEP_20150729_002951	Nice. The Tail Pins are not broken.{nl}After our lesson, you will realize how great this is.
 QUEST_JOBSTEP_20150729_002952	You should get support from the Peltasta Master.{nl}She will welcome you if you obtain Coarse Tree Bark from Yognomes at Tenet Church B1.

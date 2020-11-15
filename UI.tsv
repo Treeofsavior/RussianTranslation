@@ -3380,11 +3380,11 @@ UI_20180629_003379	{@st41b}{s16}{nl}Exchange
 UI_20180704_003380	Please register a Weapon Appearance Material or equivalent items.
 UI_20180723_003381	{@st42}{s20}Victory Rewards
 UI_20180723_003382	Seizing Date
-UI_20180723_003383	Victory Rewards
+UI_20180723_003383	Награды за победу
 UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.
 UI_20180723_003385	{@st41b}{s16}Victory Rewards
 UI_20180723_003386	{@st42}{s16}Receive
-UI_20180809_003387	{@st41b}Open Voucher
+UI_20180809_003387	{@st41b}Открыть ваучер
 UI_20180827_003388	{@st59}Системный{/}
 UI_20180827_003389	{@st59}Боевой{/}
 UI_20180827_003390	{@st42}{s18}Настройки чата
@@ -3439,7 +3439,7 @@ UI_20180827_003438	{@st66}%s Day(s): %s% of item price
 UI_20180827_003439	{@st66}{s14}Серебро, полученное при продаже предметов (кроме токенов) {nl}, можно получить на Аукционе через 48 часов.{/}
 UI_20180827_003440	{@st66b}{s18}Fees{/}
 UI_20180827_003441	{@st66b}{s18}Time Remaining{/}
-UI_20180827_003442	{ds}{b}{#ffefd6}30 min: {#fe7e00}100 POINTS
+UI_20180827_003442	{ds}{b}{#ffefd6}30 минут: {#fe7e00}100 ОЧКОВ
 UI_20180827_003443	Купленно (%s/%s){/}
 UI_20180827_003444	{@st42}{s20}Special %s
 UI_20180827_003445	{@st66b}Special rewards delivered to your inventory.
@@ -3470,16 +3470,16 @@ UI_20180827_003469	{s18}Скрыть/Показывать таймер
 UI_20180827_003470	{@st66b}Reverb ON/OFF{/}
 UI_20180827_003471	{@st59}Check to apply reverb.{/}
 UI_20180827_003472	{@st66b}Enable Animated Illustrations
-UI_20180827_003473	 Use item?
+UI_20180827_003473	 Использовать предмет?
 UI_20180827_003474	It will be removed from %s and applied only to %s.{/}
 UI_20180827_003475	Включить Анимацию
 UI_20180827_003476	{@st41b}Купить{/}
 UI_20180827_003477	Search crafting materials.
 UI_20180827_003478	{#002d93}Silver{/}{/} from {#8e0000}[%s %s] x%s{/}{/}: {#8e0000}[%s]{/}{/}
 UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}
-UI_20180827_003480	1 day, 23 hours
+UI_20180827_003480	1 день, 23 часа
 UI_20180827_003481	Untradable
-UI_20180827_003482	{@st42b}{s16}Preview{/}
+UI_20180827_003482	{@st42b}{s16}Предпросмотр{/}
 UI_20181017_003483	{@st43}Try on themed items
 UI_20181017_003484	Insert the equipment you want to change the appearance for.
 UI_20181017_003485	{@st68}{s16}Список{/}
@@ -3532,7 +3532,7 @@ UI_20181017_003531	{@st66b}Green Gems{/}
 UI_20181017_003532	{@st66b}White Gems{/}
 UI_20181017_003533	{@st66b}Monster Gems{/}
 UI_20181017_003534	Сброс
-UI_20181017_003535	{@st43}Return
+UI_20181017_003535	{@st43}Вернуться
 UI_20181017_003536	{@st43}Start Over
 UI_20181017_003537	{@st59}Close search options{/}
 UI_20181017_003538	Save your current category search options.{nl}Options not specified will not be saved.
@@ -3553,17 +3553,17 @@ UI_20181017_003552	Used Items
 UI_20181017_003553	Титул       %s
 UI_20181017_003554	Вознаграждение
 UI_20181017_003555	{@sti7}{s26}Find Your Class
-UI_20181017_003556	{@st43b}Start
-UI_20181017_003557	{@st43}1st
-UI_20181017_003558	{@st43}2nd
-UI_20181017_003559	{@st43}3rd
+UI_20181017_003556	{@st43b}Старт
+UI_20181017_003557	{@st43}Первый
+UI_20181017_003558	{@st43}Второй
+UI_20181017_003559	{@st43}Третий
 UI_20181017_003560	Level Range
 UI_20181017_003561	Normal
 UI_20181017_003562	Искать Предмет
 UI_20181017_003563	Show only unidentified items
 UI_20181017_003564	Hide unidentified items
 UI_20181017_003565	Advanced Settings
-UI_20181017_003566	Value
+UI_20181017_003566	Значение
 UI_20181017_003567	{@st66}{s16}Add Stat
 UI_20181017_003568	Stat Group
 UI_20181017_003569	{@st66}{s16}Сохранить
