@@ -386,3 +386,5 @@ INTL_20200206_000385	{@st66d_y}{s14}Goddess’{nl}Blessing	{@st66d_y}{s14}여신
 INTL_20200214_000386	: x5{nl}- Legend Raids: Casual : x2{nl}- Unique Raids : x5{nl}- Unique Raids: Casual : x2{nl}- Challenge Mode Stage 5+: x2{nl}- Level Dungeons: x1	 클리어 : 5개{nl}- 레전드 레이드:캐주얼 클리어 : 2개{nl}- 유니크 레이드 클리어 : 5개{nl}- 유니크 레이드:캐주얼 클리어 : 2개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 레벨던전 클리어 : 1개				대장장이 테리아베리스
 INTL_20200609_000387	There is no on-going event in the Event Notice Board.	현재 이벤트 알림판에서 진행중인 이벤트가 없습니다.				이벤트 알림판
 INTL_20200727_000388	Whether to apply protection mode after checking hwid, ip, 1: Use 0: Not Use	hwid, ip 확인 후 보호모드 적용 여부, 1:사용 0:안함
+INTL_20201030_000389	Will you leave log of using skills in Boruta Guild Mission? (1: Leave, 0: Not Leave)	보루타 길드 미션에서 스킬 사용 로그를 남길건가? (1: 남김, 0: 안함)				
+INTL_20201123_000390	CashOut applicability, 1:Used 0:Unused	CashOut 적용 여부, 1:사용 0:안함

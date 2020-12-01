@@ -4519,3 +4519,35 @@ UI_20200902_004518	Голосовать
 UI_20201012_004519	Event Roulette	이벤트 룰렛				
 UI_20201012_004520	Current Coins in Possession	현재 보유 코인 개수				
 UI_20201012_004521	{@st43}{s24}Draw	{@st43}{s24}뽑기				
+UI_20201030_004522	{@st66b}Серебро{/}	{@st66b}실버{/}				
+UI_20201030_004523	{@st66b}Attribute Points{/}	{@st66b}특성 포인트{/}				
+UI_20201030_004524	Consumed Attribute Points	소비 특성 포인트				
+UI_20201030_004525	{ds}{b}{#ffefd6}Mercenary Badge(Weekly)	{ds}{b}{#ffefd6}용병단 증표(주간)				
+UI_20201030_004526	{@st59}View the details about the Costume Collection.{/}	{@st59}코스튬 컬렉션 정보를 엽니다.{/}				
+UI_20201030_004527	{@st43b}{s24}Costume Collection{/}	{@st43b}{s24}코스튬 컬렉션{/}				
+UI_20201030_004528	{@st59}Close the Costume Collection{/}	{@st59}코스튬 컬렉션을 닫습니다{/}				
+UI_20201030_004529	{@st66b}{s16}See All Effects{/}	{@st66b}{s16}총 효과보기{/}				
+UI_20201030_004530	{@st41b}Change Points	{@st41b}포인트 변환				
+UI_20201030_004531	Current Item Number	현재 보유 아이템 개수	UI_20201012_004520	Current Coins in Possession	현재 보유 코인 개수	
+UI_20201030_004532	{@st66b}Raid{/}	{@st66b}레이드{/}				
+UI_20201030_004533	{@st66b}Joint Strike	{@st66b}보스 협동전				
+UI_20201030_004534	{s16}{ol}{#FFFFFF}Enter	{s16}{ol}{#FFFFFF}입장하기				
+UI_20201030_004535	{@st66d}Select Class	{@st66d}클래스 선택				
+UI_20201030_004536	{@st41b}Current Points: %s{/}	{@st41b}현재 포인트: %s{/}				
+UI_20201030_004537	{@st41b}Obtained Points: {#ec0000}%s{/}{/}	{@st41b}획득 포인트: {#ec0000}%s{/}{/}				
+UI_20201030_004538	{@st41b}Total Points: {@st66d_y}%s{/}{/}	{@st41b}총 포인트: {@st66d_y}%s{/}{/}				
+UI_20201030_004539	{@st41b}Change{/}	{@st41b}변환{/}				
+UI_20201030_004540	{@st59}Change to Points.{/}	{@st59}포인트로 변환합니다.{/}				
+UI_20201030_004541	{@st45tw2}Maximum number of items you can check is %s.	{@st45tw2}확인 가능한 아이템 개수는 최대 %s개 입니다.				
+UI_20201030_004542	{@st41b}Purchase Point	{@st41b}포인트 구매				
+UI_20201030_004543	{@st43}{s22}Demon God's Temptation	{@st43}{s22}마신의 유혹				
+UI_20201030_004544	{@st41b}{s16}%s(Month) %s(Day) ~ %s(Month) %s(Day)	{@st41b}{s16}%s월 %s일 ~ %s월 %s일				
+UI_20201030_004545	{@st43}{s24}Contribute	{@st43}{s24}헌납				
+UI_20201030_004546	{@st41b}{s16}Please enter the number contributing	{@st41b}{s16}헌납할 횟수를 입력해 주세요				
+UI_20201030_004547	{@st43}{s24}Continuous Contribute	{@st43}{s24}연속 헌납				
+UI_20201030_004548	{@st66b}Show weekly acquisition amount of Mercenary Badge{/}	{@st66b}용병단 증표 주간 획득량 표시{/}				
+UI_20201030_004549	Turn off login alerts	접속 알림 끄기				
+UI_20201030_004550	Class Rank	클래스 순위	UI_20200320_004247	Type Rank	계열 등수	
+UI_20201030_004551	{@st66b}{s16}Accumulated Damage 	{@st66b}{s16}누적 대미지				
+UI_20201103_004552	Contents Ranking	콘텐츠 랭킹				
+UI_20201103_004553	Battle in Sulivinas Lair	봉쇄전				
