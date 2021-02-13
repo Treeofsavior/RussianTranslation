@@ -12379,3 +12379,621 @@ QUEST_20201113_012525	can be obtained again after an hour.{nl}3. Plant the seed 
 QUEST_20201113_012526	Here's a [Event] Blessed Seed.{nl}{#ff0000}Daily limit resets every 6 AM server time.{/}	[이벤트] 축복받은 씨앗을 지급해 드리겠습니다.{nl}{#ff0000}일일 획득 제한은 매일 오전 6시에 초기화 됩니다.{/}				[수확제 이벤트] 큐폴	
 QUEST_20201113_012527	About [Harvest] Goddess's Aura{nl}By using the seed in areas other than [Greene Manor] [Shaton Farm] [Tenants' Farm] [Myrkiti Farm],{nl}[Harvest] Goddess's Aura will be applied{nl}instead of planting the seed.	[수확제] 여신의 기운 안내{nl}[그린가의 장원] [샤튼 농장] [테넌츠 농장] [미르키티 농장] 이외의 지역에서{nl}[이벤트] 축복받은 씨앗을 사용할 경우 식물을 심는 대신{nl}[수확제] 여신의 기운 버프를 부여합니다.				[수확제 이벤트] 큐폴	
 QUEST_20201113_012528	Buff remains for 6 hours and applies the following effect.{nl}- EXP gain +50%%{nl}- Physical, Magic ATK +1,000{nl}- Movement Speed +3{nl}- Maximum HP +10,000{nl}- Maximum SP +2,000	버프는 6시간 동안 지속되며 다음 혜택을 부여합니다.{nl}- 경험치 +50%%증가{nl}- 물리, 마법 공격력 +1,000{nl}- 이동속도 +3{nl}- 최대 HP +10,000{nl}- 최대 SP +2,000				[수확제 이벤트] 큐폴	
+QUEST_20201215_012529	[Winter Festival] Yak Mambo Snowman	[겨울축제] 야크맘보 눈사람					
+QUEST_20201215_012530	Yak Mambo Snowman has come to town!{nl}Participate in various contents and get rewards! 	야크맘보 눈사람이 찾아왔습니다!{nl}다양한 콘텐츠를 이용하고 푸짐한 보상을 받아가세요!				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012531	[Tip] - Event Tip{nl}1.Play various contents and get	[Tip] - 이벤트 안내{nl}1.다양한 콘텐츠를 플레이하고 				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012532	[Yak Mambo] Snowflake Key	[야크맘보] 눈꽃 열쇠					
+QUEST_20201215_012533	.(100 [Yak Mambo] Snowflake Key can be exchanged to 1 [Yak Mambo] Golden Snowflake Key.){nl}2. Hunt in the fields and get 	를 획득하세요.(눈꽃 열쇠 100개를 황금 눈꽃 열쇠 1개로 교환 할 수 있습니다.){nl}2. 필드 사냥을 통해 				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012534	[Yak Mambo] Winter Festival Box	[야크맘보] 겨울 축제 상자					
+QUEST_20201215_012535	and	 와 				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012536	[Yak Mambo] Golden Winter Festival Box	[야크맘보] 황금 겨울 축제 상자					
+QUEST_20201215_012537	!{nl}3. Rewards can be obtained by using the key that fits each box.	를 획득하세요!{nl}3. 각 상자에 맞는 열쇠를 사용해 보상을 획득할 수 있습니다.				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012538	[Tip] - Event Tip{nl}	[Tip] - 이벤트 안내{nl}				[신년맞이 이벤트] 말순이	
+QUEST_20201215_012539	can be obtained from the following.{nl}- {#003399}Level Dungeon{/}, {#003399}Uphill Defense{/}, {#003399}Earth Tower{/} {nl}- {#003399}Unique Raid (Solo) and Legend Raid (Solo){/},{#003399} Unique and Legend Raid{/} {nl}- {#003399}Challenge Mode Stage 5 and above{/}, {#003399}Challenge Mode Stage 7{/}, {#003399}Dimensional Collapse Point Stage 5 and above{/} {nl}- {#003399}Challenge Mode : Division Singularity Stage 2 or above, Challenge Mode : Division Singularity Stage 4 or above{/} {nl}- {#003399}Dropped randomly by defeating monsters in the player's level range{/} {nl}- Clear Sole Hunt: {#003399}Madon Maid{/}, {#003399}Amiss Dog{/}, {#003399}Misrus{/},{#003399}Tel Harsha{/} {nl}Event Status can be checked via	는 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/} {nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/} {nl}- {#003399}챌린지 모드 5단계 이상{/}, {#003399}챌린지 모드 7단계{/}, {#003399}차원 붕괴지점 5단계 이상{/} {nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/} {nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/} {nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤 클리어{/} {nl}이벤트 현황은 				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012540	/YAK	/야크맘보					
+QUEST_20201215_012541	[Tip] - Event Tip{nl}Login and get rewards!{nl}1. Rewards will be given every day when maintaining login for 1 hour!	[Tip] - 이벤트 안내{nl}접속하면 보상이 가득!{nl}매일 1시간 누적 접속 할 때마다 				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012542	(Weekdays: maximum 2 times per team daily, Weekends and Christmas: maximum 3 times per team daily) the more special box will be given on Christmas Holidays!(December 25, 2020, at 06 AM EST ~ December 28, 2020, at 05: 59 AM EST)	 지급!(평일 팀당 1일 2회, 주말-공휴일 3회)크리스마스 연휴 (12월 25일 오전 06시 ~ 28일 오전05시 59분까지)에는 더 특별한 상자를 드립니다!				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012543	Unused event items can be exchanged for Attribute Points or other items.{nl}{#FF282C}※ Event box can be used to obtain various rewards by using	사용하지 않은 이벤트 아이템들을 특성 포인트와 교환하거나 다른 아이템으로 교환할 수 있습니다.{nl}{#FF282C}※ 이벤트 상자는 				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012544	[Event] Golden Key	[이벤트] 황금 열쇠				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012545	, so please be aware before exchanging the item!{/}	를 사용하면 다양한 보상을 획득할 수 있으니 이벤트 아이템 교환전에 충분히 고민해주세요!{/}				[겨울축제] 야크맘보 눈사람	
+QUEST_20201215_012546	We are giving an item that can extract Attribute Points for free.{nl}Can be received 3 times per team, silver will be exempted when extracting the Attribute point with the item in the inventory.{nl}{#FF282C}※1 Free Voucher will be used when extracting 1 time.{/}	특성 포인트를 무료로 추출할 수 있는 아이템을 드리고 있어요.{nl}팀당 3회 수령 가능하며, 해당 아이템을 인벤토리에 소지한 상태로 특성 포인트 추출 시 실버 비용이 면제됩니다.{nl}{#FF282C}※1회 추출 시 한 개의 무료 추출권이 사용됩니다.{/}				[겨울축제] 야크맘보 눈사람	
+QUEST_20210104_012547	[2021 Festival] Maru	[신년맞이 이벤트] 말순이				
+QUEST_20210104_012548	К Новому 2021 году мы подготовили различные мероприятия и награды.
+QUEST_20210104_012549	[Подсказка] - Подсказка события {nl} 1. Выполняйте различные задания и получайте
+QUEST_20210104_012550	[2021] Lucky Coin
+QUEST_20210104_012551	.{nl}2.	을 획득하세요.{nl}2. 				[신년맞이 이벤트] 말순이
+QUEST_20210104_012552	You can obtain [2021] Lucky Coin from hunting in the field and clearing contents.{nl}3. You can obtain a maximum of 100 [2021] Lucky Coin daily from hunting in the field.{nl}4. You can obtain a maximum of 200 [2021] Lucky Coin daily from clearing contents.{nl}5. Use the Event Shop by using [2021] Lucky Coin and buy the [2021] New Years Ticket to open	[신년맞이] 행운의 동전은 필드 사냥과 콘텐츠 플레이 두 가지 방법을 통해 획득할 수 있습니다.{nl}3. 필드 사냥을 통해 획득할 수 있는 행운의 동전은 일일 최대 100개입니다.{nl}4. 콘텐츠 플레이를 통해 획득할 수 있는 행운의 동전은 일일 최대 200개입니다.{nl}5. [신년맞이] 행운의 동전을 이용해 이벤트 상점을 이용할 수 있으며, [신년맞이] 신년 티켓을 구매하여 				[신년맞이 이벤트] 말순이
+QUEST_20210104_012553	Maru's Lucky Box	말순이의 행운 박스				
+QUEST_20210104_012554	.{nl}6. You can open the [Maru's Lucky Box] by using [2021] New Years Ticket.{nl}	를 이용할 수 있습니다.{nl}6. [말순이의 행운 박스]는 신년 티켓 아이템을 사용하여 이용할 수 있습니다.{nl}				[신년맞이 이벤트] 말순이
+QUEST_20210104_012555	[2021] New Years Ticket 	[신년맞이] 신년 티켓은				[신년맞이 이벤트] 말순이
+QUEST_20210104_012556	is given when maintaining login for 1 hour(5 times maximum daily), and can be purchased from the event shop with the Lucky Coin(2 times maximum daily).	 1시간 접속 시(일일 최대 5회) 지급 받을 수 있으며 행운의 동전을 사용하여 이벤트 상점에서 구매할 수 있습니다(일일 최대 2회)				[신년맞이 이벤트] 말순이
+QUEST_20210104_012557	can be obtained from the following.{nl}- {#003399}Level Dungeon{/}, {#003399}Uphill Defense{/}, {#003399}Earth Tower{/}{nl}- {#003399}Unique Raid (Solo) and Legend Raid (Solo){/},{#003399} Unique and Legend Raid{/}{nl}- {#003399}Challenge Mode Stage 5 and above{/}, {#003399}Challenge Mode Stage 7{/}, {#003399}Dimensional Collapse Point Stage 5 and above{/}{nl}- {#003399}Challenge Mode : Division Singularity Stage 2 or above, Challenge Mode : Division Singularity Stage 4 or above{/}{nl}- {#003399}Dropped randomly by defeating monsters in the player's level range{/}{nl}- Clear Sole Hunt: {#003399}Madon Maid{/}, {#003399}Amiss Dog{/}, {#003399}Misrus{/},{#003399}Tel Harsha{/}{nl}Event Status can be checked via	은 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/}{nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/}{nl}- {#003399}챌린지 모드 5단계 이상{/}, {#003399}챌린지 모드 7단계{/}, {#003399}차원 붕괴지점 5단계 이상{/}{nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/}{nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/}{nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤 클리어{/}{nl}이벤트 현황은 				[신년맞이 이벤트] 말순이
+QUEST_20210104_012558	/newyear		
+QUEST_20210115_012559	This place is Ascend Arcade..	여기가 어센드 아케이드..				랑다 마스터	
+QUEST_20210115_012560	So, now isn't the time to review leisurely.	지금은 한가로운 감상평 따위나 하고 있을 때가 아니군요.				랑다 마스터	
+QUEST_20210115_012561	It looks like this is the Power Generator.	아무래도 이 장치가 동력 장치로 보입니다만.				랑다 마스터	
+QUEST_20210115_012562	Please handle the items you received carefully.{nl}It looks dull, but it is a powerful bomb that cannot be ignored.	수령하신 물건은 조심히 다루십시오.{nl}보기에는 밋밋해보이지만, 무시할 수 없는 위력을 가진 폭탄입니다.				[오르샤 영주]이네사 해먼데일	
+QUEST_20210115_012563	Move carefully.{nl}There are too many demons nearby.{nl}Please investigate carefully so as not to provoke them.	조심히 움직여주십시오.{nl}근처에 마족들의 수가 너무나 많습니다.{nl}그들을 자극하지 않도록 조심스럽게 조사해주십시오.				여신 라다	
+QUEST_20210115_012564	Be careful.{nl}Strong demons are lurking nearby.	조심하십시오.{nl}근처에 강력한 마족들이 도사리고 있습니다.				여신 라다	
+QUEST_20210115_012565	You're late.{nl}If you don't come up to Ragana's expectations, you'll have to pay for it.	늦었군.{nl}라가나 님의 기대를 저버린다면 죄값을 치루어야 할 것이다.				라가나의 전령	
+QUEST_20210115_012566	Baiga's Messenger	바이가의 전령					
+QUEST_20210115_012567	I am a slave following Baiga.{nl}Did you bring the answer to Baiga's suggestion?	저는 바이가님을 따르는 종입니다.{nl}바이가님의 제안에 대한 대답은 들고 왔습니까?				바이가의 전령	
+QUEST_20210115_012568	Depending on the answer, I may go to Baiga with your head instead of your answer, so answer carefully.	대답에 따라 당신의 대답 대신, 목을 들고 바이가님에게 갈 수도 있을 테니 신중하게 대답하시길.				바이가의 전령	
+QUEST_20210115_012569	Thank you for your efforts.{nl}Ragana and Baiga will be deceived by false information and will gather in the Planas Lot where we investigated earlier.	고생하셨습니다.{nl}라가나와 바이가는 거짓 정보에 속아 앞서 조사했던 플라나스 공터로 모일 겁니다.				여신 라다	
+QUEST_20210115_012570	They must have conflicts with each other when they come together in one place.{nl}You can take the time to go to the Mirtinas Repository.	한 장소로 모인 그들은 분명히 서로 대립하겠지요.{nl}그 틈을 타서 머티니스 저장소로 가시면 될 겁니다.				여신 라다	
+QUEST_20210115_012571	Be careful.{nl}}It's already like a demon's den around here.	조심하십시오.{nl}이미 이 근처는 마족들의 소굴이나 마찬가지입니다.				여신 라다	
+QUEST_20210115_012572	We gave you all receivable quests.{nl}We count on you, savior.	가능한 모든 의뢰를 드렸습니다.{nl}그럼 잘 부탁드립니다.				접수원 람다	
+QUEST_20210115_012573	Quabast	쿼바스트					
+QUEST_20210115_012574	I am here to help travelers coming to Fedimian instead of the Master.{nl}Do you need any help?	바쁘신 마스터를 대신하여 페디미안에서 여행자 여러분을 돕고 있습니다.{nl}도움이 필요하신가요?				쿼바스트	
+QUEST_20210115_012575	Heecia	히시아					
+QUEST_20210115_012576	I am here to help travelers coming to Orsha instead of the Master.{nl}Do you need any help?	바쁘신 마스터를 대신하여 오르샤에서 여행자 여러분을 돕고 있습니다.{nl}도움이 필요하신가요?				히시아	
+QUEST_20210115_012577	Giltine's Voice	길티네의 음성					
+QUEST_20210115_012578	The revivification ritual has begun.{nl}All creatures, gladly welcome the death and return to the Creator.	환원의 의식은 시작되었다.{nl}모든 피조물은 기꺼이 죽음을 맞이하고 그분에게 돌아가거라.				길티네의 음성	
+QUEST_20210115_012579	My sister's darkness is stretching out to the world.{nl} We have no more time left.	제 자매의 어둠이 세계 각지로 뻗어 나가고 있습니다.{nl}우리에게는 더 이상의 시간이 남아 있지 않습니다.				여신 라이마	
+QUEST_20210115_012580	What is it, Revelator?	계시자님, 왜 그러십니까?				랑다 마스터	
+QUEST_20210115_012581	Headstone?{nl}Headstone where the Bower are guarding..	비석이요?{nl}바우어들이 지키는 곳에 비석이라니..				랑다 마스터	
+QUEST_20210115_012582	That doesn't seem normal.	자연스러워 보이지는 않는군요.				랑다 마스터	
+QUEST_20210115_012583	Let me take a look.	제가 한 번 볼게요.				뮬리아	
+QUEST_20210115_012584	Explained that the headstone contains unknown information.	비석에 알 수 없는 내용이 적혀있다고 설명했다.				PC	
+QUEST_20210115_012585	These sentences..	이 문장들은..				뮬리아	
+QUEST_20210115_012586	Before coming to the continent, the tribal chief informed me so that I could decipher these sentences.	대륙으로 오기 전에 부족장님께서 제가 이 문장들을 해석할 수 있도록 알려주셨어요.				뮬리아	
+QUEST_20210115_012587	You cannot read this without using Veljamu, a ritual material passed down to our Rangda tribe.	저희 랑다 부족에 전해 내려오는 의식 재료인 벨자무를 사용하지 않으면 이 내용을 읽을 수 없어요.				뮬리아	
+QUEST_20210115_012588	No way.{nl} In your condition, Veljamu is only a poison.	그건 안된다.{nl}지금 네 몸 상태라면 벨자무는 독이 될 뿐이야.				랑다 마스터	
+QUEST_20210115_012589	I know.. but I'm the only one who can decipher this headstone..{nl}At the time I met the Revelator, maybe it's the Goddess' will that I'm here by chance, kidnapped by the Bowers.	저도 알지만.. 이 비석을 해석할 수 있는 사람은 아무래도 저밖에 없는 걸요..{nl}계시자님을 만난 시점에서, 바우어들에게 납치당한 제가 우연히 여기에 있는 건 어쩌면 여신의 뜻일지도 몰라요.				뮬리아	
+QUEST_20210115_012590	Revelator, Veljamu is a material which helps us, Rangda, to contact with the Gods.{nl}If you let me, I'll decipher the headstone.	계시자님, 벨자무는 저희 랑다들이 의식을 통해 신들과의 접촉을 돕기 위해 쓰는 재료예요.{nl}계시자님만 허락해주신다면 비석의 내용을 해석할게요.				뮬리아	
+QUEST_20210115_012591	Revelator, it's definitely not a good choice.	계시자님, 분명 좋은 선택은 아닐 겁니다.				랑다 마스터	
+QUEST_20210115_012592	When there is no promise, for the owner of the memory, leave headstones all over this place and make the Bowers keep them.{nl}The investigator will find the headstone, and the path will be lit by a dark red ember.	 기약 없는 때, 기억의 주인을 위하여, 이 장소 곳곳에 비석들을 남기고 바우어들이 지키게 한다.{nl}탐구자가 비석을 찾되, 그 길은 사그라들 검붉은 불씨가 밝히게 되리라. 				뮬리아	
+QUEST_20210115_012593	I don't know what the contents of the headstone mean..{nl}I think we should look at the other headstones mentioned in this headstone.	비석의 내용이 뭘 의미하고 있는지 모르겠네요..{nl}이 비석에서 말했던 다른 비석들을 살펴봐야 할 것 같아요.				뮬리아	
+QUEST_20210115_012594	But I'm the only one who can decipher this headstone..	하지만 이 비석을 해석할 수 있는 건 저뿐인 걸요..				뮬리아	
+QUEST_20210115_012595	If I don't help, you will never know where to go.	제가 돕지 않으면 계시자님은 앞으로 어디로 가야 할지 알 수 없을 거예요.				뮬리아	
+QUEST_20210115_012596	Which magic stone would you like to move to the central altar?{nl}{#FF0000} If there is already a magic stone in the central altar, it will be replaced with the selected magic stone.{/}	어떤 마력석을 중앙 제단으로 옮기시겠습니까?{nl}{#FF0000}중앙 제단에 이미 마력석이 있다면, 선택한 마력석과 교체됩니다.{/}				제단	
+QUEST_20210115_012597	Where do you want to move the magic stone?	마력석을 어디로 옮기시겠습니까?				제단	
+QUEST_20210115_012598	Which magic stone would you like to move?	어떤 마력석을 선택하시겠습니까?				제단	
+QUEST_20210115_012599	I can feel the Bower's magic from the magic stone..{nl}It's hard to move.	저 마석에서 바우어들의 마력이 느껴져요..{nl}움직이기가 힘들어요.				뮬리아	
+QUEST_20210115_012600	Revelator, I feel strong power from three magic stones in the left altar.{nl}By moving the magic stones to the right altar, the power of magic stone will destroy Bower's magic stone.	계시자님, 왼쪽 제단에 있는 세 개의 마력석에서 강한 힘이 느껴집니다.{nl}저 마력석을 오른쪽 제단으로 옮기면 마력석의 힘이 바우어 마석을 파괴할 수 있을 겁니다.				랑다 마스터	
+QUEST_20210115_012601	 In the beginning, God unfolded the world and created life.{nl}First, extraordinary beings were born with wings.{nl}Later, lower beings were born and were called humans	 태초에 신께서 세계를 펼치시고 생명을 창조하셨다.{nl}먼저, 비범한 존재들이 날개를 가지고 태어났다.{nl}뒤이어 더 낮은 존재들이 태어나 인간으로 불리었다. 				뮬리아	
+QUEST_20210115_012602	The tale of the beginning.. It's an old story.{nl}Next..	태초의 이야기.. 오래된 이야기예요.{nl}다음..				뮬리아	
+QUEST_20210115_012603	Let's go find the next headstone.	다음 비석을 찾으러 가요.				뮬리아	
+QUEST_20210115_012604	Revelator.{nl}Mulia's body is getting weaker.	계시자님.{nl}뮬리아의 몸이 점점 쇠약해지고 있습니다.				랑다 마스터	
+QUEST_20210115_012605	Let's hurry.	서두르죠.				랑다 마스터	
+QUEST_20210115_012606	This piece is right.{nl}I'll decipher it.	이 조각이 맞아요.{nl}해석해 볼게요.				뮬리아	
+QUEST_20210115_012607	Only one investigator will carry the mission and open the door at the center of the earth to return to his hometown,{nl}sanctuary.	 단 한 명의 탐구자가 사명을 짊어지고 이 땅의 중심에서 문을 열어 고향으로,{nl}성역으로 돌아가리라. 				뮬리아	
+QUEST_20210115_012608	It says about the door.{nl}Maybe the hometown or sanctuary that this headstone says is...where you should go.	문에 대해 적혀있어요.{nl}어쩌면 이 비석에서 말하는 고향이나 성역이.. 계시자님이 가야 할 곳일지도 몰라요.				뮬리아	
+QUEST_20210115_012609	Goddess Giltine might be in the sanctuary where this headstone says.	길티네 여신은 이 비석에서 언급한 성역에 있겠군요.				랑다 마스터	
+QUEST_20210115_012610	The magic of the Bower is deep.	바우어의 마력이 짙어요..				뮬리아	
+QUEST_20210115_012611	The branch will be enough.	나뭇가지는 그 정도면 충분할 거예요.				뮬리아	
+QUEST_20210115_012612	As expected..	역시..				뮬리아	
+QUEST_20210115_012613	 It's so hard because of the magic...	마력 때문에 너무 힘드네요..				뮬리아	
+QUEST_20210115_012614	Decipher..	해석..				뮬리아	
+QUEST_20210115_012615	I'll decipher it.	해석해 볼게요.				뮬리아	
+QUEST_20210115_012616	The embers will fulfill the fate and become ashes.	 불씨는 숙명을 이루고 재가 되리라. 				뮬리아	
+QUEST_20210115_012617	It's predicting the death of embers..{nl}The embers are the remnants of a failing fire... just like me.. 	불씨에 대한 죽음을 예언하고 있어요..{nl}불씨는 꺼져가는 불의 잔재.. 마치 제 모습과 같네요..				뮬리아	
+QUEST_20210115_012618	Am I...going to dye?	저는.. 죽게 되는 걸까요?				뮬리아	
+QUEST_20210115_012619	Don't say such thing. {nl} No one's prophecy can be an exact prophecy unless it is the prophecy of Goddess Laima.	그런 소리 하지 말아라.{nl}라이마 여신의 예언이 아니고서야, 그 누구의 예언도 정확한 예언일 수는 없다.				랑다 마스터	
+QUEST_20210115_012620	Revelator and I will protect you.	계시자님과 내가 너를 지켜줄 거다.				랑다 마스터	
+QUEST_20210115_012621	Revelator.{nl}Can you make a promise?	계시자님.{nl}약속하실 수 있죠?				랑다 마스터	
+QUEST_20210115_012622	It's weird..{nl}I cannot read even though I use the Veljamu.	이상해요..{nl}벨자무를 사용해도 내용을 읽을 수가 없어요.				뮬리아	
+QUEST_20210115_012623	My mind is getting white and my focus is blurry.{nl}I feel like someone is disturbing me.	머릿속이 하얘지고 초점이 흐려져요.{nl}꼭 누군가 방해를 하는 느낌이에요.				뮬리아	
+QUEST_20210115_012624	It's a big deal..{nl}This is ancient sorcery.{nl}It's surprising that the Bowers can perform ancient sorcery.	큰일이군요..{nl}이건 고대의 주술입니다.{nl}바우어들이 고대의 주술을 부릴 수 있다는 건 의외군요.				랑다 마스터	
+QUEST_20210115_012625	Maybe Bowers did this to prevent someone from reading this headstone.{nl}Sorcery like this get stronger over time, and hundreds of years have passed so there is no way to unlock them now.	아마도 누군가 이 비석을 읽는 걸 막기 위해 바우어들이 한 짓일 겁니다.{nl}이런 주술은 시간이 지날수록 견고해지기 때문에 수 백 년이 흐른 지금은 해제할 방법이 없어요.				랑다 마스터	
+QUEST_20210115_012626	What should we do?{nl}If we cannot read the sentence of the headstone because of the sorcery, it cannot be deciphered.	어쩌죠?{nl}주술 때문에 비석의 문장을 읽을 수 없다면 해석도 할 수 없어요.				뮬리아	
+QUEST_20210115_012627	Few humans know about ancient sorcery, but you have a lot of knowledge greater than you deserve.	고대의 주술에 대해 알고 있는 인간은 드물 텐데 분에 넘치는 지식을 가졌구나.				???	
+QUEST_20210115_012628	The sorcery of the headstone is invalid only to the demons.{nl}A weakened human isn't qualified to read the headstone.	그 비석의 주술은 마족에게만 무효하다.{nl}약해빠진 인간은 비석을 읽을 자격도 없다.				주시자	
+QUEST_20210115_012629	Kruvina's fragment made with the life force of the Goddess Lada.	이건 라다 여신의 생명력으로 만들어낸 크루비나의 파편이다.				주시자	
+QUEST_20210115_012630	Revelator.{nl}Use this Kruvina to the dying girl.	계시자.{nl}이 크루비나를 저 죽어가는 소녀에게 쓰거라.				주시자	
+QUEST_20210115_012631	It can not only decipher the headstone,{nl}but also die as a demon.	그럼 비석을 해석하는 건 물론,{nl}마족으로서 죽을 수 있을 거다.				주시자	
+QUEST_20210115_012632	There is no way you will do that to Mulia!	뮬리아에게 그런 짓을 할 리가 없잖아요!				랑다 마스터	
+QUEST_20210115_012633	You came this far to waste your time on the little life?	여기까지 와서 보잘것없는 생명 따위로 시간을 허비할 셈인가?				주시자	
+QUEST_20210115_012634	Look.{nl}The darkness of Giltine is getting thicker.{nl}The end of the world is impending.	보아라.{nl}길티네의 어둠이 점점 짙어지고 있다.{nl}세계에 종말이 임박하고 있다.				주시자	
+QUEST_20210115_012635	There must be a reason why you all are gathered here..{nl}That is the will of the supreme Laima or something.	마침 너희가 여기 모여 있는 이유가 있겠지..{nl}그 지고지순하신 라이마의 뜻이라던가.				주시자	
+QUEST_20210115_012636	Laima must have seen all of this more than a thousand years ago.{nl}Everything, from the birth of a girl with the fate of ember to the death.	라이마는 천 년도 더 전에 이 모든 걸 봤을 거다.{nl}불씨의 숙명을 가진 저 소녀가 태어나고 죽어가는 모든 걸.				주시자	
+QUEST_20210115_012637	Fate of the Ember	불씨의 숙명				뮬리아	
+QUEST_20210115_012638	Maybe that's right.	저 자의 말이 옳을지도 몰라요..				뮬리아	
+QUEST_20210115_012639	The Goddess of fate devoted herself to predicting the distant future for 200 years.	 운명의 여신이 200년 동안 머나먼 미래를 예지하는 데 힘을 쏟았다. 				뮬리아	
+QUEST_20210115_012640	{nl}The Goddess violated the taboo against the Creator and intervened in fate in order to prevent the disaster she faced in her prophecy.	{nl}여신은 예지 속에서 마주한 재앙을 막고자 창조주를 거스르고 운명에 간섭하는 금기를 범하였다. 				뮬리아	
+QUEST_20210115_012641	Eventually, destruction will come due to the Goddess of death.	 결국, 죽음의 여신으로 인해 파멸은 이루어지리라. 				뮬리아	
+QUEST_20210115_012642	This is... a prophecy about the Medzio Diena	이 내용은.. 신수의 날에 대한 예언이에요.				뮬리아	
+QUEST_20210115_012643	This will be enough.{nl}Give it to me.	이 정도면 부족하지는 않을 거예요.{nl}제게 주세요.				뮬리아	
+QUEST_20210115_012644	Humans regarded those with wings as gods, and humans and gods lived together in an earthly sanctuary.	 인간은 날개를 단 자들을 신으로 여기었고, 땅속의 성역에서 인간과 신은 함께 살았다. 				뮬리아	
+QUEST_20210115_012645	The sanctuary... This is the place mentioned in other headstones. {nl}The sanctuary where the Goddess Giltine is located is underground.	성역.. 다른 비석에서도 언급했던 장소입니다.{nl}길티네 여신이 있는 성역은 땅속, 지하에 있군요.				랑다 마스터	
+QUEST_20210115_012646	There may be few headstones left to explain.	이제 해설할 비석도 얼마 남지 않았을 겁니다.				랑다 마스터	
+QUEST_20210115_012647	We have to protect Mulia!{nl}You shouldn't let the Bowers approach Mulia.{nl}If it's for now, Mulia is fragile to the Bowers' magic.	뮬리아를 지켜야 합니다!{nl}바우어들이 뮬리아에게 접근하게 해서는 안 돼요.{nl}지금 상태라면 바우어들의 마력은 뮬리아에게 치명적입니다.				랑다 마스터	
+QUEST_20210115_012648	Please stop the Bowers, and I will protect Mulia.	제가 뮬리아를 지킬 테니 바우어들을 막아주세요.				랑다 마스터	
+QUEST_20210115_012649	I am fine..	괜찮아요..				뮬리아	
+QUEST_20210115_012650	I will decipher rest of it..	비석을 마저 해석할게요..				뮬리아	
+QUEST_20210115_012651	You don't need to overdo it.{nl}There must be another way.	무리할 필요 없다.{nl}다른 방법이 분명히 있을 거야.				랑다 마스터	
+QUEST_20210115_012652	You are in danger now.	지금 너는 위험해.				랑다 마스터	
+QUEST_20210115_012653	Thank you for your concern.{nl}But...{nl}I don't have enough time to find another way.	걱정해주셔서 감사합니다.{nl}하지만..{nl}다른 방법을 찾을 만큼의 시간이 없어요.				뮬리아	
+QUEST_20210115_012654	The energy of life on the earth was enriched, and humans went out to the ground.{nl}For them to live well on the new land, the residence of the past have been erased from human memory.{nl}The memory that was erased by the seeker in the absence of energy will go to its owner	 땅 위에 생명의 기운이 풍요로워지고 인간이 지상으로 나갔다.{nl}새로운 땅 위에서 그들이 잘살도록, 과거의 거처는 인간의 기억에서 지워졌다.{nl}기약 없는 때에 탐구자로 말미암아 지워졌던 기억은 그 주인을 찾아가리라. 				뮬리아	
+QUEST_20210115_012655	Here it is.{nl}It was just around the corner, but no one could find it because the Bowers disturbed the human's eye and mind.	여기군요.{nl}코앞에 있었지만 바우어들이 인간의 눈과 마음을 어지럽히고 방해했기에 아무도 찾을 수 없었습니다.				랑다 마스터	
+QUEST_20210115_012656	That Bower must be the guy guarding the entrance of the temple.{nl}You have to deal with it to get to the temple where the Goddess Giltine is.	저 바우어가 신전의 입구를 지키는 녀석이겠군요.{nl}녀석을 처리해야만 길티네 여신이 있는 신전으로 갈 수 있습니다.				랑다 마스터	
+QUEST_20210115_012657	If the Bauer is near Mulia, she will be in greater danger.{nl}I will bring Mulia to the safe place, so please handle the rest of it.	녀석이 뮬리아 근처에 있으면 뮬리아는 더 위험할 겁니다.{nl}제가 뮬리아를 안전한 곳으로 데려갈 테니 뒤를 부탁드립니다.				랑다 마스터	
+QUEST_20210115_012658	Decipher guide of Atspalvis Ancient Headstone	애스팔비스 고대 비석의 해석집					
+QUEST_20210115_012659	In the beginning, God unfolded the world and created life.{nl}First, extraordinary beings were born with wings. Later, lower beings were born and were called humans.{nl}Humans regarded those with wings as gods, and humans and gods lived together in an earthly sanctuary.{nl}The energy of life on the earth was enriched, and humans went out to the ground.{nl}For them to live well on the new land, the residence of the past have been erased from human memory.{nl}The memory that was erased by the seeker in the absence of energy will go to its owner{nl}When there is no promise, for the owner of the memory, leave headstones all over this place and make the Bowers keep them.	태초에 신께서 세계를 펼치시고 생명을 창조하셨다.{nl}먼저, 비범한 존재들이 날개를 가지고 태어났다. 뒤이어 더 낮은 존재들이 태어나 인간으로 불리었다.{nl}인간은 날개를 단 자들을 신으로 여기었고, 땅속의 성역에서 인간과 신은 함께 살았다.{nl}땅 위에 생명의 기운이 풍요로워지고 인간이 지상으로 나갔다.{nl}새로운 땅 위에서 그들이 잘살도록, 과거의 거처는 인간의 기억에서 지워졌다.{nl}기약 없는 때에 탐구자로 말미암아 지워졌던 기억은 그 주인을 찾아가리라.{nl}기약 없는 때, 기억의 주인을 위하여, 이곳에 비석을 남기고 바우어들이 지키게 한다.				애스팔비스 고대 비석의 해석집	
+QUEST_20210115_012660	The investigator will find the headstone, and the path will be lit by a dark red ember.{nl}The Goddess of fate devoted herself to predicting the distant future for 200 years.{nl}The Goddess violated the taboo against the Creator and intervened in fate in order to prevent the disaster she faced in her prophecy.{nl}Eventually, destruction will come due to the Goddess of death.{nl}Only one investigator will carry the mission and open the door at the center of the earth to return to his hometown, and sanctuary.{nl}The embers will fulfill their fate and become ashes.	탐구자가 비석을 찾되, 그 길은 사그라들 검붉은 불씨가 밝히게 되리라.{nl}운명의 여신이 200년 동안 머나먼 미래를 예지하는 데 힘을 쏟았다.{nl}여신은 예지 속에서 마주한 재앙을 막고자 창조주를 거스르고 운명에 간섭하는 금기를 범하였다.{nl}결국, 죽음의 여신으로 인해 파멸은 이루어지리라.{nl}단 한 명의 탐구자가 사명을 짊어지고 이 땅의 중심에서 문을 열어 고향으로, 성역으로 돌아가리라.{nl}불씨는 숙명을 이루고 재가 되리라.				애스팔비스 고대 비석의 해석집	
+QUEST_20210115_012661	So there is an entrance of sanctuary in the center of the Sacred Atspalvis{nl}There is no time to waste.{nl}Let' go.	애스팔비스 신역의 중심에 성역의 입구가 있다는 말이군요.{nl}더는 지체할 시간이 없습니다.{nl}어서 가보죠.				랑다 마스터	
+QUEST_20210115_012662	I'll take the lead.	제가 앞장서겠습니다.				랑다 마스터	
+QUEST_20210115_012663	Sound of someone running from far.	멀리서 누군가 달려오는 소리가 들린다.				PC	
+QUEST_20210115_012664	Told Mulia to do what the Rangda master said.	뮬리아에게 랑다 마스터의 말대로 하자고 말했다.				PC	
+QUEST_20210115_012665	Will you ask to decipher the headstone?	비석의 해석을 부탁하시겠습니까?				PC	
+QUEST_20210115_012666	Will you hand over the Kruvina to Mulia?	크루비나를 뮬리아에게 건네겠습니까?				PC	
+QUEST_20210115_012667	Will you promise?	약속하시겠습니까?				PC	
+QUEST_20210115_012668	This headstone is..{@st60b}	이 비석은..{@st60b}				뮬리아	
+QUEST_20210115_012669	The...of fate...to predict...distant...for 2...years.	 운명의.. 2.. 년동.. 나먼.. 예지.. 힘을.. 다. 				뮬리아	
+QUEST_20210115_012670	Follow the Rangda Master along the way to Sacred Atspalvis.	애스팔비스 신역 중심으로 가는 길을 따라 랑다 마스터를 쫓아가자				PC	
+QUEST_20210115_012671	Revelator, Mulia is in a bad shape.{nl} Since we don't have time to waste here, is it okay if I suggest a way to move the magic stone?	계시자님, 뮬리아의 상태가 좋지 않습니다.{nl}여기서 허비할 시간이 없으니 마력석을 옮길 방법을 제가 제안해드려도 괜찮을까요?				랑다 마스터	
+QUEST_20210115_012672	1. Move Demon's magic stone (○●○) from the left altar to the central altar.{nl}2.Move Demon's magic stone (○●○) from the central altar to the right altar.{nl}3.Move Human's magic stone (○○●) from the left altar to the central altar.{nl}4.Move Demon's magic stone (○●○) from the right altar to the central altar,{nl}and swap with the Human's magic stone (○○●) in the central altar. 	1. 좌측 제단에서 마족의 마력석(○●○)을 중앙 제단으로 옮긴다.{nl}2. 중앙 제단에서 마족의 마력석(○●○)을 우측 제단으로 옮긴다.{nl}3. 좌측 제단에서 인간의 마력석(○○●)을 중앙 제단으로 옮긴다.{nl}4. 우측 제단에서 마족의 마력석(○●○)을 중앙 제단으로 옮겨 중앙 제단의{nl}인간의 마력석(○○●)과 바꾼다.				랑다 마스터	
+QUEST_20210115_012673	5. Move Goddess' magic stone (●○○) from the left altar to central altar,{nl}and swap with the Demon's magic stone (○●○) in the central altar.{nl}6.Move Goddess' magic stone (●○○) from the central altar to the right altar.{nl}7.Move the Demon's magic stone (○●○) from the left altar to the central altar.{nl}8.Move the Demon's magic stone (○●○) from the central altar to the right altar.	5. 좌측 제단에서 여신의 마력석(●○○)을 중앙 제단으로 옮겨 중앙 제단의{nl}마족의 마력석(○●○)과 바꾼다.{nl}6. 중앙 제단에서 여신의 마력석(●○○)을 우측 제단으로 옮긴다.{nl}7. 좌측 제단에서 마족의 마력석(○●○)을 중앙 제단으로 옮긴다.{nl}8. 중앙 제단에서 마족의 마력석(○●○)을 우측 제단으로 옮긴다.				랑다 마스터	
+QUEST_20210115_012674	Do you want me to repeat, if you didn't understand?	이해가 잘 안 되셨다면 다시 말씀드릴까요?				랑다 마스터	
+QUEST_20210115_012675	I can feel a very strong energy of the demon 	강한 마족의 기운이 느껴진다				PC	
+QUEST_20210115_012676	Laima.{nl}Still don't know what I mean?	라이마.{nl}아직도 나의 뜻을 모르겠나요?				마신 길티네	
+QUEST_20210115_012677	The Creator is hoping for a resurrection.{nl}I will bring the Creator back to you, me, and us.	그 분께서 부활을 바라고 있습니다.{nl}내가 그 분을 다시 당신과 나, 우리들의 곁으로 불러들일 겁니다.				마신 길티네	
+QUEST_20210115_012678	Sister..	자매여..				여신 라이마	
+QUEST_20210115_012679	I also understand how desperate your distorted beliefs are.{nl}The resurrection of the Creator you desire is certainly a joy for us.	당신의 왜곡된 믿음이 얼마나 간절한지는 저 또한 이해하고 있습니다.{nl}당신이 바라는 그 분의 부활은 분명 우리들에게는 더없이 기쁜일이지요.				여신 라이마	
+QUEST_20210115_012680	But if the Creator doesn't want it, dare to say it's not a joy. {nl}Sister, reap your self-will and wake up.	그러나 그 분께서 바라지 않는다면 감히 기쁜일이라 할 수 없습니다.{nl}자매여, 아집을 거두고 정신을 차리세요.				여신 라이마	
+QUEST_20210115_012681	Otherwise, I will take you down here and block the future you bring.	그러지 않으면 당신을 여기서 쓰러뜨리고 당신이 가져올 미래를 막겠습니다.				여신 라이마	
+QUEST_20210115_012682	You have a big mouth, I see	건방진 소리를 하고 있군요.				마신 길티네	
+QUEST_20210115_012683	Now...Stay in there and watch.{nl}Watch your Savior's destiny tearing apart.	자. 그 안에서 당신의 구원자.{nl}그의 운명이 찢겨나가는 걸 보세요.				마신 길티네	
+QUEST_20210115_012684	 It can't be..{nl}I need more time..	이럴 수는 없어..{nl}시간이 더 필요해..				마신 길티네	
+QUEST_20210115_012685	There is no way I fail.	내가 실패할리가 없어.				마신 길티네	
+QUEST_20210115_012686	We have caused it.	우리가 초래한 일입니다.				여신 라이마	
+QUEST_20210115_012687	Didn't you know that your exceeding the power was against the Creator's will?	당신이 권능을 초월한 건 그 분의 뜻을 거스르는 행위였음을 알고있지 않나요?				여신 라이마	
+QUEST_20210115_012688	Laima.{nl}Don't try to teach me.	라이마.{nl}나를 가르치려 하지 마세요.				마신 길티네	
+QUEST_20210115_012689	Your prophecy is only fiction.{nl}Don't you dare to compare me with your weak power.	당신의 예언은 허구에 불과합니다.{nl}당신이 가진 나약한 권능따위로 나를 비교하지 마세요.				마신 길티네	
+QUEST_20210115_012690	Sister.	자매여.				여신 라이마	
+QUEST_20210115_012691	I, like you, have made the same mistake to stop all of this.{nl}I've been intervening in countless fates for over a thousand years.{nl}I wanted to stop you even that way.	저 또한 당신과 마찬가지로, 이 모든 걸 막기 위해 같은 실수를 저질렀습니다.{nl}저는 천년이 넘도록 수 없이 많은 운명에 간섭해왔죠.{nl}그렇게 해서라도 당신을 막고 싶었습니다.				여신 라이마	
+QUEST_20210115_012692	But the future foreseen by my power has been cruelly but steadily realized.{nl}You are afraid of my power.{nl}Therefore, you must have done your best to find the revelation that I left behind.	그러나 제 권능으로 예지했던 미래는 매정하게도 착실하게 실현되어 왔습니다.{nl}당신은 제 권능을 두려워 하고 있습니다.{nl}그렇기에 당신의 군세를 부려 제가 남겨둔 계시를 찾는 데에 온 힘을 다했겠지요.				여신 라이마	
+QUEST_20210115_012693	However, like you, I am also very afraid of my power.	그러나, 당신과 마찬가지로 저도 제가 가진 권능이 참으로 두렵습니다.				여신 라이마	
+QUEST_20210115_012694	Hah!{nl}What do you mean by I am afraid of you.	하!{nl}내가 당신을 두려워 한다니요.				마신 길티네	
+QUEST_20210115_012695	 I'm trusted by the Creator, what are things that I'm afraid of?	그 분의 신뢰를 받고있는 내가 대체 두려워할게 뭐가 있다는 말이죠?				마신 길티네	
+QUEST_20210115_012696	I'll tear off that human's soul and make you realize your arrogance.	여기서 저 인간의 영혼을 찢어 당신의 오만함을 깨닫게 해주죠.				마신 길티네	
+QUEST_20210115_012697	 Let's talk to the Rangda Master about what just happened.	방금 벌어진 일에 대해 랑다 마스터와 대화해보자				PC	
+QUEST_20210115_012698	Mulia starts to decipher the headstone	뮬리아가 비석의 해석을 시작한다				PC	
+QUEST_20210115_012699	You haven't cleared the main quest of the Sacred Atspalvis yet.{nl}Will you ignore the quest and move to the Pradzia Temple?	아직 애스팔비스 신역의 메인 퀘스트를 모두 완료하지 않았습니다.{nl}퀘스트를 무시하고 프래지아 신전으로 이동하시겠습니까?				PC	
+QUEST_20210115_012700	 Mulia is struggling with deciphering the headstone.	비석을 해석하려는 뮬리아가 힘들어 하고 있다				PC	
+QUEST_20210115_012701	Three of the magic stone in the left altar needs to be moved to the right altar{nl}Goddess' Magic Stone (●○○), Demon's Magic Stone (○●○), Human's Magic Stone (○○●)	왼쪽 제단에 있는 세 개의 마력석을 오른쪽 제단으로 옮겨야 합니다{nl}여신의 마력석(●○○), 마족의 마력석(○●○), 인간의 마력석(○○●)				PC	
+QUEST_20210115_012702	When moving a magic stone to the opposite altar, you must go through the central altar{nl}You can only have one magic stone in the central altar{nl} If there is already a magic stone in the central altar when moving a magic stone, the magic stones will be swapped.	마력석을 반대편 제단으로 옮길 때는 반드시 중앙 제단을 거쳐야 합니다{nl}중앙 제단에는 마력석을 하나만 둘 수 있습니다{nl}마력석을 이동할 때, 중앙 제단에 이미 마력석이 있다면 마력석이 서로 교체됩니다				PC	
+QUEST_20210115_012703	When there is no magic stone in the central altar and three magic stones are not in the same alter, {nl}the magic stone will be reset if both the Goddess' magic stone and the Demon's magic stone are together{nl}The magic stone will be reset if both the Demon's magic stone and the Human's magic stone are together	중앙 제단에 마력석이 없고 세 개의 마력석이 같은 제단위에 있지 않을 때{nl}여신의 마력석과 마족의 마력석이 함께 있으면 마력석이 초기화됩니다{nl}마족의 마력석과 인간의 마력석이 함께 있으면 마력석이 초기화됩니다				PC	
+QUEST_20210115_012704	Savior.{nl}I gave you the power of Wheel.{nl}Giltine couldn't suppress her power and is gradually weakening.	구원자님.{nl}물레의 힘을 당신에게 드렸습니다.{nl}길티네는 스스로의 권능을 억누르지 못하고 서서히 약해져 가고 있습니다.				여신 라이마	
+QUEST_20210115_012705	This time will be able to drive my sister into a corner.{nl}If the opportunity comes, I can restrain Giltine with my power from the wheel.	이번에야말로 제 자매를 궁지로 몰아 넣을 수 있을겁니다.{nl}기회가 온다면 물레에 담긴 제 힘으로 길티네를 구속시킬 수 있습니다.				여신 라이마	
+QUEST_20210115_012706	Mulia!{nl}Wake up!	뮬리아!{nl}정신 차려!				랑다 마스터	
+QUEST_20210115_012707	This child's body should not be injured now.{nl}I will protect the two with my own strength.	이 아이의 몸이 지금 다쳐서는 안 됩니다.{nl}제 힘으로 두 사람을 지키고 있겠습니다.				여신 라이마	
+QUEST_20210115_012708	Talk to the Goddess Laima	라이마 여신과 대화하자				PC	
+QUEST_20210115_012709	 You cannot walk through because of the power of chaos.	혼돈의 힘 때문에 뚫고 걸을 수 없다.				PC	
+QUEST_20210115_012710	Wake up Mulia.	일어나라 뮬리아.				주시자	
+QUEST_20210115_012711	{@st107_coffee}A sentence without a period cannot be called completion.{/}	{@st107_coffee}마침표를 찍지 않은 문장은 완성이라 할 수 없다.{/}				주시자	
+QUEST_20210115_012712	That means..{nl}Mulia has heard it from the tribal chief..	그 말은..{nl}뮬리아가 부족장에게 들었다는 말인데..				랑다 마스터	
+QUEST_20210115_012713	Don't you dare to ask me you insolent human.	인간 주제에 감히 내게 질문하지 마라.				주시자	
+QUEST_20210115_012714	Do you have a time to chat even after seeing the power of this chaos?	이 혼돈의 힘을 보고도 잡담할 여유가 있나?				주시자	
+QUEST_20210115_012715	Mulia.{nl}Don't you have work to be done to fulfill the fate Laima left for you?	뮬리아.{nl}라이마가 네게 남겨둔 숙명의 완수를 위해 해야할 일이 있을텐데?				주시자	
+QUEST_20210115_012716	Revelator, are you just going to listen to all that nonsense?	계시자님, 이 헛소리를 듣고만 계실 겁니까?				랑다 마스터	
+QUEST_20210115_012717	If you hesitate, the power of chaos will swallow up the world.{nl}That chaos will leave nothing behind.	머뭇대다간 혼돈의 힘이 세계를 집어삼킬 거다.{nl}저 혼돈은 아무것도 남기지 않을 거다.				주시자	
+QUEST_20210115_012718	Will you accept the Mulia's will?	뮬리아의 뜻을 받아들이시겠습니까?				PC	
+QUEST_20210115_012719	Keep walking.	계속 걸어라.				주시자	
+QUEST_20210115_012720	Almost there.	거의 다 왔다.				주시자	
+QUEST_20210115_012721	Goddess Laima has seen this..{nl}Goddess Laima wanted to save Goddess Giltine.	라이마 여신은 이걸 보았군요..{nl}라이마 여신은 길티네 여신을 구하고 싶었던 거예요.				뮬리아	
+QUEST_20210115_012722	Mulia, what are you talking about?	뮬리아 대체 그게 무슨 소리니?				랑다 마스터	
+QUEST_20210115_012723	Foolish human.{nl}The revivification of the gods is never light,{nl}Gabija's revivification is like fire disappearing, and Zemyna's revivification leads to the world's famine.	우매한 인간이여.{nl}신들의 환원은 결코 가벼운 일이 아니다,{nl}가비야의 환원은 불이 사라짐과 같고, 제미나의 환원은 세계의 기근으로 이어진다.				주시자	
+QUEST_20210115_012724	Giltine used the power to violate the order of death, making it inevitable to revivify.{nl}Laima broke the order of fate and hid in human history to prevent Giltine's revivification.	길티네는 권능을 이용해 죽음의 순리를 어겨 환원을 피할 수 없게 되었다.{nl}라이마는 길티네의 환원을 막고자 운명의 순리를 어기고 인간의 역사에 숨어들었다.				주시자	
+QUEST_20210115_012725	Would I have done this to help you?{nl}Why wouldn't Laima have stopped me from sending Mulia here?	내가 너흴 돕겠다고 이런 수고를 했겠나?{nl}내가 뮬리아를 여기로 보내는 걸 라이마가 어째서 막지 않았겠느냐.				주시자	
+QUEST_20210115_012726	Laima also needed Mulia.	라이마도 뮬리아가 필요했다.				주시자	
+QUEST_20210115_012727	A body to contain Giltine's soul.	길티네의 영혼을 담을 육체가.				주시자	
+QUEST_20210115_012728	Laima had no choice but to acquiesce it since Mulia was in my hand.	뮬리아가 내 손안에 있었으니 라이마도 묵인할 수밖에 없었다.				주시자	
+QUEST_20210115_012729	Incompetent Divine Tree who were staying silent at Medzio Diena.{nl}The Creator abandoned the creation.	신수의 날에 침묵했던 무능력한 신수.{nl}창조주는 피조물들을 버렸다.				주시자	
+QUEST_20210115_012730	I will destroy the Divine Tree with this power, taken in the chaos of the powers mixed with three beings.{nl}The world will begin with my own hands.	세 존재의 힘이 섞인 혼돈 속에서 취한 이 힘으로 신수를 파멸 시킬 거다.{nl}세계가 내 손으로 개벽하리라.				주시자	
+QUEST_20210115_012731	You humans will be willing to become the material of Kruvina and become the foundation of the new world I will create.	너희 인간은 기꺼이 크루비나의 재료가 되어 내가 만들어 낼 새로운 세계의 밑거름이 되거라.				주시자	
+QUEST_20210115_012732	Giltine.{nl}I will destroy your body and take away your soul.	길티네.{nl}그 육체를 부수고 네 영혼을 거두겠다.				여신 아우슈리네	
+QUEST_20210115_012733	Your choice is to abandon mankind and save a child's life?	아이의 목숨을 구하겠다고 인류를 저버리는게 당신의 선택입니까?				여신 아우슈리네	
+QUEST_20210115_012734	Revelator.{nl}I won't deny your action.	계시자여.{nl}그대의 활약을 부정하지는 않겠습니다.				여신 아우슈리네	
+QUEST_20210115_012735	With Giltine's seal, the demons have been scattered to seek their own ambitions.{nl}In any case, Giltine's remnants will be a clear target for other demons.	길티네의 봉인으로 마신들은 각자의 야망을 좇아 제각기 흩어졌습니다.{nl}어떻게든 길티네의 잔재는 다른 마신들에게 분명한 목표가 될 겁니다.				여신 아우슈리네	
+QUEST_20210115_012736	 You won't be able to take responsibility for that.	당신은 그때를 책임질 수 없을 겁니다.				여신 아우슈리네	
+QUEST_20210115_012737	Listen.{nl} The power taken by the Beholder from the chaos a while ago will lead to the destruction of the Divine Tree.{nl}I have been fighting long alone to protect humans with the will that Creator left behind.	들으십시오.{nl}조금 전 주시자가 혼돈으로부터 취한 힘은 신수의 파멸을 초래할 겁니다.{nl}나는 그 분께서 남기신 뜻으로 인간을 지키기 위해 홀로 긴 싸움을 이어왔습니다.				여신 아우슈리네	
+QUEST_20210115_012738	If your choice can be a threat to the Creator,{nl}there is no reason for me to protect the humans.	당신의 선택이 그 분에게 위협이 될 여지가 있다면,{nl}더는 내가 인간을 지킬 이유는 없습니다.				여신 아우슈리네	
+QUEST_20210115_012739	It's a disappointing moment for Laima.	라이마에게 실망스러운 순간이군요.				여신 아우슈리네	
+QUEST_20210115_012740	You are only complacent because you have lived on the prophecy of Laima.	당신들은 라이마의 예언에 기대어 살아온 탓에 안일할 뿐입니다.				여신 아우슈리네	
+QUEST_20210115_012741	Block the Beholder's plan with your own responsibility.{nl}If you don't, your world will be a terrible place where you can't find anywhere else.	주시자의 계획은 당신이 책임지고 막으십시오.{nl}그러지 못하면 당신이 속한 세계는 어디서도 찾아볼 수 없는 끔찍한 장소가 될 겁니다.				여신 아우슈리네	
+QUEST_20210115_012742	A body to contain Giltine's body..	길티네의 영혼을 담을 육체..				랑다 마스터	
+QUEST_20210115_012743	To the lofty gods, Mulia was only a tool.	드높은 신들에게 뮬리아는 겨우 도구였을 뿐이었군요.				랑다 마스터	
+QUEST_20210115_012744	You also didn't stop Mulia on the excuse of fate.	당신도 숙명이라는 핑계로 뮬리아를 말리지 않았죠.				랑다 마스터	
+QUEST_20210115_012745	Maybe the world might have been ruined even without Medzio Diena.  	어쩌면 신수의 날이 없었더라도 세계는 이미 망가져 있었을지도 모르겠군요.				랑다 마스터	
+QUEST_20210115_012746	Take a look at Mulia's condition.	뮬리아의 상태를 살펴보자				PC	
+QUEST_20210115_012747	I see..{nl}You led me to here.	그렇군요..{nl}당신이 저를 여기까지 이끌었군요.				뮬리아	
+QUEST_20210115_012748	He tricked me into the tribal chief and taught me how to decipher ancient sentences..{nl}and prepared everything so that I could get here.{nl}Also when I handed Kruvina in the Sacred Atspalvis...{nl}You appeared as you have been waiting for it.	부족장으로 속여 저에게 고대 문장의 해독법을 가르치고..{nl}제가 여기까지 올 수 있도록 모든 걸 준비했어요.{nl}애스팔비스 신역에서 크루비나를 건네 준 그 때도..{nl}당신은 기다리고 있었다는 듯 나타났죠.				뮬리아	
+QUEST_20210115_012749	Since when did you hide near me? {nl}Tribal chief.	대체 언제부터 제 근처로 숨어들었죠?{nl}부족장님.				뮬리아	
+QUEST_20210115_012750	I mean, who are you?	아니, 당신은 대체 누구인가요?				뮬리아	
+QUEST_20210115_012751	Revelator.	계시자님.				뮬리아	
+QUEST_20210115_012752	Here, on the floor of the Divine Sanctuary, there is a sealing spell that has existed in ancient times.	여기, 디바인 생츄어리 바닥에 고대에 존재했던 봉인 주술이 적혀있어요.				뮬리아	
+QUEST_20210115_012753	Maybe with this spell..{nl}I might be able to dedicate my body...and calm the whirlwind of chaos.	이 주술이라면..{nl}제 몸을 바치고.. 혼돈의 소용돌이를 잠재울 수 있을지도 몰라요.				뮬리아	
+QUEST_20210115_012754	Anyhow I will..	어차피 저는..				뮬리아	
+QUEST_20210115_012755	be dead even before leaving this place because of the curse.	저주 때문에 여기를 벗어나기 전에 죽게 될 거예요.				뮬리아	
+QUEST_20210115_012756	That's Kruvina?	그건 크루비나?				랑다 마스터	
+QUEST_20210115_012757	What are you going to do?	지금 무슨 짓을 하려는 겁니까?				랑다 마스터	
+QUEST_20210115_012758	Said that we should evade to a safer place because this place is dangerous.	여기는 위험하니 안전한 곳으로 피해야 한다고 말했다.				PC	
+QUEST_20210115_012759	You are stopping me?	당신이 나를 막는다는 말입니까?				마신 길티네	
+QUEST_20210115_012760	I am the one who has the favor and trust of the Creator, who is hoping for a resurrection.{nl}I'll let you know that your fate and that weak human can be no threat to me.	부활을 바라고 계시는 그 분의 총애와 신뢰를 받고 있는 건 바로 나 입니다.{nl}당신이 운운하는 운명과 저 가냘픈 인간은 제게 아무런 위협도 되지 못한다는 걸 알려드리죠.				마신 길티네	
+QUEST_20210115_012761	Savior.{nl} Giltine is weakening in exchange for exceeding the power.{nl}There is no longer time to convince my sister.{nl}Now..we have no choice but to stop Giltine's plan.	구원자님.{nl}길티네는 권능을 초월한 대가로 약해지고 있습니다.{nl}더이상 제 자매를 설득할 시간이 없습니다.{nl}이제.. 길티네의 계획을 저지할 수 밖에 없습니다.				여신 라이마	
+QUEST_20210115_012762	You won't be able to survive in front of my power!	내 권능 앞에서 살아남을 수는 없을 거다!				마신 길티네	
+QUEST_20210115_012763	This is not what the Creator wants.{nl}There is no chance that humans without wings dare to do this!	이건 그 분께서 바라시는 게 아니야.{nl}날개 없는 인간 따위가 감히 이런 일을 벌일 수는 없다!				마신 길티네	
+QUEST_20210115_012764	Sister.{nl}This is the result of what the Creator has showed me before you.	자매여.{nl}이것이 그 분께서 당신에게 앞서 내게 보여준 결과입니다.				여신 라이마	
+QUEST_20210115_012765	Why haven't you listen to my story carefully..	어째서 나의 이야기에 귀기울여 듣지 않았나요..				여신 라이마	
+QUEST_20210115_012766	Goddess Statue of Klaipeda and Orsha..{nl}My Sanctuary..	클라페다와 오르샤의 여신상..{nl}저의 성소..				라이마	
+QUEST_20210115_012767	We should..{nl}there..	우리는..{nl}그 곳으로..				라이마	
+QUEST_20210115_012768	Laima's power is imprisoning the Giltine.	라이마의 힘이 길티네를 구속하고 있다				PC	
+QUEST_20210115_012769	Pray to move to the Laima's Sanctuary	라이마의 성소로 이동하기 위해 기도합니다				PC	
+QUEST_20210115_012770	If you defeat the demons while I open the power, it might be possible to read the memory through the souls of the demons.	제가 힘을 개방한 동안 마족들을 처치하면 마족들의 영혼을 통해 그 기억을 읽을 수 있습니다.				여신 라다	
+QUEST_20210115_012771	Good luck then. 	그럼 부탁드립니다.				여신 라다	
+QUEST_20210115_012772	Defeat the ambushed Liepsnas and Liepsna Firebug	습격한 리프스나 무리와 리프스나 파이어버그를 처치하세요				PC	
+QUEST_20210115_012773	It's a relief that your will is not different from mine.{nl}There are more crevices in Woods of the Linked Bridges that you've seen in the Lemparasa Pond Malkos Felled Area.	당신의 뜻이 저의 뜻과 다르지 않아 다행입니다{nl}덧댄다리 숲에는 당신이 렘파라사 연못 말코스 벌목지에서 보았던 균열이 더 많습니다.				여신 라다	
+QUEST_20210115_012774	As expected, demons were mining Mirtinas from the crevice.{nl}We can't let the Beholder have more Mirtinas anymore.	예상했던 대로 마족들은 그 균열로부터 머티니스를 채굴하고 있습니다.{nl}더는 주시자가 머티니스를 가지게 해서는 안 됩니다.				여신 라다	
+QUEST_20210115_012775	Light and smoke are coming out from the Mirtinas crevice.	머티니스 균열에서 빛과 연기가 나오고 있다				PC	
+QUEST_20210115_012776	It definitely is a stench, but as I smell it more it smells fine.	분명한 악취지만 냄새를 맡을 수록 괜찮다는 생각이든다				PC	
+QUEST_20210115_012777	The cast of the crevice is cold but the liquid in the crevice is boiling{nl}Unknown magic is melting the liquid in the crevice	균열의 틀은 차갑지만 균열속의 액체가 끓고 있다{nl}알 수 없는 마력이 균열 속의 액체를 녹이고 있다				PC	
+QUEST_20210115_012778	This crevice isn't worth the investigation now.	이 균열은 지금 조사할 가치가 없습니다				PC	
+QUEST_20210115_012779	There is something on the ground where the Goddess Lada was. 	라다 여신이 있던 자리에 무언가 떨어져 있다{nl}확인해보자				PC	
+QUEST_20210115_012780	There is an unusual flow of magic around here.	심상치 않은 마력이 이 주변에 흐르고 있다				PC	
+QUEST_20210115_012781	Beholder's Black Crystal broke.{nl}Return to Mirtinas crevice and check if is harden.	주시자의 검은 수정이 부서졌다{nl}머티니스 균열로 돌아가 굳었는 지 확인해 보자				PC	
+QUEST_20210115_012782	Blessing of Goddess Lada have broke{nl}Find a way to destroy Beholder's Black Crystal	라다 여신의 축복이 깨져버렸다{nl}주시자의 검은 수정을 파괴할 방법을 찾자				PC	
+QUEST_20210115_012783	Here you are.{nl}You must have defeating the demons who attacked Orsha.	여기 계셨군요.{nl}오르샤를 공격한 마족들을 처치중이셨나 봅니다.				여신 라다	
+QUEST_20210115_012784	I am going to destroy this Black Crystal to prevent mining the Mirtinas.	저는 머티니스 채굴을 막기 위해 이 검은 수정을 파괴할 겁니다.				여신 라다	
+QUEST_20210115_012785	As the magic of Black Crystal disappeared the liquid of the crevice is harden, but still glowing.	검은 수정의 마력이 사라지자 균열의 액체는 굳었지만, 여전히 빛을 내고 있다				PC	
+QUEST_20210115_012786	Beholder!{nl}Stop it right away!	주시자!{nl}당장 그만둬!				여신 라다	
+QUEST_20210115_012787	Your plan will never take action.	너의 계획은 절대로 이뤄질 수 없을 거다.				여신 라다	
+QUEST_20210115_012788	Shut your mouth Lada.{nl}You are only a Goddess without power, don't you dare to give me orders. 	입 다물어라 라다.{nl}힘을 잃은 여신 따위가 감히 나에게 명령하지 마라.				주시자	
+QUEST_20210115_012789	Isn't it yourself who helped me the most in my plan that you're talking about?	네가 말하는 내 계획에 가장 큰 일조를 한 건 바로 너 자신이지 않은가?				주시자	
+QUEST_20210115_012790	Kruvina made with humans, Kruvina made with the life force of Goddess,{nl}and the blood of demon that permeated the ground.	인간으로 만든 크루비나와 여신의 생명력으로 만든 크루비나,{nl}그리고 땅에 스며든 마족의 피.				주시자	
+QUEST_20210115_012791	Harmony beyond race has come to me as a fitness. Helping that human being with such nonsense will not make a difference.	종족을 넘어선 화합이 머티니스가 되어 나에게로 온 게다.{nl}같잖은 수작으로 저 인간을 도와봤자 달라지는 건 없다.				주시자	
+QUEST_20210115_012792	Lada,{nl}I'll take care of that trouble for you at this time.	라다,{nl}이참에 저 골칫덩이를 내가 대신 처리해주도록 하마.				주시자	
+QUEST_20210115_012793	Uninvited ones are here.The life of a trivial human being can be taken away at any time.	초대하지도 않은 녀석들이 왔군.{nl}하찮은 인간의 목숨은 언제든지 거둘 수 있다.				주시자	
+QUEST_20210115_012794	I'll chase the Beholder!	주시자를 쫓겠습니다!				여신 라다	
+QUEST_20210115_012795	Different force of demons is confronting each other or taking control of certain areas in Paupys Crossing now.	지금 파우피스 나루는 각기 다른 세력의 마족들이 서로 대치하거나, 특정 구역들을 장악하고 있습니다.				여신 라다	
+QUEST_20210115_012796	Oh,{nl}I was curious about who fearlessly stepped into a place like this	어머,{nl}겁도 없이 이런 곳에 발을 디딘 인간이 누군가 했는데				마신 라가나	
+QUEST_20210115_012797	of course it's you.{nl}Kid of Laima.	역시 너였구나.{nl}라이마의 아이여.				마신 라가나	
+QUEST_20210115_012798	You ended up driving Giltine in, right?{nl}You commendable thing.	끝내 길티네를 몰아넣었지?{nl}기특한 것.				마신 라가나	
+QUEST_20210115_012799	If you come to my palace, I would love you all day,{nl}what do you think?	내 궁전으로 오면 하루 종일 예뻐해 줄텐데,{nl}어떠니?				마신 라가나	
+QUEST_20210115_012800	Ragana,{nl}if you want to keep your wings, you should throw away that crafty thought.	라가나,{nl}당신의 날개를 지키고 싶다면 그 간악한 생각을 버리는 게 좋을 겁니다.				여신 라다	
+QUEST_20210115_012801	Brutal.	살벌해라.				마신 라가나	
+QUEST_20210115_012802	Goddess with weak wings is easy said than done.	진정 힘 없는 날개를 단 여신께서 입만 살았구나.				마신 라가나	
+QUEST_20210115_012803	Okay.{nl}Let's have some fun.	그래.{nl}재미 좀 볼까?				마신 라가나	
+QUEST_20210115_012804	Kid of Laima{nl}I think highly of your strength.	라이마의 아이여{nl}너의 힘을 높이 사겠다.				마신 라가나	
+QUEST_20210115_012805	I don't want Mirtinas to be in the hands of the Beholder.{nl}So does you and Lada, right?	나는 저 머티니스라는 게 주시자의 손에 들어가는 게 싫다.{nl}너와 라다도 마찬가지겠지?				마신 라가나	
+QUEST_20210115_012806	Get rid of the Baiga's demon from here who covet Mirtinas and guide me to the place where Mirtinas is.	여기서 머티니스를 탐하는 바이가의 마족들을 쫓아내고 머티니스가 있는 곳으로 나를 안내하거라.				마신 라가나	
+QUEST_20210115_012807	Then I'll specially give you a prize. I will trample on their bodies thoroughly so that the Beholder and Baiga will never run wildly in this ground.	그럼 내 특별히 너에게 상을 내리마.{nl}주시자와 바이가가 이 땅에서 설치지 못하도록 그들의 육신을 철저히 짓밟아 주겠다.				마신 라가나	
+QUEST_20210115_012808	Revelator,{nl}there is no need to listen.	계시자님,{nl}귀담아 들을 필요 없는 이야기입니다.				여신 라다	
+QUEST_20210115_012809	How valuable is the Goddess' story of not being able to protect her body and taking belated responsibility?	자기 몸 하나 지키지 못하고 뒤늦은 책임을 지려는 여신의 이야기는 얼마나 가치가 있지?				마신 라가나	
+QUEST_20210115_012810	Think slowly.{nl}Until the Divine Tree rotes and world is destroyed.	천천히 생각해 보아라.{nl}신수가 썩고 세계가 파멸할 때까지 천천히 말이다.				마신 라가나	
+QUEST_20210115_012811	Follow Goddess Lada and Ragana to the Watchtower	감시탑으로 라다 여신과 라가나를 쫓아가자				PC	
+QUEST_20210115_012812	I read some of your memories.{nl}Ragana said something ridiculous.	네 녀석의 기억을 일부분 읽었다.{nl}라가나가 가당치도 않은 소리를 했군.				마왕 바이가	
+QUEST_20210115_012813	Do you believe that witch's story?{nl}Short thinking is just like what inferior human do.	너는 그 마녀의 이야기를 믿나?{nl}생각이 짧은 게 열등한 인간답군.				마왕 바이가	
+QUEST_20210115_012814	It is obvious that Ragana will take advantage of you, and at the end of that, your soul will be dried to death.{nl}Stand by my side, instead.	라가나는 널 이용하고, 그 끝에는 네 녀석의 영혼을 말려 죽일 게 뻔하다.{nl}차라리 나의 편에 서거라.				마왕 바이가	
+QUEST_20210115_012815	If so, at least I will spare you the fate of having a disastrous ending in  Ragana's hands.{nl}If you give me a little help with my Mirtinas research...	그럼 적어도 라가나의 손에 처참한 결말을 맞이할 운명은 면하게 해주겠다.{nl}나의 머티니스 연구를 조금만 도와준다면..				마왕 바이가	
+QUEST_20210115_012816	Okay,{nl}I'll guarantee the security of Orsha residents from Beholder and Ragana.	그래,{nl}주시자와 라가나로부터 오르샤 주민들의 안전을 보장해주겠다.				마왕 바이가	
+QUEST_20210115_012817	Delaying the time will only turn everyone into your enemy, so think about it with a poor head.	시간을 지체하다가는 모두를 적으로 돌릴 뿐이니 부족한 머리로 잘 생각해 보거라.				마왕 바이가	
+QUEST_20210115_012818	I can feel the energy of Goddess Lada from the right side of Watchtower{nl}Find the Goddess Lada first	라다 여신의 기운이 감시탑 우측 길 방향에서 느껴진다{nl}우선 라다 여신을 찾자				PC	
+QUEST_20210115_012819	There are traces of mining Mirtinas{nl}There is a trace of wagon wheel nearby in one direction.{nl}Examine the following crevices.	머티니스를 채굴한 흔적들이 있다{nl}근처의 수레 바퀴 자국이 한 방향으로 나있다{nl}다음 균열을 조사해보자				PC	
+QUEST_20210115_012820	Contents seem relatively small{nl}It seems like it's been a long time mining it.{nl}Examine the next crevice.	내용물이 비교적 적어 보인다{nl}이미 채굴한 지 오래 지난 듯 하다{nl}다음 균열을 조사해보자				PC	
+QUEST_20210115_012821	There is a trace of wagon wheel near this crevice{nl}Direction is in one direction{nl}Examine the next crevice.	이 균열 근처에도 수레 바퀴 자국이 있다{nl}방향은 모두 한 곳으로 향하고 있다{nl}다음 균열을 조사해보자				PC	
+QUEST_20210115_012822	The cast of the crevice is divided into parts{nl}It's a trace of a battle over a Mirtinas crevice{nl}Wagon wheel traces are heading in one direction{nl}Examine the following crevices. 	균열의 틀이 부분마다 갈라져 있다{nl}머티니스 균열을 두고 전투를 한 흔적이다{nl}수레바퀴 자국이 한 방향으로 향하고 있다{nl}다음 균열을 조사해보자				PC	
+QUEST_20210115_012823	This crevice also has wagon wheel trace is in one direction{nl}Every wagon wheel trace leads to Gatves Highway{nl}Go back to Goddess Lada and tell about this	이 균열 역시 수레 바퀴 자국이 한 방향으로 향하고 있다{nl}모든 수레의 흔적이 갓베스 가도로 이어지고 있다{nl}라다 여신에게 돌아가 이 사실을 알려주자				PC	
+QUEST_20210115_012824	There's a tussle going on around the Mirtinas crevice{nl}Clean up the monsters to investigate the Mirtinas crevice	머티니스 균열 주변에서 난전이 벌어지고 있습니다{nl}머티니스 균열을 조사하기 위해 몬스터들을 정리하세요				PC	
+QUEST_20210115_012825	Goddess Lada succeeded in destroying the Beholder's Black Crystal{nl}Stop the ambushing demons and talk to Goddess Lada.	라다 여신이 주시자의 검은 수정을 파괴하는 데 성공했습니다{nl}마족들의 습격을 모두 저지하고 라다 여신과 대화하세요.				PC	
+QUEST_20210115_012826	I can feel roar and vibration inside	안쪽 숲에서 굉음과 진동이 느껴진다				PC	
+QUEST_20210115_012827	What you have in your hands is the Res Sacrae, the relic.	당신이 손에 넣은 건 성물입니다.				뮬리아	
+QUEST_20210115_012828	Collect the Breath of Power scattered all over the world by the failure of Giltine's last Ritual.	길티네의 마지막 의식, 그 의식의 실패로 세계 곳곳에 흩어져 버린 권능의 숨결들을 모으세요.				뮬리아	
+QUEST_20210115_012829	It seems that the demon who has just appeared is the head of this place. {nl}If you are disturbed by the Raganosis, the fight will be inevitable.	방금 나타난 마족이 이곳의 우두머리로 보이는군요.{nl}래거노시스들의 방해를 받는다면 싸움은 피할 수 없겠지요.				랑다 마스터	
+QUEST_20210115_012830	By the way, the inscriptions on the floor of this temple are similar to those seen in the Sacred Atspalvis.	그런데 이 신전의 바닥에 새겨진 문장들은 애스팔비스 신역에서 보았던 것과 비슷하군요.				랑다 마스터	
+QUEST_20210115_012831	The shining floor here is suspicious.{nl}It is similar to transportation spell.{nl}I don't know if it will still work.	여기 빛나는 바닥이 수상하군요.{nl}공간 이동 주술과 흡사합니다.{nl}여전히 제대로 작동할지는 모르겠습니다.				랑다 마스터	
+QUEST_20210115_012832	 Fortunately, it seems to be simple transportation magic, so we can activate it.	다행히 단순한 공간 이동 마법 같으니 작동시킬 수 있습니다.				랑다 마스터	
+QUEST_20210115_012833	Just in case, please look after Mulia.{nl}It might be a trap.	혹시 모르니 뮬리아를 부탁드립니다.{nl}함정일 수도 있으니까요.				랑다 마스터	
+QUEST_20210115_012834	It suddenly stopped working.{nl}Besides, considering the earthquake a little while ago...	갑자기 작동을 멈췄습니다.{nl}게다가 조금 전의 지진으로 보아..				랑다 마스터	
+QUEST_20210115_012835	It seems like the protective device has started working.	아무래도 보호 장치가 작동을 시작한 것 같습니다.				랑다 마스터	
+QUEST_20210115_012836	I was hoping that there would be no more time delays..	이 이상 시간이 지체는 일은 없길 바랐는데..				랑다 마스터	
+QUEST_20210115_012837	Wait.{nl}If you decipher the sentence in a different order, it can be deciphered in a different meaning..	잠시만요.{nl}문장을 다른 순서로 해석을 해보면 다른 의미로 해석이 가능해요..				뮬리아	
+QUEST_20210115_012838	Maybe we can activate this device again.	어쩌면 이 장치를 다시 가동할 수 있을지도 몰라요.				뮬리아	
+QUEST_20210115_012839	It looks like the group of Raganosis just felt a thing from the earthquake.	래거노시스 무리가 방금 지진으로 낌새를 느낀 모양이에요.				뮬리아	
+QUEST_20210115_012840	Revelator.{nl}If you can give me a bit of time, I'll decipher the sentence at the entrance again.	계시자님.{nl}시간을 조금만 벌어주신다면 입구 쪽의 문장을 다시 해석해볼게요.				뮬리아	
+QUEST_20210115_012841	Oh my god!{nl}It wasn't using Kruvina as expected!	맙소사!{nl}역시 크루비나를 사용하는 게 아니었습니다!				랑다 마스터	
+QUEST_20210115_012842	Give me back the Veljamu right now!{nl}If the Veljamu is abused abnormally, it will make a big deal!	당장 벨자무를 내게 돌려주렴!{nl}이 이상 벨자무를 남용하다간, 정말 큰일 날 거야!				랑다 마스터	
+QUEST_20210115_012843	No..{nl}It's painful enough to die, but...	아니요..{nl}죽을 만큼 고통스럽지만..				뮬리아	
+QUEST_20210115_012844	I can hold on to it.{nl}So far..{nl}Please trust me.	아직은 버틸 수 있어요.{nl}아직은..{nl}부디 저를 믿어주세요.				뮬리아	
+QUEST_20210115_012845	This is a Power Generator.{nl}This protective barrier is ancient sorcery, just like the sorcery that was enchanted on a headstone.{nl}To stop this Power Generator, you must remove the protective barrier first.	이건 동력 장치네요.{nl}이 보호막은 비석에 걸려있던 주술처럼 고대의 주술이에요.{nl}이 동력 장치를 멈추려면 우선 보호막을 제거해야 해요.				뮬리아	
+QUEST_20210115_012846	It might be removable if we use the Veljamu mixed with Kruvina.	크루비나를 섞은 벨자무를 이용하면 제거할 수 있을지도 몰라요.				뮬리아	
+QUEST_20210115_012847	Krubina's power is hurting Mulia...	크루비나의 힘이 뮬리아를 해치고 있어요..				랑다 마스터	
+QUEST_20210115_012848	I'm fine..{nl}We came half.{nl}I can still hold on.{nl}Go on..{nl}Go to the next destination.	괜찮아요..{nl}반은 왔는걸요.{nl}아직은 버틸 만 해요.{nl}어서..{nl}다음 목적지로 가요.				뮬리아	
+QUEST_20210115_012849	No way, this earthquake?{nl}It's like when the protective device first worked a while ago.	설마 이 지진은?{nl}조금 전 보호 장치가 처음 작동했을 때와 비슷해요.				랑다 마스터	
+QUEST_20210115_012850	That's an ominous sign..	불길한 징조인데..				랑다 마스터	
+QUEST_20210115_012851	No!{nl}The Power Generator is activating again.	안돼!{nl}동력 장치가 다시 작동하기 시작했어요.				뮬리아	
+QUEST_20210115_012852	The Power Generator on both roads must be connected to each other.{nl}If one is stopped and the other is working, the stopped Power Generator will activate again.{nl}I thought using Veljamu twice more will do..	양쪽 길의 동력장치가 서로 연결되어 있는 게 틀림없어요.{nl}하나를 정지시켜도 다른 하나가 작동 중이라면 정지된 동력 장치가 다시 작동해요.{nl}이제 두 번만 더 벨자무를 쓰면 될 줄 알았는데..				뮬리아	
+QUEST_20210115_012853	There is no time to hesitate.{nl}Revelator, please stop the Raganosis.{nl}I'll stop the Power Generator again.	망설이고 있을 여유가 없네요.{nl}계시자님, 래거노시스들을 막아주세요.{nl}제가 다시 동력 장치를 멈춰볼게요.				뮬리아	
+QUEST_20210115_012854	The use of Veljamu to stop the Power Generator made the pain unbearable.	동력 장치를 멈추기 위해서 벨자무를 사용한 것 때문에 고통이 견딜 수 없을 정도로 심해졌어요.				뮬리아	
+QUEST_20210115_012855	My head..	머리가..				뮬리아	
+QUEST_20210115_012856	Ugh..{nl}I think my eardrums are tearing!	으윽..{nl}고막이 찢어지는 거 같아요!				뮬리아	
+QUEST_20210115_012857	Mulia!{nl}What's wrong?{nl}Mulia!	뮬리아!{nl}왜그러니?{nl}뮬리아!				랑다 마스터	
+QUEST_20210115_012858	I think Mulia is beginning to be encroached by Kruvina!{nl}Come on.. Let's go.{nl}Mulia's time is running out.	아무래도 뮬리아가 크루비나에 잠식되기 시작한 거 같아요!{nl}어서..출발하죠.{nl}뮬리아에게는 이제 정말 시간이 얼마 남지 않았습니다.				랑다 마스터	
+QUEST_20210115_012859	Ascend Arcade Power Generator is activated as expected.	역시 어센드 아케이드의 동력 장치가 작동 중입니다.				랑다 마스터	
+QUEST_20210115_012860	However, as the Power Generator of the Descend Arcade has stopped, this Power Generator is overloaded.{nl}We have no choice but to use the Veljamu in this situation.	다만, 디센드 아케이드의 동력 장치가 정지한 만큼 이 동력 장치가 과부하하고 있습니다.{nl}이 상황이야말로 벨자무를 사용하지 않을 수가 없겠군요..				랑다 마스터	
+QUEST_20210115_012861	Rangda girl nodded silently as she looked at the Rangda Master.	랑다 소녀는 랑다 마스터를 바라보며 묵묵히 고개를 끄덕였다.				뮬리아	
+QUEST_20210115_012862	It looks like this device is the Power Generator.	아무래도 이 장치가 동력 장치로 보이는군요.				랑다 마스터	
+QUEST_20210115_012863	From now on..{nl}If I endure the next two times, you will be able to go to Goddess Giltine.	앞으로..{nl}제가 앞으로 두 번만 더 참아내면 계시자님은 길티네 여신에게 갈 수 있을 거에요.				뮬리아	
+QUEST_20210115_012864	Fortunately, the Power Generator has stopped.{nl}Only the Deive Shrine's Protection Device is left.	다행히 동력 장치가 멈췄습니다.{nl}이제 디브 성지의 보호 장치만 남았군요.				랑다 마스터	
+QUEST_20210115_012865	If you don't hurry to stop the Deive Shrine's Protection Device..	서둘러 디브 성지의 보호 장치를 멈추지 않으면..				랑다 마스터	
+QUEST_20210115_012866	Rangda master carefully held Mulia's hand.	랑다 마스터가 조심스럽게 뮬리아의 손을 잡아주었다.				PC	
+QUEST_20210115_012867	This is the Deive Shrine's Protection Device .{nl}This protective device won't be easily solved too...	이게 디브 성지의 보호 장치군요.{nl}이 보호 장치도 쉽게 해결할 수는 없겠지요..				랑다 마스터	
+QUEST_20210115_012868	This doesn't seems to be solved simply.	간단히 해결될 문제 같지는 않군요.				랑다 마스터	
+QUEST_20210115_012869	Cursed Essence seems to be effective to the Raganosis!	저주의 정수가 래거노시스에게 효과가 있는 모양입니다!				랑다 마스터	
+QUEST_20210115_012870	The protective barrier has broke!{nl}We need to stop the protective device, so please defeat Raganosis.{nl}Missing even one of them will put Mulia in danger.	보호막이 깨졌습니다!{nl}보호 장치를 정지시켜야 하니 래거노시스 처치를 부탁드립니다.{nl}한 마리라도 놓쳤다가는 뮬리아가 위험해질 겁니다.				랑다 마스터	
+QUEST_20210115_012871	Is that the Deive Shrine Protection Device?	디브 성지의 보호 장치인가요?				뮬리아	
+QUEST_20210115_012872	I'll start..	시작할게요..				뮬리아	
+QUEST_20210115_012873	I can hear something.	무슨 소리가 들립니다.				랑다 마스터	
+QUEST_20210115_012874	Raganosis Commander	래거노시스 커맨더					
+QUEST_20210115_012875	How dare you use our Raganosis as a decoy!	감히 우리 래거노시스를 미끼로 쓰다니!				래거노시스 커맨더	
+QUEST_20210115_012876	You arrogant humans!{nl}I will trample you all!	건방진 인간들이여!{nl}모조리 짓밟아 주겠다!				래거노시스 커맨더	
+QUEST_20210115_012877	I'm sorry, but I need to ask for your help again.. {nl}I can't let Mulia get hurt.	죄송하지만 이번에도 부탁드리겠습니다.{nl}뮬리아를 다치게 할 수는 없어요.				랑다 마스터	
+QUEST_20210115_012878	Succeeded on stopping the Auxiliary Device.{nl}Stop other Auxiliary Devices.	보조 장치의 작동을 멈추는 데 성공했다.{nl}다른 보조 장치도 작동을 멈추자.				PC	
+QUEST_20210115_012879	Descend Arcade Power Generator is protected by the protective barrier.	디센드 아케이드의 동력 장치가 보호막으로 보호받고 있다.				PC	
+QUEST_20210115_012880	Deive Shrine Protection Device is protected by the protective barrier.{nl}Ask Rangda Master for a solution.	디브 성지의 보호 장치가 보호막에 의해 보호받고 있다.{nl}랑다 마스터에게 해결책을 물어보자.				PC	
+QUEST_20210115_012881	Fortunately, there is no fork in the road.{nl}Just follow along the road!{nl}Probably, if you follow this road you will see Asmuo Residence.	갈림길이 없어서 다행입니다.{nl}길을 쫓아 따라가면 되겠군요!{nl}아마도 이 길을 따라가면 아스무 거주지가 보일 겁니다.				랑다 마스터	
+QUEST_20210115_012882	It seems to be possible to move to the Ascend Arcade by going through the Kartu Corridor.	어센드 아케이드는 카르투 회랑을 통과하여 이동할 수 있을 것 같다.				PC	
+QUEST_20210115_012883	Mulia collapsed, being unconscious.	뮬리아가 정신을 잃고 주저 앉아 있다.				PC	
+QUEST_20210115_012884	Go through Kartu Corridor and move to the Descend Arcade.	카르투 회랑을 지나 디센드 아케이드로 이동하자.				PC	
+QUEST_20210115_012885	Go down the road to deeper place where Asmuo Residence is.	길을 따라 더 깊숙한 곳에 있는 아스무 거주지로 이동하자.				PC	
+QUEST_20210115_012886	Go through the Descend Arcade and Kartu Corridor and disable the Deive Shrine Protection Device.	디센드 아케이드와 카르투 회랑을 거쳐 디브 성지의 보호 장치를 무력화시키자.				PC	
+QUEST_20210115_012887	Clear up the remnants of Raganosis as Master Randa suggested.	랑다 마스터의 제안대로 래거노시스 잔당을 정리하자.				PC	
+QUEST_20210115_012888	Gather enough energy from the patterns of the ancient people.	고대인의 문양에서 충분할 만큼 기운을 모으자.				PC	
+QUEST_20210115_012889	Mulia is suffering quite a bit.{nl}Hurry to Deive Shrine Protection Device and stop the Protective Device.	뮬리아가 상당히 고통스러워하고 있다.{nl}서둘러 디브 성지로 가서 보호 장치를 멈추자.				PC	
+QUEST_20210115_012890	Sprinkle the Cursed Essence from the four directions of the protective device in the east, west, south, and north for sufficient effectiveness.	보호 장치의 동, 서, 남, 북 네 방향에서 저주의 정수를 뿌려야 충분한 효능을 발휘할 수 있다.				PC	
+QUEST_20210115_012891	The device there seems suspicious.{nl}Let's go and check.	수상해 보이는 장치가 있다.{nl}확인해보도록 하자.				PC	
+QUEST_20210115_012892	There are six Auxiliary Device and Protection Device.	여섯 개의 보조 장치와 보호 장치가 보인다.				PC	
+QUEST_20210115_012893	All the energy gathered in this pattern has been collected.{nl}Move to another pattern and collect energy.	이 문양에 모여있던 기운을 모두 수집했다.{nl}다른 문양으로 이동해서 기운을 수집하자.				PC	
+QUEST_20210115_012894	Examine the Deive Shrine Protection Device.	디브 성지의 보호 장치를 살펴보자.				PC	
+QUEST_20210115_012895	Yes.{nl}It does look similar to the sentences craved in the headstone of Sacred Atspalvis.	맞아요.{nl}애스팔비스 신역의 비석에 새겨져 있던 문장들과 비슷해요.				뮬리아	
+QUEST_20210115_012896	It might be deciphered as the Sacred Atspalvis was.{nl}To do that, we need a Veljamu with Kruvina.	애스팔비스 신역과 비슷한 방식으로 해석할 수 있을텐데..{nl}그러려면 역시 크루비나가 깃든 벨자무가 필요해요.				뮬리아	
+QUEST_20210115_012897	Wish I could... hold on longer.	제가..더 버틸 수 있다면 좋겠네요.				뮬리아	
+QUEST_20210115_012898	If I had known how to decipher it, I could have reduced your pain a little.	차라리 내가 해석을 할 수 있었다면, 네 고통을 조금 줄여줄 수 있었을 텐데..				랑다 마스터	
+QUEST_20210115_012899	Thank you, Master.{nl}But this is...{nl}what Ember should do.{nl}This is my fate.	마스터님의 마음은 감사합니다.{nl}하지만, 이건..{nl}불씨가 할 일인걸요.{nl}제가 짊어질 숙명입니다.				뮬리아	
+QUEST_20210115_012900	Things are getting worse and worse.{nl}We'll have to hurry for the Revelator or for Mulia.{nl}I'll help Mulia decipher the letters here, please defeat the demons nearby.	갈수록 상황이 점점 더 악화되어가는군요..{nl}계시자님을 위해서든 뮬리아를 위해서든 서둘러야겠습니다.{nl}제가 뮬리아를 도와 이곳의 문자를 해석할 테니, 계시자님은 근처의 마족들을 소탕해 주세요.				랑다 마스터	
+QUEST_20210115_012901	So Mulia can safely complete the decipherment.	뮬리아가 안전하게 해석을 끝마칠 수 있도록 말입니다.				랑다 마스터	
+QUEST_20210115_012902	Mulia, it seems like you're using the Veljamu rashly.	뮬리아, 점점 더 벨자무를 함부로 쓰고 있는 거 같구나.				랑다 마스터	
+QUEST_20210115_012903	It's not that easy.	그렇게 쉽게 말할 문제가 아니야.				랑다 마스터	
+QUEST_20210115_012904	Sorry.{nl}But Master..	죄송합니다.{nl}하지만 마스터님..				뮬리아	
+QUEST_20210115_012905	Since we stepped into the sanctuary, I can feel that the dark power of the Goddess Giltine is getting stronger fast.{nl}We don't have any time for further delay.{nl}So I'm going to use the Veljamu.	저희가 성역에 발을 들인 후부터 길티네 여신의 어두운 힘이 더 빠르게 강해지고 있는 것이 느껴집니다.{nl}더는 지체할 여유가 없어요.{nl}그러니 벨자무를 사용하겠어요.				뮬리아	
+QUEST_20210115_012906	There is an object that seems to be the Power Generator of the Ascend Arcade.	어센드 아케이드의 동력 장치로 보이는 물체가 있다.				PC	
+QUEST_20210115_012907	The Power Generator seems stopped.	동력 장치가 정지된 것 같다.				PC	
+QUEST_20210115_012908	The device seems stopped.	장치가 작동을 멈춘 것 같다.				PC	
+QUEST_20210115_012909	Found a note written in unknown characters from the fallen Raganosis.{nl}Let's check.	쓰러진 래거노시스에게서 알 수 없는 문자로 적힌 쪽지를 발견했다.{nl}확인해보도록 하자.				PC	
+QUEST_20210115_012910	Fallen Raganosis.{nl}Other things are urgent, so let's look into it again next time.	쓰러진 래거노시스다.{nl}일단 다른 일이 급하니, 다음에 다시 조사해보자.				PC	
+QUEST_20210115_012911	The fallen Raganosis woke up!	쓰러져 있던 래거노시스가 정신을 차렸다!				PC	
+QUEST_20210115_012912	Disaster..They are talking about the upcoming disaster..	재앙..다가올 재앙에 대해서 이야기하고 있네요..				뮬리아	
+QUEST_20210115_012913	{@st107_coffee}The dark being..will burn the continent..Divine Tree will face a crisis..{/}	{@st107_coffee}검은 존재가..대륙을 불태우리라..신수는 위기를 맞이하리라..{/}				뮬리아	
+QUEST_20210115_012914	What does it mean to burn the continent with the dark being?{nl}The obvious thing is to be prepared for the upcoming disaster..to prevent destruction..	검은 존재와 대륙을 불태운다는 것은 무슨 뜻일까요..{nl}확실한 것은 다가올 재앙에 대비를 해야겠죠..파멸을 막기 위해..				뮬리아	
+QUEST_20210115_012915	Okay..	알겠어요..				뮬리아	
+QUEST_20210115_012916	What is it?	무슨 일이죠?				뮬리아	
+QUEST_20210115_012917	Decipher..?{nl}It was found from the Raganosis of Pradzia Temple?	해석..?{nl}프래지아 신전의 래거노시스한테 발견했다고요?				뮬리아	
+QUEST_20210115_012918	Ancient characters...I can decipher it if you give me some time.{nl}{#FF0000}※If you hand Mulia an Ancient Book page, the item will disappear.{/}	고대의 문자..시간을 조금만 준다면 해석할 수 있어요..{nl}{#FF0000}※뮬리아에게 찢어진 고대의 책 낱장을 건네면 아이템이 사라집니다.{/}				뮬리아	
+QUEST_20210115_012919	It seems that the place just checked is the Mirtinas Repository.	방금 확인한 곳이 머티니스 저장소인듯 하다.				PC	
+QUEST_20210115_012920	This seems to be the right place to lure demons.	이 곳이 마족들을 유인하기에 적절한 장소인듯 하다.				PC	
+QUEST_20210115_012921	I think we should lure demons of Ragana and Baiga's force to where we've just found.	방금 발견한 곳으로 라가나와 바이가 세력의 마족들을 유인하면 될 것 같다.				PC	
+QUEST_20210115_012922	Look for the place to lure the demons nearby to draw their eyes.	근처에서 시선을 끌기 위해 마족을 유인할만한 공간을 찾자.				PC	
+QUEST_20210115_012923	Look for the Baiga's messenger this time. Goddess Lada said that she can feel the Baiga's force above,{nl}from Mesalas Camping Ground.	이번에는 바이가의 전령을 찾아보자. 라다 여신은 바이가의 세력이 바로 위쪽,{nl}메살라스 야영지에서 느껴진다고 했다.				PC	
+QUEST_20210115_012924	Seems like false information has worked.{nl}It appears that the demons are fighting themselves.	거짓 정보가 통한 것 같다.{nl}마족들끼리 전투 중인 것으로 보인다.				PC	
+QUEST_20210115_012925	Saugumas Guardian	소거마스 가디언					
+QUEST_20210115_012926	What's all this noise about?{nl}Everyone! It seems like there is an intruder!	이게 무슨 소란이지?{nl}다들! 침입자가 있는 것 같다!				소거마스 가디언	
+QUEST_20210115_012927	These ones..{nl}Get rid of them!{nl}We can't hand them over the Mirtinas!	이 녀석들은..{nl}몰아내라!{nl}이 녀석들에게 머티니스를 넘겨줄 순 없다!				소거마스 가디언	
+QUEST_20210115_012928	Seems like the security of Mirtinas Repository is loosen.	머티니스 저장소의 경비가 허술해진 것 같다.				PC	
+QUEST_20210115_012929	Seems like we need to get out of the explosion range!	서둘러 폭발 범위에서 벗어나야 할 것 같다!				None	
+QUEST_20210115_012930	The bomb seems to have worked well.{nl}Check if the bomb has removed all the Mirtinas.	폭탄이 잘 작동한 것 같다.{nl}이제 폭탄이 머티니스를 다 제거했는지 확인해야할 것 같다.				PC	
+QUEST_20210115_012931	Is this all you can do by deceiving Ragana and the Baiga's demons?	기껏 라가나와 바이가의 마족들까지 속여놓고 할 수 있는 것이 이게 전부냐 계시자?				주시자	
+QUEST_20210115_012932	Mirtinas saved in the Issaugoti Forest are all gone thanks to your meaningless effort.{nl}However, there are a lot more Mirtinas on this earth.{nl}If you want to get rid of all of them, devoting all of your human being's life won't be enough.	이사우고티 숲에 저장해둔 머티니스는 네 쓸데없는 노력 덕분에 모두 소멸했다.{nl}하지만, 이 땅엔 더 많은 머티니스가 있다.{nl}그 모두를 없애려면 인간인 네 녀석에게 남아 있는 생명을 모두 쏟아부어도 모자랄 거다.				주시자	
+QUEST_20210115_012933	But I'll give you an reward for disrupting my plan.{nl}Try running away like a mouse.	그래도 내 계획에 차질을 빚게 한 상은 주도록 하지.{nl}어디 한 번 쥐처럼 도망쳐 보아라.				주시자	
+QUEST_20210115_012934	I'll look forward to see the ugly side that humans deserve.	인간에게 어울리는 추한 모습을 지켜보겠다.				주시자	
+QUEST_20210115_012935	Demon God Ragana is there.{nl}Seems like she was waiting.	마신 라가나가 보인다.{nl}아무래도 기다리고 있던 것 같다.				PC	
+QUEST_20210115_012936	Beholder's attack came close.{nl}Run away!	주시자의 공격이 가까워진 것 같다.{nl}도망치자!				PC	
+QUEST_20210115_012937	Despite giving you the chance, you're doing stupid things until the end, Revelator.{nl}If that's your choice, I won't blame you.{nl}It's the level of humankind which is worthless to look forward to.	분명 기회를 줬음에도 불구하고 끝까지 멍청한 짓만 골라서 하는구나, 계시자.{nl}그게 네 선택이라면, 비난하지는 않겠다.{nl}인간이란 족속의 수준이야 기대할 가치도 없으니.				마왕 바이가	
+QUEST_20210115_012938	However, should you have to hold responsibility for the consequences of the choice.{nl}You should be determined.	하지만, 그 선택이 초래한 결과에 대해서는 응당 책임을 져야 할 것이다.{nl}각오는 되어있겠지?				마왕 바이가	
+QUEST_20210115_012939	Triflings are playing dull.	잔챙이들끼리 시시한 놀음을 하고 있군.				주시자	
+QUEST_20210115_012940	Baiga.{nl}Since when was the Demon God able to be arrogant in front of me? 	바이가.{nl}언제부터 마왕따위가 내 앞에서 건방을 떨 수 있었던 거지?				주시자	
+QUEST_20210115_012941	Beholder.{nl}You are diligent than expected.	주시자.{nl}생각보다 부지런하군.				마왕 바이가	
+QUEST_20210115_012942	It's also pity for me that the Mirtinas you've collected is gone.{nl}It would have been easier if I just took a few out.	당신이 모은 머티니스가 사라진 건 나에게도 안타까운 일이지.{nl}편하게 몇 개 빼돌리기만 하면 쉬웠을 텐데.				마왕 바이가	
+QUEST_20210115_012943	You are still trying to make some tricks.{nl}If you think your life is too good to be thrown away, you'd better keep your stupid plans just in your head.	잔머리를 굴리는 꼴은 여전하군.{nl}목숨이 아깝다면 네놈의 우둔한 계획은 머릿속에만 담아두는 게 좋을 거다.				주시자	
+QUEST_20210115_012944	Even the Mirtinas was fine, I wouldn't have shared with you.	설령 머티니스가 멀쩡했더라도 네게 나눠줄 일은 없었을 거다.				주시자	
+QUEST_20210115_012945	Annoying ones are gathered in one place at the moment.	마침 귀찮은 녀석들이 한곳에 모여있구나.				주시자	
+QUEST_20210115_012946	Demon God Baubas	마신 바우바스					
+QUEST_20210115_012947	Long time no see,{nl}Beholder.	오랜만이군,{nl}주시자.				마신 바우바스	
+QUEST_20210115_012948	Baubas.	바우바스.				주시자	
+QUEST_20210115_012949	..{nl}Yeah,	..{nl}그래,				주시자	
+QUEST_20210115_012950	Baiga had something that he believed.{nl}There's no way that you, who can only boast about your power, know the value of Mirtinas..	바이가가 믿는 구석이 있었지.{nl}무식하게 힘 자랑 밖에 할 줄 모르는 네가 머티니스의 가치를 알 수 있을리는 없고..				주시자	
+QUEST_20210115_012951	If you conspired it with Baiga, it is understandable.	바이가와 네 녀석이 작당을 했다면 이해가 가는구나.				주시자	
+QUEST_20210115_012952	I don't care about your ridiculous plan.	나는 네 이상한 계획에는 관심없다.				마신 바우바스	
+QUEST_20210115_012953	But like you said, Baiga is still useful for me.{nl}It'll be embarrassing if Baiga dies.{nl}So you'd better back off.	다만, 네 말대로 바이가는 내게 아직 쓸모가 있는 녀석이다.{nl}바이가가 죽는 건 곤란한 일이지.{nl}그러니 그만 물러서는 게 좋을 거다.				마신 바우바스	
+QUEST_20210115_012954	I'll hang out with you if you want.{nl}But it seems like you've already spent a lot of energy..	원한다면 내가 어울려주겠다.{nl}하지만, 너는 이미 많은 힘을 소비한 것 같은데..				마신 바우바스	
+QUEST_20210115_012955	You're excited unlike you used to be,{nl}Beholder.{nl}So you're more obsessed with Mirtinas than expected?	너 답지 않게 흥분했군,{nl}주시자.{nl}머티니스에 대한 집착이 생각보다 강한가 보군?				마신 바우바스	
+QUEST_20210115_012956	It's easy said than done with your opened mouth.	뚫린 입이라고 말은 쉽군.				주시자	
+QUEST_20210115_012957	With your lack of brains, you won't understand what I'm going to create.{nl}Your arrogance offends me.	너희들의 부족한 머리로는 내가 만들어 낼 개벽에 대해 이해할 수 없을 거다.{nl}너희들 오만함이 나를 불쾌하게 하는구나.				주시자	
+QUEST_20210115_012958	Don't be pretentious.{nl}It won't end well though we argue like this.	허세 부리지 마라.{nl}우리가 이렇게 말씨름을 해봤자 그 끝이 좋을 수는 없을 거다.				마신 바우바스	
+QUEST_20210115_012959	Shouldn't you get your subordinates back and take the remaining Mirtinas?{nl}Or are you going start the war right now?	네 부하들을 수습해서 그나마 남은 머티니스라도 챙겨야하지않겠나?{nl}그렇지 않으면 이 자리에서 바로 전쟁이라도 해볼 테냐?				마신 바우바스	
+QUEST_20210115_012960	I'm also going to suffer more than a few losses, but it's not a bad idea to rank them.	나도 적잖은 손해를 보겠지만 서열 정리를 해두는 것도 나쁘지 않지.				마신 바우바스	
+QUEST_20210115_012961	Even ignorant you know how to negotiate.{nl}But don't be flattered.{nl}As soon as I get all the necessary Mirtinas..	무식한 네 녀석도 협상이라는 걸 해볼 줄은 아는구나.{nl}그러나 우쭐해하지 마라.{nl}필요한 머티니스를 모두 확보하는 그 순간..				주시자	
+QUEST_20210115_012962	Orsha and the Divine Tree will burn down and all of your body and soul will perish without a place to return.{nl}Let's see how relaxed you are then.	오르샤와 신수는 불타 없어지고 너희 모두의 육체와 영혼은 돌아갈 곳 없이 소멸할 거다.{nl}그때도 그렇게 여유로울지 보자꾸나.				주시자	
+QUEST_20210115_012963	Unnecessary combat is evaded.	불필요한 싸움은 면했군.				마신 바우바스	
+QUEST_20210115_012964	Baiga,{nl}I know that you haven't got the Mirtinas we need..	바이가,{nl}우리에게 필요한 머티니스를 아직 확보하지 못한 걸로 알고 있다만..				마신 바우바스	
+QUEST_20210115_012965	Are you still going to chase the Beholder?	주시자를 계속 뒤쫓을 테냐?				마신 바우바스	
+QUEST_20210115_012966	..{nl}I think provoking Beholder more than this will be risky.{nl}It may be a little inconvenient, but I'll look for the Mirtinas on the opposite side that Beholder hasn't recovered.	..{nl}제 생각엔 주시자를 이 이상으로 자극하는 건 위험 부담이 클 것 같습니다.{nl}조금은 번거롭겠지만, 주시자의 반대편에서 그가 회수하지 못한 머티니스를 찾겠습니다.				마왕 바이가	
+QUEST_20210115_012967	I see.{nl}Then let's hurry.	그렇군.{nl}그렇다면 서둘러 움직이도록 하지.				마신 바우바스	
+QUEST_20210115_012968	You don't have to take on any of this, the Beholder has an eye on this human's life..{nl}Well, Baubas.{nl}I'll hurry up and check if there are any remaining Mirtinas in the Issaugoti Forest and the Kirtimas Forest.	이 인간의 목숨은 주시자가 노리고 있으니 귀찮은 일을 떠맡아 할 필요는 없겠지요.{nl}그럼, 바우바스님.{nl}저는 서둘러 이사우고티 숲과 키르티마스 숲에 남아있는 머티니스가 있는지 조사해보겠습니다.				마왕 바이가	
+QUEST_20210115_012969	Are you the stool pigeon of Laima?{nl}Your rumor is all over other continents.	네 녀석이 라이마의 끄나풀인가?{nl}타대륙까지 네 소문이 들렸다.				마신 바우바스	
+QUEST_20210115_012970	Your feature seems to be boring for the loud rumor.	요란스러운 소문의 주인공 치고는 시시한 생김새로군.				마신 바우바스	
+QUEST_20210115_012971	I heard that you've met Austeja.	아우스테야를 만났다고 들었다.				마신 바우바스	
+QUEST_20210115_012972	If you see her again, tell her that the answer for the question is yet told.{nl}Well..{nl}As well as the regards.	다음에 다시 그녀를 본다면 아직 질문에 대한 답을 듣지 못했다고 전해라.{nl}뭐..{nl}겸사겸사 안부도 전하도록 하고.				마신 바우바스	
+QUEST_20210115_012973	Hurry and go to Orsha.	서둘러 오르샤로 가보기 바랍니다.				여신 라다	
+QUEST_20210115_012974	Seems like lot of demons are  guarding.	수많은 마족이 경계 중인 것 같다.				PC	
+QUEST_20210115_012975	Clown Master	클로운 마스터					
+QUEST_20210115_012976	The more sacrifices you make, the closer you are to justice.	희생이 많을수록 정의에 한 걸음 더 가까워지는 법이잖아?				클로운 마스터	
+QUEST_20210115_012977	Arquebusier Master	아퀴버지어 마스터					
+QUEST_20210115_012978	What you need to be a good sniper is not a good gun, not a good bullet but patience.	훌륭한 저격수가 되기 위해 필요한 것은 훌률한 총도, 훌륭한 총알도 아닌 인내심입니다.				아퀴버지어 마스터	
+QUEST_20210115_012979	The road ahead is blocked.{nl}I don't think we can go now.	이 앞으로는 길이 막혀있다.{nl}지금은 갈 수가 없을 것 같다.				PC	
+QUEST_20210115_012980	Raged Beholder's magic swirl is coming after!{nl}Evacuate by following the directions to a safe place! 	분노한 주시자의 마력 소용돌이가 쫓아옵니다!{nl}안내 방향을 따라 안전한 곳으로 대피하세요!				PC	
+QUEST_20210115_012981	You'll need enough Silver Fish to make a rubbing.	탁본은 은빛 물고기가 충분히 있어야 할 수 있어요.	QUEST_20171128_007083	You'll need a Silver Fish to make a rubbing.	탁본은 은빛 물고기가 있어야 할 수 있어요.	낚시터 관리인 요하	
+QUEST_20210115_012982	You have caught a lot of Silver Fish!{nl}The rubbing can be done several times at a time.	은빛 물고기를 많이 잡아오셨네요!{nl}탁본은 한 번에 여러번 뜰 수 있어요.				낚시터 관리인 요하	
+QUEST_20210115_012983	Only the biggest rubbing can be checked, so be cautious!	가장 큰 크기의 탁본만 확인할 수 있으니 주의하세요!				낚시터 관리인 요하	
+QUEST_20210115_012984	You can make the rubbing only one time because you have one Silver Fish.	한 마리를 가지고 계셔서 한 번 탁본을 뜰 수 있어요.				낚시터 관리인 요하	
+QUEST_20210115_012985	Ichor Equip/Unequip	아이커 장착/해제					
+QUEST_20210115_012986	Challenge {#ff0000}Challenge Mode	챌린지 {#ff0000}챌린지 모드					
+QUEST_20210115_012987	Do you want to participate in the Division Singularity?	분열 특이점에 참여하시겠습니까?				챌린지 {#ff0000}챌린지 모드	
+QUEST_20210115_012988	Re-enter Challenge Mode	챌린지 모드 재입장					
+QUEST_20210115_012989	Are you here to clear the dungeon?{nl}Please select the dungeon you wish to enter.	던전 토벌을 하러 오셨나요?{nl}입장하실 던전을 선택해주세요.				경비병 에일리	
+QUEST_20210115_012990	Select the mode you wish to enter	입장하실 모드를 선택해주세요				경비병 에일리	
+QUEST_20210115_012991	Challenge Mode Auto Match	챌린지 자동 매칭					
+QUEST_20210115_012992	Select the Auto Match mode you wish to enter	입장하실 자동 매칭 모드를 선택해주세요				챌린지 자동 매칭	
+QUEST_20210115_012993	Challenge Auto Match Item Limit (1 area)	챌린지 자동 매칭 아이템 제한(제 1구역)					
+QUEST_20210115_012994	Will you enter Challenge Mode Auto Match?{nl}Entry Level: Lv.361 or above 	챌린지 자동 매칭 모드에 입장 하시겠습니까?{nl}입장 레벨 : 361Lv 이상				챌린지 자동 매칭 아이템 제한(제 1구역)	
+QUEST_20210115_012995	Challenge Auto Match Item Limit (2 area)	챌린지 자동 매칭 아이템 제한(제 2구역)					
+QUEST_20210115_012996	Will you enter Challenge Mode Auto Match?{nl}Entry Level: Lv.400 or above 	챌린지 자동 매칭 모드에 입장 하시겠습니까?{nl}입장 레벨 : 400Lv 이상				챌린지 자동 매칭 아이템 제한(제 2구역)	
+QUEST_20210115_012997	Challenge Auto Match Item Limit (3 area)	챌린지 자동 매칭 아이템 제한(제 3구역)					
+QUEST_20210115_012998	Will you enter Challenge Mode Auto Match?{nl}Entry Level: Lv.450 or above 	챌린지 자동 매칭 모드에 입장 하시겠습니까?{nl}입장 레벨 : 450Lv 이상				챌린지 자동 매칭 아이템 제한(분열 모드)	
+QUEST_20210115_012999	Challenge Auto Match Item Limit (Division Singularity)	챌린지 자동 매칭 아이템 제한(분열 모드)					
+QUEST_20210115_013000	Challenge Auto Match Area 1 Entrance Message	챌린지 자동매칭 제 1구역 입장 메세지					
+QUEST_20210115_013001	Challenge Auto Match (Area 1) Entry Level is 361Lv ~ 399Lv.	챌린지 모드 자동매칭(제 1구역) 은 입장레벨 361Lv ~ 399Lv 입니다.				챌린지 자동매칭 제 1구역 입장 메세지	
+QUEST_20210115_013002	Challenge Auto Match Area 2 Entrance Message	챌린지 자동매칭 제 2구역 입장 메세지					
+QUEST_20210115_013003	Challenge Auto Match (Area 2) Entry Level is 400Lv ~ 460Lv.	챌린지 모드 자동매칭(제 2구역) 은 입장레벨 400Lv ~ 460Lv 입니다.				챌린지 자동매칭 제 2구역 입장 메세지	
+QUEST_20210115_013004	Challenge Auto Match Area 3 Entrance Message	챌린지 자동매칭 제 3구역 입장 메세지					
+QUEST_20210115_013005	Challenge Auto Match (Area 3) Entry Level is 450Lv ~ 460Lv.	챌린지 모드 자동매칭(제 3구역) 은 입장레벨 450Lv ~ 460Lv 입니다.				챌린지 자동매칭 제 3구역 입장 메세지	
+QUEST_20210115_013006	Challenge Auto Match : Division Singularity Entrance Message	챌린지 자동매칭 : 분열 특이점 입장 메세지					
+QUEST_20210115_013007	Division Singularity Auto Match Entry Level is 450Lv ~ 460Lv.	챌린지 모드 : 분열 특이점 자동매칭은 입장레벨 450Lv ~ 460Lv 입니다.				챌린지 자동매칭 : 분열 특이점 입장 메세지	
+QUEST_20210115_013008	Challenge Auto Match: Exit Message	챌린지 자동매칭 : 종료 메세지					
+QUEST_20210115_013009	Will you end Challenge Mode Auto Match?	챌린지 모드 자동매칭을 종료 하시겠습니까?				챌린지 자동매칭 : 종료 메세지	
+QUEST_20210115_013010	Will you end Challenge Mode : Division Singularity Auto Match?	챌린지 모드 : 분열 특이점 자동매칭을 종료 하시겠습니까?				챌린지 자동매칭 : 분열 특이점 입장 메세지	
+QUEST_20210115_013011	Lepidoptera Junction: Legend (Auto Match)(Recommended Lv: 440){nl}Only players who used the Auto Match can enter.	나비목 접선지: 레전드(자동 매칭)(권장레벨:440)는{nl} 자동 매칭을 이용한 플레이어만이 입장할 수 있습니다.	QUEST_20200514_012165	Lepidoptera Junction: Legend(Easy)(Recommended Lv: 420){nl}Only you and your party members can enter together.{nl}Enter now?	나비목 접선지: 레전드(Easy)(권장레벨:420)는 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?	안내	
+QUEST_20210115_013012	[Entrance Requirement] {nl}-Equip Legend items with Lv400 or above (Accessories, Seal, and Ark are excluded){nl}-Fixed Ichor has to be equipped in every part.{nl}-Equipping items after entering the dungeon is available, but changing or removing is unavailable.(Accessories, Seal, and Ark are excluded){nl}Enter now?	[입장 제한] {nl}-Lv400이상 레전드 장비 착용 (액세서리, 인장, 아크 제외){nl}-모든 부위에 고정 아이커가 착용 되어 있어야 합니다.{nl}-입장 후 던전 내에서 아이템 장착은 가능하나, 변경 및 해제가 불가 합니다.(액세서리, 인장, 아크 제외){nl}입장하시겠습니까?				글레이시어 입장	
+QUEST_20210115_013013	White Witch's Forest: Legend (Recommended level of Auto-Match:  Lv. 440/Normal, Hard: Lv.450) Only your party members or players who used Auto-Match can enter together.{nl}Enter now?	하얀 마녀의 숲 : 레전드(권장 레벨 자동 매칭 : 440/Normal,Hard : 450)는 자동 매칭이나 당신과 파티를 맺은 플레이어만, 함께 입장할 수 있습니다.{nl}입장하시겠습니까?	QUEST_20200826_012360	White Witch's Forest: Legend (Recommended Easy Mode: Lv. 440/Normal,Hard: Lv.450) Only you and your party members can enter together.{nl}Enter now?	하얀 마녀의 숲 : 레전드(권장 레벨 EasyMode : 440/Normal,Hard : 450)는 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?	글레이시어 입장	
+QUEST_20210115_013014	White Witch's Forest: Legend (Auto Match)(Recommended Lv: 440){nl}Only players who used the Auto Match can enter.	하얀 마녀의 숲 : 레전드 (자동 매칭)(권장레벨:440)는{nl} 자동 매칭을 이용한 플레이어만이 입장할 수 있습니다.	QUEST_20200826_012361	White Witch's Forest: Legend Easy{nl}(Recommended Level: 440) Only you and your party members can enter together.{nl}Enter now?	하얀 마녀의 숲 : 레전드 Easy{nl}(권장레벨:440)는 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?	글레이시어 입장	
+QUEST_20210115_013015	Giltine Entrance Message	길티네 입장 메세지					
+QUEST_20210115_013016	Party members or players who used Auto Match can enter Demonic Sanctuary: Legend (Recommended level:  Lv. 458) together.{nl}Enter now?	마신의 성소 : 레전드(권장 레벨:458)는 자동 매칭이나 당신과 파티를 맺은 플레이어와 함께 입장할 수 있습니다.{nl}입장하시겠습니까?				길티네 입장 메세지	
+QUEST_20210115_013017	Giltine Stage Mission Message	길티네 단계 미션 메세지					
+QUEST_20210115_013018	Demon God's Compulsory Agreement.	마신의 강제 협약.				길티네	
+QUEST_20210115_013019	Savor your final breath before my power!!	내 권능, 앞에서 마지막 숨을 들이켜라!!				길티네	
+QUEST_20210115_013020	You, helpless savior, will never be able to save anything! 	무력한 구원자 따위는, 아무것도 구할 수 없을 것이다!				길티네	
+QUEST_20210115_013021	The world will gasp its life away by the power of death...	죽음의 권능으로 세계는 절명하리라...				길티네	
+QUEST_20210115_013022	Giltine Auto Match Entrance Message	길티네 자동매칭 입장 메세지					
+QUEST_20210115_013023	Only players who used the Auto Match can enter Demonic Sanctuary: Legend (Auto Match) (Recommended Lv: 458).	마신의 성소 : 레전드 (자동매칭) (권장레벨:458)는 자동 매칭을 이용한 플레이어만이 입장할 수 있습니다.				길티네 자동매칭 입장 메세지	
+QUEST_20210115_013024	Do you wish to enter?	입장하시겠습니까?				길티네 자동매칭 입장 메세지	
+QUEST_20210115_013025	Giltine Entrance Message	길티네 일반 입장 메세지					
+QUEST_20210115_013026	Only the party members can enter Demonic Sanctuary: Legend (Recommended level:  Lv. 458) together.{nl}Enter now?	마신의 성소 : 레전드 (권장레벨:458)는 당신과 파티를 맺은 플레이어만, 함께 입장할 수 있습니다.{nl}입장하시겠습니까?				길티네 일반 입장 메세지	
+QUEST_20210115_013027	Giltine Raid	길티네 레이드					
+QUEST_20210115_013028	Starting Giltine Raid.	길티네 레이드를 시작합니다.				길티네 레이드	
+QUEST_20210115_013029	Will you select Normal Difficulty?	보통 난이도를 선택하시겠습니까?				안내	
+QUEST_20210115_013030	Will you select Hard Difficulty?	어려움 난이도를 선택하시겠습니까?				안내	
+QUEST_20210115_013031	Will you select Very Hard Difficulty?	매우 어려움 난이도를 선택하시겠습니까?				안내	
+QUEST_20210115_013032	Magic Association has prepared various rewards to celebrate saviors' growth.{nl}Will you participate in Growth Support prepared by the Magic Association?	마법협회는 구원자 여러분의 성장을 축하드리기 위해 여러 보상들을 준비했답니다.{nl}저희 협회에서 준비한 성장지원에 참여하시겠어요?				플로아나	
+QUEST_20210115_013033	Magic Association has prepared various rewards to celebrate saviors' growth.{nl}{#003399}If you bring [Event] Growth Gem{/}, it can be exchanged with valuable rewards.{nl}Only characters with Lv.420 or under can participate.(3 times per team)	마법협회는 구원자 여러분의 성장을 축하드리기 위해 여러 보상들을 준비했답니다.{nl}{#003399}[이벤트] 성장의 보석{/}을 가져오시면, 값진 보상들과 교환해드릴게요.{nl}420이하의 캐릭터만 참가할 수 있습니다.(팀당 3회)				플로아나	
+QUEST_20210115_013034	{#003399}※Event [TIP]{/}{nl}[Event] Growth Gem can be obtained from the following{nl}1. Select {#003399}Participate in [Event] Magic Association{/}and receive {#003399}[Event] Level Up Chest{/}.{nl}2. Grow your character up to the level needed to open the box.{nl}3.	{#003399}※이벤트 [TIP]{/}{nl}[이벤트] 성장의 보석은 다음 방법을 통해 획득할 수 있어요.{nl}1. {#003399}[이벤트] 마법협회 성장지원 참가하기{/} 를 선택한 후 {#003399}[이벤트] 레벨업 상자{/} 를 받는다.{nl}2. 상자를 여는데 필요한 레벨까지 성장한다.{nl}3. 				플로아나	
+QUEST_20210115_013035	is opened and a certain amount of {#003399}[Event] Growth Gem {/} will be received.	를 열때마다 일정량의{#003399}[이벤트] 성장의 보석{/}을 획득한다.				플로아나	
+QUEST_20210115_013036	Attribute Points can be received every day when using [Event] Day by Day Attribute Point Box.{nl}(Once per team, resets at 6 am)	[이벤트] 매일매일 특성 포인트 상자는 매일 사용할 때마다 특성포인트를 획득할 수 있습니다.{nl}(일일 팀당 1회, 오전 06시 초기화)				플로아나	
+QUEST_20210115_013037	[Fishing Shop] Joha's Tackle Box	[낚시 상점] 요하의 살림통				낚시터 관리인 요하	
+QUEST_20210115_013038	Box of Mudfish.{nl}There's a note saying that you can get a reward when you catch the Needlefish and give it to the cat at the fishing spot.{nl}※	미꾸라지가 들어있는 통이다.{nl}꽁치를 잡아 낚시터 고양이에게 주면 선물을 받을 수 있다는 쪽지가 붙어있다.{nl}※				[낚시 상점] 요하의 살림통	
+QUEST_20210115_013039	[Event] Mudfish Shop	[이벤트] 미꾸라지				낚시터 관리인 요하	
+QUEST_20210115_013040	can be received once a day (per team), and resets every 6 am.{nl}※If the bait is not enough, You can give Event NPC	는 일일 1회 (팀당) 수령할 수 있으며, 매일 오전 06시 초기화 됩니다.{nl}※미끼가 부족할 경우, 이벤트 NPC에게 				낚시터 관리인 요하	
+QUEST_20210115_013041	and exchange it to obtain additionally.	와 교환하여 추가로 획득할 수 있습니다.				낚시터 관리인 요하	
+QUEST_20210115_013042	[Tip] Autumn Fishing Event Details{nl}1.	[Tip] 가을 꽁치 낚시! 이벤트 안내{nl}1.				낚시터 관리인 요하	
+QUEST_20210115_013043	from	에게 				낚시터 관리인 요하	
+QUEST_20210115_013044	(250 baits once daily){nl}2.	를 수령하세요. (일일 1회 250개){nl}2.				낚시터 관리인 요하	
+QUEST_20210115_013045	provided needs to be used as bait when fishing.{nl}3.	를 이용해 낚시 하세요.{nl}3.				낚시터 관리인 요하	
+QUEST_20210115_013046	[Event] Autumn Needlefish	[이벤트] 가을 꽁치				낚시터 관리인 요하	
+QUEST_20210115_013047	Catch	 를 낚아 				낚시터 관리인 요하	
+QUEST_20210115_013048	give it to the [Event] Cat at the Fishing Spot	[이벤트] 낚시터 고양이에게 주면 				낚시터 관리인 요하	
+QUEST_20210115_013049	[Fishing] Unidentified bait bucket	[낚시 이벤트] 정체불명 떡밥통				낚시터 관리인 요하	
+QUEST_20210115_013050	and event buff can be received. 4.	과 이벤트 버프를 획득할 수 있습니다. 4.				낚시터 관리인 요하	
+QUEST_20210115_013051	can be used to receive random reward.{nl}{#FF0000}※	을 사용해 랜덤 보상 획득할 수 있습니다.{nl}{#FF0000}※				낚시터 관리인 요하	
+QUEST_20210115_013052	can be purchased additionally from the [Fishing Manager], [Fishing Manager] Joha.	는 [이벤트] 낚시터 관리인, 낚시터 관리인 요하에게 추가 구입 가능합니다.{/}				낚시터 관리인 요하	
+QUEST_20210115_013053	Receiving limit resets every 6 AM EST.{/}	 수령 제한은 매일 오전 6시 초기화 됩니다.{nl}				낚시터 관리인 요하	
+QUEST_20210115_013054	/needlefish	/꽁치				낚시터 관리인 요하	
+QUEST_20210115_013055	command will allow you to check obtained	 명령어를 통해 획득한 				낚시터 관리인 요하	
+QUEST_20210115_013056	and remaining number of	와 남은 				낚시터 관리인 요하	
+QUEST_20210115_013057	exchanging amount.	의 교환 횟수를 확인 할 수 있습니다.				낚시터 관리인 요하	
+QUEST_20210115_013058	You have already received today's [Event] Mudfish.{nl}{#FF0000}※	이미 오늘의 [이벤트] 미꾸라지를 수령하셨습니다.{nl}{#FF0000}※				낚시터 관리인 요하	
+QUEST_20210115_013059	can be obtained once a day (per team), and resets every 6 am.{/}	는 일일 1회 (팀당) 수령할 수 있으며, 매일 오전 06시 초기화 됩니다.{/}				낚시터 관리인 요하	
+QUEST_20210115_013060	[Fishing] Cat at the Fishing Spot	[낚시 이벤트] 낚시터 고양이					
+QUEST_20210115_013061	The Cat is giving you a craving look.{nl}(Receive buff and [Fishing] Unidentified bait bucket by giving [Event] Mudfish.){nl} You can enter the number you want to exchange and only 1 stack of buff is applied for exchanging one time.{nl} - EXP gain + 30%%, Looting Chance +500, Maximum HP +3000, Maximum SP +1000.(Does not stack. Buff duration is reset when reapplied during buff){nl}{#FF0000}※[Fishing] Unidentified bait bucket can be acquired up to 200 during the event period.{/}	고양이가 무엇인가 원하는 듯 쳐다봅니다.{nl}- [이벤트] 꽁치를 주면 버프와 [낚시 이벤트] 정체불명 떡밥통을 획득할 수 있습니다.{nl}- 원하는 교환 개수를 입력할 수 있으며, 1회 교환 시 버프는 1회만 적용됩니다.{nl} - 경험치 획득량 30%%증가,루팅찬스 500증가,최대 HP 3000증가,최대SP 1000 증가합니다.(중첩 불가.버프 적용 중 재 적용 시 버프 시간 초기화){nl}{#FF0000}※[낚시 이벤트] 정체불명 떡밥통은 이벤트 기간 중 최대 200개 획득할 수 있습니다.{/}				[낚시 이벤트] 낚시터 고양이	
+QUEST_20210115_013062	Needlefish fishing is prepared!{nl}	꽁치낚시가 준비되어 있어요!{nl}				낚시터 관리인 요하	
+QUEST_20210115_013063	can be used to catch	를 이용해 				낚시터 관리인 요하	
+QUEST_20210115_013064	[Event] Needlefish	[이벤트] 꽁치				낚시터 관리인 요하	
+QUEST_20210115_013065	and bring it to the Cat at the Fishing Spot to receive various rewards!{nl}※	를 낚아서 낚시터 고양이에게 주면 다양한 보상을 획득할 수 있답니다!{nl}※				낚시터 관리인 요하	
+QUEST_20210115_013066	[5th Anniversary] Special Merchant	[5주년] 특별한 상인					
+QUEST_20210115_013067	To celebrate TOS 5th anniversary, we have prepared various events!{nl}Various rewards are ready, so join the event!	TOS 5주년을 맞이해 다양한 이벤트를 준비했습니다!{nl}다양한 보상이 잔뜩 준비되어있으니 어서 참여하세요!				[5주년] 특별한 상인	
+QUEST_20210115_013068	{#ff0000}{s24}[Tip] Event Details - Raise the Event Level!{/}{/}{nl}Play the game every day and collect the event point to raise the level.{nl}Collect the Event Point as follows.	{#ff0000}{s24}[Tip] 이벤트 안내 - 이벤트 레벨을 올려라!{/}{/}{nl}매일 게임을 플레이하면서 이벤트 포인트를 모아 레벨을 올릴 수 있습니다.{nl}이벤트 포인트를 모으는 방법은 다음과 같습니다.				[5주년] 특별한 상인	
+QUEST_20210115_013069	1. {#003399}10p{/} when obtaining 100{#003399}[Event] TOS Coin{/} {nl}2. {#003399}10p{/} per maintaining log in for 1 hour.{nl}3. {#003399}1p{/} when off-line(Maximum amount of off-line points in total: {#003399}20p{/}, resets when log-in){nl}{#ff0000}※Event level due to points can be checked via{/}{#003399}/5th Anniversary{/}{#ff0000}UI.{/}	1.{#003399}[이벤트] TOS 주화{/} 100개 획득 시 마다 {#003399}10p{/}{nl}2.1시간 누적 접속 시 마다 {#003399}10p{/}{nl}3.오프라인 시에도 1시간 마다 {#003399}1p{/}(최대 오프라인 누적 제한 {#003399}20p{/}, 접속 시 초기화){nl}{#ff0000}※포인트에 따른 이벤트 레벨은{/}{#003399}/5주년{/}{#ff0000}UI 에서 확인할 수 있습니다.{/}				[5주년] 특별한 상인	
+QUEST_20210115_013070	{#ff0000}{s24}[Tip] Event Details - Collect event coins{/}{/}{nl}Collect {#003399}[Event] TOS Coin{/},{#003399}[Event] 5th Anniversary Coin{/} and exchange it with various rewards.{nl}List of contents where you can obtain {#003399}Event Coins{/} can be checked via UI by entering {#003399}/5thanniverary{/} command.	{#ff0000}{s24}[Tip] 이벤트 안내 - 이벤트 주화 모으기{/}{/}{nl}{#003399}[이벤트] TOS 주화{/},{#003399}[이벤트] 5주년 기념 주화{/}를 모아 다양한 보상과 교환할 수 있습니다.{nl}{#003399}이벤트 주화{/}를 획득할 수 있는 콘텐츠 목록은 {#003399}/5주년{/} 명령어를 사용한 UI에서 확인할 수 있습니다.				[5주년] 특별한 상인	
+QUEST_20210115_013071	{#ff0000}{s24}[Tip] Event Details - 5th Anniverary Secret Shop{/}{/}{nl}You can use Secret Shop via Event NPC.{nl}Secret Shop consists of S, A, B, C 4 stages, and each rank shop can be used according to current event level by chance. 100 of {#003399}[Event] TOS Coin is needed{/} to renew the shop.{nl}Please refer to the website event page for details about using the shop according to the Event Level.	{#ff0000}{s24}[Tip] 이벤트 안내 - 5주년 비밀상점{/}{/}{nl}이벤트 NPC를 통해 비밀상점을 이용할 수 있습니다.{nl}비밀상점은 S,A,B,C 4단계로 구성되어있으며, 각 등급 상점은 현재 이벤트 레벨에 따라 확률적으로 이용할 수 있습니다.상점 갱신에는 100개의 {#003399}[이벤트] TOS 주화가 필요합니다.{/}{nl}이벤트 레벨에 따른 상점 이용은 홈페이지의 이벤트 안내를 확인해주시기 바랍니다.				[5주년] 특별한 상인	
+QUEST_20210115_013072	Let me give a little help for Laima's little servant in the battle against Giltine.{nl}{#ff0000}However, remember that it will be given once daily per character and reset every day at 6 AM server time.{nl}Oh, and it will be useless in PVP areas, so don't waste your time.{/}	라이마의 아이가 길티네와 잘 싸울 수 있도록 내가 조금 도와주지.{nl}{#ff0000}단, 캐릭터당 일일 1회, 매일 오전 06시 초기화니까 꼭 명심하렴.{nl}그리고 PVP 지역에서는 아무 소용도 없을 테니 시간을 낭비하지 말아라.{/}				마신 라가나의 환영	
+QUEST_20210115_013073	It seems like Giltine has returned in Raid.{nl}You'll do as you always do, right?{nl}Let me give you a little gift to help you out.{nl}{#ff0000}Remember, it will be given only once per team, so I recommend you to receive it between January 25 after maintenance to Febuary 22 before maintenance.{/}	길티네가 레이드로 돌아왔더구나.{nl}늘 하던 대로 잘 할 수 있겠지?{nl}내가 소정의 선물을 주도록 하마.{nl}{#ff0000}단, 너의 팀당 1회만 줄 생각이니 1월 25일 점검 후부터 2월 22일 점검 전까지 받으렴.{/}				마신 라가나의 환영	
+QUEST_20210115_013074	How about spending time with me during the weekends and holidays? There's a Giltine Raid going on.{nl}I've also prepared a special gift for you.{nl}{#ff0000}Once per team daily, come and find me between 6 AM until 05:59 AM the next day.{/}	길티네 레이드가 있는데, 주말과 공휴일에는 딴짓 말고 나와 놀지 않겠니?{nl}특별한 선물도 준비했단다.{nl}{#ff0000}너의 팀당 하루 한 번만, 오전 06시부터 익일 오전 05시 59분 사이에 날 찾아오렴.{/}				마신 라가나의 환영	
+QUEST_20210115_013075	No need to hurry.{nl}I'll hand you the gift if you visit me during the {#ff0000}weekends and holidays{/}.{/}	서두르지 말렴.{nl}{#ff0000}주말이나 공휴일{/}에 나를 찾아오면 준비한 선물을 주도록 하마.{/}				마신 라가나의 환영	
+QUEST_20210115_013076	Nice to meet you.{nl}My name is Teliavelis.{nl}As you can see, I run the blacksmith shop.	반갑네.{nl}내 이름은 테리아베리스.{nl}보다시피 대장간을 운영하고 있지.				대장장이 테리아베리스	
+QUEST_20210115_013077	I also inform inexperienced Revelators what Ichor extracting is.	또한 아이커 추출이 뭔지 모르는 초보 계시자들에게 안내를 해주는 역할도 맡고 있다네.				대장장이 테리아베리스	
+QUEST_20210115_013078	I will give some equipments so that you can practice extracting Ichor.{nl}If you follow the instruction written in the equipment, you'll know what Ichor Extract is. 	아이커 추출을 직접 실습해볼 수 있는 장비를 몇 개 주도록 하겠네.{nl}장비에 적힌 지시사항 대로 연습해보면, 아이커 추출이 뭔지 알 수 있을 것이라네.				대장장이 테리아베리스	
+QUEST_20210115_013079	First, I'll tell you the basic way to extract the Ichor.	첫번째로 아이커 추출을 하는 가장 기본적인 방법을 알려주겠네.				대장장이 테리아베리스	
+QUEST_20210115_013080	Try extracting by using [Tutorial] Silver Ichor Extraction Kit on the [Tutorial] Training Top.{nl}Extract Ichor by talking to me.	가장 먼저 [튜토리얼]연습용 상의에 [튜토리얼]은빛 아이커 추출 키트를 이용하여 추출해보게나.{nl}아이커 추출은 나한테 대화하여 이용할 수 있다네.				대장장이 테리아베리스	
+QUEST_20210115_013081	I'll retrieve the Ichor coming out from the equipment, because it is for practice.	나오는 장비의 아이커는 연습용 장비이니, 내가 바로 회수하겠네.				대장장이 테리아베리스	
+QUEST_20210115_013082	Good.{nl}Now, extract the [Tutorial] Training Bottom by using [Tutorial] Silver Ichor Extraction Kit	잘했군.{nl}이제 [튜토리얼]연습용 하의도 [튜토리얼]은빛 아이커 추출 키트를 이용하여 추출해보게나.				대장장이 테리아베리스	
+QUEST_20210115_013083	You've failed.{nl}Now, I'll tell you about the Golden Ichor Extraction.	실패를 했구만.{nl}그럼 이제 황금 아이커 추출에 대해서 알아보도록 하지.				대장장이 테리아베리스	
+QUEST_20210115_013084	Ichor Extraction consumes the potential.{nl}Thus, if you try to extract the 0 potential equipment with Silver Ichor, the equipment may be destroyed.	아이커 추출은 포텐셜을 소모하는 방식이라네.{nl}따라서 포텐셜이 없는 장비를 은빛 아이커로 추출 시도를 하다가 장비가 파괴되는 결과를 낳을 수 있다네.				대장장이 테리아베리스	
+QUEST_20210115_013085	Golden Ichor Extraction Kit is exactly for those situations to protect the equipment.{nl}Use [Tutorial] Golden Ichor Extraction Kit to the [Tutorial] Training Bottom with 0 potential.	바로 그런 상황에서 장비를 보호할 때 사용하는 추출 키트가 황금 아이커 추출 키트네.{nl}포텐셜이 0인 [튜토리얼] 연습용 하의에 [튜토리얼] 황금 아이커 무료 추출 키트를 사용해 보게나.				대장장이 테리아베리스	
+QUEST_20210115_013086	Good job.{nl}Don't forget.{nl}Using Golden Ichor Extraction Kit is to protect the equipment with 0 potential.	잘했네.{nl}잊지 말게나.{nl}포텐셜이 0인 장비를 보호하고 싶다면, 황금 아이커 추출 키트를 사용하는 거라네.				대장장이 테리아베리스	
+QUEST_20210115_013087	Okay, keep trying extraction by using [Tutorial] Silver Ichor Extraction Kit to [Tutorial] Training Shoes.	자, 그럼 [튜토리얼] 연습용 신발에 [튜토리얼]은빛 아이커 추출 키트를 이용하여 계속 추출 시도를 해보게나.				대장장이 테리아베리스	
+QUEST_20210115_013088	The equipment may be destroyed like this if you keep try to extract the equipment with 0 potential.	그래, 포텐셜이 0인 장비에 계속해서 은빛 아이커 추출 키트를 사용한다면 방금처럼 장비가 파괴될 수 있다네.				대장장이 테리아베리스	
+QUEST_20210115_013089	Remember, don't forget when you want to protect the equipment and extract the Ichor.	잘 기억해두게나. 장비를 보호하며 아이커를 추출하고 싶을 때는 잊지 말게.				대장장이 테리아베리스	
+QUEST_20210115_013090	Use Silver Ichor Extraction Kit when there is potential, and Golden Ichor Extraction Kit when potential is 0.{nl}From the rumor, there is equipment that can be purchased with Mercenary Badge, and suitable for extraction by using the Ichor.{nl}Check on it if you have some time.	포텐셜이 있을 때는 은빛 아이커 추출 키트를, 포텐셜이 0이 된다면 황금 아이커 추출 키트를 사용하면 된다네.{nl}들리는 소문에 의하면 용병단 주화로 구매할 수 있는 장비 중에 아이커로 추출하기에 적당한 장비가 있다더군.{nl}시간이 나면 한 번 확인해보게나.				대장장이 테리아베리스	
+QUEST_20210115_013091	Are you curious about Ichor Extraction?	아이커 추출에 대해 궁금하다고?				대장장이 테리아베리스	
+QUEST_20210115_013092	Come to my Black Smith Shop.{nl}I'll kindly explain it.	페디미안에 있는 내 대장간으로 찾아오게나.{nl}친절히 설명을 해주지.				대장장이 테리아베리스	
+QUEST_20210115_013093	Hello Savior! I'm here to celebrate the 1st Anniversary of TOS!{nl}I've brought buff that musters your strength and a surprise box made by myself, so please come and take it once a day!	안녕 계시자! 1주년을 축하하기 위해 특별히 내가 나타났어{nl}힘이 솟아나는 버프랑 내가 만든 깜짝 상자를 가져왔으니 하루에 한번씩 받아가길 바래!				[1주년] 말순이	
+QUEST_20210115_013094	During the event, you can receive buff that musters your strength and a surprise box made by myself once per day!{nl}The buff is applied once per character and applies EXP gain +100%%{nl}Movement Speed +3{nl}Looting Chance +1,000{nl}Maximum HP +10,000{nl}Maximum  SP +3,000{nl}Physical/Magic Attack +1,000 for 12 hours{nl}Remember, you can receive the buff and the surprise box again after 6 AM server time!!	이벤트가 진행되는 동안 매일 하루에 한번 버프와 내가 직접 만든 깜짝 상자를 받아갈 수 있어!{nl}버프는 캐릭터당 1회만 적용되고 경험치 +100%%{nl}이동 속도 +3{nl}루팅 찬스 +1,000{nl}최대 HP +10,000{nl}최대 SP +3,000{nl}물리 및 마법 공격력 +1,000을 12시간 동안 부여해줄거야{nl}버프랑 깜짝 상자는 오전 6시가 지나면 다시 받아갈 수 있으니 기억해둬!				[1주년] 말순이	
+QUEST_20210115_013095	Here's your buff for today! It's applied only once daily per character,{nl}So come back after 6 AM server time.	오늘의 버프를 부여해줬어! 버프는 캐릭터당 1회만 적용되니까{nl}내일 오전 6시 이후에 또 찾아오도록해~				[1주년] 말순이	
+QUEST_20210115_013096	Here's a surprise box made by myself! Let me tell you what's inside~{nl}- Challenge Mode One Entry Voucher x3{nl}- LV.440 Legend Enchant Jewel x5{nl}- Unidentified Mystic Tome x2{nl}- Mercenary Badge Voucher (5,000) x3{nl}- Attribute Points 10,000 x3{nl}- Ruby Anvil x3{nl}- Sandra's Magnifier x3{nl}- Assister Card Album x3{nl}How do you like it? There's a lot inside, but you can get only one of them randomly!{nl}Don't be too disappointed even if you don't get what you wanted since I'll give it to you again tomorrow~	내가 직접 만든 깜짝 상자야 보상목록은 이제 설명해줄게{nl}- 챌린지 모드 1회 입장권 3개{nl}- LV.440 레전드 인챈트 쥬얼 5개{nl}- 미식별 신비한 서 2개{nl}- 용병단 증표 쿠폰(5,000) 3개{nl}- 특성 포인트 10,000 3개{nl}- 루비 모루 3개{nl}- 산드라의 감정 돋보기 3개{nl}- 어시스터 카드첩 3개{nl}어때! 엄청 다양하지? 하지만 이중에서 딱 한 종류만 획득할 수 있어!{nl}원하는게 안나와도 실망하지마 내일 또 지급해 줄테니까~				[1주년] 말순이	
+QUEST_20210115_013097	You already received the buff for today!{nl}Come back again after 6 AM tomorrow~	오늘은 이미 버프를 받아갔는걸?{nl}내일 오전 6시 이후에 다시 찾아와~				[1주년] 말순이	
+QUEST_20210115_013098	I haven't made any more surprise box for today{nl}Sorry, but come back again after 6 AM tomorrow~	오늘은 깜짝상자를 더 만들어 둔게없어{nl}미안하지만 내일 오전 6시 이후에 다시 찾아와~				[1주년] 말순이	
+QUEST_20210115_013099	[Kingdom Reconstruction]	[왕국 재건단]					
+QUEST_20210115_013100	The Kingdom Reconstruction wants to rebuild the collapsed kingdom on our own{nl}and therefore working all over the world.{nl}If you are okay, why don't you join us?	저희 왕국 재건단은 무너진 왕국을 우리들 스스로의 힘으로 다시 부흥시키고자{nl}세계 각지에서 활동 중입니다.{nl}계시자님도 괜찮으시다면 저희와 뜻을 함께하시지 않겠습니까?				[왕국 재건단]	
+QUEST_20210115_013101	It is true that Orsha's situation is risky.{nl}However, not only here is having trouble with the demons.{nl}Everyone should help this if it's affordable.	오르샤의 상황이 위태로운 건 사실입니다.{nl}그러나, 마족들이 일으키는 문제로 골머리를 앓고 있는 건 여기 뿐만이 아니죠.{nl}여유가 된다면 모두 도와야 합니다.				[왕국 재건단] 오르샤 담당인	
+QUEST_20210115_013102	Orsha's safety will be secured if the demons at the Lemprasa Pond are defeated.	렘파라사 연못의 마족들을 처치하면 오르샤의 안전은 더 확실해질 겁니다.				[왕국 재건단] 오르샤 파견병	
+QUEST_20210115_013103	The Darbas at Linked Bridges are tricky to deal with.{nl}It won't be easy to help the refugees if Darbas are not dealt with.	덧댄다리 숲의 다르바스들은 까다로운 녀석들입니다.{nl}다르바스들의 위세를 꺾지 못하면 피난민들을 돕기 힘들어요.				[왕국 재건단] 오르샤 자원병	
+QUEST_20210115_013104	Each demon of Paupys Crossing has goals of its own, but it can't be denied that all of them are enemies of Orsha.	파우피스 나루의 마족들은 저마다 다른 목적을 가지고 있지만, 모두 오르샤의 적이라는 건 사실입니다.				[왕국 재건단] 오르샤 조사원	
+QUEST_20210115_013105	Please have faith in what you are doing, savior.{nl}Lead the souls of the people to turned in to demons to Goddess Ausrine.	구원자님께서 하고 계신 일에 믿음을 가지셔도 좋습니다.{nl}마족이 된 사람들의 영혼을 아우슈리네 여신께 인도해주세요.				[왕국 재건단] 오르샤 의료지원병	
+QUEST_20210115_013106	We have a lot of isolated or missing allies on the battlefield.{nl}I will not return to Orsha before I find them all.	전장에 고립되거나 실종된 아군들이 많습니다.{nl}저는 그들을 찾기 전까지 오르샤로 돌아가지 않을 겁니다.				[왕국 재건단] 오르샤 전령	
+QUEST_20210115_013107	I hope it's my simple illusion that the whole world is getting sick after Medzio Diana.{nl}You, savior and we Kingdom Reconstruction Organization will bring a difference in the world.	신수의 날 이후로 세계 전체가 병들어 가고 있다고 느끼는 건 저의 단순한 착각이길 바랍니다.{nl}구원자님과 저희 왕국 재건단이 세계를 변화시킬 겁니다.				[왕국 재건단] 오르샤 담당인	
+QUEST_20210115_013108	can be obtained from the following.{nl}- {#003399}Level Dungeon{/}, {#003399}Uphill Defense{/}, {#003399}Earth Tower{/} {nl}- {#003399}Unique Raid (Solo) and Legend Raid (Solo){/},{#003399} Unique and Legend Raid{/} {nl}- {#003399}Challenge Mode Stage 5 and above{/}, {#003399}Challenge Mode Stage 5{/}, {#003399}Dimensional Collapse Point Stage 5 and above{/} {nl}- {#003399}Challenge Mode : Division Singularity Stage 2 or above, Challenge Mode : Division Singularity Stage 4 or above{/} {nl}- {#003399}Dropped randomly by defeating monsters in the player's level range{/} {nl}- Clear Sole Hunt: {#003399}Madon Maid{/}, {#003399}Amiss Dog{/}, {#003399}Misrus{/},{#003399}Tel Harsha{/} {nl}Event Status can be checked via	는 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/}{nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/} {nl}- {#003399}챌린지 모드 5단계 이상{/}, {#003399}챌린지 모드 5단계{/}, {#003399}차원 붕괴지점 5단계 이상{/} {nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/} {nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/} {nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤 클리어{/} {nl}이벤트 현황은 	QUEST_20201215_012539	can be obtained from the following.{nl}- {#003399}Level Dungeon{/}, {#003399}Uphill Defense{/}, {#003399}Earth Tower{/} {nl}- {#003399}Unique Raid (Solo) and Legend Raid (Solo){/},{#003399} Unique and Legend Raid{/} {nl}- {#003399}Challenge Mode Stage 5 and above{/}, {#003399}Challenge Mode Stage 7{/}, {#003399}Dimensional Collapse Point Stage 5 and above{/} {nl}- {#003399}Challenge Mode : Division Singularity Stage 2 or above, Challenge Mode : Division Singularity Stage 4 or above{/} {nl}- {#003399}Dropped randomly by defeating monsters in the player's level range{/} {nl}- Clear Sole Hunt: {#003399}Madon Maid{/}, {#003399}Amiss Dog{/}, {#003399}Misrus{/},{#003399}Tel Harsha{/} {nl}Event Status can be checked via	는 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/} {nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/} {nl}- {#003399}챌린지 모드 5단계 이상{/}, {#003399}챌린지 모드 7단계{/}, {#003399}차원 붕괴지점 5단계 이상{/} {nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/} {nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/} {nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤 클리어{/} {nl}이벤트 현황은 	[겨울축제] 야크맘보 눈사람	
+QUEST_20210115_013109	(Weekdays: maximum 2 times per team daily, Weekends and Christmas: maximum 3 times per team daily) the more special box will be given on Christmas Holidays,(December 25, 2020, at 6 AM server time ~ December 28, 2020, at 05: 59 AM server time) and New years holiday (January 1, 2021 6 AM server time ~ January 4, 2021 05: 59 AM server time){nl}※ Check the New year holiday reward status from the	 지급!(평일 팀당 1일 2회, 주말-공휴일 3회)크리스마스 연휴 (12월 25일 오전 06시 ~ 28일 오전05시 59분까지), 신년 연휴 ( 21년 1월 01일 오전 06시 ~ 21년 1월 4일 오전 05시 59분)에는 더 특별한 상자를 드립니다!{nl}※ 신년 연휴 보상 지급 여부는 	QUEST_20201215_012542	(Weekdays: maximum 2 times per team daily, Weekends and Christmas: maximum 3 times per team daily) the more special box will be given on Christmas Holidays!(December 25, 2020, at 06 AM EST ~ December 28, 2020, at 05: 59 AM EST)	 지급!(평일 팀당 1일 2회, 주말-공휴일 3회)크리스마스 연휴 (12월 25일 오전 06시 ~ 28일 오전05시 59분까지)에는 더 특별한 상자를 드립니다!	[겨울축제] 야크맘보 눈사람	
+QUEST_20210115_013110	command.	 명령어를 통해 확인할 수 있습니다. 				[겨울축제] 야크맘보 눈사람	
+QUEST_20210115_013111	Unused event items can be exchanged for Attribute Points or other items.{nl}{#ff0000}※ Event box can be used to obtain various rewards by using	사용하지 않은 이벤트 아이템들을 특성 포인트와 교환하거나 다른 아이템으로 교환할 수 있습니다.{nl}{#ff0000}※ 이벤트 상자는 	QUEST_20201215_012543	Unused event items can be exchanged for Attribute Points or other items.{nl}{#FF282C}※ Event box can be used to obtain various rewards by using	사용하지 않은 이벤트 아이템들을 특성 포인트와 교환하거나 다른 아이템으로 교환할 수 있습니다.{nl}{#FF282C}※ 이벤트 상자는 	[겨울축제] 야크맘보 눈사람	
+QUEST_20210115_013112	We are giving an item that can extract Attribute Points for free.{nl}Can be received 3 times per team, silver will be exempted when extracting the Attribute point with the item in the inventory.{nl}{#ff0000}※1 Retrieval Voucher will be used when extracting 1 time.{/}	특성 포인트를 무료로 추출할 수 있는 아이템을 드리고 있어요.{nl}팀당 3회 수령 가능하며, 해당 아이템을 인벤토리에 소지한 상태로 특성 포인트 추출 시 실버 비용이 면제됩니다.{nl}{#ff0000}※1회 추출 시 한 개의 무료 회수권이 사용됩니다.{/}	QUEST_20201215_012546	We are giving an item that can extract Attribute Points for free.{nl}Can be received 3 times per team, silver will be exempted when extracting the Attribute point with the item in the inventory.{nl}{#FF282C}※1 Free Voucher will be used when extracting 1 time.{/}	특성 포인트를 무료로 추출할 수 있는 아이템을 드리고 있어요.{nl}팀당 3회 수령 가능하며, 해당 아이템을 인벤토리에 소지한 상태로 특성 포인트 추출 시 실버 비용이 면제됩니다.{nl}{#FF282C}※1회 추출 시 한 개의 무료 추출권이 사용됩니다.{/}	[겨울축제] 야크맘보 눈사람	
+QUEST_20210115_013113	can be obtained from playing content and hunting in the field.{nl}From hunting in the field, you can obtain	은 필드 사냥과 콘텐츠 플레이 두 가지 방법을 통해 획득할 수 있습니다.{nl}3. 필드 사냥을 통해 획득할 수 있는 	QUEST_20210104_012553	Maru's Lucky Box	말순이의 행운 박스	[신년맞이 이벤트] 말순이	
+QUEST_20210115_013114	x100 maximum daily.{nl}4. From playing contents, you can obtain	은 일일 최대 100개입니다.{nl}4. 콘텐츠 플레이를 통해 획득할 수 있는 	QUEST_20210104_012555	[2021] New Years Ticket 	[신년맞이] 신년 티켓은	[신년맞이 이벤트] 말순이	
+QUEST_20210115_013115	x200 maximum daily.	은 일일 최대 200개입니다.	QUEST_20201215_012538	[Tip] - Event Tip{nl}	[Tip] - 이벤트 안내{nl}	[신년맞이 이벤트] 말순이	
+QUEST_20210115_013116	allows you to use the Event shop and	을 이용해 이벤트 상점을 이용할 수 있으며, 	QUEST_20210104_012558	/newyear	/신년	[신년맞이 이벤트] 말순이	
+QUEST_20210115_013117	can be purchased to use{nl}	을 구매하여{nl}				[신년맞이 이벤트] 말순이	
+QUEST_20210115_013118	.{nl}6.	를 이용할 수 있습니다.{nl}6. 				[신년맞이 이벤트] 말순이	
+QUEST_20210115_013119	 item will be consumed.{nl}	 아이템을 사용하여 이용할 수 있습니다.{nl}				[신년맞이 이벤트] 말순이	
+QUEST_20210115_013120	is given when maintaining login for 1 hour (5 times maximum daily) and	은 1시간 접속 시(일일 최대 5회) 지급 받을 수 있으며 				[신년맞이 이벤트] 말순이	
+QUEST_20210115_013121	can be used to purchase from the event shop (2 times maximum daily).	을 사용하여 이벤트 상점에서 구매할 수 있습니다(일일 최대 2회) 				[신년맞이 이벤트] 말순이	
+QUEST_20210115_013122	can be obtained from the following. {nl}- {#003399}Level Dungeon{/}, {#003399}Uphill Defense{/}, {#003399}Earth Tower{/}{nl}- {#003399}Unique Raid (Solo) and Legend Raid (Solo){/},{#003399} Unique and Legend Raid{/}{nl}- {#003399}Challenge Mode Stage 3 and above{/}, {#003399}Challenge Mode Stage 5{/}, {#003399}Dimensional Collapse Point Stage 5 and above{/}{nl}- {#003399}Challenge Mode : Division Singularity Stage 2 or above, Challenge Mode : Division Singularity Stage 4 or above{/}{nl}- {#003399}Challenge Mode Auto Match, Challenge Mode : Division Singularity Auto Match{/} {nl}- {#003399}Res Sacrae Dungeon{/} {nl}- {#003399}Dropped randomly by defeating monsters in the player's level range{/}{nl}- Upon Clearing Sole Hunt: {#003399}Madon Maid{/}, {#003399}Amiss Dog{/}, {#003399}Misrus{/},{#003399}Tel Harsha{/}{nl}Event Status can be checked via	은 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/}{nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/}{nl}- {#003399}챌린지 모드 3단계 이상{/}, {#003399}챌린지 모드 5단계{/}, {#003399}차원 붕괴지점 5단계 이상{/} {nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/} {nl}- {#003399}챌린지 모드 자동 매칭, 챌린지 모드 : 분열 특이점 자동 매칭{/}  {nl}- {#003399}성물 던전{/} {nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/} {nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤{/}  클리어 시 {nl}이벤트 현황은 				[신년맞이 이벤트] 말순이	
+QUEST_20210128_013123	Oh.. I ran away from Absenta Reservoir to this place..{nl}People said that they've seen the person with black cloth, white hair, and pale skin..{nl}	아.. 저는 압셈타 수원지에 있다가 이곳으로 도망쳐 왔어요..{nl}사람들에게서 검은 옷에 흰 머리, 창백한 피부를 가진 사람을 본 적이 있다고 들었는데..{nl}				불안해하는 여성	
+QUEST_20210128_013124	Orsha's being destroyed by the intrusion of demons..{nl}My sister and I have been in Absenta Reservoir for some reason and we've barely run away.{nl}	오르샤 일대가 마족의 침공으로 모조리 파괴되고 있군요..{nl}저와 제 누나는 다른 일 때문에 압셈타 수원지에 있다가 겨우 도망쳐 왔습니다.{nl}				걱정하는 남성	
+QUEST_20210128_013125	Thank you for visiting us to hand over the necklace..{nl}We will go to Kalejimas to look for someone to help.{nl}	목걸이를 전해주려고 직접 찾아와 주셔서 정말 감사합니다..{nl}저희는 도와줄 사람을 찾아 칼레이마스로 가볼게요.{nl}	QUEST_20200128_011455	Thank you so much. You’ve come here to give it to me.{nl}We will look for Nebulas once Kalejimas becomes a safe place.{nl}	목걸이를 전해주려고 직접 찾아와 주셔서 정말 감사합니다..{nl}저희는 칼레이마스가 안전해지면 직접 가서 네뷸라스를 찾아볼게요.{nl}	불안해하는 여성	
+QUEST_20210128_013126	Absenta Reservoir is vaguely craved on the back of the necklace{nl}Check if there is a refugee from the Absenta Reservoir in Orsha.	목걸이 뒤쪽에 희미하게 압셈타 수원지가 새겨져 있다{nl}오르샤에 압셈타 수원지에서 피난 온 사람이 있는 지 찾아보자	QUEST_20200128_011685	There is a faintly engraved Absenta Reservoir on the back of the necklace.{nl}Go to Absenta Reservoir and check it out.	목걸이 뒤쪽에 희미하게 압셈타 수원지가 새겨져 있다.{nl}압셈타 수원지로 가서 확인해보자.	PC	
+QUEST_20210128_013127	It seems like Giltine has returned in Raid.{nl}You'll do as you always do, right?{nl}Let me give you a little gift to help you out.{nl}{#ff0000}Remember, it will be given only once per team, so I recommend you to receive it between after maintenance on February 2, 2021 to March 2, 2021 before maintenance.{/}	길티네가 레이드로 돌아왔더구나.{nl}늘 하던 대로 잘 할 수 있겠지?{nl}내가 소정의 선물을 주도록 하마.{nl}{#ff0000}단, 너의 팀당 1회만 줄 생각이니 2월 2일 점검 후부터 3월 2일 점검 전까지 받으렴.{/}	QUEST_20210115_013073	It seems like Giltine has returned in Raid.{nl}You'll do as you always do, right?{nl}Let me give you a little gift to help you out.{nl}{#ff0000}Remember, it will be given only once per team, so I recommend you to receive it between January 25 after maintenance to Febuary 22 before maintenance.{/}	길티네가 레이드로 돌아왔더구나.{nl}늘 하던 대로 잘 할 수 있겠지?{nl}내가 소정의 선물을 주도록 하마.{nl}{#ff0000}단, 너의 팀당 1회만 줄 생각이니 1월 25일 점검 후부터 2월 22일 점검 전까지 받으렴.{/}	마신 라가나의 환영	
+QUEST_20210128_013128	[Kingdom Reconstruction] Notice Board	[왕국 재건단] 게시판					
+QUEST_20210128_013129	Announcing from Kingdom Reconstruction.{nl}Please work for the revival of the kingdom with us.{nl}With the unity of humans, the Kingdom will have the lost home back.	왕국 재건단에서 알립니다.{nl}우리와 함께 왕국의 부흥을 위해 힘써주십시오.{nl}우리 인간들의 단합으로 왕국은 잃어버린 고향을 되찾을 겁니다.				[왕국 재건단] 게시판	
+QUEST_20210208_013130	[Event] Dievdirbys Envoy	[이벤트] 딥디르비 파견원				
+QUEST_20210208_013131	We are exchanging the repair kit with various rewards.{nl}The Goddess might bless you if you personally repair the statue with the repair kit.	수리키트와 다양한 보상을 교환해드리고있습니다.{nl}수리키트를 이용해 직접 여신상을 수리하신다면 여신의 축복이 있을지도 모르지요				[이벤트] 딥디르비 파견원
+QUEST_20210208_013132	[Event] Goddess Statue Repair Kit	[이벤트] 여신상 수리키트				
+QUEST_20210208_013133	should be obtained.{nl}2.	를 획득하세요.{nl}2. 				[이벤트] 딥디르비 파견원
+QUEST_20210208_013134	can be obtained from playing content and hunting in the field.{nl}3. Daily acquisition number of 	는 필드 사냥과 콘텐츠 플레이 두 가지 방법을 통해 획득할 수 있습니다.{nl}3. 일일 획득할 수 있는 				[이벤트] 딥디르비 파견원
+QUEST_20210208_013135	is maximum 500.	는 최대 500개입니다.				[이벤트] 딥디르비 파견원
+QUEST_20210208_013136	can be used to enter the event shop.{nl}5.	를 이용해 이벤트 상점을 이용할 수 있습니다.{nl}5. 				[이벤트] 딥디르비 파견원
+QUEST_20210208_013137	can be used to repair the Goddess Statue in person, and when doing so, Blessing of the Goddess Statue buff will be given.{nl}{#ff0000}Buff remains for 4 hours and can be obtained once daily per character.{/}	를 사용하여 직접 여신상을 수리할 수 있으며, 직접 수리 시, 여신의 축복을 획득할 수 있습니다.{nl}{#ff0000}버프는 4시간 동안 지속되며 캐릭터당 1일 1회 획득할 수 있습니다.{/}				[이벤트] 딥디르비 파견원
+QUEST_20210208_013138	can be obtained from the following.{nl}- {#003399}Level Dungeon{/}, {#003399}Uphill Defense{/}, {#003399}Earth Tower{/} {nl}- {#003399}Unique Raid (Solo) and Legend Raid (Solo){/},{#003399} Unique and Legend Raid{/}{nl}- {#003399}Challenge Mode Stage 3 and above{/}, {#003399}Challenge Mode Stage 5{/}, {#003399}Dimensional Collapse Point Stage 5 and above{/} {nl}- {#003399}Challenge Mode : Division Singularity Stage 2 or above, Challenge Mode : Division Singularity Stage 4 or above{/} {nl}- {#003399}Dropped randomly by defeating monsters in the player's level range{/} {nl}- Clear Sole Hunt: {#003399}Madon Maid{/}, {#003399}Amiss Dog{/}, {#003399}Misrus{/},{#003399}Tel Harsha{/} {nl}Event Status can be checked via	는 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/}{nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/}{nl}- {#003399}챌린지 모드 3단계 이상{/}, {#003399}챌린지 모드 5단계{/}, {#003399}차원 붕괴지점 5단계 이상{/} {nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/}  {nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/} {nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤{/}  클리어 시 {nl}이벤트 현황은 				[이벤트] 딥디르비 파견원
+QUEST_20210208_013139	/statue	/여신상				
+QUEST_20210208_013140	x10 can be used to repair the Goddess Statue in person.{nl}You can repair the statute once daily per character and when the repairing is over, 	10개를 사용해 직접 여신상을 수리하실 수 있습니다.{nl}수리는 캐릭터당 1일 1회 가능하며 수리가 완료되면 				[이벤트] 딥디르비 파견원
+QUEST_20210208_013141	Blessing of the Goddess Statue	여신상의 축복				[이벤트] 딥디르비 파견원
+QUEST_20210208_013142	buff will be given.{nl}Daily Repair Limit will be reset on every 6 AM server time.{/}	 버프를 획득하실 수 있습니다.{nl}{#ff0000}일일 수리 제한은 매일 오전 6시에 초기화됩니다.{/}				[이벤트] 딥디르비 파견원
+QUEST_20210208_013143	will allow you to purchase various items.{nl}Will you enter the shop? 	를 이용해 다양한 물건을 구매하실 수 있게 준비해두었습니다.{nl}상점을 이용하시겠습니까?				[이벤트] 딥디르비 파견원
+QUEST_20210208_013144	[Event] Timeworn Goddess Statue	[이벤트] 오래된 여신상				
+QUEST_20210208_013145	Will you repair the Goddess Statue in person?{nl}{#FF0000}※10 [Event] Goddess Statue Repair Kit will be consumed when repairing it in person.{/}	여신상을 직접 수리하시겠습니까?{nl}{#FF0000}※직접 수리 시, [이벤트] 여신상 수리키트가 10개 소모됩니다.{/}				[이벤트] 오래된 여신상
+	

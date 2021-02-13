@@ -1999,7 +1999,7 @@ UI_20151224_001998	{@st41b}Почтовый Ящик{/}
 UI_20151224_001999	{@st59}Открыть Почтовый Ящик{/}
 UI_20151224_002000	{@st42}Персонаж{/}
 UI_20151224_002001	{@st42}Свободные TP{/}
-UI_20151224_002002	{@st42}TP за события{/}
+UI_20151224_002002	{@st42}TP За события{/}
 UI_20151224_002003	{@st41b}Титры{/}
 UI_20151224_002004	{@st59}Титры{/}
 UI_20151224_002005	{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
@@ -2746,7 +2746,7 @@ UI_20170912_002745	Clears
 UI_20170912_002746	Location
 UI_20170912_002747	%s
 UI_20170912_002748	Class Points %s
-UI_20170912_002749	Ур. команд %s
+UI_20170912_002749	Уровень команды %s
 UI_20170912_002750	Exploration
 UI_20170912_002751	%s % Explored
 UI_20170912_002752	Рекомендуемый Уровень
@@ -3192,11 +3192,11 @@ UI_20180517_003191	CharacterName TeamName
 UI_20180517_003192	 .{nl}{img exemple_img_teamname}{nl}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}
 UI_20180517_003193	N/A
 UI_20180517_003194	N/A
-UI_20180517_003195	{@st41b}{s14}{#ffffff}Normal
-UI_20180517_003196	{@st41b}{s14}{#0e7fe8}Magic
-UI_20180517_003197	{@st41b}{s14}{#a124d0}Rare
-UI_20180517_003198	{@st41b}{s14}{#d92400}Unique
-UI_20180517_003199	{@st41b}{s14}{#ffa800}Legend
+UI_20180517_003195	{@st41b}{s14}{#ffffff}Обычный
+UI_20180517_003196	{@st41b}{s14}{#0e7fe8}Магический
+UI_20180517_003197	{@st41b}{s14}{#a124d0}Редкий
+UI_20180517_003198	{@st41b}{s14}{#d92400}Уникальный
+UI_20180517_003199	{@st41b}{s14}{#ffa800}Легендарный
 UI_20180517_003200	Cannot transcend
 UI_20180517_003201	Cannot extract
 UI_20180517_003202	Cannot extract sockets
@@ -3579,7 +3579,7 @@ UI_20181017_003578	Delete Settings
 UI_20181017_003579	Торговая Марка
 UI_20181017_003580	Перснонаж уровня %s
 UI_20181017_003581	Семья %s+ дней 
-UI_20181017_003582	%s Откровений получ.
+UI_20181017_003582	%s Откровений получено.
 UI_20190104_003583	{@st66d}Извлечь очки атрибутов
 UI_20190104_003584	{@st59s}Потребляет 100 000 серебра для извлечения 1000 очков атрибутов{nl} для одного Attribute Point Scroll.
 UI_20190104_003585	Плата
@@ -4194,7 +4194,7 @@ UI_20200320_004193	{@st66b}{s16} Total Damage Reward
 UI_20200320_004194	{s16}{ol}{#FFFFFF}Enter(%s/%s)				
 UI_20200320_004195	{s16}{ol}{#FFFFFF}Practice Mode				
 UI_20200320_004196	Achievement Rate
-UI_20200320_004197	{img monsterbtn_image 29 28}{@st66b}{s16}  Альбом Карт{/}	
+UI_20200320_004197	{img monsterbtn_image 29 28}{@st66b}{s16}  Альбом{/}	
 UI_20200320_004198	{@st59}Открыть Альбом Карт{/}
 UI_20200320_004199	Sandra's Perfect Magnifier			
 UI_20200320_004200	{@st66}{s18}Consume %s Sandra's Perfect Magnifier.			
@@ -4489,7 +4489,7 @@ UI_20200826_004488	{@st100brown_16}There are no Quest to be shown.{/}	{@st100bro
 UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시				
 UI_20200826_004490	{@st100orange_16}Display Undiscovered{nl}Goddess Statues	{@st100orange_16}미확인 여신상 표시				
 UI_20200826_004491	{@st100white_16}If you click the region while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 지역을 클릭하면 토큰 이동을 이용할 수 있습니다.				
-UI_20200826_004492	{@st42}Premium TP{/}	{@st42}프리미엄TP{/}				
+UI_20200826_004492	{@st42}Премиум TP{/}	
 UI_20200826_004493	Cannot extract Ichor	아이커 추출 불가	UI_20180517_003201	Cannot extract	추출 불가	
 UI_20200826_004494	Cannot extract transfer appearance	외형 변경 추출 불가	UI_20180629_003373	Cannot transfer appearance	외형 변경 불가	
 UI_20200826_004495	Cannot apply transfer appearance	외형 변경 적용 불가				
@@ -4546,8 +4546,157 @@ UI_20201030_004545	{@st43}{s24}Contribute	{@st43}{s24}헌납
 UI_20201030_004546	{@st41b}{s16}Please enter the number contributing	{@st41b}{s16}헌납할 횟수를 입력해 주세요				
 UI_20201030_004547	{@st43}{s24}Continuous Contribute	{@st43}{s24}연속 헌납				
 UI_20201030_004548	{@st66b}Show weekly acquisition amount of Mercenary Badge{/}	{@st66b}용병단 증표 주간 획득량 표시{/}				
-UI_20201030_004549	Turn off login alerts	접속 알림 끄기				
+UI_20201030_004549	Отключить оповещения о входе в систему				
 UI_20201030_004550	Class Rank	클래스 순위	UI_20200320_004247	Type Rank	계열 등수	
 UI_20201030_004551	{@st66b}{s16}Accumulated Damage 	{@st66b}{s16}누적 대미지				
 UI_20201103_004552	Contents Ranking	콘텐츠 랭킹				
 UI_20201103_004553	Battle in Sulivinas Lair	봉쇄전				
+UI_20201228_004554	%s day(s) or more from the day Team was first created  	팀생성 %s일 이상				
+UI_20201228_004555	Clear Episode 12-1	에피소드 12-1 클리어				
+UI_20201228_004556	%s day(s) or more from the day premium TP was first purchased	최초 유료 TP 구매 이력으로 %s일 이상				
+UI_20210104_004557	{@st66b}{s20} %s{nl} can be used to receive various rewards.	{@st66b}{s20} %s을(를){nl}사용해 다양한 보상을 획득하세요.				
+UI_20210104_004558	{@st66b}{s16}{#ff0000}Открыть могут только персонажи с{nl}уровнем 400 и выше.	{@st66b}{s16}{#ff0000}Lv.400 이상의 캐릭터만{nl}이용할 수 있습니다.				
+UI_20210115_004559	{@st66b}Consumed :{/}	{@st66b}소비 재화 :{/}				
+UI_20210115_004560	{@st43}Contents Point{/}	{@st43}콘텐츠 포인트{/}				
+UI_20210115_004561	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Dungeon: Auto Match : 20 points{nl}- Res Sacrae Dungeon: Auto Match(Hard) : 30 points{nl}- Res Sacrae Dungeon: Challenge : 50 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 던전: 자동 매칭 : 20 포인트{nl}- 성물 던전: 자동 매칭(Hard) : 30 포인트{nl}- 성물 던전: 도전 모드 : 50 포인트	UI_20200826_004439	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	
+UI_20210115_004562	{@st43}{s20}Use Combine (per team){/}{nl}{s8} {/}{nl}{@st66b}{s20}%s/%s	{@st43}{s20}합성 이용(팀당){/}{nl}{s8} {/}{nl}{@st66b}{s20}%s/%s				
+UI_20210115_004563	{@st66b}Vaivora{/}	{@st66b}바이보라{/}				
+UI_20210115_004564	{@st59}Dismantle Vaivora{/}	{@st59}바이보라 분해{/}				
+UI_20210115_004565	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}Unequip.{/}	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}장착을 해제합니다.{/}				
+UI_20210115_004566	{@st66b}{s16}Всего открыто : %s%s	{@st66b}{s16}누적 개봉 횟수 : %s%s	UI_20200805_004422	{@st66b}{s16}Total Number Opened : %s%s	{@st66b}{s16}누적 개봉 횟 수 : %s%s	
+UI_20210115_004567	{@st43}Change Weapon Type{/}	{@st43}무기 계열 변경{/}				
+UI_20210115_004568	{@st59}Close the Change Weapon Type{/}	{@st59}무기 계열 변경을 닫습니다{/}				
+UI_20210115_004569	Item to transform	변형시킬 아이템 입니다.				
+UI_20210115_004570	{@st43}Craft Giltine Card{/}	{@st43}길티네 카드 제작{/}				
+UI_20210115_004571	{@st59}Boruta Card Lv10 required.{/}	{@st59}보루타 카드 10성이 필요합니다.{/}				
+UI_20210115_004572	{@st59}Legend Card Lv10 other that Boruta Card required.{/}	{@st59}보루타 카드를 제외한 레전드 카드 10성이 필요합니다.{/}				
+UI_20210115_004573	{@st100white_16}Consume all items below and obtain {@st204_purple}{s17}[LV10] Giltine Card{/}{/}{@st100white_16}. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}Glimpse of Chaos{/}{/}  x10{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] Boruta Card{/}{/}{@st100white_16}x1{nl} {nl} - {@st204_green}Random{/}{/}{@st66d_y}{s17}[LV10] Legend Card{/}{/}{@st100white_16}x1{/}{/}	{@st100white_16}아래 아이템을 모두 소모하여 {@st204_purple}{s17}[LV10] 길티네 카드{/}{/}{@st100white_16}를 획득합니다. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}혼돈의 편린{/}{/}  10개{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] 보루타 카드{/}{/}{@st100white_16}1개{nl} {nl} - {@st204_green}임의의 {/}{/}{@st66d_y}{s17}[LV10] 레전드 카드{/}{/}{@st100white_16}1개{/}{/}				
+UI_20210115_004574	{@st59}Close.{/}	{@st59}길티네 카드 제작 UI를 닫습니다.{/}				
+UI_20210115_004575	{@st43b}{s24}Following Goddess	{@st43b}{s24}여신 추종				
+UI_20210115_004576	{img NOTICE_Dm_! 30 30}{@st43}{s16}Entry Limit{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}입장 제한{/}				
+UI_20210115_004577	Pattern Information	패턴 정보				
+UI_20210115_004578	Spawn Area	등장 지역				
+UI_20210115_004579	{@st66b}Boruta{/}	{@st66b}보루타{/}				
+UI_20210115_004580	Battle in Sulivinas Lair	보루타 봉쇄전				
+UI_20210115_004581	{@st66b}Giltine{/}	{@st66b}길티네{/}				
+UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20200710_004381	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being{nl} {nl}[Battle in Sulivinas Lair Ranking]{nl} Battle in Sulivinas Lair rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Battle in Sulivinas Lair rewards]{nl} Battle in Sulivinas Lair rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
+UI_20210115_004583	{@st59}Res Sacrae{/}	{@st59}성물{/}				
+UI_20210115_004584	{@st59}Res Sacrae Customizing{/}	{@st59}성물 관리{/}				
+UI_20210115_004585	{@st59}Check if there is Stats in Legend Equipment{/}	{@st59}레전드 장비 옵션 유무 확인{/}				
+UI_20210115_004586	{@st59}Check Contents Point Status{/}	{@st59}콘텐츠 포인트 현황을 확인합니다.{/}				
+UI_20210115_004587	{@st43}Enhance Advanced Card{/}	{@st43}고급 카드 강화{/}	UI_20180320_003018	{@st43}Enhance Legend Card{/}	{@st43}레전드 카드 강화{/}	
+UI_20210115_004588	Success Rate	성공확률				
+UI_20210115_004589	{@st43b}{s17}Fodder cards will be deleted and the Advanced Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 강화 대상 카드의 레벨은 유지됩니다.{/}				
+UI_20210115_004590	{@st43b}{#898989}{s17}The Advanced Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 강화 대상 카드와 제물 카드가 소멸됩니다.{/}				
+UI_20210115_004591	{@st59}Close Enhance Advanced Card UI{/}	{@st59}고급 카드 강화 UI를 닫습니다{/}	UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}	
+UI_20210115_004592	{@sti1c}{s14}Remaining Time{/}	{@sti1c}{s14}남은 시간{/}				
+UI_20210115_004593	{@sti1c}{s14}Achievement Rate 	{@sti1c}{s14}달성률				
+UI_20210115_004594	{@sti1c}{s14}Pattern Information	{@sti1c}{s14}패턴 정보				
+UI_20210115_004595	{@st66b}Res Sacrae Quest{/}	{@st66b}성물 퀘스트{/}				
+UI_20210115_004596	{@st43}{s22}Reward Info{/}	{@st43}{s22}보상 정보{/}				
+UI_20210115_004597	{@st59}Close.{/}	{@st59}성물 퀘스트 보상 정보를 닫습니다.{/}				
+UI_20210115_004598	Reward Info	보상 정보				
+UI_20210115_004599	Quest Name	퀘스트 이름				
+UI_20210115_004600	{@st41}{s18}Don't show enhancement message on +5 or above	{@st41}{s18}5강 이상 강화 메세지 더이상 보지 않기				
+UI_20210115_004601	{@st41}{s18}Don't show voucher use message	{@st41}{s18}쿠폰 사용 메세지 더이상 보지 않기				
+UI_20210115_004602	{@st201}[Charge RP]{/}{/} Consume {@st66d_y}{s17}Ectonite{/}{/}to recover Res Sacrae Point (RP). {nl}{@st201}[EXP]{/}{/} {@st66d_y}Increase the EXP of Res Sacrae by consuming {s17}Purified Breath of Power{/}{/}.{nl}{@st201}[Socket]{/}{/} Equip/Remove {@st66d_y}{s17}Res Sacrae Gem{/}{/} on Res Sacrae equipment.	{@st201}[마력 충전]{/}{/} {@st66d_y}{s17}엑토나이트{/}{/}를 소비하여 마력(RP)을 회복합니다. {nl}{@st201}[경험치]{/}{/} {@st66d_y}{s17}정화된 권능의 숨결{/}{/}을 소비하여 성물의 경험치를 올립니다.{nl}{@st201}[소켓]{/}{/} 성물에{@st66d_y}{s17}성물 젬{/}{/}을 장착/해제 할 수 있습니다.				
+UI_20210115_004603	{@st66b}Charge RP{/}	{@st66b}마력 충전{/}				
+UI_20210115_004604	{@st59}Charge RP{/}	{@st59}마력 충전{/}				
+UI_20210115_004605	{@st66b}EXP{/}	{@st66b}경험치{/}				
+UI_20210115_004606	{@st59}Gain EXP{/}	{@st59}경험치 증가{/}				
+UI_20210115_004607	{@st66b}Socket{/}	{@st66b}소켓{/}				
+UI_20210115_004608	{@st59}Socket Management{/}	{@st59}소켓 관리{/}				
+UI_20210115_004609	Item Consumed	소모 아이템				
+UI_20210115_004610	RP	마력				
+UI_20210115_004611	Purify Breath of Power	권능의 숨결 정화				
+UI_20210115_004612	{@st59}Consume ingredients and a certain amount of silver to purify{@st66d_y}{s18}Breath of Power{/}{/}.{/}{nl} {nl}{@st66d_y}{s18}Breath of Power{/}{/}{@st59} x10 can be exchange into {@st204_green}{s18}Purified Breath of Power{/}{@st59} x1.{nl} {nl}Ingredients are required every time 1 {@st204_green}{s18}Breath of Power{/}{@st59} is purified,{nl}and one of the following items can be selected and consumed as the ingredient.{nl} {nl}Item List{nl} - {@st204_purple}Mystic Tome Page{/} {s16} x2{nl}  - {@st204_purple}Practonium{/} {s16} x2{nl}  - {@st204_purple}Magic Stone{/} {s16} x2{nl}  - {@st204_purple}Blessed Shard{/} {s16} x20{nl}  - {@st204_purple}Goddess' Blessed Gem{/} {s16} x2{nl}  - {@st204_purple}Scorched Valuable of Tel Harsha{/} {s16} x1{nl}  - {@st204_purple}Refined Heart of Glacia{/} {s16} x1{nl}  - {@st204_purple}Refined Moth Talc Powder{/} {s16} x1{nl}	{@st59}보유한 재료 아이템과 일정량의 실버를 소모하여 {@st66d_y}{s18}권능의 숨결{/}{/}을 정화합니다.{/}{nl} {nl}{@st66d_y}{s18}권능의 숨결{/}{/}{@st59} 10개로{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 획득할 수 있습니다.{nl} {nl}{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 정화할 때 마다 재료가 필요하며,{nl}다음 아이템 목록 중 한 종류를 선택하여 정화 재료로 소비할 수 있습니다.{nl} {nl}재료 아이템 목록{nl} - {@st204_purple}신비한 서 낱장{/} {s16} 2개{nl}  - {@st204_purple}프락토늄{/} {s16} 2개{nl}  - {@st204_purple}마정석{/} {s16} 2개{nl}  - {@st204_purple}축복받은 조각{/} {s16} 20개{nl}  - {@st204_purple}여신의 축복석{/} {s16} 2개{nl}  - {@st204_purple}그을린 텔하르샤의 의장품{/} {s16} 1개{nl}  - {@st204_purple}정제된 글레이시어 심장{/} {s16} 1개{nl}  - {@st204_purple}정제된 모스 탈크 파우더{/} {s16} 1개{nl}				
+UI_20210115_004613	{@st202}Discount Coupon ▶{/}	{@st202}할인 쿠폰 ▶{/}				
+UI_20210115_004614	{@st202}Consume Breath of Power ▶{/}	{@st202}권능의 숨결 소모 ▶{/}				
+UI_20210115_004615	{@st202}Purified Breath of Power ▶{/}	{@st202}정화된 권능의 숨결 ▶{/}				
+UI_20210115_004616	{@st202}Price ▶{/}	{@st202}가격 ▶{/}				
+UI_20210115_004617	{@st202}Balance ▶{/}	{@st202}예상 잔액 ▶{/}				
+UI_20210115_004618	Purify	정화				
+UI_20210115_004619	{@st59}Purify Breath of Power{/}	{@st59}권능의 숨결 정화{/}				
+UI_20210115_004620	{@st59}Check{/}	{@st59}확인{/}				
+UI_20210115_004621	Res Sacrae Gem	성물 젬				
+UI_20210115_004622	{@st201}[Enhance]{/}{/} Try enhancing Res Sacrae Gem by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}Level of Res Sacrae Gem increases by 1 when enhancement succeeds.{nl}Cannot enhance if the level of equipable Res Sacrae Gem is lower than the resulting level after succeeding in enhancing.{nl} {nl}{@st201}[Combine]{/}{/} Try combining by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}You can obtain a random Lv.1 Res Sacrae Gem when combining succeeds.{nl} {nl}{@st201}[Transfer]{/}{/} Transfer the level of Res Sacrae Gem with lv.2 or above to another gem.{nl}The level of the gem transferred becomes equal to the gem used as an ingredient.{nl}Res Sacrae Gem used as an ingredient will be destroyed.{nl} {nl}{@st201}[Dismantle]{/}{/}Dismantle Res Sacrae Gem and obtain a random number of {@st66d_y}{s16}Prism Coal{/}{/}.{nl}More {@st66d_y}{s16}Prism Coal{/}{/} will be given when dismantling Goddess Res Sacrae gem.{nl}Only Lv.1 Res Sacrae Gem can be dismantled.	{@st201}[강화]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 성물 젬 강화를 시도합니다.{nl}강화 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 성물 젬의 레벨이 1 상승합니다.{nl}강화 목표 레벨보다 성물의 장착 가능 성물 젬 레벨이 낮으면 강화할 수 없습니다.{nl} {nl}{@st201}[합성]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 합성을 시도합니다.{nl}합성 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 레벨 1 무작위 성물 젬을 획득할 수 있습니다.{nl} {nl}{@st201}[이전]{/}{/} 레벨 2 이상인 성물 젬의 레벨을 다른 성물 젬으로 이전할 수 있습니다.{nl}이전 받은 성물 젬은 이전에 사용된 성물 젬과 동일한 레벨로 변경됩니다.{nl}이전에 사용된 성물 젬은 소멸합니다.{nl} {nl}{@st201}[분해]{/}{/}성물 젬을 분해하여 무작위 수량의 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}가디스 등급 성물 젬 분해 시 더 많은 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}분해는 1 레벨 성물 젬만 가능합니다.				
+UI_20210115_004623	{@st66b}Enhance{/}	{@st66b}강화{/}				
+UI_20210115_004624	{@st59}Consume ingredient and a certain amount of silver and try enhancing Res Sacrae Gem.{/}	{@st59}재료와 일정량의 실버를 소모하여 성물 젬의 강화를 시도합니다.{/}				
+UI_20210115_004625	{@st66b}Combine{/}	{@st66b}합성{/}				
+UI_20210115_004626	{@st59}Consume ingredient and a certain amount of silver to obtain a new Res Sacrae Gem.{/}	{@st59}재료와 일정량의 실버를 소모하여 새로운 성물 젬 아이템을 획득합니다.{/}				
+UI_20210115_004627	{@st66b}Transfer{/}	{@st66b}이전{/}				
+UI_20210115_004628	{@st59}Transfer the level of Res Sacrae gem to another gem.{/}	{@st59}성물 젬의 레벨을 다른 젬으로 이전합니다.{/}				
+UI_20210115_004629	{@st66b}Dismantle{/}	{@st66b}분해{/}				
+UI_20210115_004630	{@st59}Dismantle Res Sacrae Gem and obtain ingredients.{/}	{@st59}성물 젬을 분해하여 재료 아이템을 획득합니다.{/}				
+UI_20210115_004631	{@st202}Required Silver ▶{/}	{@st202}소모 비용 ▶{/}				
+UI_20210115_004632	{@st59}Give relief supplies or main consumables to increase the Reputation Rate{/}{nl}　{nl}Main consumables are as follows{nl}  - Scorched Valuable of Tel Harsha : 20{nl}  - Refined Heart of Glacia : 20{nl}  - Refined Moth Talc Powder : 20{nl}  - Brikynite : 5{nl}  - Magic Stone : 5{nl}  - Mystic Tome Page : 5{nl}  - Practonium : 5{nl}  - Goddess' Blessed Gem : 5	{@st59}구호 물품 또는 주요 재화를 증여하여 명성도를 올릴 수 있습니다.{/}{nl}　{nl}주요 재화 교환 정보{nl}  - 그을린 텔하르샤의 의장품 : 20{nl}  - 정제된 글레이시어의 심장 : 20{nl}  - 정제된 모스 탈크 파우더 : 20{nl}  - 브리키나이트 : 5{nl}  - 마정석 : 5{nl}  - 신비한 서 낱장 : 5{nl}  - 프락토늄 : 5{nl}  - 여신의 축복석 : 5				
+UI_20210115_004633	{@st66b}Main consumables{/}	{@st66b}주요 재화{/}				
+UI_20210115_004634	{@st66b}Relief Supplies{/}	{@st66b}구호 물품{/}				
+UI_20210115_004635	{@st43}Raise Relief Supplies{/}	{@st43}구호 물품 조달{/}				
+UI_20210115_004636	{@st41b}Current Points: %s {#ffff00}/ MAX : %s{/}{/}	{@st41b}현재 포인트: %s {#ffff00}/ MAX : %s{/}{/}				
+UI_20210115_004637	{@st41b}Obtained Points: %s{/}	{@st41b}획득 포인트: %s{/}				
+UI_20210115_004638	{@st41b}Points After Giving: %s {#ffff00}/ MAX : %s{/}{/}	{@st41b}증여 후 포인트: %s {#ffff00}/ MAX : %s{/}{/}				
+UI_20210115_004639	{@st41b}Give{/}	{@st41b}증여{/}				
+UI_20210115_004640	{@st59}Kingdom Reconstruction Shop.{nl}You can unlock the items in the shop by gaining Reputation Rate.	{@st59}왕국 재건단 상점입니다.{nl}명성도를 쌓아 상점 품목을 해금할 수 있습니다.				
+UI_20210115_004641	{@st41b}Lemprasa Pond{/}	{@st41b}렘파라사 연못{/}				
+UI_20210115_004642	{@st41b}Next Step{/}	{@st41b}다음 단계{/}				
+UI_20210115_004643	Great Man	위인				
+UI_20210115_004644	Legend	전설				
+UI_20210115_004645	{@st59}Raise Relief Supplies{/}	{@st59}구호 물품 조달{/}				
+UI_20210115_004646	{@st43}Kingdom Reconstruction Shop{/}	{@st43}왕국 재건단 상점{/}				
+UI_20210115_004647	{@st41b}Items Bought{/}	{@st41b}구입 아이템{/} 				
+UI_20210115_004648	{@st41b}Possessed Coins ▶{/}	{@st41b}보유 주화 ▶{/}				
+UI_20210115_004649	Party Buff	파티 버프				
+UI_20210115_004650	{@sti1c}{s18}Select Complete	{@sti1c}{s18}선택완료				
+UI_20210115_004651	Individual Buff	개인 버프				
+UI_20210115_004652	{@st41b}{s16}Multiply	{@st41b}{s16}배수				
+UI_20210115_004653	{@st66b}Reputation{/}	{@st66b}명성{/}				
+UI_20210115_004654	{@st43b}{s18}Total Reputation Status	{@st43b}{s18}전체 명성도 달성 현황				
+UI_20210115_004655	{@st41b}There aren't any Reputation opened yet.{/}	{@st41b}열려있는 명성이 아직 없습니다.{/}				
+UI_20210115_004656	{@st66b}View Tutorial UI{/}	{@st66b}튜토리얼 UI 보기{/}				
+UI_20210115_004657	{@st66b}Maximum Frame Limit(%s){/}	{@st66b}최대 프레임 제한(%s){/}				
+UI_20210115_004658	{@st66b} Translucent Summon (except yourself and enemy summon)	{@st66b}소환수 반투명화(자신, 적대 소환수 제외)				
+UI_20210115_004659	Transcendence Scroll	초월 스크롤				
+UI_20210115_004660	{@st59}Guide{/}	{@st59}가이드{/}				
+UI_20210115_004661	{@st59}Mission : Beginner{/}	{@st59}미션 : 초급{/}				
+UI_20210115_004662	{@st59}Mission : Intermediate{/}	{@st59}미션 : 중급{/}				
+UI_20210115_004663	{@st59}Mission : Advanced{/}	{@st59}미션 : 고급{/}				
+UI_20210115_004664	Proceeds the corresponding guide when clicking.	클릭시 해당 가이드를 실행 합니다.				
+UI_20210115_004665	Goddess/Demon God Transmutation	여신/마신 연성				
+UI_20210115_004666	{@st66d_y}{b}Main Material	{@st66d_y}{b}주 재료				
+UI_20210115_004667	Sub-material	보조 재료				
+UI_20210115_004668	Transmutation value of Sub-material is not 0	보조 재료의 연성 수치가 0 이 아닙니다				
+UI_20210115_004669	- Transmutation value can be increased by +1 or +2 by low chance by Transmutation, and Transmutation material vanish.{nl}- When the Transmutation value reaches MAX, the main material, sub-material, and Transmutation material all vanishes, and obtains upper-level item.{nl}- Transmutation Great Success can be done by a very low chance. Main ingredient, sub-ingredient, and Transmutation ingredient disappears and item of a higher level is immediately obtained.	- 연성을 통해 주 재료의 연성 수치를 +1 또는 낮은 확률로 +2 증가시킬 수 있으며, 연성 재료는 소멸됩니다.{nl}- 연성 수치가 MAX치에 도달하면 주 재료, 보조 재료, 연성 재료가 모두 소멸되고 상위 레벨의 아이템을 획득하게 됩니다.{nl}- 매우 낮은 확률로 연성 대성공을 할 수 있습니다. 주 재료, 보조 재료, 연성 재료가 모두 소멸되고 상위 레벨의 아이템을 즉시 획득하게 됩니다.				
+UI_20210115_004670	{@st42}Transmutation Material	{@st42}연성 재료				
+UI_20210115_004671	{@st42}{s20}Silver needed	{@st42}{s20}필요 실버				
+UI_20210115_004672	{@st41b}{s14}{#009999}Goddess	{@st41b}{s14}{#009999}가디스				
+UI_20210115_004673	{#FFFF00}{ol}{s12}0 seconds	{#FFFF00}{ol}{s12}0초				
+UI_20210115_004674	Res Sacrae Level	장착 가능 성물 레벨				
+UI_20210115_004675	{@st59}Check Reward Info{/}	{@st59}보상 정보 확인{/}				
+UI_20210115_004676	teamnamemax8letters	팀명최대여덟글자				
+UI_20210115_004677	%s : %s	%s : %s개				
+UI_20210115_004678	{@st41}Renew	{@st41}갱신				
+UI_20210115_004679	{@sti1c}{s16}Empty Cyan Gem Socket{/}{/}	{@sti1c}{s16}빈 시안 젬 소켓{/}{/}				
+UI_20210115_004680	Cyan Gem	시안 젬				
+UI_20210115_004681	[Purified Breath of Power]	[정화된 권능의 숨결]				
+UI_20210115_004682	Register Item	아이템을 등록해 주세요				
+UI_20210115_004683	[Ectonite]	[엑토나이트]				
+UI_20210115_004684	{@st43}{s16}Entry is possible only when the conditions and item above a certain grade are met.{/}	{@st43}{s16}특정 등급 이상의 아이템과 조건을 만족해야 입장이 가능합니다.{/}				
+UI_20210128_004685	Reputation Quest Progress Status	명성 퀘스트 진행 현황				
+UI_20210128_004686	Weekly Quest	주간 퀘스트				
+UI_20210128_004687	{@st59}Reputation Quest Progress Status of the team can be checked.{nl}　{nl}Weekly/Daily quest cannot be progressed with other characters until the reset if there is a character who's completed the quest.{/}	{@st59}팀의 명성 퀘스트 진행 현황을 확인할 수 있습니다.{nl}　{nl}주간/일일 퀘스트는 여러 캐릭터로 진행하더라도 퀘스트를 완료한 캐릭터가 있다면 초기화가 될 때까지 다른 캐릭터로 진행할 수 없습니다.{/}				
+UI_20210128_004688	{@st59}Weekly Quest is reset every Monday at 6 AM.{nl}Resets regardless of completion of weekly quest, and 2 quests is selected randomly every week.{/}	{@st59}주간 퀘스트는 매주 월요일 오전 06:00에 초기화됩니다.{nl}주간 퀘스트는 완료 여부와 상관없이 초기화되며 매주 2개의 퀘스트가 무작위로 선정됩니다.{/}				
+UI_20210128_004689	{@st59}Daily Quest that has been completed is reset every 6 AM.{nl}Daily Quest that is yet completed before the reset is transferred to the next day.{/}	{@st59}일일 퀘스트는 완료된 퀘스트에 한하여 매일 오전 06:00에 초기화됩니다.{nl}초기화 이전에 완료하지 않은 일일 퀘스트는 다음 날로 이관됩니다.{/}				
+UI_20210128_004690	{@st59}Repeatable Quest is not reset and can be played without limits.{nl}Only 1 from the Repeatable Quest can be progressed, so please be cautious when selecting.{/}	{@st59}반복 퀘스트는 초기화 되지 않으며 횟수 제한 없이 이용할 수 있습니다.{nl}반복 퀘스트는 1개의 퀘스트만 선택해 진행할 수 있으니 신중히 진행해야 합니다.{/}				
+UI_20210128_004691	{@st59}Check Reputation Quest Progress Status.{/}	{@st59}명성 퀘스트 진행 현황을 확인합니다.{/}				
+UI_20210201_004692	{@st59}Information{/}	{@st59}정보{/}				
+UI_20210201_004693	{@st59}Achievement{/}	{@st59}업적{/}				
+UI_20210201_004694	{@st59}Character Settings{/}	{@st59}캐릭터 설정{/}				
+UI_20210201_004695	{@st59}Reputation{/}	{@st59}명성{/}
+UI_20210208_004696	{@st59}Episode{/}	{@st59}에피소드{/}				
+UI_20210208_004697	{@st59}Quest List{/}	{@st59}퀘스트 목록{/}				
+UI_20210208_004698	{@st59}Res Sacrae Quest{/}	{@st59}성물 퀘스트{/}				
+UI_20210208_004699	{@st59}Don't show enhancement message on +5 or above{/}	{@st59}5강 이상 강화 메세지 더이상 보지 않기{/}				
+UI_20210209_004700	{@st59}Don't show enhancement message on +5 or above	{@st59}5강 이상 강화 메세지 더이상 보지 않기	UI_20210208_004699	{@st59}Don't show enhancement message on +5 or above{/}	{@st59}5강 이상 강화 메세지 더이상 보지 않기{/}
+UI_20210209_004701	{@st59}Don't show voucher use message	{@st59}쿠폰 사용 메세지 더이상 보지 않기			
+				

@@ -6172,3 +6172,326 @@ QUEST_LV_0400_20200826_006201	You have removed the portal in the Engine Room on 
 QUEST_LV_0400_20200826_006202	Use holy water to purify the spirits that turned into demons!	사악한 기운으로 인해 마족으로 변한 영혼들을 성수를 이용하여 정화시키세요!	QUEST_LV_0400_20190419_005742	Use holy water to purify the spirits that turned into demons! But remember, the spirits need to be weakened first before you can use the Purifying Holy Water.	사악한 기운으로 인해 마족으로 변한 영혼들을 성수를 이용하여 정화시키세요! 단, 정화는 저주의 힘이 약해져야 가능하므로 우선 마족을 공격해 저주의 힘을 빼내어 약화시킨 뒤 성수를 사용하세요.	
 QUEST_LV_0400_20201030_006203	Kupole Skywa is waiting for you in Valandis Room 3.	발란디스 3관에서 큐폴 스카이와가 당신을 기다리고 있습니다	QUEST_LV_0400_20171128_002566	Kupole Scaia is waiting for you in Valandis Room 3.	발란디스 3관에서 큐폴 스카이아가 당신을 기다리고 있습니다	
 QUEST_LV_0400_20201030_006204	Byle wants to destroy Ignas' device that turns people into demons.{nl}Destroy Ignas' device.{nl}	바일은 이제 이그나스가 세운 마족의 장치를 폭파시킬 때가 됐다고 합니다.{nl}마족의 장치를 파괴하세요.{nl}	QUEST_LV_0400_20200129_006065	Byle wants to destroy Ignas' device that turns people into demons.{nl}Byle says that throwing the Magic Residue into the device will overload the machine and destroy it.{nl}He also said that if there isn't enough Magic Residue to destroy the device, the device will excrete the Magic Residue in the system and that you should throw it back into the device to overload it.{nl}Destroy Ignas' device.{nl}	바일은 이제 이그나스가 세운 마족의 장치를 폭파시킬 때가 됐다고 합니다.{nl}바일은 마력 잔류물을 이용하여 마족의 장치에 던지면 마력 잔류물에 가득찬 마력을 흡수하여 과부하에 걸려 파괴될 것이라고 합니다.{nl}그러나 잔류물의 마력이 불충분하여 파괴가 실패할 수 있다며 파괴에 실패하면 장치는 방어 태세로 바뀌어 던져넣은 마력 잔류물을 뱉어낸다고 합니다.{nl}바일은 뱉어낸 마력 잔류물을 다시 되받아쳐 장치에 집어넣어 장치에 손상을 계속 줘서 파괴시키라고 합니다.{nl}마족의 장치를 파괴하세요.{nl}	
+QUEST_LV_0400_20210115_006205	This place is the Sanctuary Pradzia Temple mentioned in the headstone.{nl}Somehow, here are some of the Goddess Giltine's Demons.	이곳이 비석에서 언급되었던 성역 프래지아 신전이군요.{nl}어떻게 된 일인지 여기에도 길티네 여신의 마족들이 있습니다.				
+QUEST_LV_0400_20210115_006206	Even it's urgent, I don't think it's going to be easy.{nl}Let's move carefully.	한시가 급할 때입니다만, 아무래도 쉽게 지나갈 수는 없겠군요.{nl}신중하게 움직이도록 하죠.				
+QUEST_LV_0400_20210115_006207	There's probably more group of Raganosis in the Sanctuary than we just defeated.{nl}Revelator, be cautious.	방금 처치한 래거노시스 무리 말고도 더 많은 무리가 성역에 포진해있을 겁니다.{nl}계시자님, 긴장을 놓아선 안 됩니다.				
+QUEST_LV_0400_20210115_006208	And the more we use the Veljamu, the worse Mulia gets.{nl}Even protecting Mulia is too much for me to handle.{nl}It seems to add responsibility, but I have no choice but to trust you.	게다가 벨자무를 사용할수록 뮬리아의 상태가 점점 더 나빠지고 있습니다.{nl}제 힘으로는 뮬리아를 지키는 것만으로도 벅찬 상태입니다.{nl}책임감을 가중시키는 것 같지만, 계시자님을 믿을 수밖에 없겠군요.				
+QUEST_LV_0400_20210115_006209	According to what Mulia deciphered, this place is called Kartu Corridor.	뮬리아가 해독한 바에 따르면, 여기는 카르투 회랑이라고 불리는 공간입니다.				
+QUEST_LV_0400_20210115_006210	The way to the center of the Sanctuary lies here.	 성역의 중심으로 가는 길은 이곳에 있다. 				
+QUEST_LV_0400_20210115_006211	According to ancient records, there must be an entrance to the Sanctuary in the Kartu Corridor.{nl}Let's search the corridor.	고대의 기록대로라면 카르투 회랑에 성역으로 가는 입구가 있겠군요.{nl}회랑을 수색해보도록 합시다.				
+QUEST_LV_0400_20210115_006212	Mulia	뮬리아				
+QUEST_LV_0400_20210115_006213	Deciphering is finished.	해석이 끝났어요.				
+QUEST_LV_0400_20210115_006214	The path to the sanctuary will open only when you get trust from both human and God.	 인간과 신의 신뢰를 얻어야 비로소 성역의 길이 열린다. 				
+QUEST_LV_0400_20210115_006215	What will that mean?	무슨 의미일까요?				
+QUEST_LV_0400_20210115_006216	We should be careful, but let's hurry.	조심해야겠지만, 서둘러 움직이도록 합시다.				
+QUEST_LV_0400_20210115_006217	The headstone said..{nl}Human and God lived together in the Sanctuary under the earth.{nl}Then the trust between human and God may be the answer to where they lived.	비석에서 말하길..{nl}인간과 신이 땅속의 성역에서 함께 살았다고 했어요.{nl}그렇다면 인간과 신의 신뢰라는 것은, 그들이 각자 거주했던 곳에서 해답을 얻을 수 있을지도 몰라요.				
+QUEST_LV_0400_20210115_006218	I'll have to go inside the temple to get the answer.	해답을 얻기 위해 신전 내부로 가야겠네요.				
+QUEST_LV_0400_20210115_006219	It's painful like gnawing on my body.{nl} Still, this place is a little better because there is no depraved magical power of Bowers.	몸을 갉아 먹는 것 같은 아픔이 느껴져요.{nl}그래도 이곳은 바우어들의 타락한 마력은 없어서 조금은 낫네요.				
+QUEST_LV_0400_20210115_006220	Because it's uncomfortable when deciphering, can I take off the hood for a moment?{nl}Let's move.	두건이 있으면 해석할 때 불편하니, 잠시 벗어도 되겠죠?{nl}어서 움직여요.				
+QUEST_LV_0400_20210115_006221	The Kruvina keeps bothering me.{nl}It's painful, but...Thanks to the use of the Veljamu, the Power Generator was fortunately off.	크루비나가 저를 계속해서 괴롭히고 있어요.{nl}고통스럽지만..벨자무를 사용한 덕분에 동력 장치는 다행히 멈췄어요.				
+QUEST_LV_0400_20210115_006222	Let's move on.{nl}If we stay still, we might lose our mind.{nl}We'd better keep our mind on something else.	어서 이동해요.{nl}오히려 가만히 있다가는 정신을 잃을지도 몰라요.{nl}계속 다른 일에 신경을 쓰고 있는 게 좋겠어요.				
+QUEST_LV_0400_20210115_006223	While stopping the Power Generator, I've deciphered the sentences on the floor here.{nl}Asmuo Residence..{nl}There was a description of the Protective Device in Asmuo Residence.	동력 장치를 멈추면서 여기 바닥의 문장도 해석했어요.{nl}아스무 거주지..{nl}아스무 거주지에 있는 보호 장치에 대한 설명이 적혀 있었어요.				
+QUEST_LV_0400_20210115_006224	The Protective Device is moving with six Auxiliary Devices.{nl}Couldn't the ancient memories that returned to you be able to disarm the Auxiliary Device?	보호 장치는 여섯 개의 보조 장치와 함께 움직이고 있어요.{nl}계시자님께 돌아간 고대의 기억이, 그 보조 장치를 해제할 수 있지 않을까요?				
+QUEST_LV_0400_20210115_006225	Don't forget, Six Auxiliary Devices.{nl}1, 2, 3, 4, 5, 6. Six devices.{nl}You must remember.	기억나시나요? 여섯 개의 보조 장치.{nl}여섯 개의 장치에요.{nl}기억해내셔야 해요.				
+QUEST_LV_0400_20210115_006226	Now that we've stopped the Protection Device at Asmuo Residence, the road to the Sanctuary will open if we stop the Protection Device at the Deive Shrine.{nl}Now, let's go to Deive Shrine.	아스무 거주지의 보호 장치를 중지시켰으니, 이제 디브 성지의 보호 장치를 멈추면 비로소 성역으로 가는 길이 열리겠죠.{nl}이제 디브 성지로 가요.				
+QUEST_LV_0400_20210115_006227	I'll try to hold on until fate of Ember is fulfilled.	불씨의 숙명을 다할 때까지는 저도 버텨 볼게요.				
+QUEST_LV_0400_20210115_006228	For Mulia, even taking a break is torture.{nl}It'll be best to send you to the Goddess Giltine as soon as possible.	지금 뮬리아는 휴식마저도 고문이나 다를 바 없습니다.{nl}차라리 서둘러 당신을 길티네 여신에게 보내는 게 최선이겠죠.				
+QUEST_LV_0400_20210115_006229	The temple is still full of group of Raganosis.{nl}I thought I've cut some numbers..	아직도 래거노시스 무리가 신전에 가득하군요..{nl}어느 정도는 숫자를 줄여 놨다고 생각했는데..				
+QUEST_LV_0400_20210115_006230	We have no choice but to kill the Raganosis and go forward.{nl}Things aren't good enough to deal with the Raganosis that's coming from behind. {nl}Please defeat the remnants of Raganosis here before going to Ascend Arcade.	어쩔 수 없이 래거노시스들을 처치하며 나아가야 합니다.{nl}뒤에서 습격해오는 래거노시스들을 상대할 정도로 상황이 좋지는 않으니까요.{nl}어센드 아케이드로 가기 전에 이곳의 래거노시스 잔당들을 처리해주세요.				
+QUEST_LV_0400_20210115_006231	We all don't have much time.{nl}You have to hurry.{nl}Hurry up.{nl}Otherwise, Mulia's life is in danger.	우리 모두에게 시간이 많지 않습니다.{nl}서둘러 가야만 합니다.{nl}서두르십시오.{nl}그러지 않으면 뮬리아의 목숨도 위험합니다.				
+QUEST_LV_0400_20210115_006232	If you don't hurry, the other device will be back on like before.{nl}You should hurry.	서두르지 않으면 아까처럼 반대쪽 장치가 다시 가동될 겁니다.{nl}서둘러야 합니다.				
+QUEST_LV_0400_20210115_006233	Mulia finished deciphering it.	뮬리아가 해석을 끝마쳤나 봅니다.				
+QUEST_LV_0400_20210115_006234	Energy.{nl}The Ancients.{nl}Floor.	기운.{nl}고대인.{nl}바닥.				
+QUEST_LV_0400_20210115_006235	I see.{nl}It says that we need to collect energy from the ancient patterns on the floor.{nl}Stamping on an ancient pattern will gather energy to disarm the device.{nl}Hurry up, please.	그렇군요.{nl}바닥에 있는 고대인의 문양에서 기운을 수집해야한다고 합니다.{nl}고대인의 문양을 밟고 있으면 장치를 해제할 수 있는 기운을 모을 수 있을 거라는군요.{nl}서둘러주세요.				
+QUEST_LV_0400_20210115_006236	As time passed, there won't be enough magic in the pattern.	시간이 오래 지난 만큼 문양에 남은 마력도 충분하지는 않을 겁니다.				
+QUEST_LV_0400_20210115_006237	Let's collect the energy gathered by moving it to the other ancient pattern.{nl}If you've collected enough energy, please talk to me.{nl}If you collect the energy, Mulia will use the Ancient energy to Veljamu to stop the device.	다른 고대인의 문양으로 옮기며 모여있는 기운을 수집하면 되겠네요.{nl}기운을 충분히 모았으면 제게 말을 걸어주십시오.{nl}기운을 모아와 주시면 뮬리아가 벨자무에 고대인의 기운을 사용해 장치를 정지시킬 겁니다.				
+QUEST_LV_0400_20210115_006238	Please hurry.{nl}If one pattern lacks energy, gather more energy from other patterns.	서둘러주십시오.{nl}한 문양으로 기운이 부족하다면 다른 문양에서 기운을 더 모으세요.				
+QUEST_LV_0400_20210115_006239	Energy is gathered enough.{nl}Next thing..{nl}It's time to use the Veljamu.	충분히 기운을 모았습니다.{nl}이다음은..{nl}벨자무를 사용할 차례군요.				
+QUEST_LV_0400_20210115_006240	It's making Mulia.. suffer too much.	뮬리아에게..지나친 고통을 감당하게 하는군요.				
+QUEST_LV_0400_20210115_006241	Mulia's eyes..{nl}I'll..	뮬리아의 눈이..{nl}제가..				
+QUEST_LV_0400_20210115_006242	I'll take Mulia with me.	제가 뮬리아를 데리고 가겠습니다.				
+QUEST_LV_0400_20210115_006243	Revelator, please lead us to the Deive Shrine.	계시자님은 어서 디브 성지로 앞장서세요.				
+QUEST_LV_0400_20210115_006244	Only when Mulia arrives safely at the Deive Shrine can you go to the Goddess Giltine.	뮬리아가 무사히 디브 성지로 도착해야만 당신도 길티네 여신에게 갈 수 있습니다.				
+QUEST_LV_0400_20210115_006245	Hurry up and go to the Deive Shrine!{nl}We have no time!	서둘러 디브 성지로 출발하세요!{nl}시간이 없습니다!				
+QUEST_LV_0400_20210115_006246	We have to stop the Protection Device of Deive Shrine and treat Mulia fast.	디브 성지의 보호 장치를 중지시키고 빨리 뮬리아를 치료해야 합니다.				
+QUEST_LV_0400_20210115_006247	Even a second counts in this moment..	1초도 아까운 이 때에..				
+QUEST_LV_0400_20210115_006248	I don't know what to do with this powerful protective barrier.{nl}It will take some time to process directly.	이렇게 강력한 보호막을 도대체 어떻게 해야 할지..{nl}직접 처리하려면 시간이 걸릴 겁니다.				
+QUEST_LV_0400_20210115_006249	We'd rather use those Raganosis that keeps running to us.	차라리 계속해서 달려드는 저 래거노시스들을 이용하죠.				
+QUEST_LV_0400_20210115_006250	It's still full of group of Raganosis around here.	이 주위에는 아직도 래거노시스 무리가 가득합니다.				
+QUEST_LV_0400_20210115_006251	Let's use the power of Raganosis to remove that protective barrier.{nl} Defeat the group of Raganosis near and collect the blood.	래거노시스들의 힘을 이용해서 저 보호막을 제거해보죠.{nl}근처의 래거노시스 무리를 처치하고 혈액을 모아주세요.				
+QUEST_LV_0400_20210115_006252	I'll make it to attack the protective barrier by spraying the Randa tribe's Cursed Essence created by the blood of Raganosis around the device.{nl} Please hurry up.	래거노시스의 혈액으로 랑다 부족의 저주의 정수를 만들어 장치 주변에 뿌려 보호막을 공격하게 할 겁니다.{nl}서둘러주세요.				
+QUEST_LV_0400_20210115_006253	This will be enough.{nl}I'll make the Cursed Essence right away.	이 정도면 충분합니다.{nl}바로 저주의 정수를 만들겠습니다.				
+QUEST_LV_0400_20210115_006254	All you have to do is spray this Cursed Essence on the Protective Device of the Deive Shrine.	이제 이 저주의 정수를 디브 성지의 보호 장치에 뿌리기만 하면 됩니다.				
+QUEST_LV_0400_20210115_006255	The group of Raganosis will be affected by the Cursed Essence and will be unable to control its anger and attack the protective barrier.	래거노시스 무리는 이 저주의 정수에 영향을 받아 분노를 제어하지 못하고 보호막을 공격할 겁니다.				
+QUEST_LV_0400_20210115_006256	We'd better spray it on four sides of the device so that the Raganosis can attack the Protective Shield from all sides.{nl}This work can't be repeated twice or three times, so sprinkle enough.{nl}If you've sprayed enough Essence on the Protective Shield, please let me know again.	래거노시스들이 사방에서 보호막을 공격할 수 있도록 장치의 네 방향에 뿌려두는 게 좋겠군요.{nl}이 일을 두 번 세 번 반복할 수 없으니 충분히 뿌려두세요.{nl}보호막에 정수를 충분히 뿌리셨으면, 제게 다시 알려주시기 바랍니다.				
+QUEST_LV_0400_20210115_006257	Make sure you sprinkle the Cursed Essence enough in four directions. Sprinkle it to all East, West, South, North of the Protective Device.	저주의 정수는 꼭 네 방향에서 충분히 뿌려주세요. 보호 장치의 동, 서, 남, 북 모든 방향입니다.				
+QUEST_LV_0400_20210115_006258	You've sprinkled Cursed Essence enough.	저주의 정수를 충분히 뿌리셨군요.				
+QUEST_LV_0400_20210115_006259	The curse must have an effect on the Raganosis.	래거노시스에게 분명 저주의 효과가 있을 겁니다.				
+QUEST_LV_0400_20210115_006260	So let's take Mulia to a safe place for a moment and hide.	그러니 잠시 뮬리아를 데리고 안전한 곳에서 숨어서 지켜보도록 하죠.				
+QUEST_LV_0400_20210115_006261	It worked really well.{nl}Good thing you've solved the protective barrier.{nl}But...Mulia's body is like a fireball.{nl}Now this should be the last one...	역시 효과가 대단했군요.{nl}보호막을 해결해서 다행입니다.{nl}하지만..뮬리아의 몸이 불덩이 같습니다.{nl}이제 이게 마지막이어야 할 텐대..				
+QUEST_LV_0400_20210115_006262	We're ready for everything we can.{nl}Now it's Mulia's turn.{nl}I feel like I'm doing something terrible to Mulia.	이제 저희가 할 수 있는 모든 준비는 끝났습니다.{nl}이제 뮬리아의 차례군요.{nl}뮬리아에게 참 몹쓸 짓을 저지르고 있는 기분입니다.				
+QUEST_LV_0400_20210115_006263	Sorry that we had to leave you alone here.{nl}But I couldn't let Mulia in such a dangerous place.	계시자님을 내버려 두고 이렇게 먼저 자리를 피해 죄송합니다.{nl}하지만 뮬리아를 그런 위험한 곳에 있게 할 순 없었어요.				
+QUEST_LV_0400_20210115_006264	As soon as we got here, Mulia fainted.{nl}Her life is in critical condition.	뮬리아는 여기에 오자마자 기절해버렸습니다.{nl}생명이 위급한 상황입니다.				
+QUEST_LV_0400_20210115_006265	Way to Divine Sanctuary is opened at Kartu Corridor.{nl}I'll follow you after looking on to Mulia's condition for a moment.	카르투 회랑에 디바인 생츄어리로 갈 수 있는 길이 열렸습니다.{nl}저는 뮬리아의 상태를 조금 더 지켜보고 뒤따르겠습니다.				
+QUEST_LV_0400_20210115_006266	I'd pass along a request..	당부의 말씀을 드리자면..				
+QUEST_LV_0400_20210115_006267	Don't let the darkness encroach on you.{nl}I hope it wasn't useless for me to lead you here.{nl}Please let me see the truth of the Goddess Giltine with my eyes.	어둠에 잠식되지 마십시오.{nl}부디 제가 여기까지 계시자님을 인도한 일이 소용없는 일이 아니었길 바랍니다.{nl}제 눈으로 길티네 여신의 진실을 볼 수 있도록 해주세요.				
+QUEST_LV_0400_20210115_006268	Revelator.{nl}Your destiny is beginning to show itself again.	구원자님.{nl}당신께서 짊어진 운명이 다시 그 모습을 보이기 시작했습니다.				
+QUEST_LV_0400_20210115_006269	My sister has begun a final ritual,{nl}not only the world but to all races and her own life.	저의 자매가 세계는 물론,{nl}모든 종족과 자신의 목숨까지 건 최후의 의식을 시작했습니다.				
+QUEST_LV_0400_20210115_006270	Savior.{nl}With the power of death that my sister had from the Creator, she will drive all life in the world to death.	구원자님.{nl}제 자매는 그분으로부터 내려받았던 죽음의 권능으로 세계에 존재하는 모든 생명을 죽음으로 몰 겁니다.				
+QUEST_LV_0400_20210115_006271	If we don't hurry, my sister's power will be revealed and no one will evade death.{nl}I'll go to my sister's place and buy her time.	서두르지 않으면 제 자매의 권능이 발현되어 누구도 죽음을 면하지 못할 겁니다.{nl}저는 자매가 있는 곳으로 가서 시간을 벌도록 하겠습니다.				
+QUEST_LV_0400_20210115_006272	It is a place forbidden to humans.{nl}There will be people in the Sacred Atspalvis who can help you.{nl}If you believe in the fate granted to you, you will surely be able to reach it.	그곳은 인간에게는 금지된 장소.{nl}애스팔비스 신역에 당신을 도와줄 사람들이 있을 겁니다.{nl}구원자님께 부여된 운명을 믿고 나아간다면 분명 그곳에 닿을 수 있을 겁니다.				
+QUEST_LV_0400_20210115_006273	You're the Revelator from the rumor.	당신이 소문의 계시자님이군요.				
+QUEST_LV_0400_20210115_006274	We need to save the child who was just kidnapped by Bowers.{nl}The name of the child is Mulia.{nl}Let's postpone the details for a moment.{nl}The longer the time delays, the more dangerous she will be.	방금 바우어들에게 납치된 아이를 구해야 합니다.{nl}아이의 이름은 뮬리아입니다.{nl}자세한 이야기는 잠시 미루죠.{nl}시간이 지체될수록 뮬리아의 목숨이 위태로운 상황입니다.				
+QUEST_LV_0400_20210115_006275	Ah, Thank you.	아, 감사합니다.				
+QUEST_LV_0400_20210115_006276	Mulia is in a bad shape.{nl}Mulia was born to absorb the magic of the demon, regardless of her will..{nl}which is kind of a curse.{nl}Because she was born with a weak body and the curse, the condition kept going bad.	뮬리아의 상태가 좋지 않습니다.{nl}뮬리아는 선천적으로 자신의 의지와 상관없이 마족의 마력을 흡수하는..{nl}일종의 저주를 지니고 있습니다.{nl}선천적으로 약하게 타고난 몸과 저주 때문에 계속해서 상태가 나빠졌어요.				
+QUEST_LV_0400_20210115_006277	The Bowers who just attacked us are guardians who have been wandering the Sacred Atspalvis since ancient times.{nl}Until they were corrupted by Giltine's magic..	방금 우리를 습격한 바우어들은 고대부터 애스팔비스 신역을 배회하던 수호자들입니다.{nl}길티네의 마력에 타락하기 전까지는 말이죠..				
+QUEST_LV_0400_20210115_006278	Mulia has absorbed the magic of the Bowers, so her condition cannot be fine.{nl}Mulia needs rest.	바우어들의 마력을 뮬리아가 흡수해버렸으니 몸이 성할 리가 없습니다.{nl}뮬리아에게 휴식이 필요합니다.				
+QUEST_LV_0400_20210115_006279	Revelator.{nl}Can you look around until Mulia recovers?	계시자님.{nl}뮬리아가 회복할 동안 주변을 둘러봐 주실 수 있을까요?				
+QUEST_LV_0400_20210115_006280	Because Mulia's will is stubborn, we can't help it.	뮬리아의 뜻이 완고하니 어쩔 수 없군요.				
+QUEST_LV_0400_20210115_006281	Revelator.{nl}I'm sure you know that Mulia's situation is not so good right now.	계시자님.{nl}지금 뮬리아의 상황은 그다지 좋지 않은 걸 계시자님도 알고 계실 겁니다.				
+QUEST_LV_0400_20210115_006282	If it's possible, we should decipher the headstones fast and get out of this place.{nl}Even for Mulia's sake.	가능하면, 되도록 빨리 비석들을 해석하고 이 장소를 벗어나는 게 좋겠어요.{nl}뮬리아를 위해서라도 말이죠.				
+QUEST_LV_0400_20210115_006283	This headstone isn't broken but there are traces of someone erasing it.	이 비석은 부서져 있지 않지만 누가 내용을 지운 흔적이 있어요.				
+QUEST_LV_0400_20210115_006284	The headstone ruins around you may have contents that have been erased.{nl}Will you look for it?	주변에 있는 비석의 잔해 속에 이 비석에서 지워진 내용에 대해 적혀 있을지도 몰라요.{nl}계시자님께서 그걸 찾아봐 주실래요?				
+QUEST_LV_0400_20210115_006285	The headstone looks quite heavy, so you'd better bring one at a time.{nl}You're about to do something big, so try to avoid the strain.	비석이 꽤 무거워 보이니 한 번에 하나씩만 들고 오시는 게 좋겠습니다.{nl}큰 일을 앞두고 계시니 되도록 무리는 피하시죠.				
+QUEST_LV_0400_20210115_006286	Only the shaded parts of this headstone can be seen.{nl}Is there anything around to make a shadow?	이 비석은 그림자가 드리워진 부분만 내용이 보여요.{nl}주변에 그림자를 만들만한 게 있을까요?				
+QUEST_LV_0400_20210115_006287	Let's collect branches from around.{nl}But every object around here must have eroded the magic of the Bowers over hundreds of years.	주변에서 나뭇가지를 모아보죠.{nl}하지만 이 주변에 있는 모든 물건에는 바우어들의 마력이 수 백 년에 걸쳐 침식했을 겁니다.				
+QUEST_LV_0400_20210115_006288	Please take care of Mulia and move carefully.	뮬리아를 신경 써서 조심히 옮겨주세요.				
+QUEST_LV_0400_20210115_006289	Revelator..	계시자님..				
+QUEST_LV_0400_20210115_006290	I am worried about Mulia's condition.{nl}She is getting worse and worse ever since we got here.	뮬리아의 몸 상태가 걱정입니다.{nl}여기에 온 이후로 더욱더 빠르게 몸 상태가 나빠지고 있어요.				
+QUEST_LV_0400_20210115_006291	Staying here isn't good for Mulia.	이 장소에 머무는 건 뮬리아에게 안 좋습니다.				
+QUEST_LV_0400_20210115_006292	Master..I am fine.	마스터님.. 저는 괜찮아요.				
+QUEST_LV_0400_20210115_006293	There is no one who can decipher the headstone if I leave here.	제가 여기를 떠나버리면 비석을 해석할 수 있는 사람이 없잖아요.				
+QUEST_LV_0400_20210115_006294	Only when you go to the Goddess Giltine will it be worthwhile for us to come all the way here.{nl}The tribal chief who sent me here said...	계시자님이 길티네 여신에게 가야만 우리가 여기까지 온 보람이 있을 거예요.{nl}저를 여기로 보낸 부족장님께서 말씀하시길..				
+QUEST_LV_0400_20210115_006295	a sentence without a period cannot be called completion.	마침표를 찍지 않은 문장은 완성이라 할 수 없다고 당부 하셨어요.				
+QUEST_LV_0400_20210115_006296	I know how you feel..	너의 마음은 안다..				
+QUEST_LV_0400_20210115_006297	Revelator.{nl}We are in the position to serve the Goddess Giltine.{nl}I've come all the way here because I couldn't just keep an eye on you.	계시자님.{nl}저희는 길티네 여신을 모시는 입장입니다.{nl}계시자님의 소식을 듣고 잠자코 지켜볼 수 없기에 여기까지 찾아왔습니다.				
+QUEST_LV_0400_20210115_006298	But don't get me wrong.{nl}I'm not here to stop you.{nl}I'm working with the kingdom to restore balance in the world.	하지만 오해하지는 마세요.{nl}당신을 막으러 온 게 아닙니다.{nl}저는 세계의 균형을 회복하기 위해 왕국과 협조하고 있으니까요.				
+QUEST_LV_0400_20210115_006299	If it involves the Goddess Giltine, whom the Randa tribe has long served, {nl}I think we should see it.	랑다 부족이 오랫동안 모셔왔던 길티네 여신이 관련된 일이라면{nl}마땅히 우리도 봐야 할 일이라고 생각합니다.				
+QUEST_LV_0400_20210115_006300	If it needs Mulia's life for guarantee..	그게 뮬리아의 목숨을 담보로 삼아야 하는 일인지..				
+QUEST_LV_0400_20210115_006301	Master.{nl}This mission is for me.{nl}The contents of the headstone that prophesied the death of Ember is ominous, but...	마스터님.{nl}제게 주어진 임무인걸요.{nl}불씨의 죽음을 예언한 비석의 내용은 불길하지만..				
+QUEST_LV_0400_20210115_006302	I'll endure it.	견뎌 볼게요.				
+QUEST_LV_0400_20210115_006303	Mulia..{nl}It even feels like you are so stubborn.	뮬리아..{nl}정말 고집스럽게 느껴질 정도구나.				
+QUEST_LV_0400_20210115_006304	Then let's finish work quickly and start the treatment.{nl}There must be a way to get better.	그럼 어서 일을 마무리하고 치료부터 하자.{nl}나아질 방법이 있을 거다.				
+QUEST_LV_0400_20210115_006305	There is nothing here.{nl}But there definitely is a trace of the inscription on the headstone.{nl}I can also feel the magic of Bower.	여기는 아무런 내용도 없어요.{nl}하지만 분명 비석에 글씨를 새겨 넣은 흔적은 보여요.{nl}바우어의 마력도 느껴져요.				
+QUEST_LV_0400_20210115_006306	This headstone also has ancient sorcery used by Bowers.{nl}It sure do exists, but only the owner of the sorcery can see the invisible sorcery. 	이 비석에도 바우어들이 사용한 고대의 주술이 걸려있네요.{nl}분명히 존재하지만, 눈에 보이지 않는 주술은 주술의 주인들만 볼 수 있기 마련입니다.				
+QUEST_LV_0400_20210115_006307	We can't make Bower read this, but if you put their souls in front of the headstone and see, you will be able to read those.	바우어에게 이 글을 읽게 만들 수는 없겠지만, 그들의 영혼을 비석 앞에 두고 비춰 본다면 글씨를 읽을 수 있겠죠.				
+QUEST_LV_0400_20210115_006308	I'll lend you my Dagger.{nl}Use the Rangda Dagger to bind Bower's soul for a short time.{nl}But the Bowers won't get caught easily.{nl}Let's try until we succeed.	제 단검을 빌려드리겠습니다.{nl}랑다 단검을 사용하면 잠깐은 바우어의 영혼을 묶어둘 수 있습니다.{nl}다만 바우어들이 쉽사리 잡히지는 않을 겁니다.{nl}성공할 때까지 시도해보죠.				
+QUEST_LV_0400_20210115_006309	This headstone also has the sorcery..{nl}But I don't have enough Kruvina's power.	이 비석도 주술이..{nl}하지만 제게 남은 크루비나의 힘이 부족해요..				
+QUEST_LV_0400_20210115_006310	We need something to make up for the Kruvina's power.	크루비나의 힘을 보충할 만한 게 필요해요.				
+QUEST_LV_0400_20210115_006311	Demon's power..	마족의 힘..				
+QUEST_LV_0400_20210115_006312	Bower's power will be enough.	바우어들의 마력이면 충분할 거예요.				
+QUEST_LV_0400_20210115_006313	Mulia, it's too dangerous!{nl}There will be another way.	뮬리아, 그건 너무 위험해!{nl}다른 방법이 있을 거다.				
+QUEST_LV_0400_20210115_006314	Master and the Revelator have promised to protect me.{nl}I trust their promise.	마스터님과 계시자님이 저를 분명 지켜줄 거라고 약속하셨잖아요.{nl}저는 두 분의 약속을 믿고 있어요.				
+QUEST_LV_0400_20210115_006315	Investigator.{nl}It was you, Revelator.{nl}The world must have prepared a lot for you for a long time.	탐구자.{nl}그건 바로 계시자 당신이었군요.{nl}세계는 오래 전부터 당신을 위해 많은 걸 준비해두었나 봅니다.				
+QUEST_LV_0400_20210115_006316	The memory that was erased by the gods has indwelled in you.{nl}Now we can find the way to the Sanctuary.	신들에 의해 지워진 기억이 계시자님께 다시 깃들었습니다.{nl}이제 성역으로 가는 길도 찾을 수 있겠군요.				
+QUEST_LV_0400_20210115_006317	Is there anything you can come up with?	혹시 머릿속에 떠오르는 게 있나요?				
+QUEST_LV_0400_20210115_006318	I'm glad you're okay.	무사하셔서 다행입니다.				
+QUEST_LV_0400_20210115_006319	Let's leave this place.{nl}I'll go ahead to the Pradzia Temple.	어서 여기를 떠나죠.{nl}프래지아 신전으로 먼저 가 있겠습니다.				
+QUEST_LV_0400_20210115_006320	Go down the right cliff and go to the Sacred Atspalvis.	오른쪽 절벽을 내려가 애스팔비스 신역으로 이동하자.				
+QUEST_LV_0400_20210115_006321	Let me introduce myself briefly.{nl}Mulia and I were waiting for you here.	제 소개는 짧게 하죠.{nl}저와 뮬리아는 여기서 당신을 기다리고 있었습니다.				
+QUEST_LV_0400_20210115_006322	I am in the Rangda tribe who serves Goddess Giltine,{nl}I am Uolios Wahid the Randa Master in the continent.{nl}I am fighting with the kingdom to restore the balance of the world that has been tilted toward the demons since the Medzio Diena.	저는 길티네 여신을 섬기는 랑다 부족이며,{nl}이 대륙에서는 랑다 마스터직을 맡은 우올리오스 와히드라고 합니다.{nl}신수의 날 이후 마족에게 기울어진 세계의 균형을 복원하기 위해 지금은 왕국과 함께 싸우고 있습니다.				
+QUEST_LV_0400_20210115_006323	A headstone with a different texture is built.{nl}Let's have a closer look at the headstone.	이질감이 드는 비석이 세워져 있다.{nl}비석을 살펴보자.				
+QUEST_LV_0400_20210115_006324	{#FF0000}Fight with the Boss will start when entering after the quest is proceeded.{/}{nl}Will you move to the Divine Sanctuary?	{#FF0000}퀘스트 진행 후 입장 시 보스 전투가 시작됩니다.{/}{nl}디바인 생츄어리로 이동하시겠습니까?				
+QUEST_LV_0400_20210115_006325	Follow the track of the Bowers and find the Rangda girl.	바우어들의 흔적을 쫓아 랑다 소녀를 찾자				
+QUEST_LV_0400_20210115_006326	Let's find other headstones in the Neryskus Grounds.	네리스쿠스 공터에서 다른 비석을 찾아보죠.				
+QUEST_LV_0400_20210115_006327	Collect the Bower branch around	주변에서 바우어 나뭇가지를 모아오자				
+QUEST_LV_0400_20210115_006328	Find the headstone at the Nejautrus Pathway	네오르투스 길목에서 비석을 찾자				
+QUEST_LV_0400_20210115_006329	Fate of the Ember..	불씨의 숙명..				
+QUEST_LV_0400_20210115_006330	Completion of the Ember..	숙명의 완성..				
+QUEST_LV_0400_20210115_006331	Savior.{nl}The time has come to conclude a long mission.	구원자님.{nl}기나긴 사명의 결착을 지을 때가 왔습니다.				
+QUEST_LV_0400_20210115_006332	Give the Giltine a final blow.	길티네에게 최후의 일격을 가하세요				
+QUEST_LV_0400_20210115_006333	Savior.{nl}Thank you for following my prophecy and silently winning the long and lonely fight.{nl}At last...{nl}After a thousand years, we've reached the end of what I've seen.	구원자여.{nl}저의 예지를 따라 외롭고 긴 싸움을 묵묵히 이겨와 주셔서 감사합니다.{nl}결국..{nl}천 년을 넘는 세월을 지나 제가 보았던 종점에 도달했습니다.				
+QUEST_LV_0400_20210115_006334	I ask for my sister's rest.	제 자매의 안식을 부탁드립니다.				
+QUEST_LV_0400_20210115_006335	Oh!	이런!				
+QUEST_LV_0400_20210115_006336	We have to stop the power of the chaos!{nl}Mulia is suffering.	저 혼돈의 힘을 멈춰야 합니다!{nl}뮬리아가 고통을 호소하고있어요.				
+QUEST_LV_0400_20210115_006337	With that much power, it will be late even we escape!	저 정도의 힘이라면 도망쳐도 늦을 겁니다!				
+QUEST_LV_0400_20210115_006338	Fate..	숙명..				
+QUEST_LV_0400_20210115_006339	Please give my sister a rest..	제 자매에게 부디 안식을..				
+QUEST_LV_0400_20210115_006340	Inevitable Fate	피할 수 없는 운명				
+QUEST_LV_0400_20210115_006341	Ask about the Ritual	의식에 관해 묻는다				
+QUEST_LV_0400_20210115_006342	I am not ready yet	나는 아직 준비되지 않았다고 한다				
+QUEST_LV_0400_20210115_006343	Encounter with Rangda	랑다와의 조우				
+QUEST_LV_0400_20210115_006344	I'll follow the fate of the Savior.	구원자의 숙명에 따르겠다고 한다				
+QUEST_LV_0400_20210115_006345	I am afraid yet.	아무래도 아직은 두렵다고 한다				
+QUEST_LV_0400_20210115_006346	Save the Randa Girl.	랑다 소녀 구출				
+QUEST_LV_0400_20210115_006347	I want to help to save the child	아이를 구하는 데 돕겠다고 한다				
+QUEST_LV_0400_20210115_006348	I want to take a look around here more	이곳을 더 둘러보고 싶다고 한다				
+QUEST_LV_0400_20210115_006349	Ask the identity	정체를 묻는다				
+QUEST_LV_0400_20210115_006350	Record of Ancient	고대의 기록들				
+QUEST_LV_0400_20210115_006351	Feel safe, I'll look around.	주변을 살필 테니 안심하라고 한다				
+QUEST_LV_0400_20210115_006352	There are no times to stay here.	이곳에 머물 시간이 없다고 한다				
+QUEST_LV_0400_20210115_006353	Headstone on the North of Neryskus Grounds 	네리스쿠스 공터 북쪽의 비석				
+QUEST_LV_0400_20210115_006354	Headstone on the South of Neryskus Grounds 	네리스쿠스 공터 남쪽의 비석				
+QUEST_LV_0400_20210115_006355	I'll look for the headstone piece	비석의 조각을 찾아보겠다고 한다				
+QUEST_LV_0400_20210115_006356	Headstone on the West of Neryskus Grounds 	네리스쿠스 공터 서쪽의 비석				
+QUEST_LV_0400_20210115_006357	I'll have a look around	주변에서 찾아보겠다고 한다				
+QUEST_LV_0400_20210115_006358	There won't be anything	없을 거라고 한다				
+QUEST_LV_0400_20210115_006359	Headstone on Neryskus Grounds Pathway	네오르투스 길목의 비석				
+QUEST_LV_0400_20210115_006360	I don't want to worry about it at the moment	지금은 신경 쓰고 싶지 않다				
+QUEST_LV_0400_20210115_006361	Headstone on the North of Neryskus Grounds Pathway	네오르투스 길목 북쪽의 비석				
+QUEST_LV_0400_20210115_006362	Let's find a way	방법을 찾아보자고 한다				
+QUEST_LV_0400_20210115_006363	You won't be able to find a way	방법을 찾을 수 없을 거라고 한다				
+QUEST_LV_0400_20210115_006364	Headstone on the West of Neryskus Grounds Pathway	네오르투스 길목 서쪽의 비석				
+QUEST_LV_0400_20210115_006365	I'll find a way	방법을 찾아보겠다고 한다				
+QUEST_LV_0400_20210115_006366	Let's turn back because it's dangerous	더는 위험하니 그만두자고 한다				
+QUEST_LV_0400_20210115_006367	Headstone at Spraga Grounds	스프라가 공터의 비석				
+QUEST_LV_0400_20210115_006368	The Way Back Home	고향으로 가는 길				
+QUEST_LV_0400_20210115_006369	I have a place that comes to my mind	머릿속에 떠오르는 곳이 있다고 한다				
+QUEST_LV_0400_20210115_006370	I'm still confused	아직 혼란스럽다고 한다				
+QUEST_LV_0400_20210115_006371	Retrieve Kartu Corridor	카르투 회랑 탈환				
+QUEST_LV_0400_20210115_006372	Let's take more careful move.	조금 더 신중하게 움직이자고 한다.				
+QUEST_LV_0400_20210115_006373	Where is Goddess Giltine?	길티네 여신은 어디에?				
+QUEST_LV_0400_20210115_006374	Power Generator of Descend Arcade	디센드 아케이드의 동력 장치				
+QUEST_LV_0400_20210115_006375	I'll lead the way.	앞장 서겠다고 한다.				
+QUEST_LV_0400_20210115_006376	It would be better to take some rest here.	조금 더 쉬었다 가는 편이 좋을 것 같다고 한다.				
+QUEST_LV_0400_20210115_006377	Price of Good Deed (1)	선행의 대가(1)				
+QUEST_LV_0400_20210115_006378	Deactivate Protection Device of Asmuo Residence	아스무 거주지 보호 장치 해제				
+QUEST_LV_0400_20210115_006379	I seem to remember it.	기억이 나는 것 같다고 한다.				
+QUEST_LV_0400_20210115_006380	Nothing comes to my mind yet.	아직 기억이 잘 나지 않는다고 한다.				
+QUEST_LV_0400_20210115_006381	Reclaimed Power Generator	수복된 동력 장치				
+QUEST_LV_0400_20210115_006382	Follow me, I'll lead the way.	앞장설 테니 따라오라고 한다.				
+QUEST_LV_0400_20210115_006383	It would be better to take some rest here.	조금 쉬었다가 가는 편이 좋겠다고 한다.				
+QUEST_LV_0400_20210115_006384	Price of Good Deed (2)	선행의 대가(2)				
+QUEST_LV_0400_20210115_006385	The Two Protective Devices (1)	두 개의 보호 장치(1)				
+QUEST_LV_0400_20210115_006386	I will get rid of the remaining monsters.	잔당을 제거하겠다고 한다.				
+QUEST_LV_0400_20210115_006387	I am not ready to fight yet.	아직 싸울 준비가 덜 되었다고 한다.				
+QUEST_LV_0400_20210115_006388	The Two Protective Devices (2)	두 개의 보호 장치(2)				
+QUEST_LV_0400_20210115_006389	I'll collect the energy.	기운을 모아오겠다고 한다.				
+QUEST_LV_0400_20210115_006390	I am not ready to collect the energy yet.	아직 기운을 모을 준비가 덜 되었다고 한다.				
+QUEST_LV_0400_20210115_006391	Price of Good Deed (3)	선행의 대가(3)				
+QUEST_LV_0400_20210115_006392	The Last Protective Device (1)	마지막 보호 장치(1)				
+QUEST_LV_0400_20210115_006393	I'll leave right away.	빨리 출발하겠다고 한다.				
+QUEST_LV_0400_20210115_006394	Let me have some rest first.	조금 쉬었다가 출발하는 편이 좋겠다고 한다.				
+QUEST_LV_0400_20210115_006395	The Last Protective Device (2)	마지막 보호 장치(2)				
+QUEST_LV_0400_20210115_006396	I'll get them in no time.	빠르게 구해오겠다고 한다.				
+QUEST_LV_0400_20210115_006397	The Last Protective Device (3)	마지막 보호 장치(3)				
+QUEST_LV_0400_20210115_006398	I'll sprinkle the essence.	정수를 뿌리고 오겠다고 한다.				
+QUEST_LV_0400_20210115_006399	I'm not ready to sprinkle the essence.	아직 정수를 뿌릴 준비가 안 되었다고 한다.				
+QUEST_LV_0400_20210115_006400	The Last Protective Device (4)	마지막 보호 장치(4)				
+QUEST_LV_0400_20210115_006401	Let's hide.	어서 자리를 피해 숨어있자자고 한다.				
+QUEST_LV_0400_20210115_006402	I'll check again if the essence is sprinkled properly. 	정수가 제대로 뿌려졌는지 한 번 더 확인하겠다고 한다.				
+QUEST_LV_0400_20210115_006403	The Last Protective Device (5)	마지막 보호 장치(5)				
+QUEST_LV_0400_20210115_006404	Encourage Mulia.	뮬리아를 격려해준다.				
+QUEST_LV_0400_20210115_006405	I need more rest.	아무래도 조금 더 쉬어야 할 것 같다고 한다.				
+QUEST_LV_0400_20210115_006406	Proceed with the quest.	퀘스트를 진행한다.				
+QUEST_LV_0400_20210115_006407	Move without proceeding the quest.	퀘스트를 진행하지 않고 이동한다.				
+QUEST_LV_0400_20210115_006408	Destiny of the Goddess	여신의 숙명				
+QUEST_LV_0400_20210115_006409	The time has not arrived yet.	아직 때가 이르다고 한다.				
+QUEST_LV_0400_20210115_006410	Crossing Over Eternity	오랜 시간을 건너				
+QUEST_LV_0400_20210115_006411	I will finish my mission	맡은 사명을 마무리 하겠다고 한다				
+QUEST_LV_0400_20210115_006412	I'm afraid to finish it	아직 끝내기 두렵다고 한다				
+QUEST_LV_0400_20210115_006413	Defeat Wastrel Inside the Magic Research Facility	마법 실험 구역에 있는 웨이스트럴 처치	QUEST_LV_0400_20181017_004654	Defeat %s Inside the Magic Research Facility	마법 실험 구역에 있는 %s 처치	
+QUEST_LV_0400_20210115_006414	Defeat Asiomage filled with hate	증오로 가득찬 아시오 메이지 처치	QUEST_LV_0400_20181017_004660	Defeat the Angered %s	증오로 가득찬 %s 처치	
+QUEST_LV_0400_20210115_006415	Meet Goddess Laima at the end of the Path of Desition	종언의 길 끝에서 라이마 여신을 만나기				
+QUEST_LV_0400_20210115_006416	Extraordinary energy is spreading all over the world.{nl}Goddess Laima is calling you just in time.{nl}Meet Goddess Laima at the Path of Desition.	심상치 않은 기운이 세계 전역에 퍼지고 있습니다{nl}때마침 라이마 여신이 당신을 부르고 있습니다{nl}종언의 길에서 라이마 여신을 만나세요				
+QUEST_LV_0400_20210115_006417	Talk to Goddess Laima	라이마 여신과 대화하기				
+QUEST_LV_0400_20210115_006418	Talk to Goddess Laima	라이마 여신과 대화하세요				
+QUEST_LV_0400_20210115_006419	Go to Sacred Atspalvis 	애스팔비스 신역으로 이동하기				
+QUEST_LV_0400_20210115_006420	Go to Sacred Atspalvis to get to the place Giltine is	길티네가 있는 곳으로 향하기 위해 애스팔비스 신역으로 이동하세요				
+QUEST_LV_0400_20210115_006421	Talk to Rangda Master	랑다 마스터와 대화하기				
+QUEST_LV_0400_20210115_006422	Rangda Master has already arrived at Sacred Atspalvis{nl}Talk to Rangda Master about what just happened	애스팔비스 신역에는 랑다 마스터가 먼저 도착해 있었습니다{nl}방금 일어난 일에 대해 랑다 마스터와 대화해 보세요				
+QUEST_LV_0400_20210115_006423	Rangda Master has already arrived at Sacred Atspalvis{nl}Talk to Rangda Master about what just happened	애스팔비스 신역에는 랑다 마스터가 먼저 도착해 있었습니다{nl}방금 벌어진 일에 대해 랑다 마스터와 대화해 보세요				
+QUEST_LV_0400_20210115_006424	Find the Rangda Girl by following the traces	흔적을 쫓아 랑다소녀를 찾기				
+QUEST_LV_0400_20210115_006425	Find the Rangda Girl by following the traces left by the Bower	바우어가 남긴 흔적을 쫓아 랑다 소녀가 있는 곳을 찾으세요				
+QUEST_LV_0400_20210115_006426	Check the status of the Rangda Girl.	랑다 소녀의 상태를 확인하기				
+QUEST_LV_0400_20210115_006427	Fortunately, you found the Rangda Girl.{nl}Check the girl's state.	다행히 랑다 소녀를 찾았습니다{nl}소녀의 상태를 살펴보세요				
+QUEST_LV_0400_20210115_006428	Talk to the Rangda Girl	랑다 소녀와 대화하기				
+QUEST_LV_0400_20210115_006429	Examine the Ancient Headstone	고대 비석을 살펴보기				
+QUEST_LV_0400_20210115_006430	We need to look around.{nl}Take a look at the nearest headstone first.	주변을 살펴봐야 합니다{nl}가까운 곳에 있는 비석을 먼저 살펴보세요				
+QUEST_LV_0400_20210115_006431	Find the ancient headstone at Sacred Atspalvis{nl}Talk to the Rangda Master	애스팔비스 신역에 세워져 있는 고대 비석을 찾아야 합니다{nl}랑다 마스터와 대화해 보세요				
+QUEST_LV_0400_20210115_006432	Find the Ancient Headstone and decipher it	고대 비석을 찾아 해석하기				
+QUEST_LV_0400_20210115_006433	Find the ancient headstone at the upper area of Neryskus Grounds and help the Rangda Girl decipher it	네리스쿠스 공터 위쪽에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006434	Find the ancient headstone at the upper area of Neryskus Grounds and help the Rangda Girl decipher it	네리쿠스 공터 위쪽에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006435	Find the ancient headstone at the lower area of Neryskus Grounds and help the Rangda Girl decipher it	네리스쿠스 공터 아래쪽에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006436	Find the appropriate headstone piece from the headstone ruins{nl}Show it to the Rangda Girl to verify if it is the right headstone piece	비석의 잔해에서 비석을 해석할 수 있는 알맞은 비석 조각을 찾으세요{nl}랑다 소녀에게 비석 조각을 보여주면 알맞은 비석 조각이 맞는 지 확인할 수 있습니다				
+QUEST_LV_0400_20210115_006437	In order to decipher the ancient headstone here, you need to find another headstone piece.{nl}Find the headstone piece from the headstone ruins	이곳의 고대 비석을 해석하기 위해서는 비석을 해석할 수 있는 다른 비석 조각을 찾아야 합니다{nl}비석의 잔해에서 비석 조각을 찾으세요				
+QUEST_LV_0400_20210115_006438	Take the headstone piece to the ancient headstone	비석 조각을 고대 비석이 있는 곳까지 옮기기				
+QUEST_LV_0400_20210115_006439	You found a headstone piece with words from the ruins of the headstone.{nl}Take the headstone piece to the ancient headstone so that the Rangda Girl will be able to decipher it	비석의 잔해에서 글씨가 새겨진 비석 조각을 찾았습니다{nl}랑다 소녀가 고대 비석을 해석할 수 있도록 비석 조각을 고대 비석까지 가져다주세요				
+QUEST_LV_0400_20210115_006440	Find the ancient headstone at the left of Neryskus Grounds and help Rangda Girl to decipher it	네리스쿠스 공터 왼쪽에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006441	Collect the Bower Branches to make shadow over the ancient headstone	고대 비석에 그림자를 드리우기 위해 주변에서 바우어 나뭇가지를 모으세요				
+QUEST_LV_0400_20210115_006442	Letters only appear where the shadow is over{nl}Collect materials from nearby to make a shadow	이곳의 고대 비석은 그림자가 드리워진 부분에만 글씨가 보입니다{nl}주변에서 그림자를 만들만한 것을 모아오세요				
+QUEST_LV_0400_20210115_006443	Help Randa Girl decipher the ancient headstone	랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006444	Rangda Master has something to say.{nl}Talk to the Rangda Master.	랑다 마스터가 긴히 할 말이 있는 듯합니다{nl}랑다 마스터와 대화하세요				
+QUEST_LV_0400_20210115_006445	Find the ancient headstone at the Nejautrus Street	네오트루스 길목에 세워져 있는 고대 비석을 찾으세요				
+QUEST_LV_0400_20210115_006446	Find the ancient headstone at the right of Nejautrus Street and help Rangda Girl to decipher it	네오르투스 길목 오른쪽에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006447	Bring the shadow of the Bower with the Rangda Dagger	랑다 단검으로 바우어의 그림자를 가져오기				
+QUEST_LV_0400_20210115_006448	The letters of this ancient headstone are hidden by Bower's sorcery{nl}Find and bind the soul of the Bower that cast the sorcery and bring it	이곳의 고대 비석은 바우어가 비석에 새긴 주술 때문에 글씨가 보이지 않습니다{nl}주술을 새긴 바우어를 찾아 영혼을 포박해오세요				
+QUEST_LV_0400_20210115_006449	Decipher the ancient headstone	고대 비석을 해석하기				
+QUEST_LV_0400_20210115_006450	Find the ancient headstone at the left of Nejautrus Street and help Rangda Girl to decipher it	네오르투스 골목 왼쪽에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006451	Collect the things containing enough magic of Bower	바우어들의 마력이 충분히 담겨 있는 것을 모으기				
+QUEST_LV_0400_20210115_006452	Ingredient to supplement Kruvina's power is needed for the Rangda Girl to decipher the ancient headstone here{nl}Collect ingredient with enough magic of the demon	랑다 소녀가 이곳의 고대 비석을 해석하기 위해서는 크루비나의 힘을 보충할 대체 재료가 필요합니다{nl}마족의 마력을 충분히 가지고 있는 재료를 모으세요				
+QUEST_LV_0400_20210115_006453	Obtain %s Eyeball of Bower Interferer 	%s 바우어 인터피어의 안구 획득				
+QUEST_LV_0400_20210115_006454	Obtain %s Heart of Bower Guillotine	%s 바우어 길로틴의 심장 획득				
+QUEST_LV_0400_20210115_006455	Obtain %s Hair of Bower Obstructor	%s 바우어 어브스트럭터의 머리카락 획득				
+QUEST_LV_0400_20210115_006456	Obtain %s Bower Oblivion Core	%s 바우어 오블리비언의 핵 획득				
+QUEST_LV_0400_20210115_006457	Find the ancient headstone at Spraga Grounds and help Rangda Girl to decipher it	스프라가 공터에 세워져 있는 고대 비석을 찾아, 랑다 소녀가 고대 비석을 해석할 수 있게 도우세요				
+QUEST_LV_0400_20210115_006458	Protect the Rangda Girl	랑다 소녀를 지키기				
+QUEST_LV_0400_20210115_006459	Rangda Girl's body has deteriorated and collapsed.{nl}Protect the Randa Girl and Randa Master from the Bowers until the Randa girl can stand again.	랑다 소녀의 몸이 악화하여 쓰러졌습니다{nl}랑다 소녀가 다시 얼어설 수 있을 때까지 바우어들로부터 랑다 소녀와 랑다 마스터를 지키세요				
+QUEST_LV_0400_20210115_006460	Examine the condition of Rangda Girl	랑다 소녀의 상태를 살피기				
+QUEST_LV_0400_20210115_006461	Every ancient headstone in Sacred Atspalvis has been deciphered{nl}The memory permanently erased from mankind since the beginning of the world is blessed in you.{nl}Talk to the Rangda Master to proceed	애스팔비스 신역의 모든 고대 비석을 해석했습니다{nl}태초의 역사에서 인간에게 영구적으로 지워졌던 기억이 당신에게 깃들었습니다{nl}다음으로 나아가기 위해 랑다 마스터와 이야기하세요				
+QUEST_LV_0400_20210115_006462	Defeat Bower Keeper	바우어 키퍼를 처치하기				
+QUEST_LV_0400_20210115_006463	You have found the entrance to the Pradzia Temple{nl}Defeat the Bower Keeper, the head of the Bowers and guard of the temple	프래지아 신전의 입구를 발견했습니다{nl}바우어들의 우두머리이며 성역의 문지기인 바우어 키퍼를 처리하세요				
+QUEST_LV_0400_20210115_006464	Talk to Rangda Master and go to Pradzia Temple	랑다 마스터와 대화하고 프래지아 신전으로 향하기				
+QUEST_LV_0400_20210115_006465	Go talk to the Rangda Master and Rangda girl who was hiding during the battle.	전투를 치르는 동안 피신해있던 랑다 소녀와 랑다 마스터를 찾아가 대화하세요				
+QUEST_LV_0400_20210115_006466	Talk to the Rangda Master	랑다 마스터와 대화				
+QUEST_LV_0400_20210115_006467	Talk to the Rangda Master	랑다 마스터드와 대화하세요				
+QUEST_LV_0400_20210115_006468	Retrieve Kartu Corridor	카르투 회랑 탈환하기				
+QUEST_LV_0400_20210115_006469	Defeat the group of Raganosis taking over Kartu Corridor	카르투 회랑을 점거한 래거노시스 무리들을 처치하세요				
+QUEST_LV_0400_20210115_006470	Talk to the Rangda Master	랑다 마스터와 대화하세요				
+QUEST_LV_0400_20210115_006471	Defeat the group of Raganosis	레거노시스 무리 처치				
+QUEST_LV_0400_20210115_006472	Talk to Mulia	뮬리아와 대화				
+QUEST_LV_0400_20210115_006473	Talk to Mulia	뮬리아와 대화하기				
+QUEST_LV_0400_20210115_006474	Group of Raganosis gathered by the sound	소리를 듣고 온 래거노시스 무리				
+QUEST_LV_0400_20210115_006475	Talk to Mulia	뮬리아와 대화하세요				
+QUEST_LV_0400_20210115_006476	Check the Descend Arcade Power Generator with Mulia	뮬리아와 함께 디센드 아케이드 동력 장치 살펴보기				
+QUEST_LV_0400_20210115_006477	Check the Descend Arcade Power Generator with Mulia	뮬리아와 함게 디센드 아케이드의 동력 장치를 살펴보세요				
+QUEST_LV_0400_20210115_006478	Talk to Mulia	뮬리아와 대화하세요.				
+QUEST_LV_0400_20210115_006479	Help deactivate Asmuo Residence Protection Device	아스무 거주지 보호 장치 해제 돕기				
+QUEST_LV_0400_20210115_006480	Help Mulia deactivate the Auxiliary Power Source of Asmuo Residence Protection Device	뮬리아를 도와 아스무 거주지 보호 장치의 보조 동력원을 제거하세요				
+QUEST_LV_0400_20210115_006481	Remove Auxiliary Power Source of the Protection Device	아스무 거주지 보호 장치의 보조 동력원 제거하기				
+QUEST_LV_0400_20210115_006482	Remove Auxiliary Power Source of the Protection Device	아스무 거주지 보호 장치의 보조 동력원 제거를 완료하세요				
+QUEST_LV_0400_20210115_006483	Go to Ascend Arcade through Descend Arcade and Kartu Corridor	디센드 아케이드와 카르투 회랑을 거쳐 어센드 아케이드 가기				
+QUEST_LV_0400_20210115_006484	Go to Ascend Arcade through Descend Arcade and Kartu Corridor	디센드 아케이드와 카르투 회랑을 거쳐 어센드 아케이드를 향해 나아가세요				
+QUEST_LV_0400_20210115_006485	Defeat the Ambusing Raganosis	습격한 래거노시스 무리 처치				
+QUEST_LV_0400_20210115_006486	Move through the Kartu Corridor while defeating the remaining Raganosis	래거노시스 잔당을 처치하며 카르투 회랑 지나가기				
+QUEST_LV_0400_20210115_006487	There are still many Raganosis left.Move through the Kartu Corridor while defeating the remaining Raganosis	아직 래거노시스가 많이 남았습니다. 래거노시스 잔당을 제거하고 카르투 회랑을 지나갑시다				
+QUEST_LV_0400_20210115_006488	Check the Ascend Arcade Power Generator	아센드 아케이드의 동력 장치 확인하기				
+QUEST_LV_0400_20210115_006489	Go to Ascend Arcade and Check the Power Generator	아센드 아케이드로 이동 후 동력 장치를 확인해봅시다				
+QUEST_LV_0400_20210115_006490	Go to Ascend Arcade while defeating the remaining Raganosis	래거노시스 무리를 처치하며 어센드 아케이드 가기				
+QUEST_LV_0400_20210115_006491	Rangda Master wishes to deliver Mulia's words	랑다 마스터가 뮬리아의 말을 전달하고자 합니다				
+QUEST_LV_0400_20210115_006492	Help deactivate the Ascend Arcade Power Generator	어센드 아케이드 동력 장치 해제 돕기				
+QUEST_LV_0400_20210115_006493	Mulia says that in order to deactivate the Protection Device of Ascend Arcade, you have to step on the protective pattern that shows on the floor of the arcade. Step on the Protective Pattern of the Power Device in Ascend Arcade 	뮬리아는 아센드 아케이드의 동력 장치를 해제하기 위해서는 아케이드 바닥에 나타나는 보호 문양을 밟고 있어야 한다고 합니다. 아센드 아케이드에 있는 동력 장치 보호 문양 위에 올라가 보호 문양을 충분히 밟아주세요				
+QUEST_LV_0400_20210115_006494	Tell Rangda Master that you have stepped on enough	랑다 마스터에게 충분히 밟은 것 같다고 알려줍시다				
+QUEST_LV_0400_20210115_006495	Check the Ascend Arcade Power Generator with Mulia	뮬리아와 함께 아센드 아케이드 동력 장치 살펴보기				
+QUEST_LV_0400_20210115_006496	Check the Ascend Arcade Power Generator with Mulia	뮬리아와 함게 아센드 아케이드의 동력 장치를 살펴보세요				
+QUEST_LV_0400_20210115_006497	Rangda Master urges to head quickly to the Deive Shrine	랑다 마스터는 서둘러 디브 성지로 가자고 합니다				
+QUEST_LV_0400_20210115_006498	Rangda Master has a good idea	랑다 마스터가 좋은 생각이 있다고 합니다				
+QUEST_LV_0400_20210115_006499	Let's hear the good idea from the Rangda Master	랑다 마스터에게 좋은 생각이 무엇인지 들어 보세요				
+QUEST_LV_0400_20210115_006500	Take a blood sample from group of Raganosis	래거노시스 무리에게서 혈액을 채취				
+QUEST_LV_0400_20210115_006501	Take a blood sample from group of Raganosis	래거노시스 무리를 처치하고 혈액을 채취하세요				
+QUEST_LV_0400_20210115_006502	Tell the Rangda Master that you have collected everything	랑다 마스터에게 다 구해왔다고 전합시다				
+QUEST_LV_0400_20210115_006503	Defeat the group of Raganosis and take %s	래거노시스 무리를 처치하고 %s를 채취				
+QUEST_LV_0400_20210115_006504	Group of Raganosis	래거노시스 무리				
+QUEST_LV_0400_20210115_006505	Receive the Cursed Essence made by Rangda Master with the blood of Raganosis	랑다 마스터가 래거노시스의 혈액으로 저주의 정수를 수령하세요				
+QUEST_LV_0400_20210115_006506	Sprinkle the Cursed Essence	저주의 정수 뿌리기				
+QUEST_LV_0400_20210115_006507	Sprinkle the Cursed Essence over the device to lure the group of Raganosis. Sprinkle enough amount in the top, bottom, left, and right to make sure the monsters are lured.	래거노시스 무리를 유인하기 위해 저주의 정수를 보호 장치에 뿌리세요. 확실히 유인하기 위해 위, 아래, 오른쪽, 왼쪽에서 충분히 뿌려야합니다				
+QUEST_LV_0400_20210115_006508	You have sprinkled enough essence on the Deive Shrine Protection Device. Report to the Rangda Master	디브 성지 보호 장치에 충분히 정수를 뿌린 것 같습니다. 랑다 마스터에게 보고합시다				
+QUEST_LV_0400_20210115_006509	Rangda Master says now wait for the group of Raganosis to come	랑다 마스터는 래거노시스 무리가 오기를 기다리면 된다고 합니다				
+QUEST_LV_0400_20210115_006510	Check the effect of the Cursed Essence	저주의 정수 효과 확인하기				
+QUEST_LV_0400_20210115_006511	Wait for the Raganosis to deal with the protective barrier	래거노시스가 보호막을 대신 처리해주도록 기다립시다				
+QUEST_LV_0400_20210115_006512	Tell the Rangda Master that it is over	처리가 끝났음을 랑다 마스터에게 알리세요				
+QUEST_LV_0400_20210115_006513	Defeat the lured group of Raganosis	유인된 래거노시스 무리 처치				
+QUEST_LV_0400_20210115_006514	Rangda Master says now we need to deactivate the Protection Device of Deive Shrine	랑다 마스터는 이제 디브 성지의 보호 장치를 해제하면 된다고 합니다				
+QUEST_LV_0400_20210115_006515	Deactivate the Protection Device of Deive Shrine	디브 성지 보호 장치 해제 시작하기				
+QUEST_LV_0400_20210115_006516	Help Mulia deactivate the Protection Device of Deive Shrine	뮬리아를 도와 디브 성지 보호 장치를 해제하세요				
+QUEST_LV_0400_20210115_006517	You defeated the ambushing Raganosis Commander. Ask Rangda Master Uolios Wahid about the journey ahead.	갑자기 습격해온 래거노시스 커맨더를 처치하였습니다. 앞으로의 여정에 대해 랑다 마스터 우올리오스 와히드에게 물어보세요				
+QUEST_LV_0400_20210115_006518	Move to Divine Sanctuary.	디바인 생츄어리로 이동하기.				
+QUEST_LV_0400_20210115_006519	With the help of Mulia and Rangda Master, entry to the Divine Sanctuary has finally opened.{nl}Move to Divine Sanctuary where Giltine will be.{nl}The last battle awaits.	뮬리아와 랑다 마스터의 도움으로 마침내 디바인 생츄어리로 가는 입구를 열었습니다.{nl}길티네가 있을 디바인 생츄어리로 이동하세요.{nl}최후의 전투가 기다리고 있습니다.				
+QUEST_LV_0400_20210115_006520	Defeat Demon God Giltine	마신 길티네 처치.				
+QUEST_LV_0400_20210115_006521	Win from the battle with Giltine.	길티네와의 전투에서 승리하세요.				
+QUEST_LV_0400_20210115_006522	Giltine isn't moving with unknown reason{nl}Ask Laima what caused this.	길티네가 알 수 없는 이유로 움직이지 못하고 있습니다{nl}라이마에게 어떻게 된 이유인지 물어보세요				
+QUEST_LV_0400_20210115_006523	Give Giltine a final blow	길티네에게 최후의 일격을 가하기				
+QUEST_LV_0400_20210115_006524	Take advantage of the weakness of Giltine and give Giltine a final blow 	길티네가 약해진 틈을 타 길티네에게 최후의 일격을 가하세요				
+QUEST_LV_0400_20210115_006525	Succeeded in nullifying Giltine with the power of the wheel{nl}Talk to the Goddess Laima	물레의 힘을 이용해 길티네를 무력화 시키는 데 성공했습니다{nl}라이마 여신과 대화하세요				
+QUEST_LV_0400_20210115_006526	Take a look at Mulia's condition	뮬리아의 상태를 살피기				
+QUEST_LV_0400_20210115_006527	Take a look at Mulia's condition	뮬리아의 상태를 살피세요				
