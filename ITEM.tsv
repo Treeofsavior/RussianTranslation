@@ -10628,7 +10628,7 @@ ITEM_20160530_010627	[Equip Effect] When you are hit with your HP below 10%, the
 ITEM_20160530_010628	An egg that can grow a companion. Companion eggs can be used inside a guild's hangout.
 ITEM_20160530_010629	Lesser Panda Egg
 ITEM_20160530_010630	Lesser Panda Box
-ITEM_20160530_010631	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without the riding skill.{nl}This companion gives the player a critical rate and critical attack buff when nearby the player.
+ITEM_20160530_010631	Щелкните правой кнопкой мыши, чтобы использовать. После использования компаньон немедленно регистрируется. {Nl} На этом компаньоне можно ездить верхом без навыка верховой езды. {Nl} Этот компаньон даёт игроку шанс критического удара, и бафф критической атаки, когда он находится рядом с игроком.
 ITEM_20160530_010632	T Ticket
 ITEM_20160530_010633	A ticket showing the initial 'T'.{nl}Can be traded for an item at Magic Association NPCs found in the cities.
 ITEM_20160617_010634	Swordsman School Look Costume (Male)
@@ -24411,7 +24411,6 @@ ITEM_20191024_024410	Mystic Tome (Flame Ground: Enhanced Upgrade)	신비한 서 
 ITEM_20191024_024411	Learn the art [Flame Ground: Enhanced Upgrade] upon use.{nl} - Learn Condition: [Flame Ground: Enhance] Attribute Level 65{nl} - Cost to Learn or Level Up: 3057 Attribute Points{nl} - Art Description{nl}* [Flame Ground] skill factor is increased by 1.25% per attribute level	사용 시 [플레임 그라운드: 상급 강화] 아츠를 획득할 수 있습니다.{nl} - 습득 조건 : [플레임 그라운드: 강화] 특성 65 레벨 달성{nl} - 습득 또는 레벨업 특성 비용 : 3057 포인트{nl} - 아츠 설명{nl}* [플레임 그라운드]의 스킬 계수가 특성 레벨당 1.25% 증가				
 ITEM_20191024_024412	Mystic Tome (Prominence: E"	신비한 서 (홍염: 상급 강화)				
 ITEM_20191024_024413	Learn the art [Prominence: Enhanced Upgrade] upon use.{nl} - Learn Condition: [Prominence: Enhance] Attribute Level 65{nl} -
- Cost to Learn or Level Up: 3057 Attribute Points{nl} - Art Description{nl}* [Prominence] skill factor is increased by 1.25% per attribute level	사용 시 [홍염: 상급 강화] 아츠를 획득할 수 있습니다.{nl} - 습득 조건 : [홍염: 강화] 특성 65 레벨 달성{nl} - 습득 또는 레벨업 특성 비용 : 3057 포인트{nl} - 아츠 설명{nl}* [홍염]의 스킬 계수가 특성 레벨당 1.25% 증가				
 ITEM_20191024_024414	Mystic Tome (Ice Bolt: Enhanced Upgrade)	신비한 서 (아이스볼트: 상급 강화)				
 ITEM_20191024_024415	Learn the art [Ice Bolt: Enhanced Upgrade] upon use.{nl} - Learn Condition: [Ice Bolt: Enhance] Attribute Level 65{nl} - Cost to Learn or Level Up: 3057 Attribute Points{nl} - Art Description{nl}* [Ice Bolt] skill factor is increased by 1.25% per attribute level	사용 시 [아이스볼트: 상급 강화] 아츠를 획득할 수 있습니다.{nl} - 습득 조건 : [아이스 볼트: 강화] 특성 65 레벨 달성{nl} - 습득 또는 레벨업 특성 비용 : 3057 포인트{nl} - 아츠 설명{nl}* [아이스볼트]의 스킬 계수가 특성 레벨당 1.25% 증가				
 ITEM_20191024_024416	Mystic Tome (Ice Pike: Enhanced Upgrade)	신비한 서 (아이스 파이크: 상급 강화)				
@@ -27170,3 +27169,89 @@ ITEM_20210115_027168	Bomb with enormous power. It can be blown up by Remote Cont
 ITEM_20210128_027169	In some places, sticky taffy is offered to students as a wish to do well in their exams. Increases EXP gains by 30% for 30 minutes. Right-click to use. (Item will be deleted upon the announced date.)	합격을 기원하는 마음으로 만들어진 합격의 엿입니다. 예로부터 찰싹 붙으라는 뜻이 담겨 있습니다. 30분간 획득하는 경험치가 30% 증가하는 효과가 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}{#ff0000}2월 26일 오전 6시에 삭제됩니다.{/}	ITEM_20210115_027108	In some places, sticky taffy is offered to students as a wish to do well in their exams. Increases EXP gains by 30% for 30 minutes. Right-click to use. (Item will be deleted upon the announced date.)	합격을 기원하는 마음으로 만들어진 합격의 엿입니다. 예로부터 찰싹 붙으라는 뜻이 담겨 있습니다. 30분간 획득하는 경험치가 30% 증가하는 효과가 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}{#ff0000}12월 17일 오전 6시에 삭제됩니다.{/}
 ITEM_20210128_027170	Use it to obtain the items.{nl} - Full Pamoka Solution x40{nl} {nl}Obtained Pamoka Solution can be used only for applying Set Stats.	사용 시 다음 아이템을 획득합니다.{nl} - 완성된 파모카 시약병 x40{nl} {nl}획득한 파모카 시약병 아이템은 세트 옵션 부여에만 사용 가능합니다.	ITEM_20200514_026359	Use and receive the following Item.{nl} - Full Pamoka Solution x40	사용 시 다음 아이템을 획득합니다.{nl} - 완성된 파모카 시약병 x40
 ITEM_20210128_027171	Solution filled to the brim. Use to add stats on Legend-grade items.{nl} {nl}This item cannot be used as a material of recipe. 	충전이 완료된 시약병입니다. 레전드 아이템 세트옵션 부여에 사용됩니다.{nl} {nl}해당 아이템은 제작서 재료로 사용될 수 없습니다.	ITEM_20190802_023074	Solution filled to the brim. Use to add stats on Legend-grade items.	충전이 완료된 시약병입니다. 레전드 아이템 세트옵션 부여에 사용됩니다.
+ITEM_20210223_027172	[Lv.450] Stage 10 Transcendence Scroll	[Lv.450] 10초월 스크롤			
+ITEM_20210223_027173	Upgrades your equipment to Stage 10 Transcendence.{nl}Can only be used on items of Stage 0~9 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.{nl}Can only be used on items at Lv. 450 or below.	장비의 초월 수치를 10단계로 만들어줍니다.{nl}0~9단계 초월 아이템만 사용할 수 있으며, 10초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 10초월 상태로 변경됩니다. {nl}Lv 450이하 장비에만 사용 가능한 초월 스크롤입니다.			
+ITEM_20210226_027174	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Dark Property Magic	[슬롯 장착 효과] 어둠 속성 마법 공격 시 대미지 [★]% 증가	ITEM_20200514_026369	[Card Equip Effect] Increases damage against blinded enemies by [{img star_mark 20 20}]%	[슬롯 장착 효과] 암흑 상태 이상에 걸린 대상에게 주는 대미지[★]% 증가
+ITEM_20210226_027175	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Fire Property Magic	[슬롯 장착 효과] 불 속성 마법 공격 시 대미지 [★]% 증가	ITEM_20200514_026371	[Card Equip Effect] Increases damage against enemies with fire status effect by [{img star_mark 20 20}]%	[슬롯 장착 효과] 불 상태 이상에 걸린 대상에게 주는 대미지[★]% 증가
+ITEM_20210226_027176	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Holy Property Magic	[슬롯 장착 효과] 신성 속성 마법 공격 시 대미지 [★]% 증가	ITEM_20201207_026952	[Card Equip Effect] Increases damage against enemies under Brilliance by [{img star_mark 20 20}]%{nl}(When attacking with Holy property while the card is equipped, applies [Brilliance] to the target for 5 seconds.)	[슬롯 장착 효과] 광휘 상태 이상에 걸린 대상에게 대미지 증가 [★]%{nl}(카드 장착 중 신성 속성 공격 시 대상에게 [광휘] 상태 이상이 5초 부여됩니다.)
+ITEM_20210226_027177	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Ice Property Magic	[슬롯 장착 효과] 얼음 속성 마법 공격 시 대미지 [★]% 증가	ITEM_20201207_026954	[Card Equip Effect] Increases damage against enemies under Freeze, Chill by [{img star_mark 20 20}]%	[슬롯 장착 효과] 결빙, 한기 상태 이상에 걸린 대상에게 주는 대미지 증가 [★]%
+ITEM_20210226_027178	Damir Borkan Card	다미르 보르칸 카드			
+ITEM_20210226_027179	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Ground Property Magic	[슬롯 장착 효과] 땅 속성 마법 공격 시 대미지 [★]% 증가			
+ITEM_20210226_027180	Khanom Caolaw Card	카놈 차올라우 카드			
+ITEM_20210226_027181	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Strike Property	[슬롯 장착 효과] 때리기 속성 공격 시 대미지 [★]% 증가			
+ITEM_20210226_027182	Rudmila Card	루드밀라 카드			
+ITEM_20210226_027183	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Pistol Property	[슬롯 장착 효과] 총기 속성 공격 시 대미지 [★]% 증가			
+ITEM_20210318_027184	Panda Helmet Costume	판다 헬멧 코스튬			
+ITEM_20210318_027185	Helmet with cute panda shape.	귀여운 판다 모양의 헬멧입니다.			
+ITEM_20210318_027186	{nl} {nl}Hasisas - Amplify{nl} - Critical Damage of Hasisas increases additionally by 10%	{nl} {nl}하시사스 - 증폭{nl} - 하시사스 치명타 대미지 10% 추가 증가 	ITEM_20190611_022490	{nl} {nl}Hasisas - Amplify{nl} - Amplifies the critical damage increase effect of Hasisas to 3% per skill level	{nl} {nl}하시사스 - 증폭{nl} - 하시사스 치명타 대미지 증가 수치가 스킬 레벨당 3%로 적용
+ITEM_20210318_027187	{nl} {nl}Wild Dance{nl} - Increases maximum Duration of Taglio by 100% 	{nl} {nl}난무{nl} - 탈리오 최대 지속시간 100% 증가			
+ITEM_20210318_027188	Panda Costume	판다 코스튬			
+ITEM_20210318_027189	A Fluffy Panda doll Costume.	푹신푹신한 판다 인형 코스튬 입니다.			
+ITEM_20210318_027190	Panda Sleeping Mask	판다 수면 안대			
+ITEM_20210318_027191	Sleeping Mask with Panda's eyes and nose drawn on it.	판다의 눈과 코가 그려진 수면 안대 입니다.			
+ITEM_20210318_027192	Panda Hairpin	판다 머리핀			
+ITEM_20210318_027193	Hairpin with cute panda shape.	귀여운 판다 모양 머리핀 입니다.			
+ITEM_20210318_027194	during buff{nl} {nl}[Force Wave]{nl} - Force Wave skill Attack when wearing necklace: 2750%{nl} - Cooldown: 5 seconds{nl} - Applies debuff that increases damage when attacking with the same property as Force Wave{nl} - Increases damage when wearing necklace by 25%{nl} - Debuff duration when wearing necklace: 5 seconds{nl} - When there's 2 or more property debuff	 스킬 시전{nl} {nl}[포스 웨이브]{nl} - 목걸이 착용 시 포스 웨이브 스킬 공격력 2750%{nl} - 재사용 대기시간 5초{nl} - 포스 웨이브 속성과 동일한 속성으로 공격 시 대미지를 증가시키는 디버프 부여{nl} - 목걸이 착용 시 대미지 증가 25%{nl} - 목걸이 착용 시 디버프 지속시간 5초{nl} - 속성 디버프가 두 가지 이상 일 때 			
+ITEM_20210318_027195	during buff{nl} {nl}[Force Wave]{nl} - Force Wave Skill Attack when wearing bracelet: 13750%{nl} - Cooldown: 5 seconds{nl} - Applies debuff that increases damage when attacking with the same property as Force Wave{nl} - Increases damage when wearing bracelet by 12.5%{nl} - Debuff duration when wearing bracelet: 2.5 seconds{nl} - When there's 2 or more property debuff	 스킬 시전{nl} {nl}[포스 웨이브]{nl} - 팔찌 착용 시 포스 웨이브 스킬 공격력 1375%{nl} - 재사용 대기시간 5초{nl} - 포스 웨이브 속성과 동일한 속성으로 공격 시 대미지를 증가시키는 디버프 부여{nl} - 팔찌 착용 시 대미지 증가 12.5%{nl} - 팔찌 착용 시 디버프 지속시간 2.5초{nl} - 속성 디버프가 두 가지 이상 일 때 			
+ITEM_20210318_027196	Panda Balloon	판다 풍선			
+ITEM_20210318_027197	Balloon with Panda face shape.	판다 얼굴 모양의 풍선입니다.			
+ITEM_20210318_027198	Bamboo Forest	대나무 숲			
+ITEM_20210318_027199	Forest full of bamboos that panda loves.	판다가 좋아하는 대나무로 가득한 숲입니다.			
+ITEM_20210318_027200	Immediately recovers HP by 12,000, SP by 1,500.{nl}(Cannot use in PvP areas.)	HP 12,000, SP 1,500을 즉시 회복 시킵니다.{nl}(PvP지역에서는 사용할 수 없습니다.)	ITEM_20210115_027052	Immediately recovers HP by 12,000, SP by 1,500.	HP 12,000, SP 1,500을 즉시 회복 시킵니다.
+ITEM_20210318_027201	Restores 35% HP immediately and additionally restores 35% HP per 2 seconds for 11 seconds. Right-click to use. Cooldown: 20 seconds(Cannot use in PvP areas.)	HP를 35% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 35% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}(PvP지역에서는 사용할 수 없습니다.)	ITEM_20210115_027056	Restores 35% HP immediately and additionally restores 35% HP per 2 seconds for 11 seconds. Right-click to use. Cooldown: 20 seconds	HP를 35% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 35% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.
+ITEM_20210318_027202	Restores 35% SP immediately and additionally restores 35% SP per 2 seconds for 11 seconds. Right-click to use. Cooldown: 20 seconds{nl}(Cannot use in PvP areas.)	SP를 35% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 35% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}(PvP지역에서는 사용할 수 없습니다.)	ITEM_20210115_027058	Restores 35% SP immediately and additionally restores 35% SP per 2 seconds for 11 seconds. Right-click to use. Cooldown: 20 seconds	SP를 35% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 35% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.
+ITEM_20210318_027203	Colored Gem Selection Box	컬러 젬 선택 상자			
+ITEM_20210318_027204	Use to select and obtain one Lv.1 gem of the following.{nl} {nl} - Red Gem{nl} - Blue Gem{nl} - Green Gem{nl} - Yellow Gem{nl} - White Gem	사용 시 아래의 1레벨 젬 중 하나를 선택해 획득할 수 있습니다.{nl} {nl} - 레드 젬{nl} - 블루 젬{nl} - 그린 젬{nl} - 옐로우 젬{nl} - 화이트 젬			
+ITEM_20210318_027205	[Card Equip Effect] Final Damage [{img star_mark 20 20} * 0.4]% when attacking enemy with unfavorable property{nl}(Effect decreases in PvP areas)	[슬롯 장착 효과] 공격 시 유리한 상성이 아닐 때 최종 대미지 [★ * 0.4]%{nl}(PvP지역에서 효과 반감)			
+ITEM_20210318_027206	Rosy Floret Erhu	연홍화원 얼후			
+ITEM_20210318_027207	Use to play the instrument.{nl}3rd octave	사용 시 연주 모드로 변경 됩니다.{nl}3옥타브 			
+ITEM_20210318_027208	is its musical range.{nl}Press the spacebar and play the note to play half-note.{nl}You cannot do anything else while playing the instrument.{nl} {nl}You can't play the instrument during the following activities.{nl} - During battle {nl} - While using certain buff or skill{nl} - While opening shop{nl} - In PvP area or during friendly duel{nl} - During transformation	까지 연주할 수 있습니다.{nl}반음을 연주할 수 있는 음은 스페이스바를 누르고 연주 시 반음이 연주 됩니다.{nl}악기 연주 중에는 연주를 제외한 모든 행동을 취할 수 없게 됩니다.{nl} {nl}아래 사항에 해당 될 경우 악기 사용이 불가능합니다.{nl} - 전투 상태{nl} - 특정 버프 및 스킬 사용 중{nl} - 상점 개설 중{nl} - PvP지역 및 친선 대결 중{nl} - 변신 중			
+ITEM_20210318_027209	In some places, sticky taffy is offered to students as a wish to do well in their exams. Increases EXP gains by 30% for 30 minutes. Right-click to use.	합격을 기원하는 마음으로 만들어진 합격의 엿입니다. 예로부터 찰싹 붙으라는 뜻이 담겨 있습니다. 30분간 획득하는 경험치가 30% 증가하는 효과가 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.			
+ITEM_20210318_027210	Res Sacrae Raid: Auto Match (Hard) One Entry Voucher	성물 레이드: 자동 매칭(Hard) 입장권	ITEM_20210115_027121	Res Sacrae Dungeon: Auto Match (Hard) Entry Voucher	성물 던전: 자동 매칭(Hard) 입장권
+ITEM_20210318_027211	An item needed when entering Res Sacrae Raid: Auto Match(Hard).	성물 레이드: 자동 매칭(Hard)에 입장할 때 필요한 아이템입니다. 	ITEM_20210115_027122	Item required to enter Res Sacrae Dungeon: Auto Match (Hard).	성물 던전: 자동 매칭(Hard)에 입장할 때 필요한 아이템입니다. 
+ITEM_20210318_027212	Res Sacrae Raid: Challenge One Entry Voucher	성물 레이드: 도전 모드 입장권	ITEM_20210115_027123	Res Sacrae Dungeon: Challenge Entry Voucher	성물 던전: 도전 모드 입장권
+ITEM_20210318_027213	An item needed when entering Res Sacrae Raid: Challenge.	성물 레이드: 도전 모드에 입장할 때 필요한 아이템입니다. 	ITEM_20210115_027124	Item required to enter Res Sacrae Dungeon: Challenge.	성물 던전: 도전 모드에 입장할 때 필요한 아이템입니다. 
+ITEM_20210326_027214	Chickling Umbrella	병아리 우산			
+ITEM_20210326_027215	Use to put up the umbrella	사용 시 우산을 펼칩니다.			
+ITEM_20210326_027216	Gesture: Hammer Dance	제스처 : 망치춤			
+ITEM_20210326_027217	You can add Hammer Dance gesture to quick slots. Right-click to use.{nl}{#ff0000}Gesture cannot be used when mounting a companion.{/}	망치춤 제스처를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}컴패니언 탑승 시 해당 제스처를 사용할 수 없습니다.{/}			
+ITEM_20210326_027218	Gesture: Cheer	제스처 : 응원			
+ITEM_20210326_027219	You can add Cheer gesture to quick slots. Right-click to use.{nl}{#ff0000}Gesture cannot be used when mounting a companion.{/}	응원 제스처를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}컴패니언 탑승 시 해당 제스처를 사용할 수 없습니다.{/}			
+ITEM_20210326_027220	Motion Emoticon: Popolion (Toss)	모션 이모티콘: 포포리온(헹가래)			
+ITEM_20210326_027221	Motion Emoticon: Popolion (Fabulous)	모션 이모티콘: 포포리온(멋짐)			
+ITEM_20210326_027222	Motion Emoticon: Popolion (Badmouth)	모션 이모티콘: 포포리온(심한말)			
+ITEM_20210405_027223	Flyntess Card	플린테스 카드			
+ITEM_20210405_027224	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Slash Property	[슬롯 장착 효과] 베기 속성 공격 시 대미지 [★]% 증가			
+ITEM_20210405_027225	Sorsha Hutton Card	소르샤 허턴 카드			
+ITEM_20210405_027226	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Pierce Property	[슬롯 장착 효과] 찌르기 속성 공격 시 대미지 [★]% 증가			
+ITEM_20210405_027227	Ili Terid Card	일리 테리드 카드			
+ITEM_20210405_027228	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Psychokinesis Property Magic	[슬롯 장착 효과] 염 속성 마법 공격 시 대미지 [★]% 증가			
+ITEM_20210503_027229	Lufas Kehel Card	루파스 케헬 카드			
+ITEM_20210503_027230	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Non-Property Magic	[슬롯 장착 효과] 무 속성 마법 공격 시 대미지 [★]% 증가			
+ITEM_20210503_027231	Visvaldas Black Card	비스발다스 블랙 카드			
+ITEM_20210503_027232	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Bow Property	[슬롯 장착 효과] 활 속성 공격 시 대미지 [★]% 증가			
+ITEM_20210503_027233	Pauline Card	폴린 카드			
+ITEM_20210503_027234	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Cannon Property	[슬롯 장착 효과] 캐논 속성 공격 시 대미지 [★]% 증가			
+ITEM_20210518_027235	Vaivora Dagger - Echo (20 minutes)	바이보라 대거 - 반향(20분)			
+ITEM_20210518_027236	Vaivora Dagger - Shield (20 minutes)	바이보라 실드 - 반향(20분)			
+ITEM_20210518_027237	Vaivora Staff - Red Tiger Claw (20 minutes)	바이보라 스태프 - 적호조(20분)			
+ITEM_20210518_027238	Vaivora Rod - Distortion (20 minutes)	바이보라 로드 - 왜곡(20분)			
+ITEM_20210518_027239	Vaivora Staff - Annihilate (20 minutes)	바이보라 스태프 - 섬멸(20분)			
+ITEM_20210518_027240	Vaivora Two-handed Mace - Thunder Kick (20 minutes)	바이보라 투 핸드 메이스 - 진각(20분)			
+ITEM_20210518_027241	Vaivora Two-handed Mace - Sacred Lightning (20 minutes)	바이보라 투 핸드 메이스 - 성뢰(20분)			
+ITEM_20210518_027242	Vaivora Pistol - Sabotage (20 minutes)	바이보라 피스톨 - 파괴공작(20분)			
+ITEM_20210518_027243	Giltine's Eroded Wings	침식된 길티네 날개			
+ITEM_20210518_027244	[Weekly Boss Raid] Leticia Special Potion Lv.2	[주간 보스 레이드] 레티샤 특제 포션 Lv.2			
+ITEM_20210518_027245	Can only be used at Weekly Boss Raids.{nl}Damage received -60% for 1,000 minutes.{nl}Buff cannot be stacked and does not apply if the damage received is lower than 1,000.{nl} - Cannot be stacked with [Weekly Boss Raid] Potion	주간 보스 레이드에서만 사용 가능합니다.{nl}10분간 받는 피해가 60% 감소합니다.{nl}버프는 중복 적용되지 않으며, 받는 피해량이 1,000 이하라면 감소되지 않습니다.{nl} - [주간 보스 레이드] 포션과 중복 불가능			
+ITEM_20210518_027246	Additional reward box obtained by succeeding the mission during guild quest.{nl}Use to obtain 1 of the following items.{nl} - Glasses from the Otherworld{nl} - Grey Rabbit Ears{nl} - Eagle Feather	길드 퀘스트 중 미션에 성공하여 획득한 추가 보상 상자입니다. {nl} 사용 시 다음 아이템 중 1개를 획득할 수 있습니다.{nl} - 이세계의 안경{nl} - 회색 토끼 귀{nl} - 독수리 깃	ITEM_20180320_017696	Reward box for successfully completing Mission during Guild Quest.{nl}High chance to obtain Hair Accessory.	길드 퀘스트 중 미션에 성공하여 획득한 추가 보상 상자입니다. {nl} 헤어 악세서리를 얻을 수 있습니다.
+ITEM_20210518_027247	[Card Equip Effect] [{img star_mark 20 20}/3]% of applying Electric Shock on enemy for 3 seconds when attacking{nl}(Damage of Electric Shock is fixed to 1.)	[슬롯 장착 효과] 공격 시 [★/3]% 확률로 상대방에게 3초간 감전 상태{nl}(감전 디버프의 대미지는 1로 고정 됩니다.)	ITEM_20180208_017427	[Card Equip Effect] [{img star_mark 20 20}/3]% chance per attack dealt of shocking an enemy for 3 sec	[슬롯 장착 효과] 공격 시 [★/3]% 확률로 상대방에게 3초간 감전 상태
+ITEM_20210518_027248	Criminal Black Money Case	더 크라임 블랙 머니 케이스			
+ITEM_20210518_027249	Deliver the Money Case by a secret atmosphere.{nl}Use to activate pose.	은밀한 분위기에서 돈가방을 건냅니다. {nl}사용 시 포즈를 재생합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20210518_027250	Bonus Cube (S+A) (14 Days)	회차 보너스 큐브 (S+A급) (14일)			
+ITEM_20210518_027251	Title - Begin A Prelude [Silver]	칭호 - Begin A Prelude[Silver]			
+ITEM_20210518_027252	Title given to the saviors who completed [Demonic Sanctuary: Legend] within 10 minutes.	[마신의 성소: 레전드] 10분 이내에 클리어한 유저에게 지급되는 칭호입니다.			
+ITEM_20210528_027253	GeHong Card	갈홍 카드			
+ITEM_20210528_027254	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Lightning Property Magic	[슬롯 장착 효과] 전기 속성 마법 공격 시 대미지 [★]% 증가			
+ITEM_20210528_027255	Philip Aurellius Card	필립 아우뢸루스 카드			
+ITEM_20210528_027256	[Card Equip Effect] Increases damage by [{img star_mark 20 20}]% when attacking with Poison Property Magic	[슬롯 장착 효과] 독 속성 마법 공격 시 대미지 [★]% 증가			
+ITEM_20210607_027257	Title - Death Empress	칭호 - Death Empress				

@@ -389,4 +389,6 @@ INTL_20200727_000388	Whether to apply protection mode after checking hwid, ip, 1
 INTL_20201030_000389	Will you leave log of using skills in Boruta Guild Mission? (1: Leave, 0: Not Leave)	보루타 길드 미션에서 스킬 사용 로그를 남길건가? (1: 남김, 0: 안함)				
 INTL_20201123_000390	CashOut applicability, 1:Used 0:Unused	CashOut 적용 여부, 1:사용 0:안함
 INTL_20210128_000391	EP.13 Growth Supply buff.{nl}EXP + 600%{nl}Looting Chance + 300{nl}※Only applies to the character with Lv.449 or below.	EP.13 성장 지원 버프 입니다.{nl}경험치 + 600%{nl}루팅찬스 + 300{nl}※450레벨 미만의 캐릭터에만 적용됩니다.			
-
+INTL_20210318_000392	{s18}Market Grade Warning Message	{s18}마켓 등급 관련 경고 메세지				
+INTL_20210326_000393	Red Lantern carrying new year's desire.	신년 소망을 담은 홍등입니다.				
+INTL_20210326_000394	Flower Deer head balloon.
