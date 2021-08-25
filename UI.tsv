@@ -3759,7 +3759,7 @@ UI_20190104_003758	{@st41}Vertical (%s){/}
 UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}
 UI_20190104_003760	{@st41}Horizontal Camera (%s){/}
 UI_20190104_003761	{@st41}Vertical Camera (%s){/}
-UI_20190104_003762	{s16}See item tooltip
+UI_20190104_003762	{s16}Смотреть всплывающую подсказку
 UI_20190104_003763	{b}Спец статы класса
 UI_20190104_003764	{@st66d}Forgery
 UI_20190104_003765	{#00fec5}{ol}Class Tree Change (available for 30 days){/}
@@ -4728,4 +4728,243 @@ UI_20210518_004727	Main Material	주 재료
 UI_20210518_004728	{@st41b}{s18}Exchange	{@st41b}{s18}교환				
 UI_20210518_004729	{@st42b}{s15}{b}{#FFFFFF}Usage Limit : %s{/}{/}{/}{/}	{@st42b}{s15}{b}{#FFFFFF}사용제한 : %s{/}{/}{/}{/}	UI_20160718_002248	Unable to Use :	사용제한 : %s	
 UI_20210614_004730	{@st41b}{s18}  Option	{@st41b}{s18}  옵션
+UI_20210809_004731	Enhance Aether Gem	에테르 젬 강화				
+UI_20210809_004732	{@st59}Enhance the {@st66d_y}{s18}Aether Gem/}{/} in the inventory or equipped in the socket of the Goddess rank equipment.{/}{nl} {nl}{@st66d_y}Depending on the {@st59}level of the {s18}Aether Gem{/} and the {@st204_purple}{s18}cleared stage, the enhance success rate differs{/}{@st59}.{nl}{@st66d_y}{s18}Aether Gem{/}{@st59} can be enhanced up to a maximum of 5 times and there is no cost consumed when enhancing the gem.{nl}When enhanced, {@st66d_y}{s18}Aether Gem{/}{@st59}'s stat(STR, INT, DEX, SPR, CON) increases by 2 per 1 level.{nl} {nl}※ You can obtain the Aether Gem from the Bounty Hunt.	{@st59}착용 중인 가디스 장비 소켓에 장착 중이거나, 인벤토리에 보유 중인 {@st66d_y}{s18}에테르 젬{/}{/}을 강화합니다.{/}{nl} {nl}{@st66d_y}{s18}에테르 젬{/}{@st59}의 레벨과 {@st204_purple}{s18}클리어 스테이지 단계에 따라 강화 성공 확률이 차등 적용{/}{@st59}됩니다.{nl}{@st66d_y}{s18}에테르 젬{/}{@st59} 강화는 최대 5회까지 진행 가능하며, 젬 강화에 소모되는 비용이 없습니다.{nl}강화 시 1레벨당 각 {@st66d_y}{s18}에테르 젬{/}{@st59}의 지정된 능력치(힘, 지능, 민첩, 정신, 체력)가 +2 상승합니다.{nl} {nl}※ 에테르 젬은 바운티 헌트를 통해 획득할 수 있습니다.				
+UI_20210809_004733	Select gem	젬을 선택하세요				
+UI_20210809_004734	Gem Name	젬이름				
+UI_20210809_004735	Clear Stage - 14	클리어 스테이지 - 14층				
+UI_20210809_004736	Success Chance 100%	성공률 100%				
+UI_20210809_004737	{@st59}Enhance the Aether Gem of the equipped item{/}	{@st59}장착된 아이템의 에테르 젬을 강화합니다{/}				
+UI_20210809_004738	{@st59}Enhance the Aether gem stored in the inventory{/}	{@st59}인벤토리에 보유한 에테르 젬을 강화합니다{/}				
+UI_20210809_004739	Above Legend	레전드 이상				
+UI_20210809_004740	{@st41b}{s20}Use Order	{@st41b}{s20}지령서 사용				
+UI_20210809_004741	Bounty Hunt	바운티 헌트				
+UI_20210809_004742	Cancel Bounty Hunt.	바운티 헌트를 취소합니다.				
+UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210318_004705	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
+UI_20210809_004744	{@st66b}{s16}- Combine 3 Vaivora weapons to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Unique weapon with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 유니크 무기 1개를 선택하여 획득할 수 있습니다.	UI_20200826_004441	{@st66b}{s16}- Combine 3 Vaivora weapon to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.	
+UI_20210809_004745	{s16}Are you sure you want to use %s?{/}	{s16}%s 아이템을 사용하시겠습니까?{/}				
+UI_20210809_004746	{@st43}Extract Luciferie Property{/}	{@st43}루시페리 속성 추출{/}				
+UI_20210809_004747	{@st59}Close{/}	{@st59}루세피리 속성 추출창을 닫습니다{/}				
+UI_20210809_004748	Extract Luciferie Property	루시페리 속성 추출				
+UI_20210809_004749	Obtain 2 scrolls with properties saved by extracting the Enhancement/Transcendence/Potential value of the Luciferie Accessory.{nl}*Property of the extracted item becomes 0.	루시페리 계열 액세서리의 강화/초월/포텐셜 속성 수치를 추출하여 속성이 저장된 스크롤 2장을 획득합니다.{nl}*추출된 아이템의 모든 속성은 0이 됩니다.				
+UI_20210809_004750	{@st41b}Extract	{@st41b}추출				
+UI_20210809_004751	{@st59}Close{/}	{@st59}설치 UI를 닫습니다{/}	UI_20150317_000064	{@st59}Close{/}	{@st59}자판기를 닫습니다{/}	
+UI_20210809_004752	{@st66}Foods on Refreshment Table are basically offered to the party and guild members.	{@st66}배식 테이블의 음식은 기본적으로 파티원과 길드원에게 제공됩니다.				
+UI_20210809_004753	{@st43}Copy Goddess Card Level{/}	{@st43}여신 카드 레벨 복사{/}				
+UI_20210809_004754	Please put the card to copy. 	복사할 카드를 올려주세요				
+UI_20210809_004755	Please put the target card. 	대상 카드를 올려주세요				
+UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}				
+UI_20210809_004757	Copy Goddess Card Level	여신 카드 레벨 복사				
+UI_20210809_004758	{@st41b}Copy	{@st41b}복사				
+UI_20210809_004759	Goddess Equipment Management	가디스 장비 관리				
+UI_20210809_004760	{@st61}{s24}Goddess Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved random stat ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 랜덤 옵션 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 				
+UI_20210809_004761	Aether Gem Socket Key	에테르 젬 소켓 열쇠				
+UI_20210809_004762	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft Goddess rank equipment by using Lv.440 Legend rank equipment as an ingredient.{nl}You can partially transfer the enhancement and enchant stat value to the Goddess rank equipment according to the enhancement and transcendence stage of the Legend rank equipment used as an ingredient.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 장비를 재료로 가디스 장비를 제작합니다.{nl}제작 시 레전드 등급 장비의 강화, 초월 단계에 따라 강화, 인챈트 옵션 수치를 일부 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 				
+UI_20210809_004763	Equipment Type Change Tome	장비 계열 변경의 서				
+UI_20210809_004764	as an ingredient, you can change the equipment in to another type with the same level and rank.	를 재료로 동일 레벨, 등급의 다른 장비로 변경할 수 있습니다.				
+UI_20210809_004765	{@st59}Forge{/}	{@st59}재련{/}				
+UI_20210809_004766	{@st59}Engrave{/}	{@st59}각인{/}				
+UI_20210809_004767	{@st59}Succession{/}	{@st59}계승{/}				
+UI_20210809_004768	{@st59}Type change{/}	{@st59}계열 변경{/}				
+UI_20210809_004769	{@st66b}Enhance	{@st66b}강화				
+UI_20210809_004770	{@st66b}Enchant	{@st66b}인챈트				
+UI_20210809_004771	{@st66b}Transcend	{@st66b}초월				
+UI_20210809_004772	{@st66b}Evolve	{@st66b}진화				
+UI_20210809_004773	Proceed with the Enhance Tutorial.	강화 튜토리얼을 진행할 수 있습니다.				
+UI_20210809_004774	Proceed with the Enchant Tutorial.	인챈트 튜토리얼을 진행할 수 있습니다.				
+UI_20210809_004775	Enhancement Ingredient	강화 재료				
+UI_20210809_004776	Additional Ingredient	추가 재료				
+UI_20210809_004777	{@st42}{s20}Enhance Aid (%s / %s){/}{/}	{@st42}{s20}강화 보조제 (%s / %s){/}{/}				
+UI_20210809_004778	{@st42}{s20}Premium Enhance Aid (%s / %s){/}{/}	{@st42}{s20}프리미엄 강화 보조제 (%s / %s){/}{/}				
+UI_20210809_004779	{@st42}{s24}Failure Adjusted ProbabilIty:{/}{/}	{@st42}{s24}누적 실패 보정:{/}{/}				
+UI_20210809_004780	{@st42}{s24}Success Rate:{/}{/}	{@st42}{s24}성공 확률:{/}{/}				
+UI_20210809_004781	{@st41b}{s18}Skip Confirm Window{/}{/}	{@st41b}{s18}확인 창 생략{/}{/}				
+UI_20210809_004782	{@st43b}{s18}Stat Currently Applied	{@st43b}{s18}현재 적용중인 옵션				
+UI_20210809_004783	{@st43b}{s18}Result	{@st43b}{s18}결과				
+UI_20210809_004784	{@st43b}{s18}Place the Goddess Enchant Jewel here	{@st43b}{s18}가디스 인챈트 쥬얼을 올려주세요				
+UI_20210809_004785	{@st41b}{s18}Current number of %s: %s	{@st41b}{s18}현재 %s 보유 개수: %s개				
+UI_20210809_004786	{@st66}{s18}{b} %s x%s will be consumed.	{@st66}{s18}{b} %s %s개가 소비됩니다.				
+UI_20210809_004787	{@st41}{s22}%s Stage{/}	{@st41}{s22}%s단계{/}				
+UI_20210809_004788	{@st45}{s20}Remaining Expansion Time : {#FF0000}%s{/}{/}{/}	{@st45}{s20}남은 확장 시간 : {#FF0000}%s{/}{/}{/}				
+UI_20210809_004789	{@st41b}{s18}Change Name	{@st41b}{s18}이름 변경				
+UI_20210809_004790	{@st59}Change Engraving Set Name{/}	{@st59}각인 세트 이름을 변경합니다{/}				
+UI_20210809_004791	Select All	모두 선택				
+UI_20210809_004792	{@st66b}Save Engraving	{@st66b}각인 저장				
+UI_20210809_004793	{@st66b}Apply Engraving	{@st66b}각인 부여				
+UI_20210809_004794	{@st66b}Ichor	{@st66b}아이커				
+UI_20210809_004795	{@sti1c}{s18} - At least one Engrave Stone is required to attempt saving the engraving,{nl}and {#1199bb}success chance increases by 5% per one Engrave Stone{/}.{nl} {nl}  - You can not save the engraving if the random stat trying to save and already saved is equal.{/}	{@sti1c}{s18} - 최소 1개의 각인석을 사용해야 각인 저장을 시도할 수 있으며,{nl}{#1199bb}각인석 1개당 성공 확률이 5% 상승{/}합니다,{nl} {nl}  - 저장 하려는 랜덤 옵션과 동일한 랜덤 옵션이 해당 부위에 저장되어 있다면 각인 저장을 시도할 수 없습니다.{/}				
+UI_20210809_004796	To be Saved	저장할 옵션				
+UI_20210809_004797	Currently Saved	현재 저장된 옵션				
+UI_20210809_004798	{@st42}{s24}Engraving Saving Chance: {/}{s34}%s{/}{s24}%{/}{s18} (%s% + %s%){/}{/}	{@st42}{s24}각인 저장 확률: {/}{s34}%s{/}{s24}%{/}{s18} (%s% + %s%){/}{/}				
+UI_20210809_004799	Save Engraving	각인 저장				
+UI_20210809_004800	Apply Engraving	각인 적용				
+UI_20210809_004801	{@sti1c}{s18} - Only {#aa9911}Lv.430 Armor Random Stat Ichor{/} can be saved as a engraving.{nl} {nl}  - Engrave Stone is not required when saving {#aa991}Lv.430 Armor Random Stat Ichor{/} and is saved by a 100% chance.{/}	{@sti1c}{s18} - {#aa9911}Lv.430 방어구 랜덤 옵션 아이커{/}만 각인에 저장할 수 있습니다.{nl} {nl}  -{#aa991}Lv.430 방어구 랜덤 옵션 아이커{/}를 각인에 저장할 때에는 각인석이 필요하지 않으며, 100% 확률로 저장 됩니다.{/}				
+UI_20210809_004802	{@st42}{s24}Engraving Saving Chance: {/}{s34}%s{/}{s24}%{/}{/}	{@st42}{s24}각인 저장 확률: {/}{s34}%s{/}{s24}%{/}{/}				
+UI_20210809_004803	{@st42}{s24}Required ▶{/}	{@st42}{s24}소모 비용 ▶{/}				
+UI_20210809_004804	Normal Socket	일반 소켓				
+UI_20210809_004805	Open Socket	소켓 개방				
+UI_20210809_004806	Aether Gem socket can be opened by using a Socket Key.	에테르 젬 소켓 개방은 소켓 열쇠 아이템을 통해 가능합니다.				
+UI_20210809_004807	Aether Gem Socket	에테르 젬 소켓				
+UI_20210809_004808	Armor Socket	방어구 소켓				
+UI_20210809_004809	- A maximum of 2 sockets can be opened in armors.{nl} {nl}  - Skill gems can be equipped in the normal socket of the armor.{nl} {nl}  - Only one effect is applied when 2 skill gems of the same effect is equipped.	 - 방어구에는 최대 2개의 일반 소켓을 개방할 수 있습니다.{nl} {nl}  - 방어구의 일반 소켓에 장착 가능한 젬은 스킬 젬입니다.{nl} {nl}  - 동일한 스킬의 스킬 젬을 2개 이상 장착 해도 1개의 효과만 적용됩니다.				
+UI_20210809_004810	Weapon Socket	무기 소켓				
+UI_20210809_004811	- A maximum of 2 normal sockets and 1 Aether socket can be opened in weapons.{nl} {nl}  - Color gems can be equipped in the normal socket of the weapon.{nl} {nl}  - Color Gem: Red, Blue, Yellow, Green, White Gem.{nl} {nl}  - Color Gem must be roasted first to be equipped.{nl} {nl}  - Aether gem can be equipped in the Aether gem socket and to open this socket, an appropriate equipment level	 - 무기에는 최대 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl} {nl}  - 무기의 일반 소켓에 장착 가능한 젬은 컬러 젬입니다.{nl} {nl}  - 컬러 젬의 종류로는 레드, 블루, 옐로우, 그린, 화이트가 있습니다.{nl} {nl}  - 컬러 젬을 장착하기 위해서는 우선 젬 로스팅을 해야 합니다.{nl} {nl}  - 에테르 젬 소켓에는 에테르 젬을 장착할 수 있으며, 에테르 젬 소켓을 개방하기 위해서는 장비 레벨에 맞는 				
+UI_20210809_004812	Craft List	제작 목록				
+UI_20210809_004813	Equipment Type	장비 종류				
+UI_20210809_004814	Equipment Category	장비 타입				
+UI_20210809_004815	{@st42}Show Craftable Items{/}	{@st42}재료가 있는 것만 보기{/}				
+UI_20210809_004816	{@st42}Show Equipable Items	{@st42}착용 가능한 목록만 보기				
+UI_20210809_004817	{@st42}{s20}Put Item{/}{/}	{@st42}{s20}아이템을 올려주세요{/}{/}				
+UI_20210809_004818	Vasilisa Sword	바실리사 소드				
+UI_20210809_004819	{@sti1c}{s18} - Only equipment with Lv.440 or above and Transcendence stage 8 or above can be succeeded.{nl} {nl}  - 2/3 of the [Enhancement] and [Enchant Stat] will be transferred when succeeding equipment with Enhancement value +11 or above and Transcendence stage 10.{nl}{#11cc88} ※ The maximum enhancement value transferred when succeeding Lv.440 Legend rank is +14.{nl} ※ Enhance Aid (Untradable) will be given to those succeeding Lv.440 Legend rank with enhancement value +21 or above. {nl}{/}{/}	{@sti1c}{s18} - 초월 단계 8이상의 Lv.440이상 장비만 계승이 가능합니다.{nl} {nl}  - 강화 수치가 +11이상, 초월 단계가 10인 장비는 계승 시 [강화], [인챈트 옵션]이 2/3만큼 이전됩니다.{nl}{#11cc88} ※Lv.440 레전드 등급 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 계승 시 강화 수치가 +21을 초과하는 장비는 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}				
+UI_20210809_004820	{@st42}{s20}Item to Succeed{/}{/}	{@st42}{s20}계승 대상 아이템{/}{/}				
+UI_20210809_004821	Vasilisa Rod	바실리사 로드				
+UI_20210809_004822	{@st42}{s26}{#ff1212}The character can not equip this equipment.{/}{/}	{@st42}{s26}{#ff1212}해당 캐릭터가 장착할 수 없는 장비입니다.{/}{/}				
+UI_20210809_004823	Equipment Succession	장비 계승				
+UI_20210809_004824	Select the item from the list below.	아래 목록에서 원하는 아이템을 선택해 주세요				
+UI_20210809_004825	{@sti1c}{s18} - To change equipment type, you an appropriate equipment level	{@sti1c}{s18} - 장비 계열 변경에는 해당 장비 레벨에 맞는 				
+UI_20210809_004826	is required.{nl} {nl}  - All stats except the awakening stat are transferred when changing equipment type.{nl}(The awakening stat applied to the equipment is deleted when changing type.){nl} {nl}  - Trade property is not changed when weapon type is changed.{/}	가 필요합니다.{nl} {nl}  - 장비 계열 변경 시 각성 옵션을 제외한 모든 옵션이 이전됩니다.{nl}(아이템에 부여된 각성 옵션은 계열 변경 시 사라집니다.){nl} {nl}  - 장비 계열 변경 시 거래 속성이 변경되지 않습니다.{/}				
+UI_20210809_004827	{@st42}{s20}Exchanged Item{/}{/}	{@st42}{s20}변경 대상 아이템{/}{/}				
+UI_20210809_004828	{@st66b}You can obtain one of the items listed in the{nl}[List of Probability Items] according to each probability	{@st66b}사용 시 각 확률에 따라 [확률형 아이템 목록]에{nl}안내된 구성 아이템 중 1종을 획득할 수 있습니다.{/}				
+UI_20210809_004829	{nl}{@st42b}{s15}List of Probability Items	{nl}{@st42b}{s15}확률형 아이템 목록				
+UI_20210809_004830	{@st43}{s24}Housing Workshop	{@st43}{s24}하우징 공방				
+UI_20210809_004831	{@st43}{s24}Consumable Status Board{/}	{@st43}{s24}재화 생산 현황판{/}				
+UI_20210809_004832	{@st59}Close{/}	{@st59}하우징 공방을 닫습니다{/}				
+UI_20210809_004833	{@st66b}Consumable{/}	{@st66b}재화{/}				
+UI_20210809_004834	Craft Reputation	명성도 생산				
+UI_20210809_004835	{s17}Time Remaining Until Receiving Goods : %s day(s) %s hour(s) %s minute(s)	{s17}재화 수령까지 남은 시간 : %s일 %s시간 %s분				
+UI_20210809_004836	{s17}Time Remaining Until Receiving Goods : Completed	{s17}재화 수령까지 남은 시간 : 완료				
+UI_20210809_004837	{s17}Effect Applied - %s	{s17}적용 중인 효과 - %s				
+UI_20210809_004838	Coupon	쿠폰				
+UI_20210809_004839	Recieve the goods	재화 수령				
+UI_20210809_004840	Map Information	맵 정보				
+UI_20210809_004841	{@sti1c}{s14}Mission	{@sti1c}{s14}미션				
+UI_20210809_004842	{@sti1c}{s14}Map Pattern	{@sti1c}{s14}맵 패턴				
+UI_20210809_004843	Score	스코어				
+UI_20210809_004844	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Monday.{nl}{s13}{#FF0000}※ Ranking is only registered from Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 월요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}				
+UI_20210809_004845	{@st66b}Bookmark	{@st66b}즐겨찾기	UI_20151224_001879	{@st66b}Dungeons{/}	{@st66b}던전{/}	
+UI_20210809_004846	{s22}Content	{s22}내용				
+UI_20210809_004847	{s18}{#ff9900}{ol}Details	{s18}{#ff9900}{ol}설명				
+UI_20210809_004848	{@st59}Equipment Storage{/}	{@st59}장비 보관함{/}				
+UI_20210809_004849	{@st59}Goddess Equipment Management{/}	{@st59}가디스 장비 관리{/}				
+UI_20210809_004850	{@st59}Quest{/}	{@st59}퀘스트{/}				
+UI_20210809_004851	{@st41b}{s17}Stage %s	{@st41b}{s17}%s단계				
+UI_20210809_004852	Free Coupon	무료 쿠폰				
+UI_20210809_004853	{@st202}Maintain registered item and do not show confirm window	{@st202}등록된 아이템 유지 및 확인 창 띄우지 않기				
+UI_20210809_004854	{@st41b}{s18}Don't show confirm window{/}{/}	{@st41b}{s18}확인 창 띄우지 않기{/}{/}				
+UI_20210809_004855	{@st43}{s24}Equipment Storage	{@st43}{s24}장비 보관함				
+UI_20210809_004856	{@st59}Close{/}	{@st59}장비 보관함을 닫습니다{/}				
+UI_20210809_004857	{@st59}Weapon{/}	{@st59}무기{/}				
+UI_20210809_004858	{@st59}Armor{/}	{@st59}방어구{/}				
+UI_20210809_004859	{@st59}Accessory{/}	{@st59}악세사리{/}				
+UI_20210809_004860	Proceed with the Vaivora Tutorial.	바이보라 튜토리얼을 진행할 수 있습니다.				
+UI_20210809_004861	Proceed with the Galimive Tutorial.	갈리미베 튜토리얼을 진행할 수 있습니다.				
+UI_20210809_004862	{@st66b}{s16}Others	{@st66b}{s16}기타				
+UI_20210809_004863	{s14}All activated when registering one of the same types of accessory.{/}	{s14}같은 종류의 악세사리 중 하나만 선택하여 등록해도 모두 활성화됩니다.{/}				
+UI_20210809_004864	Register ingredient by right-clicking it in the inventory.	인벤토리에서 우클릭을 통해 재료를 등록할 수 있습니다.				
+UI_20210809_004865	Created item will be bound to the character.	생성된 아이템은 캐릭터에 귀속됩니다.				
+UI_20210809_004866	{img icon_item_silver 24 24} Cost : %s	{img icon_item_silver 24 24} 비용 : %s				
+UI_20210809_004867	{st20}%s Item	{st20}%s 시 아이템				
+UI_20210809_004868	[Lv2] Rumpelstiltskin Leather Gloves - Reckless Gambler	[lv2] 럼펠스틸스킨 레더 글로브- 레클리스 겜블러				
+UI_20210809_004869	{@st43b}{s16}Stats	{@st43b}{s16}옵션				
+UI_20210809_004870	{nl}{@st42b}{s20}List of Item obtained by chance	{nl}{@st42b}{s20}확률형 아이템 목록				
+UI_20210809_004871	Socket Cost %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/}				
+UI_20210809_004872	{@st202}{s16}Ranking{/}	{@st202}{s16}순위{/}				
+UI_20210809_004873	{@st202}{s16}Team{/}	{@st202}{s16}팀명{/}				
+UI_20210809_004874	{@st202}{s16}Score{/}	{@st202}{s16}스코어{/}				
+UI_20210809_004875	Check Season Rewards	시즌별 보상 확인				
+UI_20210809_004876	{@st201}[Enhance]{/}{/} Try enhancing Res Sacrae Gem by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}Level of Res Sacrae Gem increases by 1 when enhancement succeeds.{nl}Cannot enhance if the level of equipable Res Sacrae Gem is lower than the resulting level after succeeding in enhancing.{nl} {nl}{@st201}[Combine]{/}{/} Consume 3 Lv.1 Res Sacrae Gem of the{nl}same rank and type(Cyan, Magenta, Black) {@st66d_y}{s16}Prism Coal{/}{/}.{nl} {nl}You can obtain 1 Legend Rank gem of the same type(Cyan, Magenta, Black){nl}by a 98% chance when combining Legend Rank Res Sacrae Gem.{nl}You can obtain 1 Goddess Rank gem of the same type by 2% chance.{nl} {nl}1 Res Sacrae Gem Fragment of the same type will always be given{nl}and you can select and obtain 1 Goddess Rank Res Sacrae Gem of the same type with 15 Res Sacrae Gem Fragment.{nl} {nl}All ingredients are consumed and obtain 15 Res Sacrae Gem Fragment when combining Goddess Rank Res Sacrae Gem.{nl} {nl}{@st201}[Transfer]{/}{/} Transfer the level of Res Sacrae Gem with lv.2 or above to another gem.{nl}The level of the gem transferred becomes equal to the gem used as an ingredient.{nl}Res Sacrae Gem used as an ingredient will be destroyed.{nl} {nl}{@st201}[Dismantle]{/}{/}Dismantle Res Sacrae Gem and obtain {@st66d_y}{s16}Prism Coal{/}{/} by the number decided by chance.{nl}More {@st66d_y}{s16}Prism Coal{/}{/} will be given when dismantling Goddess Res Sacrae gem.{nl}Only Lv.1 Res Sacrae Gem can be dismantled.	{@st201}[강화]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 성물 젬 강화를 시도합니다.{nl}강화 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 성물 젬의 레벨이 1 상승합니다.{nl}강화 목표 레벨보다 성물의 장착 가능 성물 젬 레벨이 낮으면 강화할 수 없습니다.{nl} {nl}{@st201}[합성]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}과 같은 등급, 같은 종류(시안, 마젠타, 블랙)의{nl} 1레벨 성물 젬 3개를 모두 소비하여 성물 젬 합성을 시도합니다.{nl} {nl}레전드 등급 성물 젬 합성 시 98% 확률로 같은 종류(시안, 마젠타, 블랙)의{nl}레전드 등급 성물 젬을 균등 확률로 1개 획득합니다.{nl}2% 확률로 같은 종류의 가디스 등급 성물 젬을 균등 확률로 1개 획득합니다.{nl} {nl}또한 같은 종류의 성물 젬 파편 1개를 고정 획득하며{nl}성물 젬 파편 15개를 모아 같은 종류의 가디스 등급 성물 젬을 1개 선택하여 획득할 수 있습니다.{nl} {nl}가디스 등급 성물 젬 합성 시 재료를 모두 소비하고 성물 젬 파편 15개를 획득합니다.{nl} {nl}{@st201}[이전]{/}{/} 레벨 2 이상인 성물 젬의 레벨을 다른 성물 젬으로 이전할 수 있습니다.{nl}이전 받은 성물 젬은 이전에 사용된 성물 젬과 동일한 레벨로 변경됩니다.{nl}이전에 사용된 성물 젬은 소멸합니다.{nl} {nl}{@st201}[분해]{/}{/}성물 젬을 분해하여 각 확률에 따라 정해진 수량의 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}가디스 등급 성물 젬 분해 시 더 많은 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}분해는 1 레벨 성물 젬만 가능합니다.	UI_20210115_004622	{@st201}[Enhance]{/}{/} Try enhancing Res Sacrae Gem by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}Level of Res Sacrae Gem increases by 1 when enhancement succeeds.{nl}Cannot enhance if the level of equipable Res Sacrae Gem is lower than the resulting level after succeeding in enhancing.{nl} {nl}{@st201}[Combine]{/}{/} Try combining by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}You can obtain a random Lv.1 Res Sacrae Gem when combining succeeds.{nl} {nl}{@st201}[Transfer]{/}{/} Transfer the level of Res Sacrae Gem with lv.2 or above to another gem.{nl}The level of the gem transferred becomes equal to the gem used as an ingredient.{nl}Res Sacrae Gem used as an ingredient will be destroyed.{nl} {nl}{@st201}[Dismantle]{/}{/}Dismantle Res Sacrae Gem and obtain a random number of {@st66d_y}{s16}Prism Coal{/}{/}.{nl}More {@st66d_y}{s16}Prism Coal{/}{/} will be given when dismantling Goddess Res Sacrae gem.{nl}Only Lv.1 Res Sacrae Gem can be dismantled.	{@st201}[강화]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 성물 젬 강화를 시도합니다.{nl}강화 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 성물 젬의 레벨이 1 상승합니다.{nl}강화 목표 레벨보다 성물의 장착 가능 성물 젬 레벨이 낮으면 강화할 수 없습니다.{nl} {nl}{@st201}[합성]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 합성을 시도합니다.{nl}합성 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 레벨 1 무작위 성물 젬을 획득할 수 있습니다.{nl} {nl}{@st201}[이전]{/}{/} 레벨 2 이상인 성물 젬의 레벨을 다른 성물 젬으로 이전할 수 있습니다.{nl}이전 받은 성물 젬은 이전에 사용된 성물 젬과 동일한 레벨로 변경됩니다.{nl}이전에 사용된 성물 젬은 소멸합니다.{nl} {nl}{@st201}[분해]{/}{/}성물 젬을 분해하여 무작위 수량의 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}가디스 등급 성물 젬 분해 시 더 많은 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}분해는 1 레벨 성물 젬만 가능합니다.	
+UI_20210809_004877	{@st202}Don't show confirm window	{@st202}확인 창 띄우지 않기				
+UI_20210809_004878	{@st59}Give relief supplies or main consumables to increase the Reputation Rate{/}{nl}　{nl}Main consumables are as follows{nl}  - Scorched Valuable of Tel Harsha : 20{nl}  - Refined Heart of Glacia : 20{nl}  - Refined Moth Talc Powder : 20{nl}  - Brikynite : 5{nl}  - Magic Stone : 5{nl}  - Mystic Tome Page : 5{nl}  - Practonium : 5{nl}  - Goddess' Blessed Gem : 5{nl}  - [Event] Reputation Coupon : 5 : 5{nl}  - [Housing Workshop] Reputation Increase Voucher : 5 : 5	{@st59}구호 물품 또는 주요 재화를 증여하여 명성도를 올릴 수 있습니다.{/}{nl}　{nl}주요 재화 교환 정보{nl}  - 그을린 텔하르샤의 의장품 : 20{nl}  - 정제된 글레이시어의 심장 : 20{nl}  - 정제된 모스 탈크 파우더 : 20{nl}  - 브리키나이트 : 5{nl}  - 마정석 : 5{nl}  - 신비한 서 낱장 : 5{nl}  - 프락토늄 : 5{nl}  - 여신의 축복석 : 5{nl}  - [이벤트] 명성 증가 쿠폰 : 5 : 5{nl}  - [하우징공방] 명성 증가 쿠폰 : 5 : 5	UI_20210518_004722	{@st59}Give relief supplies or main consumables to increase the Reputation Rate{/}{nl}　{nl}Main consumables are as follows{nl}  - Scorched Valuable of Tel Harsha : 20{nl}  - Refined Heart of Glacia : 20{nl}  - Refined Moth Talc Powder : 20{nl}  - Brikynite : 5{nl}  - Magic Stone : 5{nl}  - Mystic Tome Page : 5{nl}  - Practonium : 5{nl}  - Goddess' Blessed Gem : 5{nl}  - [Event] Reputation Coupon : 5 : 5	{@st59}구호 물품 또는 주요 재화를 증여하여 명성도를 올릴 수 있습니다.{/}{nl}　{nl}주요 재화 교환 정보{nl}  - 그을린 텔하르샤의 의장품 : 20{nl}  - 정제된 글레이시어의 심장 : 20{nl}  - 정제된 모스 탈크 파우더 : 20{nl}  - 브리키나이트 : 5{nl}  - 마정석 : 5{nl}  - 신비한 서 낱장 : 5{nl}  - 프락토늄 : 5{nl}  - 여신의 축복석 : 5{nl}  - [이벤트] 명성 증가 쿠폰 : 5 : 5	
+UI_20210809_004879	{@st66b}{s20}Resurrection: {s20}{#cc6600}{ol}%s{/}{@st66b}{s20} second left.	{@st66b}{s20}부활까지 {s20}{#cc6600}{ol}%s{/}{@st66b}{s20}초 남았습니다.				
+UI_20210809_004880	Enhance Scroll	강화 스크롤				
+UI_20210809_004881	Saved Transcendence: %s	저장된 초월 수치: %s				
+UI_20210809_004882	Saved Enhancement: %s	저장된 강화 수치: %s				
+UI_20210809_004883	Saved Potential: %s	저장된 포텐셜 수치: %s				
+UI_20210809_004884	{@st66}Use to apply %s TRA %s EHN %s Potential.{/}	{@st66}사용 시 %s초월 %s강 %s포텐셜로 변경됩니다.{/}				
+UI_20210809_004885	{s20} Transcendence:%s, Enhancement:%s, Potential:%s{/}	{s20} 초월:%s, 강화:%s, 포텐셜:%s{/}				
+UI_20210809_004886	{@st66b}{s18}* Demon God's Temptation is a probabilistic content used with silver.{nl}* 50,000 silver is consumed per trial and you can obtain a monthly new costume{nl}    or Demon God's Temptation point by chance.	{@st66b}{s18}* 마신의 유혹은 실버로 이용하는 확률형 콘텐츠입니다.{nl}* 회당 5만 실버가 소모되며, 확률에 따라 월별 신규 코스튬이나{nl}    마신의 유혹 포인트를 획득할 수 있습니다.				
+UI_20210809_004887	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.				
+UI_20210809_004888	Clear Time	클리어 타임				
+UI_20210809_004889	Highest Record Clear Time : %s	최고 기록 클리어 타임 : %s	UI_20180629_003314	Most Monster Kills: %s	최고 기록 처치 몬스터 수 : %s 마리	
+UI_20210809_004890	Defeat Clear Time : %s	처치 클리어 타임 : %s	UI_20180629_003317	Monsters Defeated: %s	처치 몬스터 수 : %s 마리	
+UI_20210809_004891	{@st66b}Show Obtained Item Pop-up{/}	{@st66b}아이템 획득 팝업창 보기{/}				
+UI_20210809_004892	{@st66b}Show Obtained Item message{/}	{@st66b}아이템 획득 메시지 보기{/}				
+UI_20210809_004893	{@st66b}Res Sacrae(RP) Auto Charge{/}	{@st66b}성물(마력) 자동충전{/}				
+UI_20210809_004894	{@st66b}Use Casting/Channeling Auto Cast	{@st66b}캐스팅/채널링 자동 시전 사용				
+UI_20210809_004895	{@st66b}MAX FPS (%s){/}	{@st66b}최대 FPS (%s){/}				
+UI_20210809_004896	{@st66b}Background MAX FPS (%s){/}	{@st66b}백그라운드 최대 FPS (%s){/}				
+UI_20210809_004897	{@sti1c}{s16}Ready({/}{/}{s16}%s{/}{@sti1c}{s16}/%s)	{@sti1c}{s16}준비 완료 ({/}{/}{s16}%s{/}{@sti1c}{s16}/%s)				
+UI_20210809_004898	{@st103green_16}Enhance	{@st103green_16}강화				
+UI_20210809_004899	{@st103green_16}Property	{@st103green_16}속성				
+UI_20210809_004900	{@st103green_16}Buff	{@st103green_16}버프				
+UI_20210809_004901	{@st44}{s18}Property{/}	{@st44}{s18}속성{/}				
+UI_20210809_004902	{#FFFF00}※ You can change the property at preparation stage.{/}{nl}Consumes 3000 points when changing property.{nl}(Does not consume property when changing property from non property at the very beginning.){nl} {nl}Compatibility Information (Applies when attacking){nl}Compatible : FInal Damage {img hero_icon_up 11 10}  / Critical Rate Chance {img hero_icon_up 11 10}{nl}Incompatible : Final Damage {img hero_icon_down 11 10} / Critical Rate Chance {img hero_icon_down 11 10} / Accuracy {img hero_icon_down 11 10} / Block Penetration {img hero_icon_down 11 10}{nl} {nl}{img hero_icon_Blessed 20 20} : {img hero_icon_Default 20 20} {img hero_icon_up 11 10} {img hero_icon_Corrupted 20 20} {img hero_icon_up 11 10} {img hero_icon_Neutral 20 20} {img hero_icon_down 11 10} {img hero_icon_Chaos 20 20} {img hero_icon_down 11 10}{nl}{img hero_icon_Neutral 20 20} : {img hero_icon_Default 20 20} {img hero_icon_up 11 10} {img hero_icon_Blessed 20 20} {img hero_icon_up 11 10} {img hero_icon_Corrupted 20 20} {img hero_icon_down 11 10} {img hero_icon_Chaos 20 20} {img hero_icon_down 11 10}{nl}{img hero_icon_Corrupted 20 20} : {img hero_icon_Default 20 20} {img hero_icon_up 11 10} {img hero_icon_Neutral 20 20} {img hero_icon_up 11 10} {img hero_icon_Blessed 20 20} {img hero_icon_down 11 10} {img hero_icon_Chaos 20 20} {img hero_icon_down 11 10}{nl}{img hero_icon_Default 20 20} : ALL {img hero_icon_down 11 10}{nl}{img hero_icon_Chaos 20 20} : ALL {img hero_icon_up 11 10}{nl} {nl}{#FFFF00}[No effect applied against a same property]{/}	{#FFFF00}※ 준비 단계에서 속성을 변경 할 수 있습니다.{/}{nl}속성 변경 시에는 3000 포인트를 소모합니다.{nl}(최초 무속성에서 속성을 변경 시에는 포인트를 소모하지 않습니다.){nl} {nl}상성 정보(공격 시 적용){nl}상성 : 최종 대미지 {img hero_icon_up 11 10}  / 치명타 발생 확률 {img hero_icon_up 11 10}{nl}역상성 : 최종 대미지 {img hero_icon_down 11 10} / 치명타 발생 {img hero_icon_down 11 10} / 명중 {img hero_icon_down 11 10} / 블록 관통 {img hero_icon_down 11 10}{nl} {nl}{img hero_icon_Blessed 20 20} : {img hero_icon_Default 20 20} {img hero_icon_up 11 10} {img hero_icon_Corrupted 20 20} {img hero_icon_up 11 10} {img hero_icon_Neutral 20 20} {img hero_icon_down 11 10} {img hero_icon_Chaos 20 20} {img hero_icon_down 11 10}{nl}{img hero_icon_Neutral 20 20} : {img hero_icon_Default 20 20} {img hero_icon_up 11 10} {img hero_icon_Blessed 20 20} {img hero_icon_up 11 10} {img hero_icon_Corrupted 20 20} {img hero_icon_down 11 10} {img hero_icon_Chaos 20 20} {img hero_icon_down 11 10}{nl}{img hero_icon_Corrupted 20 20} : {img hero_icon_Default 20 20} {img hero_icon_up 11 10} {img hero_icon_Neutral 20 20} {img hero_icon_up 11 10} {img hero_icon_Blessed 20 20} {img hero_icon_down 11 10} {img hero_icon_Chaos 20 20} {img hero_icon_down 11 10}{nl}{img hero_icon_Default 20 20} : ALL {img hero_icon_down 11 10}{nl}{img hero_icon_Chaos 20 20} : ALL {img hero_icon_up 11 10}{nl} {nl}{#FFFF00}[동일 속성은 끼리는 변화 없음]{/}				
+UI_20210809_004903	{@st202}{s16}  Empty Slot	{@st202}{s16}  빈 슬롯				
+UI_20210809_004904	{@st44}{s18}Buff{/}	{@st44}{s18}버프{/}				
+UI_20210809_004905	List of buffs in your possession.{nl}Only one buff can be applied at a time.{nl}You must not apply the buff to sell or combine it.{nl}Purchase/combine buff or upgrade the buff in your possession from the Buff Shop.{nl}{#FFFF00}※ You can exchange, purchase, upgrade, or sell the buffs anytime during Heroic Tale.{/}	보유하고 있는 버프 목록입니다.{nl}버프는 동시에 한 개만 적용할 수 있습니다.{nl}버프를 판매하거나 조합하기 위해서는 적용을 해제해야 합니다.{nl}버프 상점을 열어 버프를 구매하거나 조합할 수 있으며 보유하고 있는 버프를 업그레이드 할 수 있습니다.{nl}{#FFFF00}※ 버프의 교체, 구매, 업그레이드, 판매는 영웅담 진행 중 언제든지 가능합니다.{/}				
+UI_20210809_004906	{@sti1c}{s16}Buff Shop	{@sti1c}{s16}버프 상점				
+UI_20210809_004907	Buff Name	버프명				
+UI_20210809_004908	Combination	조합				
+UI_20210809_004909	{@st44}{s24}Buff Shop{/}	{@st44}{s24}버프 상점{/}				
+UI_20210809_004910	In the buff shop, you can buy/combine buffs or upgrade the buff you already have.{nl}1000 points are consumed to upgrade buff.{nl}Also consumes points when combining the buff in the shop right away.{nl}20% of the point consumed in the buff is returned when selling that buff to the buff shop.{nl} {nl}{img mouseclick_left 40 40}　: Purchase Buff{nl}{img mouseclick_right 40 40}　: Register Buff Combination in the Slot (Shop list and buffs in possession all available){nl}{img hero_btn_up 40 40}　: Upgrade Buff{nl}{img hero_btn_del 40 40}　: Sell Buff	버프 상점에서 버프를 구매하거나 조합 할 수 있으며 보유하고 있는 버프를 업그레이드 할 수 있습니다.{nl}버프 업그레이드에는 1000 포인트를 사용합니다.{nl}상점의 버프를 바로 조합에 사용할 경우 구매와 마찬가지로 포인트를 소모합니다.{nl}버프 판매 시 해당 버프에 사용한 포인트의 20%를 돌려받습니다.{nl} {nl}{img mouseclick_left 40 40}　: 버프 구매{nl}{img mouseclick_right 40 40}　: 버프 조합 슬롯에 등록(상점 목록, 보유 중인 버프 모두 가능){nl}{img hero_btn_up 40 40}　: 버프 업그레이드 버튼{nl}{img hero_btn_del 40 40}　: 버프 판매 버튼				
+UI_20210809_004911	{@sti1c}{s18}Possessing Buff{/}	{@sti1c}{s18}보유 버프{/}				
+UI_20210809_004912	Formula	조합식				
+UI_20210809_004913	{@sti1c}{s18}Buff Combination{/}	{@sti1c}{s18}버프 조합{/}				
+UI_20210809_004914	{@sti1c}{s18}Buff List{/}	{@sti1c}{s18}버프 목록{/}				
+UI_20210809_004915	{@st44}{s24}Buff Combination{/}	{@st44}{s24}버프 조합{/}				
+UI_20210809_004916	Check the Combination Formula of the buff.{nl}Place the mouse over to check the information of the buff.	버프 조합식을 확인 할 수 있습니다.{nl}마우스 오버 시 해당 버프의 정보를 확인할 수 있습니다.				
+UI_20210809_004917	{@sti1c}{s18}Point Coupon{/}	{@sti1c}{s18}포인트 쿠폰{/}				
+UI_20210809_004918	You can use certain points to get twice the point you used by a 50% chance.{nl}{#FF0000}ALL IN button can only be used once.{/}{nl}{#FFFF00}※ Point coupons can only be used during preparation stage.{/}	일정 포인트를 사용해 50% 확률로 사용한 포인트의 2배를 획득 할 수 있습니다.{nl}{#FF0000}ALL IN 버튼은 한 번만 사용할 수 있습니다.{/}{nl}{#FFFF00}※ 포인트 쿠폰은 준비 단계에서만 사용 가능합니다.{/}				
+UI_20210809_004919	{@st202}{s16}Success Rate:50%{/}	{@st202}{s16}성공확률:50%{/}				
+UI_20210809_004920	{@st43b}{s20}Main Monster	{@st43b}{s20}대표 등장 몬스터				
+UI_20210809_004921	{@st59}Close{/}	{@st59}대표 등장 몬스터 창을 닫습니다{/}				
+UI_20210809_004922	{img blue_type} Add Stat	{img blue_type} 옵션을 추가하세요.				
+UI_20210809_004923	{@st44}{s18}Enhance{/}	{@st44}{s18}강화{/}				
+UI_20210809_004924	{#FFFF00}※ You can enhance the equipment at the preparation stage.{/}{nl}A random stat is applied to the equipment when adding a stat.{nl}The ability of the stat-added equipment also enhances.{nl} {nl}Stat No.1 addition fee : 2500 points{nl}Stat No.2 addition fee : 5000 points{nl}Stat change fee : 5000 points	{#FFFF00}※ 준비 단계에서 장비 아이템을 강화할 수 있습니다.{/}{nl}옵션을 추가하면 장비에 랜덤 옵션을 부여합니다.{nl}옵션을 부여한 장비는 장비의 성능도 함께 강화됩니다.{nl} {nl}1번 옵션 추가 비용 : 2500 포인트{nl}2번 옵션 추가 비용 : 5000 포인트{nl}옵션 변경 비용 : 5000 포인트				
+UI_20210809_004925	{@st44}{s18}Highest Record :	{@st44}{s18}최고 기록 :				
+UI_20210809_004926	{@st44}{s18}Total Score :	{@st44}{s18}총 스코어 :				
+UI_20210809_004927	{@sti1c}{s18}Remaining Point	{@sti1c}{s18}남은 포인트				
+UI_20210809_004928	{@sti1c}{s18}Clear Stage	{@sti1c}{s18}스테이지 클리어				
+UI_20210809_004929	{@sti1c}{s18}Defeat Boss	{@sti1c}{s18}보스 처치				
+UI_20210809_004930	{@sti1c}{s18}Mission	{@sti1c}{s18}미션				
+UI_20210809_004931	{@sti1c}{s18}Play Time	{@sti1c}{s18}플레이 타임				
+UI_20210809_004932	{@sti1c}{s18}Number of death	{@sti1c}{s18}죽은 횟수				
+UI_20210809_004933	Returning to the entrance in a moment...	잠시 후 입구로 돌아갑니다...				
+UI_20210809_004934	{@sti1c}{s24}Confirm	{@sti1c}{s24}확인				
+UI_20210809_004935	{@st43}{s22}Class Skill Reset Potion{/}	{@st43}{s22}클래스 스킬 초기화 포션{/}				
+UI_20210809_004936	{@st41}Reset the skills of the selected class.{/}	{@st41}선택한 클래스의 스킬을 초기화합니다.{/}				
+UI_20210809_004937	{@st41b}Reset{/}	{@st41b}초기화{/}				
+UI_20210809_004938	{@st43}{s22}Class Attribute Reset Potion{/}	{@st43}{s22}클래스 특성 초기화 포션{/}				
+UI_20210809_004939	{@st41}Reset the attribute of the selected class.	{@st41}선택한 클래스의 특성을 초기화합니다.{/}				
+UI_20210809_004940	{@st61}{s18}Close{/}	{@st61}{s18}튜토리얼을 종료합니다{/}				
+UI_20210809_004941	{@st61}{s18}Next Step{/}	{@st61}{s18}다음 단계로 넘어갑니다{/}				
+UI_20210809_004942	{@st41_green}{s16} [Heroic Tale]{/}{/} {@st41b}{s18}Equipment enhancement stat	{@st41_green}{s16} [영웅담]{/}{/} {@st41b}{s18}장비 강화 옵션				
+UI_20210809_004943	{#5e4e3f}{s16} Activate the Unknown Sanctuary Gate located in Klaipeda	{#5e4e3f}{s16} 클라페다에 위치한 미지의 성역 관문을 활성화 합니다 				
+UI_20210809_004944	Cute.	귀엽습니다.				
+UI_20210809_004945	{@st202}{s16}Team	{@st202}{s16}팀명				
+UI_20210809_004946	{@st202}{s16}Guild Name	{@st202}{s16}길드명				
+UI_20210809_004947	Produce Mercenary Badge	용병단 증표 생산				
+UI_20210809_004948	Background : Fortune Teller's Workshop Seeking 	배경 : 점섬술사의 공방 구인				
+UI_20210809_004949	Produce [Event] Summer Event Coin	[이벤트]여름 이벤트 주화 생산				
+UI_20210809_004950	Amount Produced : %s / %s	생산량 : %s / %s				
+UI_20210809_004951	Steam Punk Light	스팀 펑크 전등				
+UI_20210809_004952	Reputation Point	명성포인트				
+UI_20210809_004953	Equip Location	장착 위치				
+UI_20210809_004954	Ingredient Name	재료명				
+UI_20210809_004955	{@st42}{s18}Current{/}{/}	{@st42}{s18}현재 보유량{/}{/}				
+UI_20210809_004956	Expand Socket	소켓 확장				
+UI_20210809_004957	{@st42}{s22}Consume %s ▶{/}	{@st42}{s22}소모 %s ▶{/}				
+UI_20210809_004958	Name of Food	음식 이름				
+UI_20210809_004959	Effect of Food	음식 효능				
+UI_20210809_004960	{@st42}Apply Mercenary Badge Boost{/}	{@st42}용병단 증표 부스트 혜택 적용{/}				
+UI_20210809_004961	Weekly Acquisition Limit {img green_up_arrow 14 14}%s	주간 획득량 제한 {img green_up_arrow 14 14}%s				
+UI_20210809_004962	Uphill Defense 1 time gain {img green_up_arrow 14 14}%s	업힐 디펜스 1회 획득량 {img green_up_arrow 14 14}%s				
+UI_20210809_004963	Dimensional Collapse Point 1 time gain {img green_up_arrow 14 14}%s	차원 붕괴 지점 1회 획득량 {img green_up_arrow 14 14}%s				
+UI_20210809_004964	Remnants of Bernice gain {img green_up_arrow 14 14}%s	베르니케 파편 던전 획득량 {img green_up_arrow 14 14}%s				
+UI_20210809_004965	Weekly Boss Raid 500K Damage Reward gain {img green_up_arrow 14 14}%s	주간 보스 레이드 500K 대미지 보상 획득량 {img green_up_arrow 14 14}%s				
+UI_20210809_004966	Field hunt gain {img green_up_arrow 14 14}%s%	필드 사냥시 획득량 {img green_up_arrow 14 14}%s%				
+UI_20210809_004967	Remaining Time : {#FF0000}%s{/}	남은 시간 : {#FF0000}%s{/}				
+UI_20210809_004968	{@st43}Entry is only possible when {s16} gear score or above or when the requirements are met.{/}	{@st43}{s16}기어 스코어 이상 및 특정 조건에 만족해야 입장이 가능합니다.{/}	UI_20210115_004684	{@st43}{s16}Entry is possible only when the conditions and item above a certain grade are met.{/}	{@st43}{s16}특정 등급 이상의 아이템과 조건을 만족해야 입장이 가능합니다.{/}	
+UI_20210820_004969	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Saturday.{nl}{s13}{#FF0000}※ Ranking is only registered by clearing Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 토요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}	UI_20210809_004844	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Monday.{nl}{s13}{#FF0000}※ Ranking is only registered from Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 월요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}	
 				
