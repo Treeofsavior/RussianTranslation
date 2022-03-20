@@ -17824,3 +17824,26 @@ QUEST_LV_0100_20211217_017823	Complete the tasks suggested by Hwarang Master	화
 QUEST_LV_0100_20211217_017824	Hwarang Master wants to check how sincere you are to the way of the Hwarang.{nl}Carry out the training suggested by the Hwarang Master.	화랑 마스터는 당신이 화랑도에 얼마만큼 진심인지 확인하고자 합니다{nl}화랑 마스터가 제안한 수련들을 수행하세요				
 QUEST_LV_0100_20211217_017825	Return to Hwarang Master	화랑 마스터에게 돌아가기				
 QUEST_LV_0100_20211217_017826	This will make the Hwarang Master recognize your skills{nl}Go back to Orsha and talk to Hwarang Master.	이 정도면 화랑 마스터가 당신의 실력을 인정해 줄 겁니다{nl}오르샤로 돌아가 화랑 마스터와 대화하세요				
+QUEST_LV_0100_20220204_017827	Ah....{nl}What a pain in the neck.{nl}It's not wrong to charge against the demons..{nl}But the number of returning soldiers are getting less.	아아......{nl}골치 아프게 되었네.{nl}마족들을 상대로 기세 좋게 돌격하는 것도 좋지만..{nl}예전과 다르게 무사히 돌아오지 못하는 녀석들이 많아지고 있어.				하카펠 마스터
+QUEST_LV_0100_20220204_017828	{nl}As an instructor and master, I am in utter disgrace.{nl}However, giving advice to a commander who is admired both by the people of the kingdom and the Hackapells, is not an easy thing to do.{nl}A real pain.	{nl}교관이자 마스터로서 내 체면이 말이 아니야.{nl}그렇다고 왕국민과 하카펠들에게 선망받는 연대장에게 내가 뭐라고 충고하기도 애매해.{nl}정말 골치 아픈 일이야.				하카펠 마스터
+QUEST_LV_0100_20220204_017829	{nl}That's why I came up with this brilliant idea.{nl}Adjust the military a little bit and run it by the Revelators.	{nl}그래서 한가지 묘안을 생각해 냈다네.{nl}병과를 조금 손봐서 하카펠리테르를 양성하고 계시자들을 중심으로 운영하는 거지.				하카펠 마스터
+QUEST_LV_0100_20220204_017830	{nl}Experienced Revelators, both courageous and wise, will easily make great performances in battles, and naturally, people will talk about this.{nl}If their heroic tale spreads, the reputation for Hackapell and Hakkapeliter will become better.	{nl}경험이 많은 계시자라면 용맹과 지혜를 겸비했으니 전과도 올리고 살아 돌아와서 사람들 입에 오르내리고.{nl}영웅담이 퍼진다면 왕국 내에서 더 하카펠과 하카펠리테르에 대한 평가도 좋아지겠지.				하카펠 마스터
+QUEST_LV_0100_20220204_017831	{nl}How about it? I assume my suggestion is tempting to you based on your wisdom, courage, and battle techniques you've trained so far.{nl}If the outcome is good, I could even recommend you as the Commander when we create the Hakkapeliter Solidarity.	{nl}어떤가? 자네가 그동안 단련한 전투기술과 지혜, 용맹함이라면 내 제안이 솔깃할 거 같은데.{nl}성과가 좋다면 추후에 하카펠리테르 연대를 창설하면 자네를 연대장으로 추천할 수도 있다네.				하카펠 마스터
+QUEST_LV_0100_20220204_017832	{nl}Do you need some time to think?	{nl}생각할 시간이 필요한가?				하카펠 마스터
+QUEST_LV_0100_20220204_017833	Great! {nl}That's what I've wanted to hear!	좋아! {nl}그게 바로 내가 듣고 싶었던 말이야!				하카펠 마스터
+QUEST_LV_0100_20220204_017834	Just forget all about what I've said, and come back to me when you finish the trainings I suggested.	앞에서 이야기 한 건 잊고 내가 제시한 훈련들을 모두 해내거든 다시 내게 돌아오게나.				하카펠 마스터
+QUEST_LV_0100_20220204_017835	Think of yourself as the 1st trainee of Hackapell and show the successor and be the example to them.	하카펠리테르 1기 수련생이라고 생각하고 앞으로 자네 뒤를 따를 후임들에게 좋은 모습을 보여주게나.				하카펠 마스터
+QUEST_LV_0100_20220204_017836	Brilliant!{nl}Can't be better than this.	훌륭해!{nl}이보다 좋을 수 없지.				하카펠 마스터
+QUEST_LV_0100_20220204_017837	{nl}I already hear people praising Hakkapeliter!	{nl}벌써 사람들이 하칼펠리테르를 칭송하는 소리가 들리는 것 같군!				하카펠 마스터
+QUEST_LV_0100_20220204_017838	{nl}What? You don't?	{nl}뭐? 안 들린다고?				하카펠 마스터
+QUEST_LV_0100_20220204_017839	{nl}Ha ha.	{nl}하하.				하카펠 마스터
+QUEST_LV_0100_20220204_017840	{nl}Show your imagination.	{nl}상상력을 발휘해보게나.				하카펠 마스터
+QUEST_LV_0100_20220204_017841	I will give you one of them if you pay me the right price.{nl}I will take as same as the city tariff rate.{nl}Oh, and have you ever heard about the Ancient Golden Coin?{nl}I'm collecting those nowadays.{nl}If you give me the Ancient Golden Coin, I will give you for free. How's that? Want to trade?	일정량의 실버를 주면 내가 모은 보물 중 하나를 주지.{nl}실버는 도시 내 적립요율을 적용한 만큼 받아갈 테니 알아두고{nl}아! 그리고, 혹시 오래된 황금 주화라고 들어봤나?{nl}내가 요즘 그거를 수집하고 있거든.{nl}오래된 황금 주화를 준다면 공짜로 물건과 바꿔주지. 어때? 교환할 텐가?				유랑 상인 게랄다스
+QUEST_LV_0100_20220204_017842	Object Interaction	오브젝트 상호작용				
+QUEST_LV_0100_20220204_017843	Morothline	모로스라인				
+QUEST_LV_0100_20220204_017844	[Hakkapeliter] Running Towards Death	[하카펠리테르] 내달리는 죽음				
+QUEST_LV_0100_20220204_017845	I'm inevitable	그 누구도 날 막을 수 없다				
+QUEST_LV_0100_20220204_017846	Cherish yourself	자기자신을 소중히 여기겠다				
+QUEST_LV_0100_20220204_017847	Go to the Hackapell Master at Istora Ruins	이스토라 유적지의 하카펠 마스터 찾아가기				
+QUEST_LV_0100_20220204_017848	Complete the tasks suggested by Hackapell Master	하카펠 마스터가 제안한 수행들을 완수하기				
+QUEST_LV_0100_20220204_017849	Return to Hackapell Master	하카펠 마스터에게 돌아가기				

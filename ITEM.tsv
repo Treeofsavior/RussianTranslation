@@ -1808,7 +1808,7 @@ ITEM_20150317_001807	Restores Velheider's Stamina by 30.
 ITEM_20150317_001808	Varnalesa
 ITEM_20150317_001809	Restores 32~35 SP. Easy to acquire.{nl}Right-click to use.
 ITEM_20150317_001810	Valerijonas
-ITEM_20150317_001811	A flower that can be used as a herb.
+ITEM_20150317_001811	Цветок, который можно использовать как траву.
 ITEM_20150317_001812	Ciobrelis
 ITEM_20150317_001813	A purple colored flower that has regenerative effects when boiled. Restores 8 Stamina. {nl}Right-click to use.
 ITEM_20150317_001814	Uosis
@@ -7878,7 +7878,7 @@ ITEM_20151022_007877	Blue Orb: Corrupt Pyran
 ITEM_20151022_007878	Blue Orb: Corrupt Deadborn Scap Archer
 ITEM_20151022_007879	Blue Orb: Corrupt Deadborn Scap
 ITEM_20151022_007880	Red Orb: Kepa
-ITEM_20151022_007881	Summons a monster. Lasts for 180 seconds.{nl}Right-click to use.
+ITEM_20151022_007881	Призывает монстров. Длится 180 секунд.{nl}Нажмите правой кнопкой мыши, чтобы использовать.
 ITEM_20151022_007882	Red Orb: Leaf Bug
 ITEM_20151022_007883	Red Orb: Hanaming
 ITEM_20151022_007884	Red Orb: Chinency
@@ -10907,15 +10907,15 @@ ITEM_20160811_010906	[Event] Superior Cross Staff
 ITEM_20160811_010907	Instead of focusing on its virtue, more emphasis was put on the quality of the Square Staff. (Will be erased on September 8th.)
 ITEM_20160811_010908	[Event] Langdebeve
 ITEM_20160811_010909	In order to use this weapon effectively, the blade of the weapon should always be sharpened. (Will be erased on September 8th.)
-ITEM_20160811_010910	Adds 22860 Character EXP and 17602 Class EXP. Can be used from Lv. 30.
-ITEM_20160811_010911	Adds 60312 Character EXP and 46440 Class EXP. Can be used from Lv. 70.
+ITEM_20160811_010910	Добавляет 22860 очков опыта для персонажа и 17602 очков опыта для класса. ожно использовать с 30 уровня.
+ITEM_20160811_010911	Добавляет 60312 очков опыта для персонажа и 46440 очков опыта для класса. ожно использовать с 70 уровня.
 ITEM_20160811_010912	Increases Critical Damage by 24 for 1 minute. Right-click to use. Cooldown of 120 seconds.
 ITEM_20160811_010913	Increases Physical/Magical Defense by 20 for 1 minute. Right-click to use. Cooldown of 120 seconds.
-ITEM_20160811_010914	Adds 3630357 Character EXP and 2795374 Class EXP. Can be used from Lv. 275.
+ITEM_20160811_010914	Добавляет 3630357 очков опыта для персонажа и 2795374 очков опыта для класса. Можно использовать с 275 уровня.
 ITEM_20160811_010915	Lv14 EXP Card
-ITEM_20160811_010916	Adds 13189741 Character EXP and 10156100 Class EXP. Can be used from Lv. 210.
+ITEM_20160811_010916	Добавляет 13189741 очков опыта для персонажа и 10156100 очков опыта для класса. Можно использовать с 210 уровня.
 ITEM_20160811_010917	Lv15 EXP Card
-ITEM_20160811_010918	Adds 31212626 Character EXP and 24033722 Class EXP. Can be used from Lv. 250.
+ITEM_20160811_010918	Добавляет 31212626 очков опыта для персонажа и 24033722 очков опыта для класса. Можно использовать с 250 уровня.
 ITEM_20160811_010919	Keista Restoration Potion Lv2
 ITEM_20160811_010920	Restores 480 HP & SP per 2 seconds for 15 seconds. Right-click to use. Cooldown of 30 seconds.
 ITEM_20160811_010921	Keista Restoration Potion Lv3
@@ -11517,8 +11517,8 @@ ITEM_20161005_011516	It is capable of kicking up winds. Anybody hit by those win
 ITEM_20161005_011517	Set up a structure that increases magic attack of all guild members. Can only be set up in the Guild Hangout.
 ITEM_20161005_011518	Set up a structure that increases physical attack of all guild members. Can only be set up in the Guild Hangout.
 ITEM_20161005_011519	A Shield Charger will charge shields that are capable of protecting guild members for a set amount of time, and applies them to guild members when used.
-ITEM_20161005_011520	Adds 13189741 Character EXP and 10156100 Class EXP. Can be used from Lv. 300.
-ITEM_20161005_011521	Adds 31212626 Character EXP and 24033722 Class EXP. Can be used from Lv. 320.
+ITEM_20161005_011520	Добавляет 13189741 очков опыта для персонажа и 10156100 очков опыта для класса. Можно использовать с 300 уровня.
+ITEM_20161005_011521	Добавляет 31212626 очков опыта для персонажа и 24033722 очков опыта для класса. Можно использовать с 320 уровня.
 ITEM_20161005_011522	Keitrys Bravery Potion
 ITEM_20161005_011523	Increases physical attack by 76 and magic attack by 60 for 3 minutes. Right-click to use it. Cooldown of 120 seconds.
 ITEM_20161005_011524	Keitrys Recovery Potion
@@ -15241,7 +15241,7 @@ ITEM_20170726_015240	Используйте для получения одног
 ITEM_20170726_015241	Butler & Maid Costume Box (Red)
 ITEM_20170726_015242	Use to obtain one item of your choice: Red Butler Costume (Male) or Red Maid Costume (Female).
 ITEM_20170726_015243	Butler & Maid Costume Box (Blue)
-ITEM_20170726_015244	Use to obtain one item of your choice: Blue Butler Costume (Male) or Blue Maid Costume (Female).
+ITEM_20170726_015244	Используйте, чтобы получить один предмет на ваш выбор: Blue Butler Costume (мужской) или Blue Maid Costume (женский).
 ITEM_20170726_015245	A cube obtained from the Hackapell Master. It contains an item from one of the following collections: Istora Ruins, Nuoridin Falls. Right-click to open.
 ITEM_20170726_015246	Unidentified Weapon Cube Fragment (Lv. 75)
 ITEM_20170726_015247	Collect 8 fragments like this and use them to obtain one Unidentified Weapon Cube (Lv. 75).
@@ -15698,7 +15698,7 @@ ITEM_20170912_015697	A type of bait used for fishing. Fish like it.
 ITEM_20170912_015698	A small fish caught with a rod. When used as bait, you have a higher chance of catching things other than fish.
 ITEM_20170912_015699	A good type of bait used for fishing. You have a higher chance of catching things other than fish with this bait.
 ITEM_20170912_015700	Basic Bait
-ITEM_20170912_015701	Added success chance: 3.3%{nl}Duration: 10 min{nl}Use it in a Fishing Spot to increase your chances of success. Cooldown 10 minutes.
+ITEM_20170912_015701	Добавляет шанс добычи на: 3,3%{nl}Продолжительность: 10 мин.{nl}Используйте его в месте для рыбалки, чтобы повысить свои шансы на добычу. Перезарядка 10 минут.
 ITEM_20170912_015702	Added success chance: 5.5%{nl}Duration: 10 min{nl}Use it in a Fishing Spot to increase your chances of success. Cooldown 10 minutes.
 ITEM_20170912_015703	Decreases fishing cycle by 5 sec.{nl}Duration: 10 min{nl}Can only be used in Fishing Spots. Cooldown 10 minutes.
 ITEM_20170912_015704	Decreases fishing cycle by 10 sec.{nl}Duration: 30 min{nl}Can only be used in Fishing Spots. Cooldown 10 minutes.
@@ -17674,7 +17674,7 @@ ITEM_20180320_017673	(Old) Nuaele Cube
 ITEM_20180320_017674	(Old) Zaura Cube
 ITEM_20180320_017675	(Old) Blut Cube
 ITEM_20180320_017676	Shining Demon Lord Mirtis Cube
-ITEM_20180320_017677	Contains an unknown object. Right-click to use.{nl}- The chances of obtaining a high-grade item are higher than normal cubes.
+ITEM_20180320_017677	Содержит неизвестный объект. Щелкните правой кнопкой мыши, чтобы использовать.{nl}– Шансы получить предмет высокого качества выше, чем у обычных кубов.
 ITEM_20180320_017678	Shining Demon Lord Helgasercle Cube
 ITEM_20180320_017679	Shining Demon Lord Rexipher Cube
 ITEM_20180320_017680	Shining Demon Lord Marnox Cube
@@ -22147,7 +22147,7 @@ ITEM_20190419_022146	A reward from the Remnants of Bernice dungeon. Exchange it 
 ITEM_20190419_022147	Med Kit
 ITEM_20190419_022148	A box containing various emergency medicine
 ITEM_20190419_022149	Lv. 400 Awakening Abrasive
-ITEM_20190419_022150	Use to obtain better stats in Awakening items.
+ITEM_20190419_022150	Используйте, чтобы получить лучшие стыт в пробуждённых предметах.
 ITEM_20190419_022151	Planium
 ITEM_20190419_022152	A material that can be obtained rarely from basic monsters. Take them to the Black Smith Teliavelis in Fedimian to create new equipment.
 ITEM_20190419_022153	Lensterseum
@@ -26335,7 +26335,7 @@ ITEM_20200514_026334	Test item	테스트 아이템
 ITEM_20200514_026335	Companion EXP Card Lv.400	컴패니언 경험치 카드 Lv.400				
 ITEM_20200514_026336	Increases the accompanied companion level up to lv 400.{nl} {nl}{#ff0000}Does not apply to flying type companions.	함께하고 있는 컴패니언의 경험치를 1레벨부터 400레벨까지 필요한 경험치 만큼 상승시켜 줍니다.{nl} {nl}{#ff0000}비행형 컴패니언은 적용받지 않습니다.				
 ITEM_20200514_026337	[Weekly Boss Raid] Leticia Special Potion	[주간 보스 레이드] 레티샤 특제 포션				
-ITEM_20200514_026338	Can only be used at Weekly Boss Raids.{nl}Damage received -30% for 10 minutes.{nl}Buff cannot be stacked, and does not apply if the damage received is lower than 1,000.	주간 보스 레이드에서만 사용 가능합니다.{nl}10분간 받는 피해가 30% 감소합니다.{nl}버프는 중복 적용되지 않으며, 받는 피해량이 1,000 이하라면 감소되지 않습니다.{nl} - 				
+ITEM_20200514_026338	Можно использовать только в еженедельных рейдах на боссов.{nl}Полученный урон -30% на 10 минут.{nl}Бафф не суммируется и не применяется, если полученный урон меньше 1000. 				
 ITEM_20200514_026339	cannot be stacked.	과 중복 불가능				
 ITEM_20200514_026340	[Weekly Boss Raid] Kedoran Special Potion II	[주간 보스 레이드] 케도란 특제 포션 II				
 ITEM_20200514_026341	-	리턴2차 : 축복받은 여신의 큐브(남)				
@@ -26507,7 +26507,7 @@ ITEM_20200710_026506	Nebulas Back Decoration	네뷸라스 등 장식
 ITEM_20200710_026507	Warpulis Effect Costume	워퓰리스 이펙트 코스튬				
 ITEM_20200710_026508	Healthy food for your Penguin. Restores all of the HP and Stamina +15 .{nl}Good for{nl} - Penguin{nl} - Pengmarine{nl} - Winter Penguin{nl} - Leaf Penguin{nl} - School Dodo Bird	펭귄의 건강을 책임지는 먹이입니다. 펭귄의 HP를 모두 회복하고 스태미나가 +15 회복됩니다.{nl}사용가능 목록{nl} - 펭귄{nl} - 펭마린 {nl} - 윈터펭{nl} - 펭그린{nl} - 스쿨 도도새	ITEM_20180629_018801	Healthy food for your Penguin. Restores all of the HP and +15 Stamina.{nl}Good for:{nl} - Penguin{nl} - Pengmarine{nl} - Winter Penguin{nl} - Leaf Penguin	펭귄의 건강을 책임지는 먹이입니다. 펭귄의 HP를 모두 회복하고 스태미나가 +15 회복됩니다.{nl}사용가능 목록{nl} - 펭귄{nl} - 펭마린 {nl} - 윈터펭{nl} - 펭그린	
 ITEM_20200710_026509	Fantasy Library: Sausis Room 9 Accessory Selection Box	환상 도서관: 사우시스 9관 액세서리 선택 상자	ITEM_20190223_021519	Fantasy Library: Sausis Room 9 Accessory Selection Box	환상 도서관: 사우시스 9관 악세사리 선택 상자	
-ITEM_20200710_026510	Increases +78031565 Character EXP and +60084305 Class EXP. Can be used from Lv. 350 or above.	경험치를 +78031565 클래스 경험치를 +60084305 상승시켜 줍니다. 350 레벨부터 사용할 수 있습니다.	ITEM_20200129_025524	Adds +78031565 Character EXP and +60084305 Class EXP. Can be used from Lv. 320 or above.	경험치를 +78031565 클래스 경험치를 +60084305 상승시켜 줍니다. 320 레벨부터 사용할 수 있습니다.	
+ITEM_20200710_026510	Добавляет 78031565 опыта для персонажа и 60084305 очков опыта для класса. Можно использовать с 350 уровня и выше.	
 ITEM_20200710_026511	Transformation Potion : Yak Mambo	변신 포션 : 야크맘보				
 ITEM_20200710_026512	Able to transform into [Yak Mambo] Monster for 10 minutes.{nl}Can only be used in towns.	10분 동안 [야크맘보] 몬스터로 변신할 수 있습니다.{nl}마을에서만 사용할 수 있습니다.				
 ITEM_20200710_026513	Shining Wonderous Cube	빛나는 원더러스 큐브				
@@ -26958,12 +26958,12 @@ ITEM_20201215_026957	Leticia Card	레티샤 카드
 ITEM_20201215_026958	[Unable to Equip] [Unable to Enhance] Only used to enhance the Legend Card.	[장착 불가] 레전드 카드 강화용으로 사용됩니다.			
 ITEM_20201215_026959	Tool used to watch the performance in far distance. Displays the pose by using it.	먼 거리에서 공연을 관람하기 위한 도구입니다. 사용 시 포즈를 재생합니다.	ITEM_20201026_026815	A tool for watching performances from a long distance. Displays the pose by using it.{nl}Can be exchanged for medals at the Exchange Shop.	먼 거리에서 공연을 관람하기 위한 도구입니다. 사용 시 포즈를 재생합니다. {nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20201221_026960	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Dandy Doggo{nl} - Lucky Golden Pig{nl} - Hawk{nl} - Snow Bunny	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지{nl} - 매{nl} - 하얀 눈 토끼	ITEM_20190419_022117	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro{nl} - Lucky Golden Pig{nl} - Hawk	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지{nl} - 매
-ITEM_20201221_026961	Lv17 EXP Card	LV17 경험치 카드			
-ITEM_20201221_026962	Adds +195078913 Character EXP and +150210762 Class EXP. Can be used from Lv. 440 or above.	경험치를 +195078913 클래스 경험치를 +150210762 상승시켜 줍니다. 440 레벨부터 사용할 수 있습니다.			
-ITEM_20201221_026963	Lv17 EXP Card (x10)	LV17 경험치 카드(x10)			
-ITEM_20201221_026964	Adds +1950789130 Character EXP and +1502107620 Class EXP. Can be used from Lv. 440 or above.	경험치를 +1950789130 클래스 경험치를 +1502107620 상승시켜 줍니다. 440 레벨부터 사용할 수 있습니다.			
-ITEM_20201221_026965	Lv16 EXP Card (x10)	LV16 경험치 카드(x10)			
-ITEM_20201221_026966	Adds +780315650 Character EXP and +600843050 Class EXP. Can be used from Lv. 350 or above.	경험치를 +780315650 클래스 경험치를 +600843050 상승시켜 줍니다. 350 레벨부터 사용할 수 있습니다.			
+ITEM_20201221_026961	Lv17 EXP Card		
+ITEM_20201221_026962	Добавляет 195078913 очков опыта для персонажа и 150210762 очков опыта для класса. Можно использовать с 440 уровня и выше.	
+ITEM_20201221_026963	Lv17 EXP Card (x10)				
+ITEM_20201221_026964	Добавляет 1950789130 очков опыта для персонажа и 1502107620 очков опыта для класса. Можно использовать с 440 уровня и выше.			
+ITEM_20201221_026965	Lv16 EXP Card (x10)				
+ITEM_20201221_026966	Добавляет 780315650 очков опыта для персонажа и 600843050 очков опыта для класса. Можно использовать с 350 уровня и выше.
 ITEM_20201221_026967	[Lv.450] Diamond Anvil (30 Days)	[Lv.450] 다이아몬드 모루(30일)			
 ITEM_20201221_026968	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed. Use within 30 days.{nl}{#ff0000}Only usable to items of Lv 450 or below.	강화에 실패해도 강화 수치는 하락하지 않습니다. 단, 포텐셜은 하락합니다. 포텐셜이 0미만이 될 경우 아이템이 파괴됩니다. 획득 후부터 30일 동안 사용 가능합니다.{nl}{#ff0000}Lv 450이하 아이템에만 사용 가능합니다.			
 ITEM_20201221_026969	Title - Christmas Master	칭호 - 마스터의 크리스마스			
@@ -27639,3 +27639,107 @@ ITEM_20220107_027638	Blue Lense	블루 렌즈
 ITEM_20220107_027639	Fenrir Lense	펜리르 렌즈				
 ITEM_20220107_027640	Asgard Hlidskjalf	아스가르드 흐르드스칼프 옥좌				
 ITEM_20220107_027641	Summon the Hlidskjalf of Odin, the God of Wisdom.	사용 시 지혜의 신 오딘의 흐르드스칼프 옥좌를 소환합니다.				
+ITEM_20220204_027642	Panda Helmet Costume	[트리스마스] 판다 헬멧 코스튬			
+ITEM_20220204_027643	Panda Costume	[트리스마스] 판다 코스튬			
+ITEM_20220204_027644	Hakkapeliter Costume	하카펠리테르 코스튬			
+ITEM_20220204_027645	[Event] Hamster	[이벤트] 햄스터			
+ITEM_20220204_027646	[Event] Rain Cloud 	[이벤트] 비구름			
+ITEM_20220204_027647	Rain Cloud that shows your Gloomy feelings.	우울한 기분을 나타내는 비구름입니다.			
+ITEM_20220204_027648	[Event] Wi-Fi	[이벤트] 와이파이			
+ITEM_20220204_027649	Signal is good here.	여기는 신호가 좋습니다.			
+ITEM_20220204_027650	[Event] Slid-off Glasses	[이벤트] 흘러내린 안경			
+ITEM_20220204_027651	Slightly loosely hanging pair of glasses. They do exude quirky charm.	살짝 흘러내려, 걸쳐진 안경입니다. 살짝 특이한 매력이 있습니다.			
+ITEM_20220204_027652	[Event] Grey Crown	[이벤트] 그레이 크라운			
+ITEM_20220204_027653	A small corolla.	작은 왕관입니다.			
+ITEM_20220204_027654	[Event] Burdensome Ribbon	[이벤트] 부담스러운 리본			
+ITEM_20220204_027655	Burdensome size of Ribbon.	조금 부담스러운 크기의 리본 머리 장식입니다.			
+ITEM_20220204_027656	[Event] Sunflower Seed	[이벤트] 해바라기 씨앗			
+ITEM_20220204_027657	[Event] Paper Ticket	[이벤트] 종이 딱지			
+ITEM_20220204_027658	A piece of paper mainly used as a love note. Goddess knows how it ended up on your head.	주로 사랑고백등이 적혀있는 종이 딱지입니다. 어쩌다 머리에 붙게 된 것인지는 의문입니다.			
+ITEM_20220204_027659	[Event] Polka Dot Ribbon	[이벤트] 땡땡이 리본			
+ITEM_20220204_027660	Ribbon with polka dot.	땡땡이 무늬의 리본 머리 장식입니다			
+ITEM_20220204_027661	[Event] Orange Rabbit Ears	[이벤트] 주황색 토끼 귀			
+ITEM_20220204_027662	[Event] Latte Art: Cat	[이벤트] 라떼 캣			
+ITEM_20220204_027663	[Event] Tricolor Treat Hairpin	[이벤트] 삼색 경단 머리핀			
+ITEM_20220204_027664	Ah! You found something!{nl} - Detect range will be wider by 50%.	앗! 뭔가 발견한 것 같습니다. {nl} - 탐지 범위가 50% 더 넓어집니다.	ITEM_20170703_015036	Ah! It found something!	앗! 뭔가 발견한 것 같습니다.
+ITEM_20220204_027665	Basic Detector	보급형 탐지기			
+ITEM_20220204_027666	[Event] The Invited One Costume (Male)	[이벤트] 초대에 응한 자 코스튬(남)			
+ITEM_20220204_027667	[Event] The Invited One Costume (Female)	[이벤트] 초대에 응한 자 코스튬(여)			
+ITEM_20220204_027668	[Event] TOS Celebration Costume (Male)	[이벤트] 축제용 심플 코스튬(남)			
+ITEM_20220204_027669	[Event] TOS Celebration Costume (Female)	[이벤트] 축제용 심플 코스튬(여)			
+ITEM_20220204_027670	[Event] I♥TOS Costume (M)	[이벤트] I♥TOS 코스튬(남)			
+ITEM_20220204_027671	I♥TOS Costume. Use to change your appearance.	I♥TOS 코스튬입니다. 착용하면 외형이 변경됩니다.			
+ITEM_20220204_027672	[Event] I♥TOS Costume (F)	[이벤트] I♥TOS 코스튬(여)			
+ITEM_20220204_027673	[Event] Small Giltine Doll	[이벤트] 작은 길티네 인형			
+ITEM_20220204_027674	A doll owned by Giltine as a child.{nl}Some absurd rumors claim Giltine became a demon after losing her precious doll.{nl}The toy is influenced by the energy of its owner, and is known to mimic their movements.{nl}The doll mimics basic attack, sub attack and premium movements, with special gestures for rest and personal shop modes.	길티네의 어린 시절을 함께했던 인형입니다.{nl}길티네가 이 인형을 잃어버려 마신이 되었다는 말도 안 되는 소문이 있습니다.{nl}주인의 힘에 영향을 받아, 착용자의 일부 행동을 따라합니다.{nl}인형은 기본 공격과 보조 공격, 유료 포즈를 따라하며, 휴식모드 및 개인 상점 개설 시 특수한 동작을 합니다.			
+ITEM_20220204_027675	Lv19 EXP Card	LV19 경험치 카드			
+ITEM_20220204_027676	Use to increase EXP.{nl}　{nl}Character EXP: +600 million{nl}Class EXP : +462 million{nl}　{nl}{#FF0000}Usable Level : 460 ~ 469{nl} Destroy Level: 470 or above{/}	사용 시, 경험치를 상승시켜 줍니다.{nl}　{nl}캐릭터 경험치 : +6억{nl}클래스 경험치 : +4억 6천 2백만{nl}　{nl}{#FF0000}사용 가능 레벨 : 460 ~ 469{nl}파괴 가능 레벨 : 470 이상{/}			
+ITEM_20220204_027677	Fashion Museum: End of Year 	6주년-복각: 축복받은 여신의 큐브			
+ITEM_20220204_027678	Fashion Museum: End of Year x10 + 1	6주년-복각: 축복받은 여신의 큐브 x10 + 1			
+ITEM_20220204_027679	Tempting Demon God's Cube	[6주년] 유혹하는 마신의 큐브			
+ITEM_20220204_027680	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 1월 13일 06시에 삭제됩니다. 			
+ITEM_20220204_027681	Tempting Demon God's Cube x10 + 1	[6주년] 유혹하는 마신의 큐브 x10 + 1			
+ITEM_20220204_027682	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 1월 13일 06시에 삭제됩니다.			
+ITEM_20220204_027683	Goddess Raid: Resurrected Paulius 	부활자 파울루스 가디스 레이드			
+ITEM_20220204_027684	Resurrected Paulius (Auto Match)	부활자 파울루스 자동매칭 레이드			
+ITEM_20220204_027685	Resurrected Paulius (Solo)	부활자 파울루스 1인 레이드			
+ITEM_20220204_027686	Goddess Message: Memory of Flame (Solo)	여신의 전언: 불꽃의 기억 1인			
+ITEM_20220204_027687	Goddess Message: Memory of Flame Party (Normal)	여신의 전언: 불꽃의 기억 파티(Normal)			
+ITEM_20220204_027688	Goddess Message: Memory of Flame (Hard)	여신의 전언: 불꽃의 기억(Hard)			
+ITEM_20220204_027689	Resurrected Paulius Card	부활자 파울루스 카드			
+ITEM_20220204_027690	[Card Equip Effect] Accuracy Chance + [{img star_mark 20 20} *5]%	[슬롯 장착 효과] 명중 확률 [★ * 5]% 증가			
+ITEM_20220204_027691	A coin commemorating a victory in the Guild Territory Wars.{nl}Delivered as an alternative to GTW Market tariff fund rewards.	콜로니전 승리를 기념하는 주화입니다.{nl}콜로니전 마켓 적립금 보상을 대체해 지급되는 아이템입니다.	ITEM_20190201_021422	A coin commemorating a victory in the Guild Territory Wars.{nl}Delivered as an alternative to GTW Market tariff fund rewards.{nl}Will be automatically deleted at the end of the event period.	콜로니전 승리를 기념하는 주화입니다.{nl}콜로니전 마켓 적립금 보상을 대체해 지급되는 아이템입니다.{nl}2월 21일 점검 시, 일괄 삭제됩니다.
+ITEM_20220204_027692	Letter from Kaoneela Henrjusi	카오닐라 헨류시의 편지			
+ITEM_20220204_027693	Letter from Regent Kaoneela Henrjusi at Moroth Embassy in Kingdom. Regent Kaoneela Henrjusi said that Owynia Dilben will inform you what to do by delivering the letter.	왕국령 모로스 공관에서 섭정 카오닐라 헨류시에게 받은 편지입니다. 섭정 카오닐라 헨류시는 이 편지를 오위니아 딜벤에게 전달하면 해야할 일을 알려줄 것이라고 말했습니다.			
+ITEM_20220204_027694	Soul Projector	영혼 투사기			
+ITEM_20220204_027695	Untrustworthy Magical Tools that Owynia Dilben received from Moroth Embassy in Kingdom. Surprisingly, you can peek at the color of the soul when using it to the alive ones.	왕국령 모로스 공관에서 오위니아 딜벤이 받은 믿음직스럽지 못 한 마도구입니다. 놀랍게도 살아 있는 것에게 사용하면 영혼의 색상을 엿볼 수 있다고 하네요.			
+ITEM_20220204_027696	Crude Kingdom Map	조잡한 왕국 해도			
+ITEM_20220204_027697	A Map handed over at Moroth Embassy in Kingdom from Owynia Dilben in hopes that it will be helpful for the journey. If you can go to Orsha with this map, you'll also be able to find the Vaivora Goddess' Library. 	왕국령 모로스 공관에서 오위니아 딜벤이 여행에 도움이 되길 바란다며 전해준 지도입니다. 이런 지도로 오르샤를 찾아갈 수 있는 사람이라면 바이보라 여신의 도서관도 찾아낼 수 있을 것 입니다.			
+ITEM_20220204_027698	Kingdom's Order	왕국 지령서			
+ITEM_20220204_027699	In the Moroth Embassy in Kingdom, regent Kaoneela Henrjusi gave this order to you so that you can hand it over to the lord of Orsha. It can never be opened since Owynia Dilben sealed it with unbelievable magic. Will this be okay?	왕국령 모로스 공관에서 섭정 카오닐라 헨류시가 오르샤 영주에게 전달하라고 건내준 지령서 입니다. 오위니아 딜벤의 믿을 수 있는 마법 봉인으로 절대 열어 볼 수 없다고 합니다. 정말 괜찮은 걸까요?			
+ITEM_20220204_027700	Antidote for the Cure.	치료제의 재료가되는 해독제입니다.			
+ITEM_20220204_027701	Royal Army Sword	왕국군의 검			
+ITEM_20220204_027702	This weapon lost its owner in the war.	전란 속에서 주인을 잃은 무기입니다.			
+ITEM_20220204_027703	Royal Army Spear	왕국군의 창			
+ITEM_20220204_027704	Royal Army Arrow	왕국군의 화살			
+ITEM_20220204_027705	Broken Material	부서진 자재			
+ITEM_20220204_027706	These are materials that have been collected from the remains of objects or structures that have not been used since the day of Medzio Diena.{nl}It doesn't seem recyclable, but it looks good enough to make a simple barricade.	신수의 날 이후로 사용되지 않은 물건이나 건축물의 잔해를 모은 자재들입니다.{nl}재활용할 정도는 아니지만 간단한 바리케이드를 만드는 데는 적당해 보입니다.			
+ITEM_20220204_027707	Usable Tent Meterial	쓸만한 텐트 자재			
+ITEM_20220204_027708	Material that has useful parts cut out of burnt or torn tents.{nl}If we sew it well, at least a flimsy tent can be improvised.	불타거나 찢어진 텐트들 중 쓸만한 부위들을 잘라낸 자재입니다.{nl}잘만 이어 꿰맨다면 어설픈 텐트라도 급조할 수 있을 겁니다.			
+ITEM_20220204_027709	Crude Barricade	조잡한 바리케이드			
+ITEM_20220204_027710	Although this barricade is not sturdy, it is useful to defend from arrows fired by enemies or indiscriminate rushes.	튼튼하지는 않지만 적이 쏜 화살이나 무차별적인 돌격을 방어하는 데에는 쓸모가 있는 바리케이드입니다.			
+ITEM_20220204_027711	Delmore Hamlet Defense Plan	델무어 소작촌 방어 계획			
+ITEM_20220204_027712	Defense Plan of Delmore Hamlet owned by demons.{nl}It focuses on giving the demons in the rear enough time to prepare for defense when the Delmore Hamlet gets attacked.{nl}It is described to the point where they rearrange and re-attack Delmore Hamlet after retreating so that it can block the supply route of human beings who have entered inside.	마족들이 소유하고 있던 델무어 소작촌의 방어 계획서 입니다.{nl}델무어 소작촌이 공격당할 경우 후방의 마족들이 방어 준비를 할 수 있도록 적당히 시간을 버는게 내용의 중심입니다.{nl}후퇴 후, 다시 재정비하여 델무어 소작촌을 재습격하여 내부로 진입한 인간의 보급로를 차단하는 데 까지 기술되어 있습니다.			
+ITEM_20220204_027713	Delmore Manor Defense Plan	델무어 장원 방어 계획			
+ITEM_20220204_027714	Defense Plan of Delmore Manor owned by demons.{nl}It focuses on the primary hand-to-hand combat at the Manor with the retreated demons from Delmore Manor.{nl}It is described to the point where demons re-attack the Delmore Hamlet and block the enemy's supply route to surround and destroy the human.	마족들이 소유하고 있던 델무어 장원의 방어 계획서 입니다.{nl}델무어 장원은 소작촌에서 후퇴해온 마족과 함께 장원에서 1차적인 백병전을 치루는게 내용의 중심입니다.{nl}마족이 델무어 소작촌을 재습격하여 적의 보급로를 차단하면 이후 인간을 포위하여 섬멸하는 데까지 기술되어 있습니다.			
+ITEM_20220204_027715	Delmore Outskirts Defense Plan	델무어 외성 방어 계획			
+ITEM_20220204_027716	Defense Plan of Delmore Outskirts owned by demons.{nl}It focuses on installing the main base in the Delmore Outskirts to help the demons in front.{nl}It is described to the point that maximizes human fatigue by defending with high altitude, which is the topographical characteristic of Delmore Outskirts if the Delmore Hamlet and Delmore Manor gets broken through by human. It also describes the way to block the human supply route between Lemprasa Pond and Delmore Outskirts  when the human breakthrough inside.	마족들이 소유하고 있던 델무어 외성의 방어 계획서 입니다.{nl}델무어 외성에는 전방의 마족들을 지원할 수 있도록 주요 거점들을 설치한다는 게 내용의 중심입니다.{nl}만일 델무어 소작촌과 델무어 장원이 인간에게 돌파당할 경우, 델무어 외성의 지형적 특성인 고지대를 활용하여 방어하며 인간의 피로도를 최대한 누적시키는 내용, 인간이 내부로 들어간다면 소수의 병사들을 이용해 렘파라사 연못과 델무어 외성을 잇는 인간의 보급로를 차단하는 데까지 기술되어 있습니다.			
+ITEM_20220204_027717	Delmore Citadel Defense Plan	델무어 내성 방어 계획			
+ITEM_20220204_027718	Defense Plan of Delmore Citadel owned by demons.{nl}It focuses on the secondary hand-to-hand combat by joining the retreating allies and dealing with multiple battles afterward.{nl}It describes that humans must be stopped by using the available resources to the fullest, and if they enter, it is written that planned and systematic operation is meaningless.	마족들이 소유하고 있던 델무어 내성의 방어 계획서 입니다.{nl}델무어 내성에서는 후퇴한 아군과 합류하여 2차적인 백병전과 이후 다수의 격전을 치루는 걸 각오한다는 내용이 중심입니다.{nl}이 곳에서는 활용할 수 있는 자원을 최대한 활용하여 인간을 저지해야한다고 기술되어 있으며, 이 안으로 들어간다면 더 이상 계획적이고 체계적인 작전은 무의미하다고 적혀있습니다.			
+ITEM_20220204_027719	Delmore Garden Defense Plan	델무어 정원 방어 계획			
+ITEM_20220204_027720	Defense Plan of Delmore Garden owned by demons.{nl}It is described that if humans enter beyond Delmore Garden, every ongoing defense plan and operation will be withdrawn, and to focus on restraining humans and 	마족들이 소유하고 있던 델무어 정원의 방어 계획서 입니다.{nl}인간이 델무어 정원 이상으로 진입했다면, 현재 진행중인 모든 방어 계획과 작전은 철회한다고 적혀있으며, 인간을 비롯하여 정원 이후 부터 델무어의 심층부 까지 있는 			
+ITEM_20220204_027721	beings	존재			
+ITEM_20220204_027722	 in the garden to the depths of Delmore from coming out.	들을 바깥으로 나오게 하지 못하도록 억제하는데에 주력한다고 기술되어 있습니다.			
+ITEM_20220204_027723	Operation Proposal	작전 계획서			
+ITEM_20220204_027724	Document with the necessary information in the wartime situation, such as the size, supply route, and supply schedule of the demons who have occupied the Delmore area.	델무어 일대를 점령한 마족들의 규모와 보급로, 보급 일정 등 전시 상황에서 필요한 내용들이 적혀 있는 문서입니다.			
+ITEM_20220204_027725	Mirtinas Piece	머티니스 조각			
+ITEM_20220204_027726	Small piece of Mirtinas.{nl}Despite its small size, it contains a strong power.	머티니스의 작은 조각입니다.{nl}작은 조각임에도 강력한 힘을 가지고 있습니다.			
+ITEM_20220204_027727	Urgent Repair Kit	긴급 구급 키트			
+ITEM_20220204_027728	This is a Repair Kit that takes minimal action to help wounded soldiers return to battle during the battle.	전투 중 부상병이 발생할 경우 최소한의 조치를 취하여 전투에 복귀할 수 있도록 꾸려진 구급 키트입니다.			
+ITEM_20220204_027729	Orsha Flag	오르샤 깃발			
+ITEM_20220204_027730	A flag engraved with the symbol of Orsha.	오르샤의 상징이 새겨진 깃발입니다.			
+ITEM_20220204_027731	Royal Army Flag	왕국군 깃발			
+ITEM_20220204_027732	A flag engraved with the symbol of Royal Army.	왕국군의 상징이 새겨진 깃발입니다.			
+ITEM_20220308_027733	[Event] Neon Popolion	[이벤트] 네온 포포리온			
+ITEM_20220308_027734	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 4월 5일 00시에 삭제됩니다. 	ITEM_20220204_027680	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 1월 13일 06시에 삭제됩니다. 
+ITEM_20220308_027735	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 4월 5일 00시에 삭제됩니다.	ITEM_20220204_027682	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 1월 13일 06시에 삭제됩니다.
+ITEM_20220308_027736	Emoticon: Baubas (Chocolate)	이모티콘: 바우바스(초콜릿)			
+ITEM_20220308_027737	You can add chat emojis to quick slots. Right-click to use.{nl}{img Baubas_Valentine_01 50 50}	채팅 이모티콘을 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{img Baubas_Valentine_01 50 50}			
+ITEM_20220308_027738	Emoticon: Baubas (Brush Teeth)	이모티콘: 바우바스(이닦기)			
+ITEM_20220308_027739	You can add chat emojis to quick slots. Right-click to use.{nl}{img Baubas_toothbrushing_01 50 50}	채팅 이모티콘을 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{img Baubas_toothbrushing_01 50 50}			
+ITEM_20220314_027740	[Event] Green School Uniform Costume (Male)	[이벤트] 초록색 새내기 교복 코스튬 (남)			
+ITEM_20220314_027741	[Event] Green School Uniform Costume (Female)	[이벤트] 초록색 새내기 교복 코스튬 (여)			
+ITEM_20220314_027742	[Event] Cardigan School Uniform Costume (Male)	[이벤트] 초록색 교복 가디건 코스튬 (남)			
+ITEM_20220314_027743	[Event] Cardigan School Uniform Costume (Female)	[이벤트] 초록색 교복 가디건 코스튬 (여)			
+ITEM_20220314_027744	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 4월 19일 00시에 삭제됩니다. 	ITEM_20220308_027734	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 4월 5일 00시에 삭제됩니다. 
+ITEM_20220314_027745	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 4월 19일 00시에 삭제됩니다.	ITEM_20220308_027735	Right-click to use.{nl} - Please refer to the details via official website.{nl} {nl}{#ff0000}Item will be deleted upon the announced date.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} -  해당 아이템의 구성품은 공식 홈페이지의 이벤트 페이지에서 확인할 수 있습니다{nl} {nl}{#ff0000}22년 4월 5일 00시에 삭제됩니다.

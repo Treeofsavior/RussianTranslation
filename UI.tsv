@@ -585,8 +585,8 @@ UI_20150317_000584	{@st41}Закрыть{/}
 UI_20150317_000585	{s18}{ol}{gr gradation1}Ремонтировать Снаряжение{/}
 UI_20150317_000586	Надеть Снаряжение
 UI_20150317_000587	Экипированное Снаряжение
-UI_20150317_000588	{Gr gradation1}Выбрать Все{/}
-UI_20150317_000589	Выбрать Все
+UI_20150317_000588	{Gr gradation1}Выбрать Всё{/}
+UI_20150317_000589	Выбрать Всё
 UI_20150317_000590	{Gr gradation1}Ремонт{/}
 UI_20150317_000591	{@st43}Ремонт{/}
 UI_20150317_000592	Список предметов для ремонта
@@ -1567,7 +1567,7 @@ UI_20150714_001566	{@st42}Текущее местоположение : %s{/}
 UI_20150714_001567	{@st59b}Снаряжение {nl}{@st59s} - Прическа/Костюм: одевается для изменения внешности персонажа. {nl} - Оружие : Можно использовать одноручное или двуручное оружие {nl} (доп-оружие/щит может экипироваться с одноручным оружием). {nl} - Броня : Верх, Низ, Перчатки, Обувь. {nl} - Аксессуары: Можно носить 1 ожерелье и 2 браслета. {nl} {/}
 UI_20150714_001568	{@st43}Открыть %s магазин {/}
 UI_20150714_001569	{@st41b}Обжиг{/}
-UI_20150714_001570	{@st66}Выбрать все
+UI_20150714_001570	{@st66}Все
 UI_20150714_001571	{@st43}Создать Стрелы{/}
 UI_20150714_001572	{@st59}Закрыть{/}
 UI_20150714_001573	{@st66b}Да{/}
@@ -1892,7 +1892,7 @@ UI_20151224_001891	{@st41b}Отменить
 UI_20151224_001892	{@st41b}Подтвердить
 UI_20151224_001893	{@st66b}Обжиг{/}
 UI_20151224_001894	{@st66b}Запись{/}
-UI_20151224_001895	Оставшееся Количество
+UI_20151224_001895	Осталось
 UI_20151224_001896	{@st66b}Техническое обслуживание{/}
 UI_20151224_001897	{@st66b}Починить{/}
 UI_20151224_001898	{@st41}Уровень умения
@@ -2246,7 +2246,7 @@ UI_20160718_002245	{@st66b}ВКЛ силуэты персонажей{/}
 UI_20160718_002246	{@st59}Персонажи скрывающиеся за задним фоном, будут показаны как силуэты.{/}
 UI_20160718_002247	Вы хотите использовать %s?{/}
 UI_20160718_002248	Можно использовать: 
-UI_20160718_002249	День Час Минута Секунда
+UI_20160718_002249	д ч м с
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Очки{/}
 UI_20160718_002252	{#000000}%s Очков{/}
@@ -2548,7 +2548,7 @@ UI_20170313_002547	{@st59}Закрыть окно вещей.{/}
 UI_20170313_002548	{@st41b}%s {nl}Ты получил вещь!
 UI_20170313_002549	{@st59}Восстанавливает хранилище вашей гильдии.{/}
 UI_20170313_002550	Можно использовать только в данже или миссии.
-UI_20170313_002551	{@st66}Выбрать экипированную вещь.
+UI_20170313_002551	{@st66}Экипированные
 UI_20170313_002552	{@st59b}Извлечение Blessed Gem {nl}{@st59s}- Извлечение Blessed Gems из transcended предмета{nl}- необходимые материалы: Hammer of Dismantlement.{nl}- Извлечение Blessed Gems удалит предмет, но но сохранит часть камней. {nl}   : Вы получите от 20% до 90% Blessed Gems, в зависимости от стадии transcendence и текущего потенциала. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
 UI_20170313_002553	!! Локация открыта на 100%! Поздравляем! !!
 UI_20170313_002554	{@st41b}Колекции{/}
@@ -2682,7 +2682,7 @@ UI_20170726_002681	Сложно
 UI_20170726_002682	Порядок
 UI_20170726_002683	{@st66b}Ур низк. к выс.{/}
 UI_20170726_002684	{@st66b}Ур выс. к низк.{/}
-UI_20170726_002685	{@st66b}Ежеднеыный счетчик посещений сбрасывается в %s.{/}
+UI_20170726_002685	{@st66b}Разрешение для входа сбрасывается в %s.{/}
 UI_20170726_002686	{@st43}{s22}Посмотреть расположение{/}
 UI_20170726_002687	{@st59}Закрыть.{/}
 UI_20170726_002688	{@st43}Ивенты{/}
@@ -3149,7 +3149,7 @@ UI_20180517_003148	{@st59}Territory Wars{/}
 UI_20180517_003149	{@st43}Журнал приложений
 UI_20180517_003150	Дата
 UI_20180517_003151	Статус
-UI_20180517_003152	{@st66b}Daily entries reset every Monday at %s (server time).{/}
+UI_20180517_003152	{@st66b}Разрешение для входа сбрасываются каждый понедельник в %s (серверное время).{/}
 UI_20180517_003153	Экипировать Ихор
 UI_20180517_003154	Экипировать
 UI_20180517_003155	{@st43b}{s18}Current Stats
@@ -3461,7 +3461,7 @@ UI_20180827_003460	{@st66b}   Регулярные{/}
 UI_20180827_003461	{@st66b}   Постоянные{/}
 UI_20180827_003462	{@st66b}   Событие{/}
 UI_20180827_003463	Доступные предметы
-UI_20180827_003464	※ Продукты обновляются каждые 3 месяца (1 января, апрелья, июлья и октябрья).
+UI_20180827_003464	※ Продукты обновляются каждые 3 месяца (1 января, апреля, июля и октября).
 UI_20180827_003465	{@st66b}   Weapons{/}
 UI_20180827_003466	{@st66b}   Armor{/}
 UI_20180827_003467	Items for Rental
@@ -3848,7 +3848,7 @@ UI_20190419_003847	{@st66b}Топ 3 игрока своего класса по�
 UI_20190419_003848	{@st66b}Авто наведение умений{/}
 UI_20190611_003849	{@st43}{s22}Местоположение квеста{/}
 UI_20190611_003850	{@st59}Закрыть{/}
-UI_20190611_003851	{img NOTICE_Dm_! 30 30}{@st43}{s16}Skill Limitation{/}
+UI_20190611_003851	{img NOTICE_Dm_! 30 30}{@st43}{s16}Ограничение Скиллов{/}
 UI_20190611_003852	{@st59}Insert the Abrasive{/}
 UI_20190611_003853	{@st66d_y}Insert the Awakening Abrasive.{/}
 UI_20190611_003854	Awakening Abrasive Item Name
@@ -3886,7 +3886,7 @@ UI_20190611_003885	{@st59}Display Quest to Party{/}
 UI_20190611_003886	{@st59}Check Quest Location{/}
 UI_20190611_003887	Название Предмета
 UI_20190611_003888	Enchant Item Name
-UI_20190611_003889	{@st43}{s16}Limit the use of certain skills.{/}
+UI_20190611_003889	{@st43}{s16}Ограничьте использование определенных скиллов.{/}
 UI_20190612_003890	{s16}{b}{ol}{ds} Все уровни
 UI_20190612_003891	{s16}{b}{ol}{ds}Рекомендуемые
 UI_20190612_003892	{s16}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}
@@ -4573,7 +4573,7 @@ UI_20210115_004572	{@st59}Legend Card Lv10 other that Boruta Card required.{/}	{
 UI_20210115_004573	{@st100white_16}Consume all items below and obtain {@st204_purple}{s17}[LV10] Giltine Card{/}{/}{@st100white_16}. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}Glimpse of Chaos{/}{/}  x10{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] Boruta Card{/}{/}{@st100white_16}x1{nl} {nl} - {@st204_green}Random{/}{/}{@st66d_y}{s17}[LV10] Legend Card{/}{/}{@st100white_16}x1{/}{/}	{@st100white_16}아래 아이템을 모두 소모하여 {@st204_purple}{s17}[LV10] 길티네 카드{/}{/}{@st100white_16}를 획득합니다. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}혼돈의 편린{/}{/}  10개{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] 보루타 카드{/}{/}{@st100white_16}1개{nl} {nl} - {@st204_green}임의의 {/}{/}{@st66d_y}{s17}[LV10] 레전드 카드{/}{/}{@st100white_16}1개{/}{/}				
 UI_20210115_004574	{@st59}Close.{/}	{@st59}길티네 카드 제작 UI를 닫습니다.{/}				
 UI_20210115_004575	{@st43b}{s24}Following Goddess	{@st43b}{s24}여신 추종				
-UI_20210115_004576	{img NOTICE_Dm_! 30 30}{@st43}{s16}Entry Limit{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}입장 제한{/}				
+UI_20210115_004576	{img NOTICE_Dm_! 30 30}{@st43}{s16}Лимит Входа{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}입장 제한{/}				
 UI_20210115_004577	Pattern Information	패턴 정보				
 UI_20210115_004578	Spawn Area	등장 지역				
 UI_20210115_004579	{@st66b}Boruta{/}	{@st66b}보루타{/}				
@@ -4589,9 +4589,9 @@ UI_20210115_004588	Success Rate	성공확률
 UI_20210115_004589	{@st43b}{s17}Fodder cards will be deleted and the Advanced Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 강화 대상 카드의 레벨은 유지됩니다.{/}				
 UI_20210115_004590	{@st43b}{#898989}{s17}The Advanced Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 강화 대상 카드와 제물 카드가 소멸됩니다.{/}				
 UI_20210115_004591	{@st59}Close Enhance Advanced Card UI{/}	{@st59}고급 카드 강화 UI를 닫습니다{/}	UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}	
-UI_20210115_004592	{@sti1c}{s14}Remaining Time{/}	{@sti1c}{s14}남은 시간{/}				
-UI_20210115_004593	{@sti1c}{s14}Achievement Rate 	{@sti1c}{s14}달성률				
-UI_20210115_004594	{@sti1c}{s14}Pattern Information	{@sti1c}{s14}패턴 정보				
+UI_20210115_004592	{@sti1c}{s14}Оставшееся время{/}			
+UI_20210115_004593	{@sti1c}{s14}Зачищено				
+UI_20210115_004594	{@sti1c}{s14}Информация о Дебафах			
 UI_20210115_004595	{@st66b}Res Sacrae Quest{/}	{@st66b}성물 퀘스트{/}				
 UI_20210115_004596	{@st43}{s22}Reward Info{/}	{@st43}{s22}보상 정보{/}				
 UI_20210115_004597	{@st59}Close.{/}	{@st59}성물 퀘스트 보상 정보를 닫습니다.{/}				
@@ -4711,8 +4711,8 @@ UI_20210318_004710	{@st59}Consume ingredients and a certain amount of silver to 
 UI_20210318_004711	{@st66b}Listen Other Characters' Music{/}	{@st66b}다른 캐릭터 연주 듣기{/}	UI_20180629_003340	{@st66b}Hear Other Characters' Flutes{/}	{@st66b}다른 캐릭터 피리 연주 듣기{/}	
 UI_20210318_004712	{@st66b}Optimize Update Speed{/}	{@st66b}업데이트 속도 최적화{/}				
 UI_20210318_004713	{@st59}Controls the update speed of dynamic objects according to the performance. Character and monster may look disconnected.{/}	{@st59}동적 오브젝트의 업데이트 속도를 성능에 따라 조절합니다. 캐릭터와 몬스터가 끊겨 보일 수 있습니다.{/}				
-UI_20210318_004714	{@st41b}{s18}  Рандомный Ихор	{@st41b}{s18}  				
-UI_20210318_004715	{@st41b}{s18}  Фиксированный Ихор	{@st41b}{s18}		
+UI_20210318_004714	{@st41b}{s18} Рандомный Ихор	{@st41b}{s18}  				
+UI_20210318_004715	{@st41b}{s18} Фиксированный Ихор	{@st41b}{s18}		
 UI_20210326_004716	Вернёмся к входу через мгновение.	
 UI_20210326_004717	{@st66b}Instrument Volume(%s){/}	{@st66b}연주 크기 (%s){/}	UI_20180629_003339	{@st66b}Flute Volume (%s){/}	{@st66b}피리 연주 크기 (%s){/}	
 UI_20210326_004718	{@st59}Uncheck if you don't want to hear other characters' instruments playing.{/}	{@st59}다른 캐릭터의 연주를 듣지 않으려면 체크를 해제해주세요.{/}	UI_20180629_003341	{@st59}Uncheck if you don't want to hear other characters' flutes.{/}	{@st59}다른 캐릭터의 피리 연주를 듣지 않으려면 체크를 해제해주세요.{/}	
@@ -4965,7 +4965,7 @@ UI_20210809_004964	Remnants of Bernice gain {img green_up_arrow 14 14}%s	베르�
 UI_20210809_004965	Weekly Boss Raid 500K Damage Reward gain {img green_up_arrow 14 14}%s	주간 보스 레이드 500K 대미지 보상 획득량 {img green_up_arrow 14 14}%s				
 UI_20210809_004966	Field hunt gain {img green_up_arrow 14 14}%s%	필드 사냥시 획득량 {img green_up_arrow 14 14}%s%				
 UI_20210809_004967	Remaining Time : {#FF0000}%s{/}	남은 시간 : {#FF0000}%s{/}				
-UI_20210809_004968	{@st43}Entry is only possible when {s16} gear score or above or when the requirements are met.{/}	{@st43}{s16}기어 스코어 이상 및 특정 조건에 만족해야 입장이 가능합니다.{/}	UI_20210115_004684	{@st43}{s16}Entry is possible only when the conditions and item above a certain grade are met.{/}	{@st43}{s16}특정 등급 이상의 아이템과 조건을 만족해야 입장이 가능합니다.{/}	
+UI_20210809_004968	{@st43}Вход возможен только тогда, когда GEAR SCORE выше, или когда требования выполнены.{/}
 UI_20210820_004969	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Saturday.{nl}{s13}{#FF0000}※ Ranking is only registered by clearing Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 토요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}	UI_20210809_004844	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Monday.{nl}{s13}{#FF0000}※ Ranking is only registered from Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 월요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}	
 UI_20210906_004970	{@st66b}{s16}- Combine 3 Vaivora Visions to get a random Vaivora Vision.{nl}- Vaivora Vision with [Lv2] or above cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Vision with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 비전을 합성하여 무작위 바이보라 비전을 획득합니다. {nl} - [Lv2] 이상의 바이보라 비전은 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 비전 1개를 선택하여 획득할 수 있습니다.	UI_20210809_004744	{@st66b}{s16}- Combine 3 Vaivora weapons to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Unique weapon with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 유니크 무기 1개를 선택하여 획득할 수 있습니다.	
 UI_20210913_004971	Ark Level Up Scroll	아크 레벨업 스크롤				
@@ -5114,7 +5114,128 @@ UI_20211217_005113	Period : %s day(s) %s:%s:%s	기간제 : %s일 %s:%s:%s
 UI_20211217_005114	Achievement is available after receiving the Master's Request.	해당 업적은 마스터 의뢰를 수령 후 진행하실 수 있습니다.				
 UI_20211217_005115	Achievement Reward	업적 보상				
 UI_20211217_005116	Achievement EXP	업적 EXP				
-UI_20211217_005117	Weekly Boss Raid 125K Damage Reward gain {img green_up_arrow 14 14}%s	주간 보스 레이드 125K 대미지 보상 획득량 {img green_up_arrow 14 14}%s	UI_20210809_004965	Weekly Boss Raid 500K Damage Reward gain {img green_up_arrow 14 14}%s	주간 보스 레이드 500K 대미지 보상 획득량 {img green_up_arrow 14 14}%s	
+UI_20211217_005117	Weekly Boss 125K DMG Reward {img green_up_arrow 14 14}%s	주간 보스 레이드 125K 대미지 보상 획득량 {img green_up_arrow 14 14}%s	UI_20210809_004965	Weekly Boss Raid 500K Damage Reward gain {img green_up_arrow 14 14}%s	주간 보스 레이드 500K 대미지 보상 획득량 {img green_up_arrow 14 14}%s	
 UI_20220103_005118	Place the Hair Costume Stat Relocator.{nl} {nl}{#ffffff}{b}The hair costume that had its stat extracted will be deleted after extracting the stats.	헤어 코스튬 옵션 이전 소재를 넣어주세요.{nl} {nl}{#ffffff}{b}옵션 이전 후 옵션이 추출된 헤어 코스튬은 소멸합니다.	UI_20211217_005106	Place the Hair Costume Stat Relocator.{nl} {nl}{#ffffff}The hair costume that had its stat extracted will be deleted after extracting the stats.	헤어 코스튬 옵션 이전 소재를 넣어주세요.{nl} {nl}{#ffffff}옵션 이전 후 옵션이 추출된 헤어 코스튬은 소멸합니다.	
 UI_20220107_005119	is required.{nl} {nl}  - All stats except the awakening stat are transferred when changing equipment type.{nl}(The awakening stat applied to the equipment is deleted when changing type.){nl} {nl}  - Fixed stat applied is removed when changing the armor type.{nl} {nl}  - Trade property does not change when weapon type is changed.{/}	가 필요합니다.{nl} {nl}  - 장비 계열 변경 시 각성 옵션을 제외한 모든 옵션이 이전됩니다.{nl}(아이템에 부여된 각성 옵션은 계열 변경 시 사라집니다.){nl} {nl}  - 방어구 계열 변경 시 부여된 고정 옵션이 제거됩니다.{nl} {nl}  - 장비 계열 변경 시 거래 속성이 변경되지 않습니다.{/}	UI_20210809_004826	is required.{nl} {nl}  - All stats except the awakening stat are transferred when changing equipment type.{nl}(The awakening stat applied to the equipment is deleted when changing type.){nl} {nl}  - Trade property is not changed when weapon type is changed.{/}	가 필요합니다.{nl} {nl}  - 장비 계열 변경 시 각성 옵션을 제외한 모든 옵션이 이전됩니다.{nl}(아이템에 부여된 각성 옵션은 계열 변경 시 사라집니다.){nl} {nl}  - 장비 계열 변경 시 거래 속성이 변경되지 않습니다.{/}	
-				
+UI_20220204_005120	{@st41b}Identify Formula{/}	{@st41b}조제법 감정{/}				
+UI_20220204_005121	{@st59}Close Formula Identify window.{/}	{@st59}조제법 감정 창을 닫습니다.{/}				
+UI_20220204_005122	{@st59}Place a Formula to Identify{/}	{@st59}감정할 조제법을 올려주세요{/}				
+UI_20220204_005123	{@st42b}Cost : {img %s 24 24} x %s %s{/}	{@st42b}비용 : {img %s 24 24} %s %s개{/}				
+UI_20220204_005124	{@st42b}Ongoing Formula.{/}	{@st42b}현재 조제를 진행중인 조제법입니다.{/}				
+UI_20220204_005125	{@st41b}Identify	{@st41b}감정				
+UI_20220204_005126	{@st41b}Continue	{@st41b}계속하기				
+UI_20220204_005127	{@st41b}{s20}[Lv.470] Archaeology Mission	{@st41b}{s20}[Lv.470] 고고학 임무				
+UI_20220204_005128	{s17}Item Needed: %s(%s)	{s17}필요 아이템 : %s(%s)개				
+UI_20220204_005129	[LV10 Ark] Extract Scroll	[10레벨 아크] 추출 스크롤				
+UI_20220204_005130	{@st66}Use to extract Ark Level Up Scroll (Lv.10).{/}	{@st66}사용 시 아크 레벨업 스크롤(10레벨)을 추출합니다.{/}				
+UI_20220204_005131	Extract Scroll	스크롤 추출				
+UI_20220204_005132	{@sti1c}{s14}%s Remaining time of Wave{/}	{@sti1c}{s14}%s 웨이브 남은 시간{/}				
+UI_20220204_005133	{@sti1c}{s14}Party Skill	{@sti1c}{s14}파티 스킬				
+UI_20220204_005134	{@st204_magenta}%s times	{@st204_magenta}%s회				
+UI_20220204_005135	One{nl}Two{nl}Three{nl}Four{nl}Five	하나{nl}두울{nl}세엣{nl}네엣{nl}다섯				
+UI_20220204_005136	{@st41b}{s20}Fragmentize Earring	{@st41b}{s20}귀걸이 파편화				
+UI_20220204_005137	Fragmentize	파편화				
+UI_20220204_005138	{@st43}{s18}Up to %s fragments can be received.	{@st43}{s18}최대 %s개의 파편을 획득할 수 있습니다.				
+UI_20220204_005139	{@st43}{s24}Gear Score Ranking	{@st43}{s24}기어스코어 랭킹				
+UI_20220204_005140	{@st66b}{s16}Character Name	{@st66b}{s16}캐릭터명				
+UI_20220204_005141	{@st66b}{s16}Gear Score	{@st66b}{s16}기어스코어				
+UI_20220204_005142	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft equipment of next level with Lv.440 Legend rank or above equipment.{nl}You can partially transfer the stat of the equipment used for crafting according to conditions.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 이상의 장비로 다음 레벨의 장비를 제작합니다.{nl}제작 시 조건에 따라 제작에 사용 된 장비 옵션의 일부를 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 	UI_20210809_004762	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft Goddess rank equipment by using Lv.440 Legend rank equipment as an ingredient.{nl}You can partially transfer the enhancement and enchant stat value to the Goddess rank equipment according to the enhancement and transcendence stage of the Legend rank equipment used as an ingredient.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 장비를 재료로 가디스 장비를 제작합니다.{nl}제작 시 레전드 등급 장비의 강화, 초월 단계에 따라 강화, 인챈트 옵션 수치를 일부 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 	
+UI_20220204_005143	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below{nl}   **Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}   **Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory{nl}   **Transfers 50% of [ENH]{nl} {nl} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} - Lv.440 레전드 등급 장비{nl}   **초월 단계 8이상{nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구{nl}   **이전되지 않음{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   **[강화], [인챈트 옵션] 각 66.6% 이전{nl} - Lv.440 레전드 등급 액세서리{nl}   **[강화] 50% 이전{nl} {nl} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}				
+UI_20220204_005144	{@st66b}You can obtain one of the items{nl}according to each probability.{/}	 {@st66b}사용 시 각 확률에 따라{nl}구성 아이템 중 1종을 획득할 수 있습니다.{/}				
+UI_20220204_005145	Produce Consumable	재화 생산	UI_20210809_004834	Craft Reputation	명성도 생산	
+UI_20220204_005146	{img NOTICE_Dm_! 30 30}{@st43}{s16}Dungeon Application{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}던전 적용 사항{/}				
+UI_20220204_005147	Clear Record	클리어 기록				
+UI_20220204_005148	{nl}{s18} Help of Battle in Sulivinas Lair{/}{nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle Rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
+UI_20220204_005149	{@st59}Earring{/}	{@st59}귀걸이{/}				
+UI_20220204_005150	{@st59}Arcanum Crafting{/}	{@st59}비약 연성술{/}				
+UI_20220204_005151	{@st59}News{/}	{@st59}뉴스{/}				
+UI_20220204_005152	{@st59}Goddess Token Shop{/}	{@st59}여신의 증표 상점{/}				
+UI_20220204_005153	{@st59}Personal Housing Board{/}	{@st59}개인 하우징 게시판{/}				
+UI_20220204_005154	{@st59}Market{/}	{@st59}마켓{/}				
+UI_20220204_005155	{@st59}Search Party{/}	{@st59}파티 찾기{/}				
+UI_20220204_005156	{@st59}Mercenary Badge Shop{/}	{@st59}용병단 증표 상점{/}				
+UI_20220204_005157	{@st59}Open Boards{/}	{@st59}게시판 펼쳐보기{/}				
+UI_20220204_005158	{@st59}Open Shops{/}	{@st59}상점 펼쳐보기{/}				
+UI_20220204_005159	{@st59}TP Shop{/}	{@st59}TP상점{/}				
+UI_20220204_005160	{@st59}Change Name of Current Preset{/}	{@st59}현재 프리셋의 이름을 변경합니다{/}				
+UI_20220204_005161	{@st66b}Bring	{@st66b}가져오기				
+UI_20220204_005162	{@st59}Bring information of currently equipped card to current preset{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
+UI_20220204_005163	{@st66b}Apply	{@st66b}적용				
+UI_20220204_005164	{@st59}Change equipped card with current preset information{nl}{#FFFF00}※ Does not apply to card that isn't in the inventory{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
+UI_20220204_005165	{@st43}Color Card Album Preset{/}	{@st43}컬러 카드첩 프리셋{/}				
+UI_20220204_005166	{@st59}Close Color Card Album Preset{/}	{@st59}컬러 카드첩 프리셋을 종료합니다{/}				
+UI_20220204_005167	{@st66b}Preset	{@st66b}프리셋				
+UI_20220204_005168	{@st59}Search Party Board{/}	{@st59}파티 찾기 게시판{/}				
+UI_20220204_005169	{@st59}Party Information (F6){/}	{@st59}파티 정보 (F6){/}				
+UI_20220204_005170	{@st43}{s24}Search Party Board	{@st43}{s24}파티 찾기 게시판				
+UI_20220204_005171	{@st59}Close Search Party Board{/}	{@st59}파티 찾기 게시판을 닫습니다{/}				
+UI_20220204_005172	{@ps1_1}{s20}Search	{@ps1_1}{s20}조회				
+UI_20220204_005173	{@st106_lbr}{s20}Register	{@st106_lbr}{s20}등록				
+UI_20220204_005174	Party Name	파티이름				
+UI_20220204_005175	{@st43b}{s20}Request Participation	{@st43b}{s20}참가신청				
+UI_20220204_005176	{@ps1_1}{s16}Condition to Join Party	{@ps1_1}{s16}파티 참가 조건				
+UI_20220204_005177	{@sti1c}{s16}Attribute Achievement Rate(%)	{@sti1c}{s16}특성 달성률(%)				
+UI_20220204_005178	{@sti1c}{s16}Gear Score	{@sti1c}{s16}기어 스코어				
+UI_20220204_005179	{@sti1c}{s16}Res Sacrae Level	{@sti1c}{s16}성물 레벨				
+UI_20220204_005180	{@st105_y_16}{s14}{@st43b}{s20} 19:59 {@st105_y_16}{s14} left until the recruitment deletion	{@st105_y_16}{s14}모집 공고 자동 삭제까지{@st43b}{s20} 19:59 {@st105_y_16}{s14}남았습니다				
+UI_20220204_005181	{img ps_icon_input 20 20}{@st66b}{s16}Recruitment Title	{img ps_icon_input 20 20}{@st66b}{s16}공고 제목				
+UI_20220204_005182	Please enter the title of Party Recruitment	파티공고 제목을 입력해주세요				
+UI_20220204_005183	{img ps_icon_input 20 20}{@st66b}{s16}Condition to Join Party	{img ps_icon_input 20 20}{@st66b}{s16}파티 참가 조건				
+UI_20220204_005184	Register Party Recruitment	파티 모집 공고 등록				
+UI_20220204_005185	{@st43}Arcanum Crafting{/}	{@st43}비약 연성술{/}				
+UI_20220204_005186	{@st59}Close the Arcanum Crafting window{/}	{@st59}비약 연성술 창을 닫습니다{/}				
+UI_20220204_005187	{@st59}Click to see the Help of Arcanum Brewing{/}	{@st59}비약 연성술 도움말을 보려면 클릭하세요{/}				
+UI_20220204_005188	{@st43}{s18}Remaining Time ({@st47}{s18}%s{/}{/}){/}{/}	{@st43}{s18}남은 시간 ({@st47}{s18}%s{/}{/}){/}{/}				
+UI_20220204_005189	Level of Completion	완성도				
+UI_20220204_005190	Neutralize Count Left	남은 중화 횟수				
+UI_20220204_005191	{@sti1c}{s14}Material{/}{/}	{@sti1c}{s14}합성 재료{/}{/}				
+UI_20220204_005192	{@st59}Material{/}	{@st59}합성 재료{/}				
+UI_20220204_005193	{@sti1c}{s14}Neutralizer{/}{/}	{@sti1c}{s14}중화제{/}{/}				
+UI_20220204_005194	{@st59}Neutralizer{/}	{@st59}중화제{/}				
+UI_20220204_005195	{@st59}Insert the Combining Material{/}	{@st59}합성 재료를 올려주세요{/}				
+UI_20220204_005196	{@st59}Start Combining{/}	{@st59}합성 시작{/}				
+UI_20220204_005197	{@st59}Insert the Neutralizer{/}	{@st59}중화제를 올려주세요{/}				
+UI_20220204_005198	{@st45tw2}Personal Highest Record	{@st45tw2}개인 최고 기록				
+UI_20220204_005199	{@st45tw2}Friend	{@st45tw2}친구				
+UI_20220204_005200	{@st43}{#ffcc33}{s14}Highest Record!	{@st43}{#ffcc33}{s14}최고 기록 경신!				
+UI_20220204_005201	{@st202}Coupon Status▶{/}	{@st202}보유 쿠폰 ▶{/}				
+UI_20220204_005202	{@st202}Consume Coupon ▶{/}	{@st202}쿠폰 소모 ▶{/}				
+UI_20220204_005203	{@st43}Sell Relief Supply{/}	{@st43}구호 물품 판매{/}				
+UI_20220204_005204	{@st41b}Sell{/}	{@st41b}판매{/}				
+UI_20220204_005205	{@st59}Party{/}	{@st59}파티{/}				
+UI_20220204_005206	{@st66b}Maximum Number of Particle(%s){/}	{@st66b}최대 파티클 개수(%s){/}				
+UI_20220204_005207	{@st59}Greatly affects the performance. If too low, some effects may not be seen. Applied after the restart.{/}	{@st59}성능에 큰 영향을 미칩니다. 너무 적으면 일부 효과가 안보일 수 있습니다. 재시작 후 적용됩니다.{/}				
+UI_20220204_005208	Goddess Accessory Bound Removal Scroll	가디스 액세서리 귀속 해제 스크롤				
+UI_20220204_005209	{@st66}Use to remove the Bound.{/}	{@st66}사용 시 귀속 상태가 해제됩니다.{/}				
+UI_20220204_005210	Remove Bound	귀속 해제				
+UI_20220204_005211	Fire Flame Earring Bound Removal Scroll	화염불꽃 귀걸이 귀속 해제 스크롤				
+UI_20220204_005212	{@st66}Scroll x%s is needed to remove the bound.{/}	{@st66}귀속 해제를 위해 %s개의 스크롤이 필요합니다.{/}				
+UI_20220204_005213	{@st66}Same rank and number of scroll is needed to remove the bound.{/}	{@st66}귀속 해제를 위해 등급과 같은 수의 스크롤이 필요합니다.{/}				
+UI_20220204_005214	Vasilisa Equipment Bound Removal Scroll	바실리사 장비 귀속 해제 스크롤				
+UI_20220204_005215	{@st43}{s16}Party Damage{/}	{@st43}{s16}파티 대미지{/}				
+UI_20220204_005216	{@st43}{s28}Battle Result	{@st43}{s28}전투 결과				
+UI_20220204_005217	{@st43}{s22}Record	{@st43}{s22}기록				
+UI_20220204_005218	{@st43}{s22}Details	{@st43}{s22}세부 정보				
+UI_20220204_005219	{@st43}{s15}{#FFFF00}Battle Time{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}전투 시간{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005220	48 seconds	48초				
+UI_20220204_005221	{@st43}{s15}{#FFFF00}Total Damage{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}총 피해량{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005222	{@st43}{s15}{#FFFF00}Previous Highest Record{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}이전 최고 기록{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005223	{@st43}{s17}{#FFFF00}Total Damage This Week{nl} {#FFFFFF}{s18}%s	{@st43}{s17}{#FFFF00}이번 주 누적 피해량{nl} {#FFFFFF}{s18}%s				
+UI_20220204_005224	{@st42b}{s18}End{/}	{@st42b}{s18}종료하기{/}				
+UI_20220204_005225	{s16}{#FF0000} %s left until count ends.	{s16}{#FF0000}집계 종료까지 %s 남았습니다.				
+UI_20220204_005226	5 Days 5 Hours 38 Minutes 49 Seconds	5일 5시간 38분 49초				
+UI_20220204_005227	{@st100cream_24}Archaeology	{@st100cream_24}고고학				
+UI_20220204_005228	{@st101lightbrown_16}Excavation Area	{@st101lightbrown_16}발굴 가능 지역				
+UI_20220204_005229	Close the Archaeology map window.	고고학 맵 정보창을 닫습니다.				
+UI_20220204_005230	Check Archeology Info.	고고학 정보를 확인합니다.				
+UI_20220204_005231	{@st101lightbrown_16}Archaeology	{@st101lightbrown_16}고고학				
+UI_20220204_005232	{s24}{b}Create a new character{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
+UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}can be selected once the following conditions are met.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
+UI_20220204_005234	Получено +%s				
+UI_20220204_005235	{@sti1c}{s14}Party Leader only Item	{@sti1c}{s14}파티장 전용 아이템				
+UI_20220204_005236	Count	사용 횟수				
+UI_20220204_005237	460 charactername	460 캐릭터이름				
+UI_20220204_005238	460 character name	460 캐릭터 이름				
+UI_20220204_005239	Gorilla	고릴라는				
+UI_20220204_005240	Banana	바나나				
+UI_20220204_005241	{@st43}{s16}Shows the factor currently applied to the dungeon.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
