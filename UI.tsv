@@ -4214,7 +4214,7 @@ UI_20200320_004213	{@st59}Закрыть{/}
 UI_20200320_004214	{@st43}{s18}Ранг %s			
 UI_20200320_004215	{@st43}{s18}Ранг %s ~ Ранг %s			
 UI_20200320_004216	{@st43}{s22}Список Наград		
-UI_20200320_004217	{s16}{ol}{#FFFFFF}Retrieve All			
+UI_20200320_004217	{s16}{ol}{#FFFFFF}Получить Всё		
 UI_20200320_004218	Change Item Property				
 UI_20200320_004219	Property				
 UI_20200320_004220	Present Value				
@@ -5239,3 +5239,51 @@ UI_20220204_005238	460 character name	460 캐릭터 이름
 UI_20220204_005239	Gorilla	고릴라는				
 UI_20220204_005240	Banana	바나나				
 UI_20220204_005241	{@st43}{s16}Shows the factor currently applied to the dungeon.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
+UI_20220426_005242	{@st43}{s22}Goddess' Glory{/}	{@st43}{s22}여신의 축복{/}				
+UI_20220426_005243	Без Анимации				
+UI_20220426_005244	{nl}{img %s 40 40}{@st42b}{s20}Открыть   				
+UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
+UI_20220426_005246	{@st43b}{s16}Contents List	{@st43b}{s16}콘텐츠 리스트				
+UI_20220426_005247	{@st43}Inherit Goddess Card Level{/}	{@st43}여신 카드 레벨 전승{/}				
+UI_20220426_005248	Please put the original card. 	원본 카드를 올려주세요				
+UI_20220426_005249	{@st59}Close{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}	
+UI_20220426_005250	Inherit Goddess Card Level	여신 카드 레벨 전승				
+UI_20220426_005251	{#ff0000}※ The level of original card will remain when inheriting the Goddess card level.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.				
+UI_20220426_005252	{@st41b}Inherit	{@st41b}전승	UI_20210809_004758	{@st41b}Copy	{@st41b}복사	
+UI_20220426_005253	{@st66d}{#ffcc33}{s18}Lv.%s{/}{/}{/}	{@st66d}{#ffcc33}{s18}%s레벨{/}{/}{/}				
+UI_20220426_005254	{@st59}Pilgrim Info{/}	{@st59}순례자 정보{/}				
+UI_20220426_005255	{@st59}Open Party{/}	{@st59}파티 펼쳐보기{/}				
+UI_20220426_005256	PilgrimGroupName	순례자그룹이름				
+UI_20220426_005257	{@st41}{s20}Leave	{@st41}{s20}나가기				
+UI_20220426_005258	{@st41}{s18}Pilgrim List	{@st41}{s18}순례자 목록				
+UI_20220426_005259	Number of Death : 0	사망 횟수 : 0				
+UI_20220426_005260	{@st59}You can see the information of current season's trial.	{@st59}현재 시즌의 시련 정보를 확인할 수 있습니다.				
+UI_20220426_005261	{@st41}{s20}Trial Info	{@st41}{s20}시련 정보				
+UI_20220426_005262	Please select the Trial information. 	시련 정보를 선택해주세요 .				
+UI_20220426_005263	Decrease the Trial Rank Level	시련 랭크 레벨을 낮춥니다.				
+UI_20220426_005264	Increase the Trial Rank Level	시련 랭크 레벨을 올립니다.				
+UI_20220426_005265	{@st59}Pilgrim, selects the trial.	{@st59}순례자, 시련을 선택합니다.				
+UI_20220426_005266	{@st41}{s20}Trial	{@st41}{s20}시련				
+UI_20220426_005267	Select Pilgrim	순례자 선택				
+UI_20220426_005268	PiligramNameMax.7	순례자명최대7				
+UI_20220426_005269	Select Penalty	페널티 선택				
+UI_20220426_005270	{@st41}{s18}Ready	{@st41}{s18}준비 완료				
+UI_20220426_005271	Res Sacrae Gem Enhance Scroll	성물 젬 강화 스크롤				
+UI_20220426_005272	{@st43b}{s24}Pilgrim Info{/}	{@st43b}{s24}순례자 정보{/} 				
+UI_20220426_005273	{@st59}Close{/}	{@st59}순례자를 종료합니다{/}				
+UI_20220426_005274	Goddess Message Extreme	여신의 전언 익스트림				
+UI_20220426_005275	{img current_group_mark 16 16}{@ps1_1}{s16} Current Group	{img current_group_mark 16 16}{@ps1_1}{s16} 현재 그룹				
+UI_20220426_005276	Group Name	그룹 이름				
+UI_20220426_005277	Disband	해제하기				
+UI_20220426_005278	Leave	탈퇴하기				
+UI_20220426_005279	Create Group	그룹 생성				
+UI_20220426_005280	{@st202}{s16}Group Name{/}	{@st202}{s16}그룹 명{/}				
+UI_20220426_005281	{@st202}{s16}Play Time{/}	{@st202}{s16}플레이 시간{/}				
+UI_20220426_005282	Trial Rank	{@st202}{s16}시련 단계{/}				
+UI_20220426_005283	{@ps2}{s14}Play Record	{@ps2}{s14}플레이 기록				
+UI_20220426_005284	If there is a record of playing the content in this season,{nl}The best score of the current group during this season will be shown.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
+UI_20220426_005285	Group Name	그룹명				
+UI_20220426_005286	{@42b}{s14}Ranking Period{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
+UI_20220426_005287	{@st66b}Evolution Stone Effect Resolution(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
+UI_20220426_005288	There are no items to use.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Undecided	미정	
+UI_20220426_005289	{@st42}{s20}Squad Name	{@st42}{s20}스쿼드 이름				
