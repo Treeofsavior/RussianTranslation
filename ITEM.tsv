@@ -28163,3 +28163,29 @@ ITEM_20220426_028162	Activate your Goddess Gabija Speech Bubble.{nl}You can use 
 ITEM_20220426_028163	Resurrected Paulius Speech Bubble	부활자 파울루스 말풍선			
 ITEM_20220426_028164	Activate your Resurrected Paulius Speech Bubble.{nl}You can use the Speech Bubble by using the item.{nl}Right-click to use.{nl} {nl}{#ff0000}This Speech Bubble cannot be stacked.	부활자 파울루스 말풍선 스킨을 등록할 수 있습니다.{nl}아이템 사용 시, 해당 말풍선 스킨을 이용할 수 있습니다.{nl}마우스 오른쪽 클릭으로 사용합니다.{nl} {nl}{#ff0000}해당 말풍선은 중복 사용이 불가능합니다.			
 ITEM_20220516_028165	Holy Pink Lense	홀리 핑크 렌즈				
+ITEM_20220614_028166	A costume that originates from the other continent, the origin of Lamas. It is made so that nothing gets in the way while making various attacks using the body.	라마의 기원지인 타대륙에서 비롯된 의상입니다. 몸을 이용한 여러 공격에도 불편함이 없도록 만들어졌습니다.
+ITEM_20220614_028167	Darsana-marga of Lama Costume	라마 견도 코스튬
+ITEM_20220614_028168	The glasses you need for meme-tastic comebacks.{nl}{#0000ff}Can be exchanged for 30 medals at the Exchange Shop.	그래서, DEAL WITH IT.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.
+ITEM_20220614_028169	All the cool kids in the Kingdom are wearing these.{nl}{#0000ff}Can be exchanged for 30 medals at the Exchange Shop.	어쩐지 인기가 많아질 것 같은 기분이 드는 선글라스입니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.
+ITEM_20220614_028170	No one has ever seen GeHong without his hat ever since he became the Taoist Master.{nl}{#0000ff}Can be exchanged for 30 medals at the Exchange Shop.	갈홍이 도사 마스터가 된 이후 도인관을 벗은 모습을 본 사람은 없습니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.
+ITEM_20220614_028171	According to a talkative divine spirit, Hitomiko likes to complain about the weight of her ornament, but she continues to wear it every day because people always tell her it looks good on her.{nl}{#0000ff}Can be exchanged for 30 medals at the Exchange Shop.	어느 말 많은 신령의 말에 따르면 무녀 마스터인 히토미코는 이 머리장식이 무겁다며 투덜대곤 하지만 잘 어울린다는 말에 어쩔 수 없는 척 매일 쓰고 다닌다고 합니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.
+ITEM_20220614_028172	A must-have for all the hip party people.	느낌있는 옷들에 포인트를 주는 파티 피플의 잇 아이템입니다.
+ITEM_20220614_028173	Hair ribbon featuring one of the symbols of the Mystic Savior - the heart!{nl}{#0000ff}Can be exchanged for 30 medals at the Exchange Shop.	미스틱 세이비어의 상징, 하트 브로치가 달린 미스틱 리본입니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.
+ITEM_20220614_028174	Hair ribbon featuring one of the symbols of the Mystic Savior - the diamond!{nl}{#0000ff}Can be exchanged for 30 medals at the Exchange Shop.	미스틱 세이비어의 상징, 다이아 브로치가 달린 미스틱 리본입니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.
+ITEM_20220614_028175	[Reward] Delmore Battlefield (Hard) Reward Box	[보상용] 델무어 격전지(Hard) 클리어 보상 상자
+ITEM_20220614_028176	Box given as a reward. Use to obtain one of the following items by chance.{nl} - Goddess Token (Gabija) : 1000 x2{nl} - [Lv.470] Enhance Aid (Untradable) x10 Box{nl} - [Lv.470] Enhance Aid (Untradable) x30 Box{nl} - [Lv.470] Enhance Aid (Untradable) x50 Box{nl} - Resurrected Paulius Card	보상용으로 지급되는 상자입니다. 사용 시 다음 아이템 중 하나를 확률적으로 획득합니다.{nl} - 여신의 증표(가비야) : 1000 x2{nl} - [Lv.470] 강화 보조제(거래불가) 10개 상자{nl} - [Lv.470] 강화 보조제(거래불가) 30개 상자{nl} - [Lv.470] 강화 보조제(거래불가) 50개 상자{nl} - 부활자 파울루스 카드
+ITEM_20220614_028177	Jellyzele Goddess Raid	젤리젤 가디스 레이드
+ITEM_20220614_028178	Jellyzele Auto Match Raid	젤리젤 자동매칭 레이드
+ITEM_20220614_028179	Jellyzele Solo Raid	젤리젤 1인 레이드
+ITEM_20220614_028180	Jellyzele Card	젤리젤 카드
+ITEM_20220614_028181	[Card Equip Effect] Block Penetration Chance + [{img star_mark 20 20} *5]%	[슬롯 장착 효과] 블록 관통 확률 [★ * 5]% 증가
+ITEM_20220614_028182	Title - Traitor	칭호 - Traitor
+ITEM_20220614_028183	Res Sacrae Raid: Auto/Solo(Hard) Entry Voucher	성물 레이드: 자동 매칭, 1인(Hard) 입장권
+ITEM_20220614_028184	Increases 1 entry count of Res Sacrae Raid: Auto Match, Solo (Hard).	성물 레이드: 자동 매칭, 1인(Hard) 입장 횟수를 1회 증가 시킵니다.
+ITEM_20220706_028185	Kimono Costume (Male)(Untradable)	기모노 코스튬 (남)(거래 불가)				
+ITEM_20220706_028186	Kimono Costume (Female)(Untradable)	기모노 코스튬 (여)(거래 불가)				
+ITEM_20220706_028187	Little Zemyna Doll	작은 제미나 인형				
+ITEM_20220706_028188	A Doll that resembles Goddess Zemyna.{nl}The toy is influenced by the energy of its owner and is known to mimic their movements.{nl}The doll mimics basic attack, sub attack, and premium movements, with special gestures for rest and personal shop modes.	여신 제미나를 닮은 인형입니다.{nl}주인의 힘에 영향을 받아, 착용자의 일부 행동을 따라합니다.{nl}인형은 기본 공격과 보조 공격, 유료 포즈를 따라하며, 휴식모드 및 개인 상점 개설 시 특수한 동작을 합니다.				
+ITEM_20220706_028189	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Dandy Doggo{nl} - Lucky Golden Pig{nl} - Hawk{nl} - Snow Bunny{nl} - Skunk	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지{nl} - 매{nl} - 하얀 눈 토끼{nl} - 스컹크	ITEM_20201221_026960	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Dandy Doggo{nl} - Lucky Golden Pig{nl} - Hawk{nl} - Snow Bunny	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지{nl} - 매{nl} - 하얀 눈 토끼	
+ITEM_20220706_028190	Goddess Zemyna's Little Garden	여신 제미나의 작은 정원				
+ITEM_20220706_028191	Summon Goddess Zemyna's Little Garden.	사용 시 여신 제미나의 작은 정원을 소환합니다.				

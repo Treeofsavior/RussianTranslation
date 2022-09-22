@@ -17858,16 +17858,43 @@ QUEST_LV_0100_20220426_017857	Please be sure to stay near the demon camp when do
 QUEST_LV_0100_20220426_017858	{nl}Well..{nl}Still, even if the experiment fails, it'll be a help to the Kingdom.	{nl}뭐..{nl}실험이 실패해도 왕국에 도움은 조금 되겠죠.				오위니아 딜벤
 QUEST_LV_0100_20220426_017859	Thanks.{nl}It'll be enough.	고마워요.{nl}이정도면 충분해요.				오위니아 딜벤
 QUEST_LV_0100_20220426_017860	Visit Beauty Shop	뷰티샵 방문하기				
-QUEST_LV_0100_20220426_017861	[Keraunos] Static Electricity of Rationality and Providence	[케라우노스] 순리와 섭리의 박리대전				
+QUEST_LV_0100_20220426_017861	[Keraunos] Static Electricity of Rationality and Providence		
 QUEST_LV_0100_20220426_017862	Thank you for giving me a chance to contribute to the research	연구에 기여할 기회를 줘서 고맙다고 한다				
 QUEST_LV_0100_20220426_017863	You'd better look for another assistant	다른 조수를 찾는 게 좋겠다고 한다				
-QUEST_LV_0100_20220426_017864	[Keraunos] Thunder Flower	[케라우노스] 번개꽃				
+QUEST_LV_0100_20220426_017864	[Keraunos] Thunder Flower			
 QUEST_LV_0100_20220426_017865	Sorry, something else came up	급한 볼 일이 생겼다고 한다				
 QUEST_LV_0100_20220426_017866	Visit Beauty Shop in Klaipeda	클라페다의 뷰티샵에 방문하기				
 QUEST_LV_0100_20220426_017867	You can decorate your character in the Beauty Shop{nl}Visit the Beauty Shop	뷰티샵에서 캐릭터를 다양하게 꾸밀 수 있습니다{nl}뷰티샵에 방문해보세요				
 QUEST_LV_0100_20220426_017868	Go to Keraunos Master in Pyromancer Master's Lab	파이로맨서 마스터의 연구실의 케라우노스 마스터 찾아가기				
 QUEST_LV_0100_20220426_017869	Pyromancer Master's laboratory, located at Klaipeda, is recruiting researchers.{nl}According to the rumors, thunder is heard inside the lab and the Pyromancer Master often visits Rozalija with a nervous breakdown.{nl}They probably need someone to help with their research.{nl}Let's see if Pyromancer Master's Lab in Klaipeda needs any help.	클라페다 내부에 위치한 파이로맨서 마스터의 연구실에서 연구자를 모집하고 있다고 합니다.{nl}들리는 소문으로는 연구실 내부에서 간혹 천둥소리가 들리고 있고 파이로맨서 마스터가 신경쇄약으로 로잘리아에게 자주 찾아간다고 합니다.{nl}아무래도 연구를 도와줄 사람이 필요한 것 같습니다.{nl}클라페다 파이로맨서 마스터의 연구실에 도움이 필요한지 확인해 봅시다.				
-QUEST_LV_0100_20220426_017870	Complete the reseach suggested by the Keraunos Master	케라우노스 마스터가 제안한 연구들을 완수하기				
-QUEST_LV_0100_20220426_017871	Keraunos Master is desperately waiting for the results of your experience.{nl}Let's do your best until the results of the experiment are satisfactory.	케라우노스 마스터는 당신의 실험 결과를 간절히 기다리고 있습니다.{nl}실험 결과가 만족스러울 때까지 정진합시다.				
+QUEST_LV_0100_20220426_017870	Завершите исследование, предложенное от Keraunos Master.			
+QUEST_LV_0100_20220426_017871	Keraunos Master отчаянно ждёт результатов вашего опыта.{nl}Давайте сделаем всё возможное, пока результаты эксперимента не будут удовлетворительными.
 QUEST_LV_0100_20220426_017872	Go back to Keraunos master	케라우노스 마스터에게 돌아가기				
 QUEST_LV_0100_20220426_017873	This would help Keraunos master enough.{nl}Go back to Pyromancer Master's Lab and talk to Keraunos Master.	이 정도면 케라우노스 마스터에게 충분한 도움을 줄 수 있을 것 같습니다.{nl}파이로맨서 마스터의 연구실로 돌아가 케라우노스 마스터와 대화하세요.				
+QUEST_LV_0100_20220603_017874	TOS Summer Campfire 2022	TOS 봄 캠핑 2022				
+QUEST_LV_0100_20220614_017875	[Lama Master] Astius	[라마 마스터] 아스티유스				
+QUEST_LV_0100_20220614_017876	The path of the Lama is only open to those who devote themselves to the weak. {nl} I'm well aware of your reputation, Revelator. {nl} Will you walk the path of the Lama?	라마는 약자들을 위해 헌신하는 자에게만 허락된 길입니다. {nl} 계시자님의 명성은 익히 들었습니다. {nl} 라마의 길을 걸어보시겠습니까?				[라마 마스터] 아스티유스
+QUEST_LV_0100_20220614_017877	Go and help those suffering.	돌아다니며 고통받는 이들을 도와주십시오.				[라마 마스터] 아스티유스
+QUEST_LV_0100_20220614_017878	Excellent. {nl} You, Revelator, are well qualified.	훌륭하십니다. {nl} 계시자님은 자격이 충분하십니다.				[라마 마스터] 아스티유스
+QUEST_LV_0100_20220614_017879	'Training ourselves and helping the weak' are things that never leave a Lama's mind. {nl} Isn't this the same for you, Revelator?	라마는 한순간도 수련과 약자돕기를 잊지 않습니다. {nl} 계시자님 또한 그러시지 않습니까? 				라마 마스터
+QUEST_LV_0100_20220614_017880	Please help those in need and focus in training yourself. {nl} I will give you a symbolic clothing of us, Lamas, when you overcome the trials I assign you. 	 계시자님 약자들을 돕고, 수련에 정진해주십시오. {nl} 제가 주는 시련을 이겨내신다면 라마임을 입증하는 옷을 드리겠습니다.				라마 마스터
+QUEST_LV_0100_20220614_017881	Hurry up and start your journey, helping the weak.	빨리 길을 떠나 약자들을 도와주십시오.				라마 마스터
+QUEST_LV_0100_20220614_017882	Excellent. {nl} Here is the clothing that proves you are a Lama.	훌륭하십니다. {nl} 계시자님 라마임을 나타내는 옷을 드리도록 하겠습니다.				라마 마스터
+QUEST_LV_0100_20220614_017883	Kedoran Merchant Support Shop_STM	케도란 상단 지원 상점_STM				
+QUEST_LV_0100_20220614_017884	Season Server Guild Event_STM	시즌 서버 길드 이벤트_STM				
+QUEST_LV_0100_20220614_017885	[Lama] Rescuer's Path	[라마] 구난의 길				
+QUEST_LV_0100_20220614_017886	I will dedicate myself to helping the weak.	약자들을 구원하는데 이바지하겠다.				
+QUEST_LV_0100_20220614_017887	I have more important things to do.	그런 건 귀찮은 일이야.				
+QUEST_LV_0100_20220614_017888	[Lama] The Clothing of the Rescuer	[라마] 구난하는 자의 옷				
+QUEST_LV_0100_20220614_017889	I am up to something else at the moment.	지금은 다른 일을 해야한다고 한다.				
+QUEST_LV_0100_20220614_017890	Go to the Lama Master at the Saalus Convent	살러스 수녀원의 라마 마스터 찾아가기				
+QUEST_LV_0100_20220614_017891	The Lama Master at the Saalus Convent seems to be interested in you. {nl} Go an start a conversation with him.	살러스 수녀원에 있는 라마 마스터가 당신에게 관심을 보이고 있다. {nl} 찾아가서 대화를 해보자.				
+QUEST_LV_0100_20220614_017892	Take care of the tasks the Lama master gave you	라마 마스터가 준 일들 처리하기				
+QUEST_LV_0100_20220614_017893	The Lama master says helping people in need is the way Lama works. {nl} Gain Lama Master's approval by completing the tasks from him.	라마 마스터는 어려운 사람들을 돕는 것이 라마의 길이라고 한다. {nl} 그가 준 일들을 처리해서 라마 마스터에게 인정을 받자.				
+QUEST_LV_0100_20220614_017894	You finished the tasks from the Lama Master. {nl} Return to him and gain the approval.	라마 마스터가 준 일을 모두 처리했다. {nl} 그에게 돌아가 자격을 인정받자.				
+QUEST_LV_0100_20220614_017895	Go find Astius at the Saalus Convent	살러스 수녀원의 아스티유스를 찾아가기				
+QUEST_LV_0100_20220614_017896	There is someone that helps the weak at the Saalus Convent. {nl} Go and find him.	살러스 수녀원에서 약자를 돕는 사람이 있습니다. {nl} 그를 찾아가세요.				
+QUEST_LV_0100_20220614_017897	Complete the tasks suggested by the Lama Master	라마 마스터가 제안한 일들을 완수하기				
+QUEST_LV_0100_20220614_017898	Lama Master wonders if you are qualified to be a Lama. {nl} Prove yourself by completing the tasks from the Lama Master.	라마 마스터는 당신에게 라마가 되기 위한 자격이 있는지 궁금해합니다. {nl} 라마 마스터가 준 일들을 처리해 자신을 증명하세요.				
+QUEST_LV_0100_20220614_017899	You finished the tasks from the Lama Master. {nl} Return to the Lama Master.	라마 마스터가 준 일들을 모두 처리했습니다. {nl} 라마 마스터에게 돌아가 보고하세요.				
+QUEST_LV_0100_20220706_017900	2022 Summer Festa	2022 썸머 페스타				
