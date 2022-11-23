@@ -97,7 +97,7 @@ UI_20150317_000096	{@59}Пригласить{/}
 UI_20150317_000097	{@st59}Все{/}
 UI_20150317_000098	{@st59}Общий (/s чат){/}
 UI_20150317_000099	{@st59}Мир (/y чат){/}
-UI_20150317_000100	{@st59}Пати (/p чат){/}
+UI_20150317_000100	{@st59}Группа (/p чат){/}
 UI_20150317_000101	{@st59}Шепот (/w название команды в чате) 
 UI_20150317_000102	{@st59}Изменение окна чата{/}
 UI_20150317_000103	{@st43}{s22}Макрос чата{/}
@@ -354,7 +354,7 @@ UI_20150317_000353	{ol}Звук
 UI_20150317_000354	{@st41}Создать миникарту{/}
 UI_20150317_000355	{@st55}Карта местности
 UI_20150317_000356	{@st43}{s22}Рынок{/}
-UI_20150317_000357	{@st43}{s24}Аукцион{/}
+UI_20150317_000357	{@st43}{s24}Рынок{/}
 UI_20150317_000358	{@st42b}Фильтр{/}
 UI_20150317_000359	{@st42b}Тип{/}
 UI_20150317_000360	{@st42b}Рек. ур.{/}
@@ -644,8 +644,8 @@ UI_20150317_000643	Цена создания предмета
 UI_20150317_000644	Кол-во для создания
 UI_20150317_000645	Приблизительно потребуется %s секунд
 UI_20150317_000646	{@st41}Создать
-UI_20150317_000647	{@st43}Классовые Умения и Атрибуты{/}
-UI_20150317_000648	{@st59}Закрыть Классы и Умения{/}
+UI_20150317_000647	{@st43}Классовые Скиллы и Атрибуты{/}
+UI_20150317_000648	{@st59}Закрыть Классы и Скиллы{/}
 UI_20150317_000649	{@st59b}Классы{nl}{@st59s}- Вы можете выучить новые умения, при достижении нового Ранга. {nl} - Вы можете выбирать из 3-х доступных классов. {nl} - Вы можете выбрать один и тот же класс, до 3-х раз. {nl} - Вы должны использовать все очки умений, для взятия нового Ранга. {nl} - Вы можете выбрать тот же класс.{nl}{@st59b}Умения{nl}{@st59s} - Вы можете увеличить каждое умение до 5.{nl} - Атрибуты изученные у мастеров, можно увидеть ниже. {/}
 UI_20150317_000650	{@st41b}Применить{/}
 UI_20150317_000651	{@st59}Применить{/}
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Параметр{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Информация о персонаже (F1){/}
 UI_20150317_000727	{@st59}Инвентарь (F2){/}
-UI_20150317_000728	{@st59}Классы и Умения (F3){/}
+UI_20150317_000728	{@st59}Классы и Скиллы (F3){/}
 UI_20150317_000729	{@st59}Журнал приключений (F4){/}
 UI_20150317_000730	{@st59}Задания (F5){/}
 UI_20150317_000731	{@st59}Группа (F6){/}
@@ -886,7 +886,7 @@ UI_20150317_000885	{@st41}Открыть XML{/}
 UI_20150317_000886	{@st42b}Исправленных Умений: 0{/}
 UI_20150317_000887	{@st42b}Исправленных умений: %s{/}
 UI_20150317_000888	{@st42b}Самонаведение Мышки{/}
-UI_20150317_000889	{@st42b}Название Умения{/}
+UI_20150317_000889	{@st42b}Название Скилла{/}
 UI_20150317_000890	{@st41}Список монстров{/}
 UI_20150317_000891	{@st41}Окно производительности{/}
 UI_20150317_000892	{ol}Выбрать задание
@@ -1405,7 +1405,7 @@ UI_20150323_001404	{@st41}Потребляемые материалы
 UI_20150401_001405	{@st59}Закрыть{/}
 UI_20150401_001406	{@st41}Расформировать Базовый Лагерь
 UI_20150401_001407	{@st43}[%s Ранг]{/}
-UI_20150401_001408	{@st43}Умения{/}
+UI_20150401_001408	{@st43}Скиллы{/}
 UI_20150401_001409	{@st43}Подсказка по классу{/}
 UI_20150401_001410	Подсказка по классу
 UI_20150401_001411	{@st42}{#ffff00}Зафиксировать цель {/}
@@ -1622,7 +1622,7 @@ UI_20150714_001621	{@st66}{s14}Предметы, требующие ремонт
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Повышение умений{/}
 UI_20150714_001624	{@st59}Закрыть окно Умений и Атрибутов{/}
-UI_20150714_001625	{@st43}Умения и Атрибуты{/}
+UI_20150714_001625	{@st43}Скиллы и Атрибуты{/}
 UI_20150714_001626	Доступные очки характеристик: {nl}{@st46}%s
 UI_20150714_001627	Лайков получено: %s
 UI_20150714_001628	{@st66b}Показать получаемый опыт{/}
@@ -1742,7 +1742,7 @@ UI_20150729_001741	{@st42b}Мечники могут совершать рыво
 UI_20150729_001742	{@st41}Настройки группы
 UI_20150729_001743	{@st41}Настройки подбора группы
 UI_20150729_001744	{@st42}Функция поиска участников в группу{/}
-UI_20150729_001745	Когда появится игрок соответствующий вашим критериям, появится сообщение[Пати подобрана!]
+UI_20150729_001745	Когда появится игрок соответствующий вашим критериям, появится сообщение[Группа подобрана!]
 UI_20150729_001746	{@st41b}Список общих игроков{/}
 UI_20150729_001747	{@st41}Информация об Атрибутах
 UI_20150729_001748	{@st59}Закрыть улучшение{/}
@@ -1756,7 +1756,7 @@ UI_20150729_001755	{@st42}Расписание Лиги Командных Би�
 UI_20150729_001756	{@st43}Ранги Лиги Командных Битв
 UI_20150729_001757	{@st59}Закрыть Команду
 UI_20150729_001758	Название Команды
-UI_20150729_001759	{@st41b}Название Умения
+UI_20150729_001759	{@st41b}Название Скилла
 UI_20150729_001760	{@st59}Принять групповую миссию{/}
 UI_20150729_001761	{@st59}Удалить этот Билет{/}
 UI_20150729_001762	Очки
@@ -1958,7 +1958,7 @@ UI_20151224_001957	{@st42}%s Преимущества{/}
 UI_20151224_001958	{s15}Вы хотите активировать %s?{/}
 UI_20151224_001959	Этот предмет исчезнет из вашего инвентаря{nl}Сбрасывает все Очки Умений.
 UI_20151224_001960	{@st41}Использовать
-UI_20151224_001961	{@st59b}Классы{nl}{@st59s}- Вы можете изучать новые классовые умения при росте Ранга класса. {nl} - Вам доступно 3 класса при переходе с 1го на 2ой ранг. {nl} - Вы можете выбирать один и тот же класс до 3-х раз. {nl} - Вы должны использовать все Очки Умений для перехода на новый Ранг. {nl} - Вы можете выбрать один и тот же класс.{nl}{@st59b}Умения{nl}{@st59s} - Вы можете увеличить уровень каждого умения до 5ти.{nl} - Атрибуты изученные у вашего Мастера находятся ниже классовых умений. {/}
+UI_20151224_001961	{@st59b}Классы{nl}{@st59s}- Вы можете изучать новые классовые умения при росте Ранга класса. {nl} - Вам доступно 3 класса при переходе с 1го на 2ой ранг. {nl} - Вы можете выбирать один и тот же класс до 3-х раз. {nl} - Вы должны использовать все Очки Умений для перехода на новый Ранг. {nl} - Вы можете выбрать один и тот же класс.{nl}{@st59b}Скилла{nl}{@st59s} - Вы можете увеличить уровень каждого умения до 5ти.{nl} - Атрибуты изученные у вашего Мастера находятся ниже классовых скиллов. {/}
 UI_20151224_001962	{@st66b}Инфо{/}
 UI_20151224_001963	{@st66b}Достижения{/}
 UI_20151224_001964	{@st66b}Настройки{/}
@@ -2044,7 +2044,7 @@ UI_20151224_002043	Оставшееся время
 UI_20151224_002044	Доступные Башни
 UI_20151224_002045	Повысить Гильдию
 UI_20151224_002046	Ранг вклада
-UI_20151224_002047	Умения Гильдии и Информация
+UI_20151224_002047	Скиллы Гильдии и Информация
 UI_20151224_002048	{@st42}%s привилегии:{/}
 UI_20151224_002049	Привилегии
 UI_20160224_002050	Склад Семьи
@@ -3052,7 +3052,7 @@ UI_20180418_003051	{@st47}{s18}See Processed Equipment
 UI_20180418_003052	{@st42}Титулы [%s]{/}
 UI_20180418_003053	{@st42}{#00fec5}Текущий этап баффа титула
 UI_20180418_003054	{@st42}Титулы для след. этапа
-UI_20180418_003055	{@st42b}Stage %s{/}
+UI_20180418_003055	{@st42b}Стадия %s{/}
 UI_20180418_003056	{@st66b}См. Эффект Следующ. Этапа{/}
 UI_20180418_003057	{@st59}Close transcendence scroll window.{/}
 UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}
@@ -3203,10 +3203,10 @@ UI_20180517_003202	Cannot extract sockets
 UI_20180517_003203	Main Weapon
 UI_20180517_003204	Armor
 UI_20180517_003205	Bottom
-UI_20180517_003206	{@st41b}{s18}Item Set
-UI_20180517_003207	{@st41b}{s16}Set Stats
+UI_20180517_003206	{@st41b}{s18}Набор предметов
+UI_20180517_003207	{@st41b}{s16}Статы Снаряжения
 UI_20180517_003208	Обменять
-UI_20180517_003209	{@st66d}Player Name{/}
+UI_20180517_003209	{@st66d}Имя игрока{/}
 UI_20180517_003210	{@st66}{s18}Write{/}
 UI_20180517_003211	Вес: %s
 UI_20180517_003212	Total Characters 
@@ -3222,8 +3222,8 @@ UI_20180629_003221	{@st41d}               Lodge
 UI_20180629_003222	{@st66d}{s20}%s {@st66d_y}{s20}%s{@st66b}{s18}{nl}Изменить дом?
 UI_20180629_003223	{@st66b}Да
 UI_20180629_003224	{@st66b}Нет
-UI_20180629_003225	{@st43}Barber Shop (M)
-UI_20180629_003226	{@st43}Barber Shop (F)
+UI_20180629_003225	{@st43}Парикмахерская (М)
+UI_20180629_003226	{@st43}Парикмахерская (Ж)
 UI_20180629_003227	{@st43}Boutique (M)
 UI_20180629_003228	{@st43}Boutique (F)
 UI_20180629_003229	{@st43}Barber Shop - Wigs (M)
@@ -3395,7 +3395,7 @@ UI_20180827_003394	Damage taken
 UI_20180827_003395	Damage dealt
 UI_20180827_003396	Использование скила
 UI_20180827_003397	Смерть/Воскрешение
-UI_20180827_003398	Пати смерть/Воскрешение
+UI_20180827_003398	Группа смерти/возрождения
 UI_20180827_003399	Макс. ур. перса
 UI_20180827_003400	{@st59}Запросить данные о быстром слоте снова.{/}
 UI_20180827_003401	{@st66b18}Получить
@@ -3449,9 +3449,9 @@ UI_20180827_003448	{@st42}{s22}Popo Магазин{@st42}
 UI_20180827_003449	{@st59}Получить вещи снова.{/}
 UI_20180827_003450	{img test_cooltime 25 25}{s18}Points resetting in %s day(s), %s hour(s), %s minute(s).{/}
 UI_20180827_003451	{@st66b}Main{/}
-UI_20180827_003452	{@st66b}Popo магазин{/}
+UI_20180827_003452	{@st66b}Popo Магазин{/}
 UI_20180827_003453	{@st66b}PP Gear Rental{/}
-UI_20180827_003454	{@st66b}Information{/}
+UI_20180827_003454	{@st66b}Информация{/}
 UI_20180827_003455	{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 06:00, server time).
 UI_20180827_003456	{s14}{@st42}Today's points: %s
 UI_20180827_003457	Награды за вход
@@ -3548,7 +3548,7 @@ UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s
 UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).
 UI_20181017_003549	{@st59}Выбрать Основной Класс{/}
 UI_20181017_003550	{@st59}Ящик снастей(Alt + F){/}
-UI_20181017_003551	{@st59}Умения и Атрибуты (F3){/}
+UI_20181017_003551	{@st59}Скиллы и Атрибуты (F3){/}
 UI_20181017_003552	Used Items
 UI_20181017_003553	Титул       %s
 UI_20181017_003554	Вознаграждение
@@ -3610,9 +3610,9 @@ UI_20190104_003609	{@st43}Информация о классе{/}
 UI_20190104_003610	Закрыть режим изменения класа.
 UI_20190104_003611	{@st43}Выберите класс и нажмите кнопку выбора.
 UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}
-UI_20190104_003613	{@st59b}Колекция {nl}{@st59s}- Приобретите колоду колекций, чтобы добавить колекционные предметы в свою колекцию. {nl} - Горячая клавиша сбора будет включена при использовании элемента колоды. {nl} {/}
+UI_20190104_003613	{@st59b}Коллекция {nl}{@st59s}- Приобретите колоду колекций, чтобы добавить колекционные предметы в свою колекцию. {nl} - Горячая клавиша сбора будет включена при использовании элемента колоды. {nl} {/}
 UI_20190104_003614	{@st59}Закрыть{/}
-UI_20190104_003615	{@st43}Колекция{/}
+UI_20190104_003615	{@st43}Коллекция{/}
 UI_20190104_003616	{@st68b}{s18}Collection{/}
 UI_20190104_003617	{@st59}Search the name of a collection or effect.{/}
 UI_20190104_003618	ⓘ Reward lists are updated 1 hour after each session.{nl}ⓘ Rewards can be claimed only by the guild master. Claimed items are sent to the guild storage.{nl}ⓘ Beta test sessions offer no rewards.
@@ -3717,7 +3717,7 @@ UI_20190104_003716	{@st42}OK
 UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}
 UI_20190104_003718	{@st59}Close the map.{/}
 UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}
-UI_20190104_003720	{@st41b}Колекция{/}
+UI_20190104_003720	{@st41b}Коллекция{/}
 UI_20190104_003721	{s20}Change class trees?{/}
 UI_20190104_003722	* After the class tree change, you will receive attribute points{nl}equivalent to the level of your attributes prior to the change.
 UI_20190104_003723	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.
@@ -3782,11 +3782,11 @@ UI_20190104_003781	Изменение выбранного класса.
 UI_20190104_003782	You can change a class that is required for one of your current classes.
 UI_20190104_003783	Party Member Name
 UI_20190104_003784	{@st43b}{s18}Скиллы
-UI_20190104_003785	Skill Points:        %s/%s
-UI_20190104_003786	Related Attributes
+UI_20190104_003785	Скилл Очки:        %s/%s
+UI_20190104_003786	Доступные Атрибуты и Исскуства
 UI_20190104_003787	{@st43b}{s18}Атрибуты
 UI_20190104_003788	{@st41d}Отмена
-UI_20190104_003789	Attribute Points
+UI_20190104_003789	Атрибут Очки
 UI_20190104_003790	Extract Attribute Points
 UI_20190104_003791	{@st66}Extract
 UI_20190104_003792	Купить очки атрибутов
@@ -4129,7 +4129,7 @@ UI_20200129_004128	{@st66d_y}{s16}Goddess' Blessing
 UI_20200129_004129	{@st41b}Покинуть{/}			
 UI_20200129_004130	{@st43}Message Box(%s/%s)			
 UI_20200129_004131	{@st66}Совет. Прокрутите вниз, чтобы загрузить больше данных.				
-UI_20200129_004132	{@st66}     Совет 1. Награды за эпизоды можно получить один раз за команду.                         
+UI_20200129_004132	{@st66}Совет. Награды за эпизоды можно получить один раз за команду.                         
 UI_20200129_004133	{@st66b}Эпизод{/}		
 UI_20200129_004134	{@st66b}Список Заданий{/}
 UI_20200129_004135	{@st66b}Завершено{/}	
@@ -4153,8 +4153,8 @@ UI_20200129_004152	{@st66b}Boss Monster Effect Sharpness(%s){/}
 UI_20200129_004153	{@st42b}{ds}{s18}Show all map{/}
 UI_20200129_004154	{@st42b}{ds}{s18}{#FF5E00}See all Goddess Statues{/}				
 UI_20200129_004155	{@st59}Shortcut{/}				
-UI_20200129_004156	{@st59}Complete{/}				
-UI_20200129_004157	{@42b}{s20}Page %s{/}{/}			
+UI_20200129_004156	{@st59}Завершено{/}				
+UI_20200129_004157	{@42b}{s20}Страница %s{/}{/}			
 UI_20200129_004158	{@st59}Enter title{/}			
 UI_20200129_004159	{@st59}Preview{nl}Reset by leaving edit mode or pressing Preview button.				
 UI_20200129_004160	{@st59}Удалить			
@@ -4169,7 +4169,7 @@ UI_20200206_004168	{@st66b}{s18}Acquisition State
 UI_20200206_004169	{@st66b}{s18}Stamps				
 UI_20200206_004170	{@st66b}{s18}Contents				
 UI_20200206_004171	Tab Title				
-UI_20200206_004172	Instructions				
+UI_20200206_004172	Инструкции		
 UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins				
 UI_20200207_004174	Stamp Diary			
 UI_20200218_004175	Обновить			
@@ -4323,7 +4323,7 @@ UI_20200514_004322	Convert
 UI_20200514_004323	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image{nl}-Maximum 10 images can be shown.
 UI_20200514_004324	{@st66d_y}{s16}Goddess' Roulette		UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins
 UI_20200514_004325	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized.{nl} - Companions in lodge can be summoned and unsummoned by the Companion List button{nl} - Does not apply to Flying-type Companions in the Companion List{nl} - When entering the lodge after summoning companions from the lodge of other number, you become no longer accompanied by the companion{nl} - When the companion icon is in the quick slot, only companion summon is possible (Unsummon in the Companion Info UI){nl} - Unsummon ground-type companions with Shift+R (Does not apply to Flying-type Companions){/}
-UI_20200514_004326	{@st59b}Companion List{/}			
+UI_20200514_004326	{@st59b}Лист Компаньонов{/}			
 UI_20200514_004327	{@st41b}{s16}Cancel
 UI_20200514_004328	{@st41b}{s16}Screenshot				
 UI_20200514_004329	{@st43}Cheat : Enchant or Awaken{/}			
@@ -4414,7 +4414,7 @@ UI_20200710_004413	{@st43b}{s16}Current Stats	{@st43b}{s16}적용 옵션
 UI_20200710_004414	{@st43b}{s16}Equip Stats	{@st43b}{s16}장착 옵션				
 UI_20200710_004415	{@st43b}{s16}Ichor Stats	{@st43b}{s16}아이커 옵션				
 UI_20200710_004416	Able to equip/unequip Ichor	아이커 일괄 장착/해제 가능				
-UI_20200727_004417	{@st66b18}Usable name.{nl}Will you create?{/}	{@st66b18}사용 가능한 이름입니다.{nl}생성하시겠습니까?{/}				
+UI_20200727_004417	{@st66b18}Имя подходит.{nl}Создать?{/}		
 UI_20200727_004418	Extra Socket Cost %s : {@st66d_y}%s{/} {nl}Gem Extraction Cost %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/} {nl}젬 추출 비용 %s : {@st66d_y}%s{/}	UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	
 UI_20200805_004419	{@st66b}{s20} %s{nl} can be used to receive various rewards.	{@st66b}{s20} %s를{nl}사용해 다양한 보상을 획득하세요.				
 UI_20200805_004420	{@st66b}{s20}Current Acquirable Grade	{@st66b}{s20}현재 획득 가능 등급				
@@ -5034,7 +5034,7 @@ UI_20211021_005033	{@st59b}Summon Mount{nl}{@st59s}[Select Mount]{nl} - Select t
 UI_20211021_005034	Mount Voucher	탈 것 등록증				
 UI_20211021_005035	to register so that it can appear on the list{nl}{nl} {nl}[Remove Mount]{nl} - Re-select the selected portrait on the list to remove selection{nl}{nl} {nl}[Summon Mount]{nl} - Select the Mount you want and use Summon Mount skill.{nl} - Unable to use skill in special conditions such as mounted on the companion/during combat/during Heroic Tale/Incapable of Combat, etc{nl} * Class with Companion Riding attribute only receives effect of Mount while mounted on the companion{nl}{nl} {nl}[Remove Summon Mount]{nl} - Summon the Mount and re-use the Summon Mount skill to remove{nl} - Removed when the character is incapable of combat{nl} - Removed when entering the Heroic Tale{nl}{nl} {nl}[Effect of Mount]{nl} - You can check the details by hovering the mouse on the registered Mount	 아이템을 사용하여 등록되어야 목록에 등장{nl}{nl} {nl}[탈 것 선택 해제]{nl} - 탈 것 목록에서 선택된 탈 것의 초상화를 다시 선택하여 해제 가능{nl}{nl} {nl}[탈 것 소환하기]{nl} - 원하는 탈 것을 선택후 탈 것 소환 스킬을 사용{nl} - 컴패니언에 탑승한 상태/전투 중/영웅담 진행 중/사망 등, 특수한 상태에서는 스킬 사용 불가{nl} * 컴패니언 탑승 특성을 보유한 클래스는 컴패니언에 탑승한 상태에서 탈 것의 효과만 적용{nl}{nl} {nl}[탈 것 소환 해제하기]{nl} - 탈 것을 소환한 상태에서 탈 것 소환 스킬 재사용으로 해제{nl} - 캐릭터 사망 시, 해제{nl} - 영웅담 콘텐츠 진입 시, 해제{nl}{nl} {nl}[탈 것의 효과]{nl} - 등록된 탈 것에 마우스를 가져다 대면 세부 내용 표기				
 UI_20211021_005036	{@st43b}{s16}Currently applied Effect	{@st43b}{s16}적용중인 효과				
-UI_20211021_005037	{@st59b}List of Mount{/}	{@st59b}탈 것 목록{/}				
+UI_20211021_005037	{@st59b}Список Ездовых Компаньонов{/}					
 UI_20211021_005038	{#FD9310}{s16}{ol}Main Quests{/}	{#FD9310}{s16}{ol}메인 퀘스트{/}	UI_20190612_003894	{s16}{ol} Main Quests	{s16}{ol}메인 퀘스트	
 UI_20211021_005039	{s16}{ol}Sub Quests{/}	{#0C6BFA}{s16}{ol}서브 퀘스트{/}	UI_20190612_003895	{s16}{ol} Sub Quests	{s16}{ol}서브 퀘스트	
 UI_20211021_005040	{#54AE17}{s16}{ol}Repeatable Quests{/}	{#54AE17}{s16}{ol}반복 퀘스트{/}	UI_20190612_003896	{s16}{ol} Repeatable Quests	{s16}{ol}반복 퀘스트	
@@ -5148,15 +5148,15 @@ UI_20220204_005147	Clear Record	클리어 기록
 UI_20220204_005148	{nl}{s18} Help of Battle in Sulivinas Lair{/}{nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle Rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
 UI_20220204_005149	{@st59}Earring{/}	{@st59}귀걸이{/}				
 UI_20220204_005150	{@st59}Arcanum Crafting{/}	{@st59}비약 연성술{/}				
-UI_20220204_005151	{@st59}News{/}	{@st59}뉴스{/}				
+UI_20220204_005151	{@st59}Новости{/}				
 UI_20220204_005152	{@st59}Goddess Token Shop{/}	{@st59}여신의 증표 상점{/}				
 UI_20220204_005153	{@st59}Personal Housing Board{/}	{@st59}개인 하우징 게시판{/}				
-UI_20220204_005154	{@st59}Market{/}	{@st59}마켓{/}				
+UI_20220204_005154	{@st59}Рынок{/}					
 UI_20220204_005155	{@st59}Search Party{/}	{@st59}파티 찾기{/}				
 UI_20220204_005156	{@st59}Mercenary Badge Shop{/}	{@st59}용병단 증표 상점{/}				
 UI_20220204_005157	{@st59}Open Boards{/}	{@st59}게시판 펼쳐보기{/}				
-UI_20220204_005158	{@st59}Open Shops{/}	{@st59}상점 펼쳐보기{/}				
-UI_20220204_005159	{@st59}TP Shop{/}	{@st59}TP상점{/}				
+UI_20220204_005158	{@st59}Открыть Магазин{/}				
+UI_20220204_005159	{@st59}TP Магазин{/}			
 UI_20220204_005160	{@st59}Change Name of Current Preset{/}	{@st59}현재 프리셋의 이름을 변경합니다{/}				
 UI_20220204_005161	{@st66b}Bring	{@st66b}가져오기				
 UI_20220204_005162	{@st59}Bring information of currently equipped card to current preset{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
@@ -5282,10 +5282,10 @@ UI_20220426_005281	{@st202}{s16}Play Time{/}	{@st202}{s16}플레이 시간{/}
 UI_20220426_005282	Trial Rank	{@st202}{s16}시련 단계{/}				
 UI_20220426_005283	{@ps2}{s14}Play Record	{@ps2}{s14}플레이 기록				
 UI_20220426_005284	If there is a record of playing the content in this season,{nl}The best score of the current group during this season will be shown.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
-UI_20220426_005285	Group Name	그룹명				
+UI_20220426_005285	Название группы			
 UI_20220426_005286	{@42b}{s14}Ranking Period{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
 UI_20220426_005287	{@st66b}Evolution Stone Effect Resolution(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
-UI_20220426_005288	There are no items to use.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Undecided	미정	
+UI_20220426_005288	Нет предметов для использования.
 UI_20220426_005289	{@st42}{s20}Squad Name	{@st42}{s20}스쿼드 이름				
 UI_20220614_005290	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
 UI_20220614_005291	{@st106_lbr}{s20}Equipment	{@st106_lbr}{s20}장비				
@@ -5321,3 +5321,76 @@ UI_20220614_005320	{@st59}Belt{/}	{@st59}허리띠{/}
 UI_20220614_005321	{@st59}Equip Equipment (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
 UI_20220614_005322	Resettable Stat	재설정 가능 옵션 보기				
 UI_20220622_005323	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend/Goddess Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220614_005290	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	
+UI_20220823_005324	{@st41}{s18}Basic Count: {@st45ty}{s20}%s{/}{/} / {@st41}{s18}Lv.480 Catalyst: {@st45ty}{s20}%s{/}{/} / {@st41}{s18}Lv.460 Catalyst: {@st45ty}{s20}%s{/}	{@st41}{s18}기본 횟수: {@st45ty}{s20}%s{/}{/} / {@st41}{s18}Lv.480 촉매제: {@st45ty}{s20}%s{/}{/} / {@st41}{s18}Lv.460 촉매제: {@st45ty}{s20}%s{/}				
+UI_20220823_005325	{@st41b}{s24}Transfer Enhancement Level	{@st41b}{s24}강화레벨 이전				
+UI_20220823_005326	{@st201}[Transfer Enhancement Level]{/}{/} Consume {@st66d_y}{s16} [Lv.460] Aether Gem{/}{/}, to transfer the Enhancement level to the {@st66d_y}{s16} [Lv.480] Aether Gem{/}{/}{nl} - Only [Lv.460] Aether Gem with {@st66d_y} {s16}maximum Enhancement level{/}{/} can be used as material.{nl} - Aether Gem will be transferred {@st66d_y}{s16}without any decrease in Enhancement level{/}{/}.{nl} - Can be applied to every Aether Gem{@st66d_y}{s16}despite the stat is not equal{/}{/} to the type of [Lv.460] Aether Gem to be consumed. 	{@st201}[강화레벨 이전]{/}{/} {@st66d_y}{s16} [Lv.460] 에테르 젬{/}{/}을 소비하여,{@st66d_y}{s16} [Lv.480] 에테르 젬{/}{/}에 강화레벨 이전을 진행합니다.{nl} - {@st66d_y}{s16}최대 강화레벨에 도달한{/}{/} [Lv.460] 에테르 젬에 한하여 재료로 사용될 수 있습니다. {nl} - 에테르 젬은{@st66d_y}{s16}강화레벨 감소 없이{/}{/} 온전히 이전됩니다.{nl} - 소비 될 [Lv.460] 에테르 젬의 종류와 {@st66d_y}{s16}동일한 능력치 젬이 아니어도 제약없이 모두 적용{/}{/} 가능합니다.				
+UI_20220823_005327	{@st43b}{s20}%s{/}{/}{nl}{#FF4242}{s22}Destroy{/}{/}	{@st43b}{s20}%s{/}{/}{nl}{#FF4242}{s22}파괴{/}{/}				
+UI_20220823_005328	{@st43b}{s20}Place the item{nl} Consume:{@st66d_y} [Lv.460 Aether Gem]	{@st43b}{s20}아이템을 올려주세요{nl} 소비:{@st66d_y} [Lv.460 에테르 젬]				
+UI_20220823_005329	{@st43b}{s20}%s{/}{/}{nl}{#1FFF22}{s22}Enhance{/}{/}	{@st43b}{s20}%s{/}{/}{nl}{#1FFF22}{s22}강화{/}{/}				
+UI_20220823_005330	{@st43b}{s20}Place the item{nl} Enhance:{@st66d_y} [Lv.480 Aether Gem]	{@st43b}{s20}아이템을 올려주세요{nl} 강화:{@st66d_y} [Lv.480 에테르 젬]				
+UI_20220823_005331	{s18}Enhancement level is changed to {@st66d_y}{s20} [ %s Lv →%s Lv ]{/}{/}{s18} {/}.{/}	{s18}강화레벨이{@st66d_y}{s20} [ %s Lv →%s Lv ]{/}{/}{s18}로 {/} 변경됩니다.{/} 				
+UI_20220823_005332	Reset Slot	슬롯 초기화				
+UI_20220823_005333	{@st41b}Previous Season Shop	{@st41b}지난 시즌 상점				
+UI_20220823_005334	Number of Coins per Content	콘텐츠별 코인 지급 개수	UI_20200206_004166	List of Content Missions	콘텐츠 미션 목록	
+UI_20220823_005335	{@st43}Fragmentize Item{/}	{@st43}아이템 파편화{/}				
+UI_20220823_005336	{@st59}End fragmentizing item.{/}	{@st59}아이템 파편화를 종료합니다.{/}				
+UI_20220823_005337	{@st59b}Item Fragmentize{nl}{@st59s} {nl} - Show items that can be fragmented from the inventory ({#ffe400}except the locked item{/}). Select the {#ffe400}item category tab{/} to choose the item to fragment.	{@st59b}아이템 파편화{nl}{@st59s} {nl} - 인벤토리에 보유중인 파편화 대상 아이템({#ffe400}잠금 아이템 제외{/})을 보여줍니다. {nl} - {#ffe400}아이템 분류 탭{/}을 선택하여 파편화 하실 아이템들을 정해주세요.				
+UI_20220823_005338	{@st66b}{s16}Earring	{@st66b}{s16}귀걸이				
+UI_20220823_005339	{@st66b}{s16}Belt	{@st66b}{s16}허리띠				
+UI_20220823_005340	{@st66b}{s16}Skill Gem	{@st66b}{s16}스킬 젬				
+UI_20220823_005341	{@st66b}{s16}Goddess Ichor	{@st66b}{s16}가디스 아이커				
+UI_20220823_005342	{@st59}Goddess Ichor{/}	{@st59}가디스 아이커{/}				
+UI_20220823_005343	{@st41}{s20} Filter{/}{/} {@st66b}{s20}| {/}{/}{@st45ty}{s20}%s{/}{/}	{@st41}{s20} 필터{/}{/} {@st66b}{s20}| {/}{/}{@st45ty}{s20}%s{/}{/}				
+UI_20220823_005344	{@st42_gray}{s18}1 Rank{/}{/}{@st66b}{s22}|{/}{/}	{@st42_gray}{s18}1등급{/}{/}{@st66b}{s22}|{/}{/}				
+UI_20220823_005345	{@st41}2 Rank{/} {@st66b}{s22}|{/}{/}	{@st41}2등급{/} {@st66b}{s22}|{/}{/}				
+UI_20220823_005346	{@st41}{#0e7fe8}3 Rank{/}{/}{@st66b}{s22}|{/}{/}	{@st41}{#0e7fe8}3등급{/}{/}{@st66b}{s22}|{/}{/}				
+UI_20220823_005347	{@st41}{#ffa800}4 Rank or above{/}{/}	{@st41}{#ffa800}4등급 이상{/}{/}				
+UI_20220823_005348	{@st41}Normal{/} {@st66b}{s22}|{/}{/}	{@st41}일반{/} {@st66b}{s22}|{/}{/}				
+UI_20220823_005349	{@st41}{#0e7fe8}Advanced{/}{/} {@st66b}{s22}|{/}{/}	{@st41}{#0e7fe8}상급{/}{/} {@st66b}{s22}|{/}{/}				
+UI_20220823_005350	{@st41}{#ffa800}Superior{/}{/}	{@st41}{#ffa800}최상급{/}{/}				
+UI_20220823_005351	{@st41}{s16}  Класс: %s{/}	
+UI_20220823_005352	Класс ▼				
+UI_20220823_005353	Random Stat ▼	랜덤 옵션 ▼				
+UI_20220823_005354	{@st41}{#0e7fe8}Advanced{/}{/}	{@st41}{#0e7fe8}상급{/}{/}				
+UI_20220823_005355	{@st61}{s24}Goddess Rank Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient{/}.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor, Goddess Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커, 가디스 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 	UI_20210809_004760	{@st61}{s24}Goddess Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved random stat ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 랜덤 옵션 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 	
+UI_20220823_005356	{@st42}{s24}{#33ff33}Failure Adjusted ProbabilIty:{/}{/}{/}	{@st42}{s24}{#33ff33}누적 실패 보정:{/}{/}{/}	UI_20210809_004779	{@st42}{s24}Failure Adjusted ProbabilIty:{/}{/}	{@st42}{s24}누적 실패 보정:{/}{/}	
+UI_20220823_005357	Select Part to save	저장 부위 선택				
+UI_20220823_005358	{@sti1c}{s18} - Only {#aa9911}Lv.430 Armor Random Stat Ichor, Goddess Ichor{/} can be saved as a engraving.{nl} {nl}  - Engrave Stone is not required when saving {#aa991}Lv.430 Armor Random Stat Ichor, Goddess Ichor{/} and is saved by a 100% chance.{/}	{@sti1c}{s18} - {#aa9911}Lv.430 방어구 랜덤 옵션 아이커, 가디스 아이커{/}만 각인에 저장할 수 있습니다.{nl} {nl}  -{#aa991}Lv.430 방어구 랜덤 옵션 아이커, 가디스 아이커{/}를 각인에 저장할 때에는 각인석이 필요하지 않으며, 100% 확률로 저장 됩니다.{/}	UI_20210809_004801	{@sti1c}{s18} - Only {#aa9911}Lv.430 Armor Random Stat Ichor{/} can be saved as a engraving.{nl} {nl}  - Engrave Stone is not required when saving {#aa991}Lv.430 Armor Random Stat Ichor{/} and is saved by a 100% chance.{/}	{@sti1c}{s18} - {#aa9911}Lv.430 방어구 랜덤 옵션 아이커{/}만 각인에 저장할 수 있습니다.{nl} {nl}  -{#aa991}Lv.430 방어구 랜덤 옵션 아이커{/}를 각인에 저장할 때에는 각인석이 필요하지 않으며, 100% 확률로 저장 됩니다.{/}	
+UI_20220823_005359	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl}- Goddess Rank Equipment (ENH 20 or above){nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below{nl}   **Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}   **Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory, Goddess Rank Equipment{nl}   **Transfers 50% of [ENH]{nl} {nl} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}{nl}{@sti1c}{s17}{#FF0000}The Weapon Appearance is succeeded as well if the weapon type is the same.{/}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} - Lv.440 레전드 등급 장비  **초월 단계 8이상{nl}- 가디스 등급 장비(20강 이상) {nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구 {#FF0000}**이전되지 않음{/}{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   {#FF0000}**[강화], [인챈트 옵션] 각 66.6% 이전{/}{nl} - Lv.440 레전드 등급 액세서리, 가디스 등급 장비{#FF0000}(20강 이상){/}{nl}   {#FF0000}**[강화] 50% 이전{/}{nl} {nl} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}{nl}{@sti1c}{s17}{#FF0000}무기의 종류가 같다면 외형변경 효과도 계승됩니다.{/}{/}{/}	UI_20220204_005143	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below{nl}   **Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}   **Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory{nl}   **Transfers 50% of [ENH]{nl} {nl} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} - Lv.440 레전드 등급 장비{nl}   **초월 단계 8이상{nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구{nl}   **이전되지 않음{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   **[강화], [인챈트 옵션] 각 66.6% 이전{nl} - Lv.440 레전드 등급 액세서리{nl}   **[강화] 50% 이전{nl} {nl} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}	
+UI_20220823_005360	{@st43}{s24}Must Do Guide	{@st43}{s24}필수 가이드				
+UI_20220823_005361	{@st59}Close the Must Do Guide{/}	{@st59}필수 가이드를 닫습니다{/}				
+UI_20220823_005362	Clear the Last Revelation - Completion of the Mission by proceeding the Episode 12 - 1 quest,{nl}and receive the Episode Rewards	Episode 12 - 1 퀘스트를 통해 마지막 계시 - 사명의 완성 이야기를 진행하고,{nl}에피소드 클리어 보상을 획득하세요				
+UI_20220823_005363	{@st63}{s18}Награды			
+UI_20220823_005364	{@st66d_y}{s18}Current number opened: %s{/}{/}	{@st66d_y}{s18}현재 개봉 횟수: %s{/}{/}				
+UI_20220823_005365	Dungeon Limit	던전 제한				
+UI_20220823_005366	{@st59}Receive all rewards in the selected message.{/}	{@st59}선택한 메세지의 보상을 일괄 수령합니다.{/}				
+UI_20220823_005367	{@st41b}{s18}Select from Equipment Storage	{@st41b}{s18}보관함에서 선택				
+UI_20220823_005368	{@st41b}{s18}Reset	{@st41b}{s18}재설정				
+UI_20220823_005369	{@st41b}{s18}Confirm	{@st41b}{s18}결정				
+UI_20220823_005370	{@st41}{s20}Select Particular Class	{@st41}{s20}세부 클래스 선택하기				
+UI_20220823_005371	{@st59}Tree of Savior is a game where you combine 3 particular classes {nl}to grow your own character.{nl}You can either choose the recommended class combination below{nl}or combine them according to your choice by clicking the button on the bottom right.{/}	{@st59}트리 오브 세이비어는 총 3개의 세부 클래스를 조합하여{nl}자신만의 캐릭터를 육성하는 게임입니다.{nl}준비된 클래스의 수가 많으므로, 아래 제시되는 추천 조합을 선택하시거나,{nl}오른쪽 하단의 수동 선택 버튼을 눌러 직접 구성하실 수 있습니다.{/}				
+UI_20220823_005372	{@st59}Детали{/}					
+UI_20220823_005373	{@sti1c}{s16}Class Details {img js_icon_detail 22 20}{/}{/}	{@sti1c}{s16}클래스 세부 정보 {img js_icon_detail 22 20}{/}{/}				
+UI_20220823_005374	{@sti1c}{s16}Class Combination {img js_icon_list 22 20}{/}{/}	{@sti1c}{s16}클래스 구성 {img js_icon_list 22 20}{/}{/}				
+UI_20220823_005375	{@sti1c}{s16}Preview {img js_icon_preview 22 20}{/}{/}	{@sti1c}{s16}미리 보기 {img js_icon_preview 22 20}{/}{/}				
+UI_20220823_005376	{@st41}{s20}Select{/}{/}	{@st41}{s20}선택 완료하기{/}{/}				
+UI_20220823_005377	{@s41}{s16}Return{/}{/}	{@s41}{s16}돌아가기{/}{/}				
+UI_20220823_005378	Special Creation Voucher Details	스페셜 생성권 사용 안내				
+UI_20220823_005379	{@st59}Special Creation Voucher is a special jumping voucher that is given only once during the period.{nl}Please use it carefully.{/}	{@st59}스페셜 생성권은 기간 한정으로 1회 제공하는 특수한 점핑권입니다.{nl}사용하실 때 유의하여 사용해주시길 바랍니다.{/}				
+UI_20220823_005380	{@st59}If you close the window, it will pop up again when you re-login.{/}	{@st59}창을 닫을 경우, 재접속 시 팝업 됩니다.{/}				
+UI_20220823_005381	Special Creation Voucher	스페셜 생성권				
+UI_20220823_005382	{@ps1_3}{s16}Special Creation Voucher is a special opportunity{nl}to create a special character during the period.{nl}You can select one combination of classes{nl}which generally makes the game enjoyable.{nl} {nl} Equipment and the settings{nl}that are suitable for the selected class are all set.{nl}It is recommended to all users.{/}{/}	{@ps1_3}{s16}스페셜 생성권은 기간 한정으로 제공되는{nl}특별한 캐릭터 생성 기회이며,{nl}일반적으로 게임을 즐기는데 적합한 클래스 조합들{nl}중 하나를 선택하실 수 있습니다.{nl} {nl}Lv460 의 캐릭터와,{nl}선택하신 클래스 조합에 필요한 적정 수준의{nl}장비와 셋팅이 모두 완료되어 있습니다.{nl}모든 유저에게 추천합니다.{/}{/}				
+UI_20220823_005383	{@st41}{s22}Use Special Creation Voucher{/}{/}	{@st41}{s22}스페셜 생성권을 사용{/}{/}				
+UI_20220823_005384	Create Normally	일반 생성				
+UI_20220823_005385	{@ps1_3}{s16}Create the character in a normal way.{nl}In order to use the Special Creation Voucher afterward,{nl}you need to create a new character.{nl} {nl}We recommend you to use the Special Creation Voucher{nl}if you are not familiar with the game.{/}{/}	{@ps1_3}{s16}기존의 방식대로 캐릭터를 생성합니다.{nl}이후 스페셜 생성권을 사용하기 위해선{nl}캐릭터를 새로 생성해야만 합니다.{nl} {nl}아직 게임에 익숙하지 않다면{nl}스페셜 생성권 사용을 권장합니다.{/}{/}				
+UI_20220823_005386	{@st41}{s22}Don't Use	{@st41}{s22}사용하지 않음				
+UI_20220823_005387	Reservoir/Falouros Equipment Bound Removal Scroll 	변질자, 팔로우로스 장비 귀속 해제 스크롤				
+UI_20220823_005388	{@st41b}{s18}  Random Stat	{@st41b}{s18}  랜덤 옵션	UI_20210318_004714	{@st41b}{s18}  Random Ichor	{@st41b}{s18}  랜덤 아이커	
+UI_20220823_005389	{@st42}{s16}Current:{/}{/}	{@st42}{s16}현재 보유량{/}{/}				
+UI_20220823_005390	Long-tailed Chickadee{nl}that uses the beak as the main tool of attack	부리를 주력으로{nl}사용하는 오목눈이				
+UI_20220823_005391	Try on the Class Costume	직업 코스튬 입어보기				
+UI_20220823_005392	Complete every quest in Episode 12 - 1	에피소드 12 - 1 퀘스트를 모두 완료하기				
+UI_20220930_005393	Register Costume	코스튬 등록			
+UI_20220930_005394	{@st66b}{s14}※{#ff0100}The item registered will be destroyed{/},{nl}and by right-clicking the item in the collection,{nl}you can create this costume{nl}with a {#0001ff}team bound{/} status.	{@st66b}{s14}※{#ff0100}등록에 사용된 아이템은 소멸{/}되며,{nl}코스튬 컬렉션에서 우클릭 시{nl}해당 코스튬 아이템을{nl}{#0001ff}팀 귀속 상태로 생성{/}할 수 있습니다.			
+UI_20220930_005395	{@st59}Weapon Appearance{/}	{@st59}무기 외형{/}			
+UI_20220930_005396	{@st59}Open Costume Register.{/}	{@st59}코스튬 등록 창을 엽니다.{/}			

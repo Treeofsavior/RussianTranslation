@@ -270,7 +270,7 @@ INTL_20181116_000269	Talt Processing Device
 INTL_20181211_000270	Используйте для получения одного случайного предмета брони Primus 380 ур.
 INTL_20181211_000271	Используйте для получения одного случайного оружия\доп оружия Primus 380 ур.
 INTL_20181229_000272	2018 Leticia's Treasure Chest (Сезон 4)
-INTL_20190102_000273	{@st66b}Колекция
+INTL_20190102_000273	{@st66b}Коллекция
 INTL_20190104_000274	Титул дается победителям New Year's фан арт события. Щелкните правой кнопкой мыши, чтобы использовать.
 INTL_20190112_000275	Этот предмет можно использовать только для изменения внешнего вида другого.{nl}Не потребляет серебро при использовании в качестве внешнего материала.{nl}Можно обменять на медали в Exchange Shop.{nl}(этот костюм был разработан Lunmairetic с [SA] Silute.)
 INTL_20190216_000276	PP Shop 100 Points Voucher
@@ -397,3 +397,6 @@ INTL_20211104_000396	{@st66b}{s16}{#FFFFFFF}Accumulated Damage Reward	{@st66b}{s
 INTL_20211104_000397	{@st66b}{s16}{#FFFFFFF}Class Ranking Reward	{@st66b}{s16}{#FFFFFFF}클래스 순위 보상				
 INTL_20211104_000398	{@st66b}{s16}{#FFFFFFF}Team Battle League Shop	{@st66b}{s16}{#FFFFFFF}팀 배틀리그 상점				
 INTL_20211104_000399	{@st66b}{s16}{#FFFFFFF}Register Character to Change	{@st66b}{s16}{#FFFFFFF}교체 캐릭터 등록				
+INTL_20220831_000400	Damage {img green_down_arrow 16 16}#{CaptionRatio}#%, Damage received -10% in field{nl}※ Challenge Mode not included	필드 지역 대미지 {img green_down_arrow 16 16}#{CaptionRatio}#%, 받는 피해 10% 감소{nl}※챌린지, 차원 붕괴 제외				
+INTL_20220919_000401	Damage {img green_up_arrow 16 16}#{CaptionRatio}#%, Damage received {img green_down_arrow 16 16}10% in field{nl}※ Challenge Mode and Division Singularity not included	필드 지역 대미지 {img green_up_arrow 16 16}#{CaptionRatio}#%, 받는 피해 {img green_down_arrow 16 16} 10%{nl}※챌린지, 분열 제외	INTL_20220831_000400	Damage {img green_down_arrow 16 16}#{CaptionRatio}#%, Damage received -10% in field{nl}※ Challenge Mode not included	필드 지역 대미지 {img green_down_arrow 16 16}#{CaptionRatio}#%, 받는 피해 10% 감소{nl}※챌린지, 차원 붕괴 제외
+INTL_20221024_000402	[Halloween] Turbulent Core (Auto/Solo) One Entry Voucher	[할로윈] 13 핵(자동 매칭, 1인) 1회 입장권				
