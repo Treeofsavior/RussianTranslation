@@ -400,3 +400,8 @@ INTL_20211104_000399	{@st66b}{s16}{#FFFFFFF}Register Character to Change	{@st66b
 INTL_20220831_000400	Damage {img green_down_arrow 16 16}#{CaptionRatio}#%, Damage received -10% in field{nl}※ Challenge Mode not included	필드 지역 대미지 {img green_down_arrow 16 16}#{CaptionRatio}#%, 받는 피해 10% 감소{nl}※챌린지, 차원 붕괴 제외				
 INTL_20220919_000401	Damage {img green_up_arrow 16 16}#{CaptionRatio}#%, Damage received {img green_down_arrow 16 16}10% in field{nl}※ Challenge Mode and Division Singularity not included	필드 지역 대미지 {img green_up_arrow 16 16}#{CaptionRatio}#%, 받는 피해 {img green_down_arrow 16 16} 10%{nl}※챌린지, 분열 제외	INTL_20220831_000400	Damage {img green_down_arrow 16 16}#{CaptionRatio}#%, Damage received -10% in field{nl}※ Challenge Mode not included	필드 지역 대미지 {img green_down_arrow 16 16}#{CaptionRatio}#%, 받는 피해 10% 감소{nl}※챌린지, 차원 붕괴 제외
 INTL_20221024_000402	[Halloween] Turbulent Core (Auto/Solo) One Entry Voucher	[할로윈] 13 핵(자동 매칭, 1인) 1회 입장권				
+INTL_20221125_000403	GM's Surprise Gift Box - Day 1	GM의 12월 깜짝 선물 1회차 상자							
+INTL_20221125_000404	GM's Surprise Gift Box - Day 2	GM의 12월 깜짝 선물 2회차 상자							
+INTL_20221125_000405	GM's Surprise Gift Box - Day 3	GM의 12월 깜짝 선물 3회차 상자							
+INTL_20221125_000406	GM's Surprise Gift Box - Day 4	GM의 12월 깜짝 선물 4회차 상자							
+INTL_20221125_000407	GM's Surprise Gift Box - Day 5	GM의 12월 깜짝 선물 5회차 상자							
