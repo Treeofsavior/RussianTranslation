@@ -14369,3 +14369,148 @@ QUEST_20221024_014515	I'm so full right now that I don't think I can eat anymore
 QUEST_20221024_014516	Thank you for making me full of delicious stew. I don't think I can eat any more today.	맛있는 스튜를 배불리 먹게 해주셔서 감사합니다. 오늘은 더 이상 못 먹을 것 같아요.				[이벤트] 폐도 피난민
 QUEST_20221024_014517	As compensation for enjoying Halloween, we will exchange the current transformation for a real costume. 1 {#003399}[Halloween] Ghostly Fabric{/} is needed.	할로윈을 열심히 즐겨주신 보상으로, 현재 변신 중인 코스튬이 마음에 드시면 영구적인 아이템으로 복원하여 드리겠습니다. {#003399}[할로윈] 유령 옷감{/} 1개가 필요합니다.				[이벤트] 유령 소녀
 QUEST_20221024_014518	Do you like your current transformation? We will turn it into a real costume if you want with 1 {#003399}[Halloween] Ghostly Fabric{/}.	현재 변신 중인 코스튬이 마음에 드시나요? 원하시면 {#003399}[할로윈] 유령 옷감{/} 1개를 소모하여 영구적인 아이템으로 복원해 드리겠습니다.				[이벤트] 유령 소녀
+QUEST_20221125_014519	Well done.{nl}A Jaguar must move their strength by staying composed in any situation.	고생했다.{nl}재규어는 어떠한 상황에서도 냉정함을 유지하면서 자신의 강함을 증명해야한다.				[재규어 마스터] 엘 이트샤	
+QUEST_20221125_014520	I will look forward to your activities as a Jaguar.	재규어로서의 너의 활약을 기대하겠다.				[재규어 마스터] 엘 이트샤	
+QUEST_20221125_014521	Swordman Class{nl} - Templar{nl}Wizard Class{nl} - Rune Caster, Bokor{nl}Archer Class{nl} - Quarrel Shooter, Wugushi, Falconer{nl}Cleric Class{nl} - Druid, Plague Doctor, Exorcist, Crusader	소드맨 계열{nl} - 템플러{nl}위저드 계열{nl} - 룬캐스터, 보코르{nl}아처 계열{nl} - 쿼렐슈터, 무고사, 응사{nl}클레릭 계열{nl} - 드루이드, 플레이그닥터, 엑소시스트, 크루세이더	QUEST_20220823_014464	Swordsman{nl} - Doppelsoeldner, Highlander, Dragoon, Lancer, Retiarius, Rodelero, Murmillo, Matador, Fencer, Nak Muay{nl}Wizard{nl} - Elementalist{nl}Archer{nl} - Musketeer, Tiger Hunter, Arquebusier, Cannoneer{nl}Cleric{nl} - Krivis{nl}Scout{nl} - Rangda, Ardito	소드맨 계열{nl} - 도펠죌트너, 하이랜더, 드라군, 랜서, 레티아리이, 로델레로, 무르밀로, 마타도르, 펜서, 낙무아이{nl}위저드 계열{nl} - 엘리멘탈리스트{nl}아처 계열{nl} - 머스킷티어, 산포, 아퀴버지어, 캐노니어{nl}클레릭 계열{nl} - 크리비{nl}스카우트 계열{nl} - 랑다, 아르디티	초기화 지원 도우미	
+QUEST_20221125_014522	These corrupted villagers...There's something that just doesn't feel right to see it as a mark of a battle against us...{nl}There's a bad feeling about this.	이 변질된 주민들은 저희와 싸워서 당한 흔적이라고 보기엔 무언가 괴리감이 듭니다..{nl}뭔가 불길합니다.				쓰러진 병사	
+QUEST_20221125_014523	 by clearing the following contents.{nl}{#003399}- Lv.400 Weekly Rotation [Level Dungeon] {/}{nl}{#003399}- [Sole Hunt] Lv. 440 Tel Harsha{/}{nl}{#003399}- [Challenge Mode] Lv. 460 ~ 480{/}{nl}{#003399}- [Legend Raid] Lv. 440 ~ 458{/}	 를 획득할 수 있습니다.{nl}{#003399}- [ 레벨 던전 ] Lv. 400 주간 로테이션 던전{/}{nl}{#003399}- [ 프리던전 레이드 ] Lv. 440 텔하르샤{/}{nl}{#003399}- [ 챌린지 모드 ] Lv. 460 ~ 480{/}{nl}{#003399}- [ 레전드 레이드 ] Lv. 440 ~ 458{/}				신년 이벤트	
+QUEST_20221125_014524	{#003399}- [Res Sacrae Dungeon] Lv. 458{/}{nl}{#003399}- [Goddess Message: Memory of Flame ] Lv. 470{/}{nl}{#003399}- [Goddess Raid] Lv 460 ~ 480{/}{nl}Press the F10 key and check the Contents Status Board to find out how to enter each content {nl}You can get a maximum of 1,300 daily by clearing contents, and items obtained from event achievement is not counted to the daily limit.	{#003399}- [ 성물 던전 ] Lv. 458{/}{nl}{#003399}- [ 여신의 전언 : 불꽃의 기억 ] Lv. 470{/}{nl}{#003399}- [ 가디스 레이드 ] Lv 460 ~ 480{/}{nl}F10 키를 눌러서 현황판을 확인하시면 각 콘텐츠의 입장 방법에 대해 알 수 있습니다.{nl}콘텐츠 클리어를 통해 일일 최대 1,300 개 획득할 수 있으며, 이벤트 업적을 통해 획득한 것은 일일 최대 획득량에 포함되지 않습니다.	QUEST_20211021_013949	Moon Rabbit	소원을 이뤄주는 달토끼	소원을 이뤄주는 달토끼	
+QUEST_20221125_014525	Purchase the 	이벤트 상점에서 구매할 수 있는 				겨울축제 이벤트	
+QUEST_20221125_014526	 from the event shop and receive the Harvest Cheer Buff.{nl}By doing	 를 먹고 한가위의 기운 버프를 획득해보세요.{nl}버프를 유지하면서 				소원을 이뤄주는 달토끼	
+QUEST_20221125_014527	Auto Match / Hunting in the field / Fishing	자동 매칭 / 필드 사냥 / 낚시	QUEST_20210115_013037	[Fishing Shop] Joha's Tackle Box	[낚시 상점] 요하의 살림통	소원을 이뤄주는 달토끼	
+QUEST_20221125_014528	 with the buff, you can complete the achievements.{nl}Don't forget to open up 1 Full Moon Wish Box given every day!{nl}By collecting the 4 achievement coins you can complete the  	 를 하여 업적을 완료할 수 있습니다.{nl}매일 1 개씩 제공되는 보름달 소원 상자를 열어보는 것도 잊지 마시고요.{nl}업적 보상으로 획득한 업적 주화 4 개가 모이면 	QUEST_20210115_013043	from	에게 	소원을 이뤄주는 달토끼	
+QUEST_20221125_014529	Collection: Moon Rabbit	컬렉션: 달토끼 이벤트					
+QUEST_20221125_014530	.	 를 완성할 수 있습니다.	ETC_20150317_006127	and	와 	소원을 이뤄주는 달토끼	
+QUEST_20221205_014531	Jolly Merry Winter Festival Event	겨울축제 이벤트					
+QUEST_20221205_014532	[Event] Snowflake Key	[이벤트] 눈꽃 열쇠					
+QUEST_20221205_014533	{#003399}- [Res Sacrae Dungeon] Lv. 458{/}{nl}{#003399}- [Goddess Message: Memory of Flame ] Lv. 470{/}{nl}{#003399}- [Goddess Raid] Lv 460 ~ 480{/}{nl}Press the F10 key and check the Contents Status Board to find out how to enter each content {nl}You can get a maximum of 2,000 daily by clearing contents, and items obtained from event achievement is not counted to the daily limit.	{#003399}- [ 성물 던전 ] Lv. 458{/}{nl}{#003399}- [ 여신의 전언 : 불꽃의 기억 ] Lv. 470{/}{nl}{#003399}- [ 가디스 레이드 ] Lv 460 ~ 480{/}{nl}F10 키를 눌러서 현황판을 확인하시면 각 콘텐츠의 입장 방법에 대해 알 수 있습니다.{nl}콘텐츠 클리어를 통해 일일 최대 2,000 개 획득할 수 있으며, 이벤트 업적을 통해 획득한 것은 일일 최대 획득량에 포함되지 않습니다.				겨울축제 이벤트	
+QUEST_20221205_014534	[Jolly] Christmas Firecracker	[겨울축제] 크리스마스 기념 폭죽					
+QUEST_20221205_014535	 can be used in front of the Statue of Goddess Zemyna to clear the achievement! You can obtain the material for completing the event collection by clearing the "using firecracker" achievements of all 3 weeks.{nl}Don't forget to receive the presents from the {#003399}Christmas Special Attendance{/}, which starts on December 23 6 AM server time!	 을 각지에 흩어진 제미나 여신상 앞에서 사용해 보세요. 총 3 주 차로 구성된 폭죽 사용하기 업적을 완료하면 이벤트 컬렉션 아이템의 재료를 획득할 수 있습니다.{nl}23 일부터 진행되는 {#003399}크리스마스 기념 특별 출석부{/}, 28 일부터 진행되는 {#003399}포포리온 펌 파티 출석부{/} 보상도 놓치지 마세요!				겨울축제 이벤트	
+QUEST_20230102_014536	New Year Event	신년 이벤트					
+QUEST_20230102_014537	Greetings Savior!{nl}We have prepared various things to help the Savior's journey.{nl}Please check the details from the event announcement!	안녕하세요 !{nl}구원자님의 여정에 조금이라도 도움이 되기 위해 여러 가지를 준비하였습니다.{nl}자세한 사항은 이벤트 안내를 통해 확인해 보세요!				신년 이벤트	
+QUEST_20230102_014538	[Event] 2023 Coin	[이벤트] 2023 주화					
+QUEST_20230102_014539	{#003399}- [Res Sacrae Dungeon] Lv. 458{/}{nl}{#003399}- [Goddess Message: Memory of Flame ] Lv. 470{/}{nl}{#003399}- [Goddess Raid] Lv 460 ~ 480{/}{nl}Press the F10 key and check the Contents Status Board to find out how to enter each content {nl}You can get a maximum of 1,500 daily by clearing contents, and items obtained from event achievement is not counted to the daily limit.	{#003399}- [ 성물 던전 ] Lv. 458{/}{nl}{#003399}- [ 여신의 전언 : 불꽃의 기억 ] Lv. 470{/}{nl}{#003399}- [ 가디스 레이드 ] Lv 460 ~ 480{/}{nl}F10 키를 눌러서 현황판을 확인하시면 각 콘텐츠의 입장 방법에 대해 알 수 있습니다.{nl}콘텐츠 클리어를 통해 일일 최대 1,500 개 획득할 수 있으며, 이벤트 업적을 통해 획득한 것은 일일 최대 획득량에 포함되지 않습니다.				신년 이벤트	
+QUEST_20230102_014540	Click the F4 key to enter	F4 키를 눌러서 				신년 이벤트	
+QUEST_20230102_014541	 menu and select the shortcut to	 메뉴에 진입 후, 				신년 이벤트	
+QUEST_20230102_014542	.{nl}Clear the various contents and a title will be given when completing every single one!{nl}Don't miss the New Year's Special Attendance reward - that starts on January 10 - as well!	 의 바로가기를 선택하세요.{nl}다양한 콘텐츠 즐기기를 테마로 구성되어 있으며, 모두 완료하여 칭호도 획득할 수 있습니다.{nl}1 월 10 일부터 시작되는 설날 기념 특별 출석부 보상도 놓치지 마세요!				신년 이벤트	
+QUEST_20230130_014543	Goddess Laima has recovered her strength and is now looking for you.	힘을 회복하신 라이마 여신님께서 계시자님을 찾고 계십니다.				네링가	
+QUEST_20230130_014544	Let us head to the Sanctuary of Laima.	라이마 님의 성소로 가시지요.				네링가	
+QUEST_20230130_014545	Laima, I thought the power of foresight was lost with Revelation.	라이마, 예지의 힘은 계시와 함께 사라진 것이 아니었던가?				뮬리아	
+QUEST_20230130_014546	As long as the Divine Tree stands, the power of foresight cannot be fully lost.	신수가 존재하는 한, 예지의 힘이 완전히 사라지지는 않습니다.				여신 라이마	
+QUEST_20230130_014547	I am unable to catch a glimpse of both Despair and Hope like before, however, which is why we need you here.	다만 예전처럼 절망과 희망을 모두 볼 수는 없기에, 계시자님이 계셔야 하지요.				여신 라이마	
+QUEST_20230130_014548	I believe you can change the course of the foreseen future which only holds despair.	계시자님이라면 제가 본 절망적인 미래를 바꿀 수 있을 겁니다.				여신 라이마	
+QUEST_20230130_014549	I was in worship at the main chapel.	제가 본원 예배당에서 예배를 드리고 있었을 때였어요.				로제	
+QUEST_20230130_014550	Laima... Ausrine...{nl}please cure my illness so I may go back to my hometown with my brother.	라이마님... 아우슈리네님...{nl}언젠가 이 병이 나아서 오빠와 제가 고향 마을로 돌아갈 수 있게 해주세요.				로제	
+QUEST_20230130_014551	Someone is coming.	누군가가 이곳으로 오는 거 같아.				로제	
+QUEST_20230130_014552	Let's hide first.	일단 몸을 숨기자.				로제	
+QUEST_20230130_014553	Finally I will be free of this false form,{nl}and destroy the Divine Tree to rule the world...	드디어 이 거짓된 모습에서 해방되고,{nl}오랜 숙원이었던 신수를 파괴해 세상을 내 것으로 만들 수 있겠군...				주시자	
+QUEST_20230130_014554	That's... The Wizard!	저 자는... 그 마법사!				로제	
+QUEST_20230130_014555	But... Destroying the Divine Tree...?{nl}What is he planning....	그런데... 신수를 파괴한다고...?{nl}도대체 무슨 짓을 벌이려는 거지....				로제	
+QUEST_20230130_014556	It seems there are uninvited guests here...	초대 받지 않은 손님이 있는 거 같군...				주시자	
+QUEST_20230130_014557	Come to think about it... they might be of use to me later.	생각해보니... 저것은 나중에 쓸 데가 있겠어.				주시자	
+QUEST_20230130_014558	I will spare them for now...	이번엔 살려둬 볼까...				주시자	
+QUEST_20230130_014559	There are more urgent matters to attend to...	지금은 더 중요한 일이 있으니...				주시자	
+QUEST_20230130_014560	Let's look through Vubbe's loot and see if there is anything we can use to help Rose.	부베가 약탈한 물품 중에 로제의 기운을 차리게 할 만한 것은 없는지 살펴보자.				PC	
+QUEST_20230130_014561	That's it for experimenting with my new-born other self....	부활한 내 반신 실험은 여기까지....				주시자	
+QUEST_20230130_014562	That was fun.{nl}Such strength even though the seal was broken not so long ago.	재밌는 시간이었어.{nl}봉인이 풀린지 얼마 안되었는데 이런 힘을 발휘하다니.				주시자	
+QUEST_20230130_014563	All the waiting, watching and tracking until I could gather my power of chaos is finally paying off.	혼돈의 힘을 모으기까지 오랜 시간 기다리고 지켜보고 추적한 보람이 있군.				주시자	
+QUEST_20230130_014564	Here's a gift for you, who worked a great deal in liberating my other self. 	그리고 나의 반신을 해방시키는데 힘을 쓴 너에게 선물을 하사하마.				주시자	
+QUEST_20230130_014565	I will personally use you as my subordinate.	친히 나의 부하로써 사용해주마.				주시자	
+QUEST_20230130_014566	Very well. One last shot. About you, Revelator	아주 좋다. 딱, 한 가지만 더 해 보기로 하지.{nl}바로 계시자 너에 관한 일.				주시자	
+QUEST_20230130_014567	Revelator. Our relationship is coming to an end.	계시자. 이제 너와의 인연도 종막을 향해 가는구나.				주시자	
+QUEST_20230130_014568	Now I am really curious about your existence, and how you came to be in this world.	네가 어떻게 이 세상에 존재하는지, 어떤 존재인지 정말 궁금해졌다.				주시자	
+QUEST_20230130_014569	Whether if that 	그 일				주시자	
+QUEST_20230130_014570	will actually be possible...	이 정말 가능할지...?				주시자	
+QUEST_20230130_014571	For now, you'd want to save this girl?{nl}Come to the Penitence basement.	지금은 우선, 너는 이 소녀를 구해야겠지?{nl}참회의 기도실로 오거라.				주시자	
+QUEST_20230130_014572	Edmundas has passed out...	에드문다스가 정신을 잃고 쓰러졌다...				PC	
+QUEST_20230130_014573	R.. Rose, I need to save her...{nl}I can't be here like this...	로, 로제를 구하러 가야 하는데...{nl}이렇게 있으면 안되는데...				에드문다스	
+QUEST_20230130_014574	We put Edmundas down on the corner where it's safe from monsters.	몬스터가 나오지 않을 법한 구석에 에드문다스를 데려다 놓았다.					
+QUEST_20230130_014575	Let's go save Rose.	이제 로제를 구하러 가자.					
+QUEST_20230130_014576	You are here at last.	드디어 왔군.				주시자	
+QUEST_20230130_014577	Ah, this girl Rose??	아, 이 로제라는 소녀 말인가??				주시자	
+QUEST_20230130_014578	Well...What could've happened?{nl}It seems that the other part of me, which you kindly woke up earlier, made her its subordinate. 	글쎄... 어떻게 됐을까?{nl}아까 네가 직접 깨운 내 반신이 수하로 만든 모양인데 말이야.				주시자	
+QUEST_20230130_014579	Show me the power of the Revelator.	계시자의 힘을 발휘해 봐라.				주시자	
+QUEST_20230130_014580	You need to fight well.{nl}There's one last thing I have to do. Haha...	네가 잘 싸워줘야 한다.{nl}마지막으로 볼 것이 있거든. 후후...				주시자	
+QUEST_20230130_014581	Rose the Miserable	로제 더 미저러블					
+QUEST_20230130_014582	It hurts... hurts.... so much...	아파... 아파.... 아프다고...				로제 더 미저러블	
+QUEST_20230130_014583	I will Kill... every last one of you!!	날 이렇게 만든.. 모두를.... 죽여버리겠어!!				로제 더 미저러블	
+QUEST_20230130_014584	I don't need this anymore.	이건 이제 필요없다.				주시자	
+QUEST_20230130_014585	Do as you wish.{nl}Here is a gift.	알아서 잘해봐라.{nl}선물이다.				주시자	
+QUEST_20230130_014586	Rose...	로제....				에드문다스	
+QUEST_20230130_014587	Look at me... are you okay...?	날 봐... 괜찮아...?				에드문다스	
+QUEST_20230130_014588	I'm cold...	몸이 차가워...				에드문다스	
+QUEST_20230130_014589	She's okay right?	계시자님, 우리 로제 괜찮은 거 맞죠?				에드문다스	
+QUEST_20230130_014590	I'm here Rose...{nl}We promised to go home together...	그래 로제, 오빠가 왔어...{nl}우리 고향으로 돌아가기로 했잖아...				에드문다스	
+QUEST_20230130_014591	Let's go back....	어서 돌아가자....				에드문다스	
+QUEST_20230130_014592	Eddie...?	오빠...?				로제 더 미저러블	
+QUEST_20230130_014593	Do I have a brother I can't remember....	나한테 오빠가 있던가....				로제 더 미저러블	
+QUEST_20230130_014594	Ugh... My head hurts....	윽... 머리가 아파....				로제 더 미저러블	
+QUEST_20230130_014595	Eddie, I am sorry...	오빠, 미안해...				로제	
+QUEST_20230130_014596	I don't think I can go with you...	나는 못 갈 거 같아...				로제	
+QUEST_20230130_014597	Don't say that...	그런 말 하지 마...				에드문다스	
+QUEST_20230130_014598	It's going to be okay... let's get you up slowly....	괜찮아... 천천히 일어나자....				에드문다스	
+QUEST_20230130_014599	Eddie...	오빠....				로제	
+QUEST_20230130_014600	I'm dizzy...	머리가 어지러워...				로제	
+QUEST_20230130_014601	It was only for a short time, but I was hurt and scared...	계시자님... 잠시 동안이었지만, 너무 무섭고 아팠어요...				로제	
+QUEST_20230130_014602	How will I ever repay you...	당신에겐 너무 많은 신세를 져서 꼭 갚아야하는데...				로제	
+QUEST_20230130_014603	Late again.	매번 늦는군.				아우슈리네	
+QUEST_20230130_014604	Rose...	로제...				아우슈리네	
+QUEST_20230130_014605	People say Laima is merciful, but to my eyes she is as cruel as it gets.	인간들은 라이마가 자비롭다고 생각하겠지만, 내가 보기에는 잔인하기 짝이 없는 여신이다.				아우슈리네	
+QUEST_20230130_014606	Rose's soul has been swallowed by spores and Demon God...	이 로제의 영혼은 포자와 마신에 의해 잠식당하였으니...				아우슈리네	
+QUEST_20230130_014607	I will take the part that is still pure.	순수한 부분은 내가 데려가겠다.				아우슈리네	
+QUEST_20230130_014608	And seal the rest in this bottle.	그리고 잠식당한 일부는 이 곳 호리병에 봉인해 두려고 한다.				아우슈리네	
+QUEST_20230130_014609	By the way, Revelator.	그리고 계시자.				아우슈리네	
+QUEST_20230130_014610	It seems you possess a dangerous power.	위험한 힘을 가지고 있구나.				아우슈리네	
+QUEST_20230130_014611	Melody of Destruction... I will take that as well.	파괴의 곡조, 그것도 내가 가져가겠다.				아우슈리네	
+QUEST_20230130_014612	Now... a Demon God has been resurrected.	그리고 하나의 마신이 부활했다.				아우슈리네	
+QUEST_20230130_014613	{#003399}Slogutis{/}, the most notorious of all the Demon Gods, one that lost its gloves whilst trying to destroy the Divine Tree.{nl}It seems my next foe will be {#003399}him{/}.	신수를 파괴하려다 장갑을 잃은, 마신 중 가장 위협적인 마신, {#003399}슬로거티스{/}.{nl}아무래도 다음 나의 상대는 {#003399}슬로거티스{/}가 될 것 같군.				아우슈리네	
+QUEST_20230130_014614	That will be the moment you need this Melody of Destruction.	그 때 이 파괴의 곡조가 필요할 듯 싶구나.				아우슈리네	
+QUEST_20230130_014615	Revelator, you will surely show up at the battle with {#003399}Slogutis{/}?{nl}We will see each other then.	계시자, 너는 아마도 그 {#003399}슬로거티스{/}와의 대결에 나타나겠지?{nl}그 때 다시 만나도록 하자.				아우슈리네	
+QUEST_20230130_014616	The true form of the Beholder is Demon God {#003399}Slogutis{/}.	주시자의 원래 모습은 마신 {#003399}슬로거티스{/}.				라이마	
+QUEST_20230130_014617	During his attempt to destroy the Divine Tree, Slogutis lost the glove that imbued him with the power of a Demon God.	신수의 파괴를 불러일으키다가, 그를 마신으로 존재하게 해 주는 장갑을 잃고 방황하였지요.				라이마	
+QUEST_20230130_014618	That glove is the Devilglove.	그 장갑은 바로 데블글로브입니다.				라이마	
+QUEST_20230130_014619	When you destroyed one of the gloves, I was certain he would never regain his powers as a Demon God. However, when I looked upon the revelation, he defied my foresight by  using Kruvina...{nl}Now with the power of chaos in his grasp, he seeks to restore his command as a Demon God with just the remaining glove...	한쪽을 계시자님께서 없앤 이후, 다시 마신의 지위를 얻지는 못할 것이라고 생각했지만 제가 계시로 임하였을 때에는 크루비나로 예지의 범위를 벗어났고...{nl}지금은 혼돈의 힘마저 더해서 나머지 한쪽의 장갑만으로 마신의 지위를 회복하려고 하고 있습니다… 				라이마	
+QUEST_20230130_014620	After that... he will most likely return to his plan of destroying the Divine Tree.	이후에는... 신수의 파괴를 도모하겠지요.				라이마	
+QUEST_20230130_014621	Experiment journal #1{nl}Used 30 residents of Novaha as subjects for the experiment.{nl}Initiated testing on 10 subjects.{nl}The 4 subjects that couldn't take it....	실험일지 #1{nl}노바하에 살고 있는 주민 30명을 실험 대상으로 사용.{nl}실험을 10명을 대상으로 진행.{nl}실험을 견디지 못한 4명은....				PC	
+QUEST_20230130_014622	(Damaged and missing some pages)	(손상되어서 일부 페이지가 사라져 있다.)				PC	
+QUEST_20230130_014623	Experiment journal #20{nl}We have used all the remaining residents for the experiment.{nl}Need to prepare more subjects as soon as possible.	실험일지 #20{nl}실험 대상으로 남아있던 주민들을 전부 써버렸다.{nl}다른 실험체를 가까운 시일에 준비해야한다.				PC	
+QUEST_20230130_014624	Experiment journal #50{nl}Finally found some subjects reacting positively.{nl}Now it is time for the next phase.	실험일지 #50{nl}드디어 실험체 중 일부가 적합한 반응을 보이고 있다.{nl}이제 다음 단계로 넘어갈 때다.				PC	
+QUEST_20230130_014625	Experiment journal #62{nl}Failed again.{nl}We are so close to succeeding.... people are looking for us.{nl}Found a subject matching our results....{nl}We have to finish this before it's too late....	실험일지 #62{nl}또 실패다.{nl}조금만 더 하면 완성에 가까운데.... 주민들이 우리들을 찾고 있다.{nl}실험 결과에 부합한 실험체를 찾았는데....{nl}늦지 않게 실험을 성공해야한다....				PC	
+QUEST_20230130_014626	Experiment journal #69{nl}It seems the male subject matching our result has a sister.{nl}We have ordered for its procurement and are preparing for the test.	실험일지 #69{nl}실험 결과에 부합했던 남성 실험체의 여동생이 있는 모양이다.{nl}그것을 확보하라고 한 뒤에 그것에 대한 실험 준비를 시작했다.				PC	
+QUEST_20230130_014627	Experiment journal #81{nl}The subject's sister is showing great progress.{nl}Just need a little more time...	실험일지 #81{nl}실험체의 여동생은 좀 더 좋은 반응을 보이고 있다.{nl}조금만 시간이 있으면 되는데...				PC	
+QUEST_20230130_014628	Experiment journal #100{nl}That dxxm Revelator....{nl} Almost reached here....{nl}Only thing to do now is to get out with our experimental data.	실험일지 # 100{nl}망할 계시자 놈....{nl}결국 근처까지 왔다....{nl}이렇게 된 이상 이곳의 실험 결과만 가지고 도망쳐야겠다.				PC	
+QUEST_20230130_014629	(That was the last entry and the rest is blank)	(이 내용을 마지막으로 아무런 내용이 적혀있지 않았다.)				PC	
+QUEST_20230130_014630	Auto Clear rewards can only be claimed when you have stacked buff of the content. After receiving the reward, your Entry count and stacked buff will be consumed.	자동 소탕은 해당 콘탠츠의 버프 스택을 가지고 있어야만 보상을 받을 수 있습니다. 보상을 받은 후에는 입장 횟수와 버프 스택이 소모됩니다.				큐폴	
+QUEST_20230130_014631	Thurible of Salvation Entrance Message	구원의 향로 입장 메세지					
+QUEST_20230130_014632	Party members or players who used Auto Match can enter Thurible of Salvation: Goddess (Recommended Lv.490) together	구원의 향로: 가디스 레이드 (권장레벨:490)는 자동 매칭이나 당신과 파티를 맺은 플레이어와 함께 입장할 수 있습니다.				구원의 향로 입장 메세지	
+QUEST_20230130_014633	Inside is full of Beholder's energy...{nl}This can't be...	내부에 주시자의 기운이 가득하다니...{nl}이럴 리가 없는데... 				큐폴 루타	
+QUEST_20230130_014634	No one can interfere with this warmth!	이 따뜻함을 누구도 방해할 수 없어!				로제 더 미저러블	
+QUEST_20230130_014635	I want you to suffer as I have and feel my pain....	내가 받은 고통만큼 너희들은 불행해야만 해....				로제 더 미저러블	
+QUEST_20230130_014636	I will curse all that makes me suffer...	날 불행하게 만드는 모든 것을 저주할 거야... 				로제 더 미저러블	
+QUEST_20230308_014637	[Shenji Master] Dana	[신극 마스터] 단 아				
+QUEST_20230308_014638	Stabbing the enemy with a single blow is a skill that anyone who handles spears should have	적을 일격에 찔러버리는 것은 창을 다루는 사람이라면 가져야할 소양이죠.				[신극 마스터] 단 아
+QUEST_20230308_014639	TOS Coin Helper	TOS 주화 안내원				
+QUEST_20230308_014640	Having fun with Tree of Savior? Select [TOS Coin Shop] if you wish to use the event coins you have and [Event Details] if you want to know more about TOS Coin!	게임은 재미있게 즐기고 계신 가요? 보유하고 계신 TOS 주화를 사용하시려면 [TOS 주화 상점 ] 을, TOS 주화에 대해 궁금하시다면 [이벤트 안내] 를 선택해 주세요!				TOS 주화 안내원
+QUEST_20230308_014641	TOS Coin	TOS 주화				
+QUEST_20230308_014642	 can be obtained by clearing the following contents.{nl}{#003399}- [Level Dungeon] Lv.400 Weekly Rotation {/}{nl}{#003399}- [Sole Hunt] Lv. 440 Tel Harsha{/}{nl}{#003399}- [Challenge Mode] Lv. 460 ~ 480{/}{nl}{#003399}- [Legend Raid] Lv. 440 ~ 458{/}	를 획득하는 방법은 다음과 같습니다. {nl}{#003399}- [ 레벨 던전 ] Lv. 400 주간 로테이션 던전 클리어{/}{nl}{#003399}- [ 프리던전 레이드 ] Lv. 440 텔하르샤 클리어{/}{nl}{#003399}- [ 챌린지 모드 ] Lv. 460 ~ 480{/}{nl}{#003399}- [ 레전드 레이드 ] Lv. 440 ~ 458 클리어{/}				TOS 주화 안내원
+QUEST_20230308_014643	{#003399}- Clear [ Res Sacrae Dungeon ] Lv. 458{/}{nl}{#003399}- Clear [ Goddess Message : Memory of Flame ] Lv. 470{/}{nl}{#003399}- Clear [ Goddess Raid ] Lv 460 ~ 490{/}{nl}{#003399}- Participate in Team Battle League (PvP){/}{nl}{#003399}- Every 1 hour of maintaining log-in{/}{nl}{#003399}- You can check the entry condition of each raids from the Contents Status Board by pressing the F10 key.{/}{nl}{#003399}- The daily acquisition limit is 1000 and you can collect up to 40000 at once.{/}{nl}{#003399}- The maximum amount of how much you can store in your Inventory doubles when the Token effect is applied / The amount of coin obtained x1.5 when the Mercenary Badge Boost is applied{/}{nl}{#003399}- Daily acquisition amount and the amount of coin obtained doubles during weekends{/}{nl}{#003399}- Type 	{#003399}- [ 성물 던전 ] Lv. 458 클리어{/}{nl}{#003399}- [ 여신의 전언 : 불꽃의 기억 ] Lv. 470 클리어{/}{nl}{#003399}- [ 가디스 레이드 ] Lv 460 ~ 490 클리어{/}{nl}{#003399}- 팀 배틀 리그(PvP) 참여{/}{nl}{#003399}- 누적 접속 1 시간마다 획득{/}{nl}{#003399}- F10 키를 눌러서 현황판을 확인하시면 각 콘텐츠의 입장 방법에 대해 알 수 있습니다.{/}{nl}{#003399}- 일일 최대 1000 개를 획득할 수 있으며, 40000개 까지 보유할 수 있습니다.{/}{nl}{#003399}- 토큰 효과 유지 시 주화 최대보유량 2배 증가, 용병단 증표 부스트 효과 유지 중인 유저는 주화 획득량 1.5배 증가{/}{nl}{#003399}- 토요일/일요일에는 주화 획득량 및 일일 획득 제한 2배 증가 {/}{nl}{#003399}- 채팅창에 				TOS 주화 안내원
+QUEST_20230308_014644	 in the chat to check the acquisition status.{/}	 를 입력하시면 획득 현황을 확인할 수 있습니다.{/}				TOS 주화 안내원
+QUEST_20230410_014645	The Giving Tree Event	TOS 식목일 이벤트				
+QUEST_20230410_014646	When you clear contents of {#003399}	이벤트 기간 동안 {#003399}				TOS 식목일 이벤트
+QUEST_20230410_014647	Contents Status Board (F10)	콘텐츠 현황판(F10)				TOS 식목일 이벤트
+QUEST_20230410_014648	{/} - {#003399}	{/} 의 {#003399}				TOS 식목일 이벤트
+QUEST_20230410_014649	Dungeon/Raid with Lv.460 or above (except extreme mode)	Lv.460 이상 던전 / 레이드(extreme 모드 제외)				TOS 식목일 이벤트
+QUEST_20230410_014650	{/}, {#003399}	{/} 카테고리 콘텐츠를 완료하면 {#003399}				TOS 식목일 이벤트
+QUEST_20230410_014651	[Arbor Day] Fertilizer	[식목일] 비료				
+QUEST_20230410_014652	{/} x1 is given.{#003399}*However, fertilizer cannot be obtained through Auto Clear.{/} {nl}{#003399}	{/} 1 개를 획득합니다.{#003399}*단, 자동 소탕을 통하여 비료를 획득할 수 없습니다.{/} {nl}{#003399}				TOS 식목일 이벤트
+QUEST_20230410_014653	{/} is used to grow the tree and, {#003399}	{/} 를 나무에 사용할 때마다 나무는 성장하며, {#003399}				TOS 식목일 이벤트
+QUEST_20230410_014654	[Arbor Day] Sprout 	[식목일] 새싹				
+QUEST_20230410_014655	{/} is given as a reward. {nl}{#003399}	{/} 을 보상으로 획득합니다. {nl}{#003399}				TOS 식목일 이벤트
+QUEST_20230410_014656	{/} can be used to purchase the items from the {#003399}	{/} 은 이벤트 기간 동안 {#003399}				TOS 식목일 이벤트
+QUEST_20230410_014657	Sprout Exchanger	새싹 교환원				TOS 식목일 이벤트
+QUEST_20230410_014658	{/} during the event period. {nl}When the tree grows up to the next level it becomes bigger, and you will be able to select {#003399}	{/} 에게 전용 상품을 구입하는 데 사용할 수 있습니다. {nl}나무가 다음 단계로 성장하면 크기가 커지게 되고, 선택지에서 {#003399}				TOS 식목일 이벤트
+QUEST_20230410_014659	Harvest the Growth Reward	나무 성장 보상받기				TOS 식목일 이벤트
+QUEST_20230410_014660	{/} and receive the additional reward.	{/} 를 통해 추가 보상을 획득할 수 있습니다.				TOS 식목일 이벤트
+QUEST_20230410_014661	[Arbor Day] Sprout Exchanger	[식목일] 새싹 교환원				
+QUEST_20230410_014662	{/} can be exchanged with various items if you bring them to me!	{/} 을 저에게 가져오시면, 다양한 상품으로 교환해드릴 수 있습니다!				[식목일] 새싹 교환원
+QUEST_20230410_014663	This tree has an oddly ominous feel to it, and it seems that a special fertilizer can help it grow and cleanse it of evil energy.	묘한 분위기를 풍기는 이 나무는 왠지 모르게 불길한 느낌마저 듭니다. 특별한 비료를 사용하면 나무를 성장시키고, 악한 기운을 정화시킬 수 있을 것 같습니다.				TOS 식목일 이벤트

@@ -5394,3 +5394,82 @@ UI_20220930_005393	Register Costume	코스튬 등록
 UI_20220930_005394	{@st66b}{s14}※{#ff0100}The item registered will be destroyed{/},{nl}and by right-clicking the item in the collection,{nl}you can create this costume{nl}with a {#0001ff}team bound{/} status.	{@st66b}{s14}※{#ff0100}등록에 사용된 아이템은 소멸{/}되며,{nl}코스튬 컬렉션에서 우클릭 시{nl}해당 코스튬 아이템을{nl}{#0001ff}팀 귀속 상태로 생성{/}할 수 있습니다.			
 UI_20220930_005395	{@st59}Weapon Appearance{/}	{@st59}무기 외형{/}			
 UI_20220930_005396	{@st59}Open Costume Register.{/}	{@st59}코스튬 등록 창을 엽니다.{/}			
+UI_20221125_005397	{@st43}Class Change	{@st43}클래스 변경				
+UI_20221125_005398	Transmute Item Stat	아이템 옵션 연성				
+UI_20221125_005399	{@st41b}{s18}Transmutation	{@st41b}{s18}연성 시도				
+UI_20221125_005400	{@st66b}* By transmuting, the stat increases by 1% of the target stat's maximum value. {nl}Material required increases as the number of transmutation attempts increases.{/}	{@st66b}* 연성 시, 대상 옵션의 최댓값의 1%만큼 능력치가 상승합니다. {nl}연성 횟수가 증가할수록 요구 재료량이 증가합니다.{/}				
+UI_20221125_005401	{@st66b}{s16}Spaulder	{@st66b}{s16}어깨보호구				
+UI_20221125_005402	{@st59}Spaulder of Ferocity{/}	{@st59}맹렬의 어깨보호구{/}				
+UI_20221125_005403	{@st43}Inherit Goddess Card Level{/}	{@st43}가디스 카드 레벨 전승{/}				
+UI_20221125_005404	{@st59}Close{/}	{@st59}가디스 카드 레벨 전승을 닫습니다{/}	UI_20220426_005249	{@st59}Close{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	
+UI_20221125_005405	Inherit Goddess Card Level	가디스 카드 레벨 전승				
+UI_20221125_005406	{#ff0000}※ The level of original card will remain when inheriting the Goddess card level.	{#ff0000}※ 가디스 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.	UI_20220426_005251	{#ff0000}※ The level of original card will remain when inheriting the Goddess card level.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.	
+UI_20221125_005407	{@st43b}{s24}Goddess Card Slot	{@st43b}{s24}가디스 카드 슬롯	UI_20210115_004575	{@st43b}{s24}Following Goddess	{@st43b}{s24}여신 추종	
+UI_20221125_005408	Giltine Blockade Battle	길티네 봉쇄전	ETC_20150317_007162	Giltine	길티네	
+UI_20221125_005409	{@st66b}Baubas{/}	{@st66b}바우바스{/}				
+UI_20221125_005410	Baubas Blockade Battle	바우바스 봉쇄전				
+UI_20221125_005411	{@st41}{s22}Class Change	{@st41}{s22}클래스 변경				
+UI_20221125_005412	{@st41}{s22}Change{/}{/}{nl}	{@st41}{s22}변경{/}{/}{nl}				
+UI_20221125_005413	Select All	모두선택				
+UI_20221125_005414	{@st41}{s18} Filter{/}{/} {@st66b}{s20}| {/}{/}{@st45ty}{s18}Type{/}{/}	{@st41}{s18} 필터{/}{/} {@st66b}{s20}| {/}{/}{@st45ty}{s18}종류{/}{/}				
+UI_20221125_005415	{@st41}{#78FAFF}Cyan{/}	{@st41}{#78FAFF}시안{/}				
+UI_20221125_005416	{@st41}{#f562ed}Magenta{/}{/}	{@st41}{#f562ed}마젠타{/}{/}				
+UI_20221125_005417	{@st45}{s18}Black{/}{/}	{@st45}{s18}블랙{/}{/}				
+UI_20221125_005418	{@st41}{s18} Filter{/}{/} {@st66b}{s20}| {/}{/}{@st45ty}{s18}Rank{/}{/}	{@st41}{s18} 필터{/}{/} {@st66b}{s20}| {/}{/}{@st45ty}{s18}등급{/}{/}				
+UI_20221125_005419	{@st41}{#FFA800}Legend{/}	{@st41}{#FFA800}레전드{/}				
+UI_20221125_005420	{@st41}{#78FAFF}Goddess{/}{/}	{@st41}{#78FAFF}가디스{/}{/}				
+UI_20221125_005421	{@st66b}{s20}Snapshot{/}	{@st66b}{s20}클래스 스냅샷{/}				
+UI_20221125_005422	{@st59}Start setting Snapshot.{/}	{@st59}스냅샷 설정을 시작합니다.{/}				
+UI_20221125_005423	Skill Gem Scroll	스킬 젬 변환 스크롤				
+UI_20221125_005424	Set Class Snapshot	스킬 스냅샷 설정하기				
+UI_20221125_005425	{@st59}Close{/}	{@st59}스냅샷 설정 창을 닫습니다{/}				
+UI_20221125_005426	{@st41}{s20}Total: {@st45ty}{s22}%s{@st41}{s20}/30{/}	{@st41}{s20}전체: {@st45ty}{s22}%s{@st41}{s20}/30{/}				
+UI_20221125_005427	{@st41}{s18}*Enter the set name and click save.{/}{/}	{@st41}{s18}*프리셋 명을 입력 후,저장버튼을 눌러주세요.{/}{/}				
+UI_20221125_005428	{@st41}{s20}Enter{/}{/}	{@st41}{s20}입력창{/}{/}				
+UI_20221125_005429	Save	프리셋 저장				
+UI_20221125_005430	Distributed Skill/Attribute Points (Total: {@st45ty}{s18}%s{/}{/} skill points distributed)	스킬 및 특성포인트 투자 정보(총: {@st45ty}{s18}%s{/}{/} 스킬 포인트 투자)				
+UI_20221125_005431	Change Name	프리셋 이름변경				
+UI_20221125_005432	Apply Set	프리셋 적용				
+UI_20221125_005433	Delete Set	프리셋 삭제				
+UI_20221125_005434	{@st59}Spaulder{/}	{@st59}어깨보호구{/}				
+UI_20221125_005435	{@st59}Save as class snapshot{/}	{@st59}프리셋으로 저장합니다{/}				
+UI_20221125_005436	See/Save	보기/저장				
+UI_20221125_005437	{@st59}Check skills and attribute info.{/}	{@st59}스킬 및 특성 정보를 확인합니다.{/}				
+UI_20221125_005438	{@st66b}{s18}Set. %s{/}{/}	 {@st66b}{s18}프리셋.%s{/}{/}				
+UI_20221125_005439	Select class to change	변경 할 직업선택				
+UI_20221125_005440	Skill/Attribute	스킬/특성 명				
+UI_20230130_005441	Before reaching the {@st42b}{#ffd800}{s18}maximum level(%s),{nl}you can use this without any cost.{/}	{@st42b}{#ffd800}{s18}최고 레벨(%s)을 달성하기 전까지{nl} 자유롭게 이용 가능합니다.{/}				
+UI_20230130_005442	Character-bound accessories created from the Equipment Storage{nl} can have its type changed from the {#FF0000}[Goddess Equipment Management window]{/}.	장비 보관함에서 생성된 장신구(캐릭터 귀속)는{nl} {#FF0000}[가디스 장비 관리창]{/}에서 계열 변경이 가능합니다.				
+UI_20230130_005443	{@st43}{s24}Transfer Legend Card Level	{@st43}{s24}레전드 카드 레벨 이전				
+UI_20230130_005444	{@st59}Close{/}	{@st59}레전드 카드 레벨 이전 창을 닫습니다{/}				
+UI_20230130_005445	{#ff0000}※ When transferring the level of the Legend Card, its level will be reset to 1.	{#ff0000}※ 레전드 카드 레벨 이전 시 원본 카드의 레벨은 초기화됩니다.				
+UI_20230130_005446	{@st41b}Transfer{/}	{@st41b}이전{/}				
+UI_20230130_005447	{@st43}{s24}Transmute Jurate Seal	{@st43}{s24}유라테 인장 연성				
+UI_20230130_005448	{@st59}Close{/}	{@st59}유라테 인장 연성 창을 닫습니다{/}				
+UI_20230130_005449	Material Seal	재료 인장				
+UI_20230130_005450	Jurate Seal	유라테 인장				
+UI_20230130_005451	{@st41b}Transmute{/}	{@st41b}연성{/}				
+UI_20230130_005452	{@st66b}Guild Boss Raid	{@st66b}길드 보스 레이드				
+UI_20230130_005453	{@st66b}Guild Mission{/}	{@st66b}길드 미션{/}				
+UI_20230130_005454	{@st66b}Blockade Battle{/}	{@st66b}봉쇄전{/}				
+UI_20230130_005455	{@st66d}Auto Clear	{@st66d}자동 소탕				
+UI_20230130_005456	{s17}{#050505}Auto Clear	{s17}{#050505}자동 소탕				
+UI_20230130_005457	{@st41}{#ffd800}{s18}Reset Stat{/}	{@st41}{#ffd800}{s18}스텟 초기화{/}				
+UI_20230130_005458	{@st59}Stat is reset.{/}	{@st59}스텟 초기화를 진행합니다.{/}				
+UI_20230130_005459	{@st100white_16}If you click the region while pressing the Shift key, you can use Token Travel.	{@st100white_16}키보드의 Shift 키를 누른 상태에서 지역을 클릭하면 토큰 이동을 이용할 수 있습니다.	UI_20200826_004491	{@st100white_16}If you click the region while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 지역을 클릭하면 토큰 이동을 이용할 수 있습니다.	
+UI_20230130_005460	Enter Transfer Code	이관코드 입력				
+UI_20230130_005461	{@st43}{s30}{#f0dcaa}Enter Transfer Code!	{@st43}{s30}{#f0dcaa}이관 코드 입력!				
+UI_20230130_005462	{@st59}Close{/}	{@st59}이관 코드 입력을 닫습니다{/}				
+UI_20230130_005463	{@st59}Transfer the team according to the entered code{/}	{@st59}입력한 코드로 팀을 이관합니다{/}				
+UI_20230130_005464	{@st41b}Enter Transfer Code{/}	{@st41b}이관 코드 입력{/}				
+UI_20230130_005465	{@st59}Open Transfer Code Window{/}	{@st59}이관 코드 창을 엽니다{/}				
+UI_20230130_005466	{@st41}{#ffd800}{s18}Reset Skill{/}	{@st41}{#ffd800}{s18}스킬 초기화{/}				
+UI_20230130_005467	{@st59}Skill is reset. *Free if the character level is not maximum{/}	{@st59}스킬 초기화를 진행합니다. *캐릭터 최대 레벨이 아닐 경우 무료{/}				
+UI_20230130_005468	{@st41}{#ffd800}{s18}Reset Attribute{/}	{@st41}{#ffd800}{s18}특성 초기화{/}				
+UI_20230130_005469	{@st59}Attribute is reset. *Free if the character level is not maximum{/}	{@st59}특성 초기화를 진행합니다. *캐릭터 최대 레벨이 아닐 경우 무료{/}				
+UI_20230308_005470	%s Current %s:{@st66d_y}%s{/}	%s  보유 %s:{@st66d_y}%s{/}	UI_20200710_004355	Current %s:{@st66d_y}%s{/}	보유 %s:{@st66d_y}%s{/}	
+UI_20230308_005471	{@st59}Menu{/}	{@st59}전체 메뉴{/}				
+UI_20230308_005472	Weekly Mercenary Badge Acquisition Limit {img green_up_arrow 16 16}100,000	용병단 증표 주간 획득량 제한 {img green_up_arrow 16 16}100,000				
+UI_20230308_005473	Max. TOS Coin Possession Limit {img green_up_arrow 16 16}40,000	TOS 주화 최대 보유량 제한 {img green_up_arrow 16 16}40,000				
+UI_20230308_005474	TOS Coin obtained {img green_up_arrow 14 14}150%	TOS 주화 획득량 {img green_up_arrow 14 14}150%				
+UI_20230313_005475	Before reaching the {@st42b}{#ffd800}{s18}maximum level(%s), you can use this without any cost.{/}	{@st42b}{#ffd800}{s18}최고 레벨(%s)을 달성하기 전까지, 자유롭게 이용 가능합니다.{/}			
