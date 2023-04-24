@@ -1,6 +1,6 @@
 QUEST_20150317_000001	Please select the user requiring a quest update.
 QUEST_20150317_000002	Statue of Goddess Vakarine
-QUEST_20150317_000003	Please select a territory.
+QUEST_20150317_000003	Пожалуйста выберите локацию.
 QUEST_20150317_000004	Select
 QUEST_20150317_000005	Пожалуйста, выберите предмет.
 QUEST_20150317_000006	Select Group
@@ -45,7 +45,7 @@ QUEST_20150317_000044	Items to be deleted
 QUEST_20150317_000045	Select GenType
 QUEST_20150317_000046	Select Coordinates
 QUEST_20150317_000047	Knight Titas
-QUEST_20150317_000048	Если да, то отправляйся к Knight Commander Uska в Klaipeda. {nl}Но сначала у меня есть важное поручение которое я хотел тебе дать, пошли за мной.
+QUEST_20150317_000048	Если так, то тебе нужно увидеться с Knight Commander Uska в городе Klaipeda. {nl}Но сперва, у меня есть для тебя важное поручение, так что следуй за мной.
 QUEST_20150317_000049	It would be nice if I could find a moment to relax...
 QUEST_20150317_000050	Sparnas... {nl}is not someone to take lightly...
 QUEST_20150317_000051	Soldier Moody
@@ -98,15 +98,15 @@ QUEST_20150317_000097	Me? I find it funny, so I just leave him alone.
 QUEST_20150317_000098	Uh, wait. I take back what I said about not believing everything he says.
 QUEST_20150317_000099	Everything that flies out of his mouth is a lie. Don't trust him.
 QUEST_20150317_000100	Siauliai Guard
-QUEST_20150317_000101	There are monsters beyond this point. Be careful.
-QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but souls roaming about.
-QUEST_20150317_000103	This is what people who have seen a goddess in their dreams are being called.
-QUEST_20150317_000104	I thought the Revelators' visions were madness at first. {nl}After all, the goddesses have been gone for a long time.
-QUEST_20150317_000105	Isn't it true that the goddesses haven't responded to any of our prayers since Medzio Diena{nl}four years ago?
+QUEST_20150317_000101	Будь осторожнее, впереди обитают монстры.
+QUEST_20150317_000102	Это лес не назовёшь спокойным, но он лучше других мест. {nl}Говорят, что в некоторых лесах не осталось людей, по ним бродят лишь духи.
+QUEST_20150317_000103	Так называют людей, которым во сне явилась Богиня.
+QUEST_20150317_000104	Сначала я думала, что такие сны — это сумасшествие. {nl}В конце концов, богинь пропали уже очень давно.
+QUEST_20150317_000105	Ведь Богини не ответили ни на одну из наших молитв со времени Medzio Diena четыре года назад. {nl}Разве не так?
 QUEST_20150317_000106	You can find Class Masters all around the kingdom. {nl}Why don't you visit them and learn what you can?
-QUEST_20150317_000107	You don't know about Medzio Diena? You must have come from really far away. {nl}Four years ago, things went out of control at the capital.
-QUEST_20150317_000108	It was a disaster... Many people were either injured or killed. {nl}Once gentle creatures turned fierce and many new monsters emerged.
-QUEST_20150317_000109	If you are still interested about what happened on Medzio Diena four years ago,{nl}try visiting Klaipeda.
+QUEST_20150317_000107	Не знаете о Medzio Diena? Должно быть, вы приехали из очень далеких краёв. {nl}Четыре года назад ситуация в столице вышла из-под контроля.
+QUEST_20150317_000108	Это была ужасная катастрофа... Многие люди были либо ранены, либо убиты. {nl}Прежде мирные существа стали свирепыми,  {nl}вдобавок появилось много новых монстров.
+QUEST_20150317_000109	Если хотите узнать больше, отправляйтесь в Klaipeda. {nl}Многие выжившие бежали в этот город. 
 QUEST_20150317_000110	Eastern Woods Sentinel
 QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
 QUEST_20150317_000112	Damn, those stubborn things chased us this far!
@@ -132,7 +132,7 @@ QUEST_20150317_000131	Klaipeda Lady
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the goddesses are somewhere in the world.
 QUEST_20150317_000133	Keep faith. {nl}The goddesses may still send a Savior to us.
 QUEST_20150317_000134	Hoplite Master
-QUEST_20150317_000135	If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
+QUEST_20150317_000135	Если меч — символ власти, то копье — оружие уничтожения. {nl}Власть или оружие – что бы ты выбрал на поле боя?
 QUEST_20150317_000136	Machine Worker
 QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with the past and start over?
 QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medzio Diena, we ought to work on planting trees or cutting them.
@@ -387,7 +387,7 @@ QUEST_20150317_000386	Speaking of which. {nl}About the plants overgrowing ever s
 QUEST_20150317_000387	I wonder what Goddess Zemyna will think of it. {nl}Everything will be revealed when the goddess returns but... {nl}Oh, what blasphemous words I speak.
 QUEST_20150317_000388	Have you ever seen the stars glittering red in the night sky? {nl}That's the very symbol of Goddess Vakarine. {nl}She leads the evening star and wakes Goddess Ausrine the following day.
 QUEST_20150317_000389	She also oversees energy and rest, so she is the guardian of travelers like you. {nl}Shout Goddess Vakarine's name three times when your legs hurt and you'll feel much better.
-QUEST_20150317_000390	Что ты здесь делаешь? {nl}Тебе тоже во сне богиня сказала отправиться в Klaipeda?
+QUEST_20150317_000390	Что ты делаешь здесь? {nl}Тебе тоже во сне явилась Богиня и велела отправиться в Klaipeda?
 QUEST_20150317_000391	Still following me after all that? {nl}Fine, struggle all you want.
 QUEST_20150317_000392	There is a Mage Tower near Fedimian known to have been built by Archmage Agailla Flurry. {nl}The tower has never been revealed and no entrance can be found.
 QUEST_20150317_000393	Well, that's why some say it's just a made up story... {nl}But recently there have been people claiming to have come from there.
@@ -421,7 +421,7 @@ QUEST_20150317_000420	Now I can leave without any regrets. {nl}Goodbye. Be caref
 QUEST_20150317_000421	Use this scroll to open a niche of space and find the Key of the Great King. {nl}You'll never know what will pop out, so be careful.
 QUEST_20150317_000422	Crumbled Chapel
 QUEST_20150317_000423	This is where a small chapel was once located. {nl}A Statue of Goddess Vakarine appears here once a day.
-QUEST_20150317_000424	Stamina can be recovered by destroying Tree Root Crystals.{nl}They are an abnormality that began to appear after Medzio Diena. {nl}But rest assured, because the research results have shown it's perfectly safe.
+QUEST_20150317_000424	Разбитый Tree Root Crystal восстановит вам Stamina. {nl}Эти аномальные кристаллы начали появляться после Medzio Diena. {nl}Но не стоит беспокоиться: исследования показали, что они совершенно безопасны.
 QUEST_20150317_000425	So Degil sent you... Here... Here it is.
 QUEST_20150317_000426	The goddess taught us to help others. {nl}I'm just abiding by her teachings.
 QUEST_20150317_000427	I'd have just stood there if not for your help. {nl}My arms still hurt... {nl}I understand that the situation is not normal.
@@ -806,14 +806,14 @@ QUEST_20150317_000805	Flower Shop Lady
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the goddesses' return. {nl}It's really depressing in many ways.
 QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be... {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the goddess of the Earth...
 QUEST_20150317_000808	Warning
-QUEST_20150317_000809	Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
-QUEST_20150317_000810	Notice: Large Kepa is not an onion!{nl}Wearing goggles is useless against Large Kepa. {nl}Watch out for powerful attacks that shake the ground.
-QUEST_20150317_000811	Please worship the Goddess Statue with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed by the Overseer of the Earth herself.
-QUEST_20150317_000812	The Statue of Goddess Zemyna lies at the end of this road.
-QUEST_20150317_000813	Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and...{nl}(Red marks are covering the rest.)
-QUEST_20150317_000814	Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
-QUEST_20150317_000815	P.S. It is better to run away than to pray to the goddess when you encounter Golems.
-QUEST_20150317_000816	The goddesses have disappeared. {nl}But if we fight bravely against the demons, perhaps the goddesses will return someday. {nl} - Laimonas
+QUEST_20150317_000809	Остерегайтесь Leaf Bugs! Они отличаются от Beetles. {nl}С ними трудно бороться, когда они нападают стаей, поэтому будьте осторожны.
+QUEST_20150317_000810	Примечание: Large Kepa — это вам не лук! {nl}Очки вам не помогут, проти Large Kepa они бесполезно. {nl}Остерегайтесь мощных, сотрясающих землю атак.
+QUEST_20150317_000811	Преклоните колени пред Goddess Statue с почтением. {nl}Благодать Богини Zemyna, Хранительницы земли, наделит вас силой.
+QUEST_20150317_000812	Статуя Богини Zemyna находится в конце дороги.
+QUEST_20150317_000813	Предупреждение! Территория, зараженная Hanaming. {nl}Пусть вас не обманывает их милая внешность. {nl}Они нападают группами и...{nl}(дальнейший текст неразобрать, все забрызгано красной жидкостью.)
+QUEST_20150317_000814	Осторожно! {nl}Все, что может произойдет с вами дальше, — под вашей ответственностью! {nl}Ходят слухи, что в этой области появляются Golems. Не идите дальше!
+QUEST_20150317_000815	P.S. Столкнувшись с Golem, лучше убежать, чем молиться богине.
+QUEST_20150317_000816	Богини исчезли. {nl}Но, если мы будем храбро сражаться с демонами, возможно, однажды они вернутся. {nl} - Laimonas
 QUEST_20150317_000817	Attention to those who come to Klaipeda after having a dream about the revelation. {nl}Knight Commander Uska is waiting for you in the Central Plaza.
 QUEST_20150317_000818	Welcome to Klaipeda Shopping Center. {nl}You can shop for a variety of accessories, tools, equipment, and other items.
 QUEST_20150317_000819	Use the stairs on the right to go to the Klaipeda Central Plaza.
@@ -839,8 +839,8 @@ QUEST_20150317_000838	Hmpf... {nl}Who would've thought that I would be challenge
 QUEST_20150317_000839	Your death shall be utmost painful!
 QUEST_20150317_000840	Soldier Recruitment Notice
 QUEST_20150317_000841	We want you! {nl}Protect your family and your kingdom. {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000842	We are seeking brave young men and women who will bring order to these chaotic times. {nl}The world needs you! {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000842	Мы ищем храбрых юношей и девушек, которые наведут порядок в эти хаотические времена. {nl}Мир нуждается в тебе! {nl} - Призывной пункт Klaipeda
+QUEST_20150317_000843	Честь. {nl}Вот из чего будет сделана ваша форма. {nl} - Призывной пункт Klaipeda
 QUEST_20150317_000844	Warning! Civilians prohibited.
 QUEST_20150317_000845	Only authorized personnel are allowed inside.
 QUEST_20150317_000846	Impossible.
@@ -2397,7 +2397,7 @@ QUEST_20150918_002404	There are only missions that seem difficult to you.{nl}Ple
 QUEST_20150918_002405	Historic Site Ruins
 QUEST_20150918_002406	Historic Site Ruins (Recommended Lv : 90){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 QUEST_20150918_002407	Right. Goddess Laima is the strangest of them all.{nl}No one knows when she disappeared. To be honest, I don't know if she really is a goddess.{nl}
-QUEST_20150918_002408	Even if they say the world is doomed, our soldiers will guard this place until the end. {nl}However, we won't be responsible for you getting into trouble, so be careful.
+QUEST_20150918_002408	Даже если скажут, что мир обречен, наши воины будут охранять это место до конца. {nl}Однако мы не несем ответственность, если у тебя возникнут проблемы, поэтому будь осторожен.
 QUEST_20150918_002409	Welcome. Sir Uska is waiting for you in the central square of Klaipeda. {nl}Well, is there anything that you are unsure of?
 QUEST_20150918_002410	But this is also my ordeal and mission that Laima has seen. {nl}I will tell you Laima's message.{nl}
 QUEST_20150918_002411	Welcome! What do you need? {nl}Unlike my previous items, I made my best effort to collect these.
@@ -2451,7 +2451,7 @@ QUEST_20151001_002458	There is a request that is being progressed.{nl}Come see m
 QUEST_20151001_002459	This request can be accepted by the party leader.
 QUEST_20151001_002460	Thorny Vines Forest Dungeon
 QUEST_20151001_002461	Thorny Vines Forest Dungeon (Recommended Lv : 175){nl}Only you and your party members can enter together.{nl}Do you want to enter?
-QUEST_20151001_002462	It was a disaster... Many people were either injured or killed. {nl}Gentle creatures grew fierce and many new monsters emerged.{nl}
+QUEST_20151001_002462	Это была ужасная катастрофа... Многие люди были либо ранены, либо убиты. {nl}Прежде мирные существа стали свирепыми, {nl}вдобавок появилось много новых монстров.
 QUEST_20151001_002463	The best weapons and armors are the ones that you get used to over a long period of time. {nl}In order to do so, you must start by buying good items.
 QUEST_20151001_002464	The things I sell are good both in price and quality.
 QUEST_20151001_002465	Многие люди похоже приходят благодаря уведомлению о наборе Sir Uska's.{nl}Оглянитесь вокруг в своем собственном темпе, не чувствуя беспокойства.
