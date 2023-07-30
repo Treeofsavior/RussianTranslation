@@ -5473,3 +5473,56 @@ UI_20230308_005472	Weekly Mercenary Badge Acquisition Limit {img green_up_arrow 
 UI_20230308_005473	Max. TOS Coin Possession Limit {img green_up_arrow 16 16}40,000	TOS 주화 최대 보유량 제한 {img green_up_arrow 16 16}40,000				
 UI_20230308_005474	TOS Coin obtained {img green_up_arrow 14 14}150%	TOS 주화 획득량 {img green_up_arrow 14 14}150%				
 UI_20230313_005475	Before reaching the {@st42b}{#ffd800}{s18}maximum level(%s), you can use this without any cost.{/}	{@st42b}{#ffd800}{s18}최고 레벨(%s)을 달성하기 전까지, 자유롭게 이용 가능합니다.{/}			
+UI_20230424_005476	{@st59}Set translation target language{/}	{@st59}번역 목표 언어 설정{/}				
+UI_20230424_005477	{@st43}Skill Transmutation{/}	{@st43}스킬 연성{/}				
+UI_20230424_005478	{@st59}Close{/}	{@st59}바카리네 스킬 연성 창을 닫습니다.{/}				
+UI_20230424_005479	{@st59b}{s20}Skill Transmutation System{/}{nl}{@st59s} {nl} - Enchant random skill on a Goddess Armor [Lv.480].({#ffe400}(Warning){/}) Show. {nl} - {#ffe400} Max of 1 enchant slot will be provided.{/}	{@st59b}{s20}스킬 연성 시스템{/}{nl}{@st59s} {nl} - [Lv.480] 이상의 가디스 방어구 아이템에 랜덤 스킬 인챈트를 부여합니다.({#ffe400}(주의사항){/})을 보여줍니다. {nl} - {#ffe400}최대 1개의 인챈트 슬롯이 주어집니다.{/}				
+UI_20230424_005480	Select 1 (Original)	선택 1 (기존)				
+UI_20230424_005481	[Current]	[현재]				
+UI_20230424_005482	{@st41}{s22}Keep{/}{/}{nl}	{@st41}{s22}유지{/}{/}{nl}				
+UI_20230424_005483	Select 2 (Add)	선택 2 (추가)				
+UI_20230424_005484	[Change available]	[변경 가능]				
+UI_20230424_005485	{@st66d}{s20}Skill Transmutation{/}	{@st66d}{s20}스킬 연성{/}				
+UI_20230424_005486	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl}- Goddess Rank Equipment (ENH 20 or above){nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below {#FF0000}**Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}  {#FF0000}**Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory, Lv.460 or above Goddess Rank Equipment{#FF0000}(ENH 20 or above){/}{nl}  {FF0000}**Transfers 50% of [ENH]{/}{nl}- Growth Goddess Equipment{FF0000}{ENH 20}{/}{nl}  {#FF0000}**[ENH] Cannot be transferred{/} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid(Untradable) will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}{nl}{@sti1c}{s17}{#FF0000}The Weapon Appearance is succeeded as well if the weapon type is the same.{/}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} * Lv.440 레전드 등급 장비 - 초월 단계 8이상{nl}* Lv.460 이상 가디스 등급 장비 - 20강 이상 {nl}* 성장 가디스 장비(수호자 시리즈) - 20강  {nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구 {#FF0000}**이전되지 않음{/}{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   {#FF0000}**[강화], [인챈트 옵션] 각 66.6% 이전{/}{nl} - Lv.440 레전드 등급 액세서리, Lv.460 이상 가디스 등급 장비{#FF0000}(20강 이상){/}{nl}   {#FF0000}**[강화] 50% 이전{/}{nl}- 성장 가디스 장비{#FF0000}(20강){/}{nl}   {#FF0000}**[강화] 이전되지 않음{/} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}{nl}{@sti1c}{s17}{#FF0000}무기의 종류가 같다면 외형변경 효과도 계승됩니다.{/}{/}{/}	UI_20220823_005359	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl}- Goddess Rank Equipment (ENH 20 or above){nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below{nl}   **Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}   **Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory, Goddess Rank Equipment{nl}   **Transfers 50% of [ENH]{nl} {nl} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}{nl}{@sti1c}{s17}{#FF0000}The Weapon Appearance is succeeded as well if the weapon type is the same.{/}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} - Lv.440 레전드 등급 장비  **초월 단계 8이상{nl}- 가디스 등급 장비(20강 이상) {nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구 {#FF0000}**이전되지 않음{/}{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   {#FF0000}**[강화], [인챈트 옵션] 각 66.6% 이전{/}{nl} - Lv.440 레전드 등급 액세서리, 가디스 등급 장비{#FF0000}(20강 이상){/}{nl}   {#FF0000}**[강화] 50% 이전{/}{nl} {nl} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}{nl}{@sti1c}{s17}{#FF0000}무기의 종류가 같다면 외형변경 효과도 계승됩니다.{/}{/}{/}	
+UI_20230424_005487	Double click to reveal a check box that allows you to freeze the frame.	더블 클릭하면 프레임을 고정할 수 있는 체크 박스가 나타납니다.				
+UI_20230424_005488	Freeze frame.	프레임을 고정합니다.				
+UI_20230424_005489	Applied value: %s	적용될 수치: %s				
+UI_20230424_005490	{@st66}Value after use: %s{/}	{@st66}사용 후 변경될 수치 : %s{/}				
+UI_20230424_005491	{s20}Current value:{#FF0000}%s{/}{/}	{s20}현재 수치:{#FF0000}%s{/}{/}				
+UI_20230424_005492	{@st43}Magic Transmutation{/}	{@st43}마력 연성{/}				
+UI_20230424_005493	{@st59}Close the Magic Transmutation window{/}	{@st59}마력 연성 창을 닫습니다.{/}				
+UI_20230424_005494	{@st59b}{s20}Magic Transmutation System{/}{nl}{@st59s} {nl} - Enchant random skill on a Goddess Weapon/Armor [Lv.480].({#ffe400}(Warning){/}) Show. {nl} - {#ffe400} Per equipment 2 enchant slot will be provided.{/}	{@st59b}{s20}마력 연성 시스템{/}{nl}{@st59s} {nl} - [Lv.480]가디스 무기/방어구 아이템에 스킬 인챈트를 부여합니다.({#ffe400}(주의사항){/})을 보여줍니다. {nl} - {#ffe400}장비 마다 최대2개의 인챈트 슬롯이 주어집니다.{/}				
+UI_20230424_005495	{@st59}Put ingredient items.{/}	{@st59}재료 아이템을 올립니다.{/}				
+UI_20230424_005496	Select the transmutation scroll.	연성 스크롤을 올려주세요.				
+UI_20230424_005497	Select slot	슬롯 선택				
+UI_20230424_005498	{@st59}Register transmutation scroll to current slot.{/}	{@st59}해당 슬롯에 연성 주문서를 등록합니다.{/}				
+UI_20230424_005499	{@st66d}{s20}Transmutation{/}	{@st66d}{s20}연성{/}				
+UI_20230424_005500	{@st66b}Show region chat only{/}	{@st66b}같은 지역 채팅만 보기{/}				
+UI_20230424_005501	After setting, other region client user's {b}{ol}Normal{/}{/}, {#dae0f}{b}{ol}Shout{/}{/}{/} chat will not be shown.	설정시 같은 지역의 클라이언트를 사용하지 않는 유저의 {b}{ol}일반{/}{/}, {#da6e0f}{b}{ol}외침{/}{/}{/} 채팅은 표시되지 않습니다.				
+UI_20230424_005502	{@st43}{s24}TP purchase{/}	{@st43}{s24}TP 구입{/}				
+UI_20230424_005503	{@st41b}Total spent TOC :{/}	{@st41b}총 소모 TOC : {/}				
+UI_20230424_005504	Confirm purchase?	구입하시겠습니까?				
+UI_20230424_005505	Once purchased, you cannot revert it	구입 시 원래의 아이템으로 되돌릴 수 없습니다.				
+UI_20230424_005506	Gem Socket	젬 소켓	ETC_20150317_001758	Socket	소켓	
+UI_20230424_005507	Skill Socket	스킬 소켓				
+UI_20230424_005508	{@st66d}Reset{/}	{@st66d}초기화{/}				
+UI_20230424_005509	Current TOC{/}	  보유 TOC{/}				
+UI_20230424_005510	Purchased TOC	  구매 TOC				
+UI_20230424_005511	TOC after purchase{/}	  구매 후 TOC{/}				
+UI_20230424_005512	Spent TOC	소비 TOC				
+UI_20230424_005513	Obtained TP	획득 TP				
+UI_20230424_005514	Item name TEST 12345678	아이템 이름 TEST 12345678				
+UI_20230424_005515	Requirements	요구량				
+UI_20230424_005516	Current amount in bag : %s	가방 내 보유량 : %s 				
+UI_20230424_005517	Current amount : %s	보유량 : %s				
+UI_20230424_005518	Name1	명칭1				
+UI_20230508_005519	{@st59}Legend Card Lv10 required.{/}	{@st59}레전드 카드 10성이 필요합니다.{/}	UI_20210115_004572	{@st59}Legend Card Lv10 other that Boruta Card required.{/}	{@st59}보루타 카드를 제외한 레전드 카드 10성이 필요합니다.{/}
+UI_20230515_005520	{@st42}Set HUD design{/}	{@st42}HUD 스킨 설정{/}				
+UI_20230516_005521	{@st66b}See HP/SP/STA Under Characters{/}	{@st66b}캐릭터 아래에 HP, SP, STA 보기{/}	UI_20180629_003333	{@st66b}See HP/SP Under Characters{/}	{@st66b}캐릭터 아래에 HP, SP 보기{/}
+UI_20230516_005522	{@st66b}Show when guild member logs in{/}	{@st66b}길드원 접속 알림 허용{/}			
+UI_20230516_005523	{@st66b}Decline Friendly Duel{/}	{@st66b}친선 대결 거절{/}			
+UI_20230516_005524	{@st66b}Decline Personal Trade{/}	{@st66b}개인 거래 거절{/}			
+UI_20230522_005525	TP Shop Item	TP상점 아이템명					
+UI_20230605_005526	{img test_cooltime 25 25}{s18}Points are reset every January/April/July/October 1st, 00:00 server time.	{img test_cooltime 25 25}{s18}1월/4월/7월/10월 1일 오전 0시에 보유하고 있는 포인트가 초기화됩니다.	INTL_20191216_000377	{img test_cooltime 25 25}{s18}Points are reset every quarter.	{img test_cooltime 25 25}{s18}매 분기마다 포인트 초기화가 진행됩니다.	
+UI_20230626_005527	Equipment Bound Removal Scroll	장비 귀속 해제 스크롤			
+UI_20230626_005528	{@st66}Use to remove the Character Bound.{/}	{@st66}사용 시 캐릭터 귀속 상태가 해제됩니다.{/}			

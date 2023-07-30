@@ -17914,3 +17914,17 @@ QUEST_LV_0100_20221125_017913	Take care of the tasks the Jaguar Master gave you	
 QUEST_LV_0100_20221125_017914	The Jaguar Master gave you some tasks to check your strength.{nl}Clear the tasks Jaguar Mater gave you.	재규어 마스터는 당신의 실력을 확인하기 위해서 의뢰를 주었다.{nl}재규어 마스터가 준 의뢰를 처리해보자.				
 QUEST_LV_0100_20221125_017915	You finished the tasks from the Jaguar Master. {nl} Return to the Jaguar Master.	재규어 마스터가 준 의뢰를 모두 처리했다.{nl}재규어 마스터에게 돌아가서 보고하자.				
 QUEST_LV_0100_20230308_017916	Event System	이벤트 시스템				
+QUEST_LV_0100_20230424_017917	Oh, this seal is my small gift to you for saving me. {nl} It's a useful item that can enhance your equipment. {nl}	참, 이 인장은 절 구해 주신 작은 보답입니다.{nl}장비를 강화할 수 있는 요긴한 물건이지요. {nl}	QUEST_LV_0100_20150317_000582	Oh, this anvil is my small gift to you for saving me. {nl} It's a useful item that can upgrade your equipment. {nl}	참, 이 모루는 절 구해 주신 작은 보답입니다.{nl}장비를 강화할 수 있는 요긴한 물건이지요. {nl}	바이도타스
+QUEST_LV_0100_20230424_017918	Transmutation NPC	연성NPC				
+QUEST_LV_0100_20230424_017919	There is a person who is looking for you in Fedimian. Go to the Grita in Fedimian.	페디미안에서 당신을 찾는 사람이 있습니다. 페디미안의 그리타 앞으로 가 보세요.				
+QUEST_LV_0100_20230425_017920	Talk to the Battle Commander (1) : SIAUL_WEST_SOLDIER3	전투 조장에게(1) : SIAUL_WEST_SOLDIER3			
+QUEST_LV_0100_20230703_017921	Being an Engineer is just the beginning!	엔지니어가 되었다고 모든 게 끝난 건 아니야!				[엔지니어 마스터]마가렛 이네자
+QUEST_LV_0100_20230703_017922	Now, if you want to think like an Engineer, you need to wear the clothes we engineers make.{nl}Which isn't given for free either!{nl}Go and complete the tasks I give you.	이제 엔지니어로써 마음가짐을 다 잡으려면 우리 공학자들이 만든 옷을 입어야지.{nl}이것도 공짜로 줄 수 없지.{nl}내가 준 과제를 해결하고 돌아와.				[엔지니어 마스터]마가렛 이네자
+QUEST_LV_0100_20230703_017923	I knew it.	역시 내 안목은 틀리지 않았어.				[엔지니어 마스터]마가렛 이네자
+QUEST_LV_0100_20230703_017924	Well done!{nl}You can call yourself a skilled Engineer now.	고생했어.{nl}이제 넌 훌륭한 엔지니어야.				[엔지니어 마스터]마가렛 이네자
+QUEST_LV_0100_20230703_017925	[Engineer] Taking a Step Further	[엔지니어] 더 새롭고 창의적인				
+QUEST_LV_0100_20230703_017926	I will take the task.	과제를 해결한다고 한다.				
+QUEST_LV_0100_20230703_017927	I don't do boring stuff.	귀찮은 일은 하지 않는다고 한다.				
+QUEST_LV_0100_20230703_017928	The Engineer Master says that you should get the costume to prove you're an Engineer.{nl}Go and talk to the Engineer Master at Orsha.	엔지니어 마스터는 엔지니어의 자격을 증명하기 위한 옷을 받아야 한다고 하는 거 같다.{nl}오르샤의 엔지니어 마스터와 이야기하자.				
+QUEST_LV_0100_20230703_017929	The Engineer Master asks you to complete the tasks to prove your qualifications.{nl}Return to the Engineer Master after completing the tasks.	엔지니어 마스터는 자격을 증명하기 위해서는 과제를 완수하고 오라고 한다.{nl}과제를 완수한 뒤에 엔지니어 마스터에게 돌아가자.				
+QUEST_LV_0100_20230703_017930	You've completed Engineer Mater's tasks.{nl}Go back to the Engineer Master at Orsha.	엔지니어 마스터가 내준 과제를 모두 처리했다.{nl}오르샤의 엔지니어 마스터에게 돌아가자.				
